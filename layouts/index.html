@@ -1,0 +1,30 @@
+{{ define "main" }}
+<section class="section pt-1 pb-2 bg-dark">
+  <div class="container-fluid p-0 vh-100 bg-white hero" style="position: relative; overflow-x: hidden;">
+    <div class="video-container">
+      <video autoplay muted loop playsinline class="background-video">
+        <source src="/videos/hero.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  
+    <div class="overlay-content">
+      <p class="site-description">Find your next drink with</p>
+      <h1 class="site-header">{{ .Site.Params.Title }}<h1>
+      
+      <!-- Add a button for exploring recipes -->
+      <a href="/recipes/" class="explore-btn btn btn-secondary">Explore Cocktails</a>
+    </div>
+  </div>
+
+  <div class="container-fluid p-0 bg-white p-5" style="position: relative; overflow-x: hidden;">
+    <div class="row">
+      <div class="col-12">
+        <h2>Explore Cocktail Collections</h2>
+        <p>show curated collection tags here</p>
+      </div>
+    </div>
+  </div>
+
+</section>
+{{ end }}

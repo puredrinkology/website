@@ -1,0 +1,63 @@
+{{ define "main" }}
+<section class="section blog-list pb-5">
+  <div class="container p-0">
+    <div class="row g-4 p-2">
+      {{ $categoryOrder := .Site.Params.categoryOrder }}
+      {{ $categoryNames := .Site.Params.categoryNames }}
+      {{ $recipes := .Site.RegularPages }}
+      {{ range $category := $categoryOrder }}
+        {{ $sortedRecipes := where $recipes "Params.category" $category }}
+        {{ $categoryTitle := index $categoryNames $category }}
+
+        <div class="col-12">
+          <h2 class=" fs-1 category-header">{{ $categoryTitle }} Collection</h2>
+        </div>
+        {{ $families := slice }}
+        {{ range $sortedRecipes }}
+          {{ $family := .Params.family }}
+          {{ if not (in $families $family) }}
+            {{ $families = $families | append $family }}
+          {{ end }}
+        {{ end }}
+        {{ range $family := sort $families }}
+          {{ range $recipe := where $sortedRecipes "Params.family" $family }}
+            <div class="col-12 col-md-6 col-lg-3">
+              <div class="card shadow border-0 p-4 text-decoration-none h-100" style="border-radius: 15px;">
+                <a class="aspect-ratio-full" href="{{ $recipe.Permalink }}">
+                  {{ with $recipe.Resources.GetMatch (printf "**/%s" "{cover.*}") }}
+                    {{ with .Resize "1000x" }}
+                      <img class="rounded-10" src="{{ .RelPermalink }}" alt="{{ $recipe.Title }}" width="{{ .Width }}" height="{{ .Height }}" />
+                    {{ end }} 
+                  {{ end }}
+                </a>
+
+                <div class="card-body">
+                  <h5 class="card-title fw-semibold"><a href="{{ $recipe.Permalink }}" class="text-decoration-none">{{ $recipe.Title }}</a></h5>
+                  <p class="card-text text-black-61">{{ $recipe.Summary }}</p>
+                  <div class="mt-2">
+                    <a href="/recipes/category/{{$category}}/" class="badge text-bg-primary text-decoration-none">{{ $category }}</a>
+                    <a href="/recipes/spirit/{{lower $recipe.Params.base_spirit}}/" class="badge text-bg-secondary text-decoration-none">{{ lower $recipe.Params.base_spirit }}</a>
+                    <a href="/recipes/family/{{lower $family}}/" class="badge text-bg-info text-decoration-none">{{ lower $family }}</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </div>
+
+    <div class="row pb-5 p-2">
+      {{ template "_internal/pagination.html" . }}
+    </div>
+
+    <div class="row pb-5 p-2">
+      <div class="col-12 d-flex justify-content-center">
+        <div class="blog-content fs-5">
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

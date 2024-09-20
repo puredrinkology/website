@@ -1,0 +1,25 @@
+---
+title: "Kentucky Colonel"
+description: "The Kentucky Colonel is a classic Whiskey Sour variation, a family known for their tart and refreshing nature. This cocktail's origins are shrouded in mystery, likely emerging from the vibrant bar scene of the early 20th century, with its combination of bourbon, herbal Benedictine, and a citrus twist epitomizing the era's sophisticated drinking culture. "
+flavor_description: "The Kentucky Colonel offers a complex and harmonious blend. The robust, spicy notes of bourbon are beautifully balanced by the sweet, herbal complexity of Benedictine. A subtle citrus lift from the lemon peel adds a refreshing touch, cutting through the richness. The result is a smooth, warming cocktail that lingers on the palate with a hint of spice and citrus. "
+bartender_tips: "Use a good quality bourbon for best results.  The Benedictine adds sweetness and herbal notes, so adjust the amount to your preference.  A good twist of lemon peel adds a refreshing touch and elevates the drink.  Don't over-muddle the peel - just a light squeeze to release oils.  Serve chilled in a coupe glass for a classic presentation. "
+ingredients:
+  - item: "Bourbon"
+    measure: "3 oz"
+  - item: "Benedictine"
+    measure: "0.5 oz"
+  - item: "Lemon Peel"
+    measure: "1 Twist Of"
+instructions:
+  - item: "In a shaker half-filled with ice cubes combine the courbon and Benedictine."
+  - item: "Shake and strain into a cocktail glass."
+  - item: "Garnish with the lemon twist."
+glass: "Cocktail glass"
+category: "cocktail"
+has_alcohol: true
+base_spirit: "bourbon"
+family: "other"
+visual: "## LLM Prompt:Imagine a **Kentucky Colonel** cocktail, a vibrant blend of golden **Bourbon** and rich, amber **Benedictine**, kissed with the subtle essence of **lemon peel**.  **Describe the visual appeal of this cocktail.** * What is the **overall color** of the drink? * Is it **clear, cloudy, or layered**? * What is the **texture** like? * Are there any **visible elements** like ice cubes, fruit garnishes, or a lemon twist? * How does the **light play** off the drink? Focus on using **vivid and descriptive language** to paint a picture of the Kentucky Colonel's visual allure. "
+source: "personal_collection"
+---
+

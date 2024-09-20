@@ -1,0 +1,138 @@
+baseURL: ""
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "PURE DRINKOLOGY"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+minify:
+   disableJS: true
+   disableHTML: true
+
+
+googleAnalytics: ""
+enableRobotsTXT: false
+
+summaryLength: 20
+paginate: 1000
+params:
+  title: "Drinkology"
+  description: "lorem"
+  images: 
+    - "images/whitelogo.png"
+
+  logo: "blacklogo.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    
+    
+  shareButtons:
+     size: small
+     icon: solid
+     networks:
+        - facebook
+        - twitter
+        - pinterest
+        
+  copyright: "© 2024 DrawBuildPlay, LLC"
+  postProcess: false
+
+  categoryNames:
+    cocktail: "Cocktails"
+    cafe: "Cafe"
+    cocoa: "Cocoa"
+    liqueur: "Liqueur"
+    nonalcoholic: "Non Alcoholic"
+    punch: "Punch"
+    shake: "Shake"
+    beer: "Beer"
+    shot: "Shots"
+
+  categoryOrder:
+    - "cocktail"
+    - "cafe"
+    - "cocoa"
+    - "liqueur"
+    - "nonalcoholic"
+    - "punch"
+    - "shake"
+    - "beer"
+    - "shot"
+
+  familyOrder:
+    - "ancestral"
+    - "spirit-forward"
+    - "martini"
+    - "sour"
+    - "margarita"
+    - "highball"
+    - "fizz"
+    - "other"
+
+
+
+menus:
+  main:
+    - name: ""
+      url: "/"
+      weight: 1
+
+    - name: "Cocktail Collections"
+      url: "/recipes/"
+      weight: 2
+
+    - name: "Spirits"
+      url: "/recipes/spirit/"
+      weight: 3
+
+    # - name: "Bar Tools"
+    #   url: "/tools/"
+    #   weight: 4
+
+    # - name: "Getting Started"
+    #   url: "/how-to/"
+    #   weight: 5
+
+  footer:
+    - name: "Home"
+      url: "/"
+      weight: 1
+
+    - name: "Terms of Use"
+      url: "/termsofuse/"
+      weight: 10
+
+    - name: "Privacy Policy"
+      url: "/privacy/"
+      weight: 11
+
+permalinks:
+  base_spirit: "/recipes/spirit/:slug/"
+  family: "/recipes/family/:slug/"
+  category: "/recipes/category/:slug/"
+
+
+taxonomies:
+  base_spirit: "base_spirit"
+  family: "family"
+  category: "category"
+
+related:
+  threshold: 0
+  toLower: true
+  indices:
+    - name: "family"
+      weight: 100
+    - name: "base_spirit"
+      weight: 100
+
+

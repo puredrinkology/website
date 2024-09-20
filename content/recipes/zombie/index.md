@@ -1,0 +1,35 @@
+---
+title: "Zombie"
+description: "The Zombie is a potent Tiki cocktail, hailing from the 1930s.  Born in the rum-soaked atmosphere of the Don the Beachcomber bar in Hollywood, its complex blend of rums, Pernod, and fruit juices was designed to knock you off your feet (and maybe your chair). "
+flavor_description: "The Zombie is a complex beast, a potent blend of sweet and bitter. The rums provide a robust, boozy base, while the Pernod adds an anise-like licorice note. Grenadine sweetens things up, but the lime juice and bitters keep it balanced, adding a touch of tartness and spice. Expect a powerful, fruity punch, with a lingering warmth and a hint of mystery. "
+bartender_tips: "Use high-quality rums for the best flavor. Don't skimp on the 151 proof - it's crucial for the kick!  Measure the Pernod carefully, as it can easily overpower the other flavors. Shake vigorously with ice to chill and meld the ingredients. Garnish with a lime wedge and a cherry for a classic touch.  This drink packs a punch, so warn your guests! "
+ingredients:
+  - item: "Rum"
+    measure: "1.5 oz"
+  - item: "Gold Rum"
+    measure: "1.5 oz"
+  - item: "151 Proof Rum"
+    measure: "1 oz"
+  - item: "Pernod"
+    measure: "1 Tsp"
+  - item: "Grenadine"
+    measure: "1 Tsp"
+  - item: "Lime Juice"
+    measure: "1 Tsp"
+  - item: "Angostura Bitters"
+    measure: "1 Drop"
+instructions:
+  - item: "Blend at high speed for no more than 5 seconds."
+  - item: "Pour into a glass, add ice cubes to fill, then add the garnish."
+  - item: "*Donn’s mix: Bring 3 crushed cinnamon sticks, 1 cup of sugar and 1 cup of water to a boil, stirring until the sugar is dissolved."
+  - item: "Simmer for 2 minutes, then remove from the heat and let sit for at least 2 hours before straining into a clean glass bottle."
+  - item: "Then add 1 part of the syrup and 2 parts of fresh grapefruit juice together."
+glass: "Hurricane glass"
+category: "cocktail"
+has_alcohol: true
+base_spirit: "rum"
+family: "sour"
+visual: "## LLM Prompt: Imagine a **Zombie** cocktail, a legendary drink with a potent punch. Describe its appearance, focusing on the following details:**Color:**  What is the overall color of the drink? Is it a vibrant hue or a more subdued shade? How does the color change as you look through the drink? **Texture:** Is the drink clear, cloudy, or layered? Are there any visible elements like fruit or ice? **Glassware:**  What kind of glass is the Zombie typically served in? Does the shape of the glass enhance its visual appeal? **Garnish:** How is the drink garnished? Are there any specific fruits, herbs, or other decorations that contribute to the visual impact? **Overall Impression:** How would you describe the visual appeal of a Zombie cocktail? Does it appear inviting, dangerous, or both? **Remember:**  The Zombie is known for its potent combination of rums, liqueurs, and juices. Your description should capture the essence of this iconic cocktail, highlighting both its beauty and its power. "
+source: "personal_collection"
+---
+

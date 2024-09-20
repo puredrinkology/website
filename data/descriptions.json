@@ -1,0 +1,1577 @@
+{
+    "jitterbug": {
+        "description": "The Jitterbug, a vibrant blend of gin, vodka, and grenadine, belongs to the **Highball** family, known for their tall, refreshing nature.  While its precise origin is unclear, its combination of spirits and sweet elements likely emerged in the **1920s-1930s**, during the cocktail boom following Prohibition. "
+    },
+    "rum_old_fashioned": {
+        "description": "This potent twist on the classic Old Fashioned hails from the Rum Renaissance of the early 20th century.  It's a potent, sugar-forward take on the traditional Old Fashioned, emphasizing rum's versatility.  The high-proof rum and lime peel lend a unique, tropical touch. "
+    },
+    "flannel_shirt": {
+        "description": "The Flannel Shirt is a complex, warming cocktail likely born from the Old Fashioned family. Its base of blended Scotch and Demerara syrup nods to classic whisky cocktails, while the addition of apple cider, Amaro, and spice notes creates a modern twist, perfect for fall. "
+    },
+    "dry_martini": {
+        "description": "The Dry Martini, a classic member of the Martini family, is a gin-based cocktail with roots in 19th-century America. Its austere dryness, a testament to the dominance of gin over vermouth, is what defines it.  "
+    },
+    "martini": {
+        "description": "The Martini, a quintessential cocktail, belongs to the Martini family, characterized by its gin or vodka base and dry vermouth. Its origin is debated, but likely emerged in the late 19th century in New York or San Francisco, gaining popularity in the early 20th century. "
+    },
+    "pink_panty_pulldowns": {
+        "description": "The Pink Panty Pulldowns belongs to the Highball family, a simple mix of spirits and non-alcoholic mixers. Its origin is likely contemporary, a playful twist on classic highballs like the Vodka Soda or Rum & Coke, popular in the early 21st century. "
+    },
+    "queen_charlotte": {
+        "description": "The Queen Charlotte belongs to the **Highball** family, characterized by their tall, mixed drinks with a base spirit and a mixer. This simple concoction likely originated in the early 20th century, likely inspired by the popularity of red wine cocktails and the growing trend of soda-based drinks. "
+    },
+    "fall_in_manhattan": {
+        "description": "Fall in Manhattan belongs to the Manhattan family, a classic American cocktail lineage dating back to the late 19th century. This variation twists the traditional formula with Demerara gum syrup's caramel notes, the herbal complexity of Green Chartreuse, and the aromatic depth of bitters.  "
+    },
+    "flaming_dr_pepper": {
+        "description": "Flaming Dr. Pepper is a high-octane, layered shooter, likely born in the college bar scene of the 1980s. Its roots lie in the shot cocktail family, known for their potent and often flamboyant presentation. "
+    },
+    "greyhound": {
+        "description": "The Greyhound, a simple yet refreshing blend of vodka and grapefruit juice, is a classic example of a **Highball**.  Its origins are debated, but it likely emerged in the 1930s, a testament to the rise of vodka cocktails during that era. "
+    },
+    "yellow_bird": {
+        "description": "The Yellow Bird is a vibrant, citrus-forward cocktail belonging to the Sour family.  Born in the 1970s, it's a playful twist on the Daiquiri, substituting rum with a blend of Galliano and Triple Sec for a uniquely sweet and herbal character. "
+    },
+    "151_florida_bushwacker": {
+        "description": "The 151 Florida Bushwacker belongs to the **creamy cocktail family**, a descendant of the **Hurricane**, born in the **1970s in Florida**. Its potent blend of rums, liqueurs, and dairy creates a sweet, decadent, and dangerously smooth experience. "
+    },
+    "zippys_revenge": {
+        "description": "Zippy's Revenge belongs to the Punch family, a historical cocktail category featuring strong spirits, fruit juices, and often a sweetener. Its origin is likely modern, a playful riff on the traditional Rum Punch with a whimsical twist using Kool-Aid as a playful nod to childhood. "
+    },
+    "mocha_berry": {
+        "description": "The Mocha-Berry belongs to the **Coffee Cocktail** family, a group known for their rich, complex flavors and often served as after-dinner drinks. While its exact origin is unknown, the combination of coffee, chocolate, and raspberry liqueur points to a modern creation inspired by the popularity of coffee-based cocktails and the growing trend of fruit-infused spirits. "
+    },
+    "shooting_blancs": {
+        "description": "Shooting Blancs belongs to the Sour family, a classic cocktail style characterized by its balance of sweet, sour, and spirit.  While its exact origin is unknown, it's likely a modern twist on the classic Whiskey Sour, drawing inspiration from the contemporary cocktail scene's fascination with unique flavor combinations. "
+    },
+    "freddy_kruger": {
+        "description": "The Freddy Kruger is a potent concoction belonging to the layered shot family. Its origins are likely recent and informal, reflecting a trend of combining strong spirits in a visually appealing, if not particularly refined, manner. "
+    },
+    "lassi_khara": {
+        "description": "Lassi Khara, a savory yogurt drink, hails from India and falls under the lassi family, a traditional South Asian beverage.  While not a cocktail in the traditional sense, it shares the quenching refreshment quality of a summer cooler, often served with a savory kick. "
+    },
+    "lassi_mango": {
+        "description": "The Mango Lassi is a refreshing drink rooted in Indian tradition. It belongs to the lassi family, a yogurt-based beverage often flavored with fruits and spices. Originating in the Punjab region, it's a staple across India and enjoyed for its creamy texture and sweet, tangy taste. "
+    },
+    "zambeer": {
+        "description": "The Zambeer is a refreshing, unique twist on a classic highball cocktail.  Its origins are likely modern, merging the anise-flavored liqueur of Sambuca with the sweetness of root beer for a playful, fizzy experience. "
+    },
+    "boomerang": {
+        "description": "The Boomerang is a classic Martini variation, a member of the Martini Family. It's a twist on the traditional Gin Martini, adding the sweetness of Maraschino Liqueur and the cherry's flourish for a more playful, yet sophisticated, profile. The exact origin is unclear, likely a bar creation from the mid-20th century. "
+    },
+    "quentin": {
+        "description": "The Quentin belongs to the **Coffee Cocktail** family, a popular category featuring coffee liqueur as a key ingredient.  While its exact origin is unknown, its composition suggests it draws inspiration from classic coffee cocktails like the **Black Russian** and **White Russian**, evolving with the addition of cream and nutmeg. "
+    },
+    "dublin_heights": {
+        "description": "Dublin Heights is a refreshing twist on the classic Sour family. Its Irish Whiskey base, balanced by tart lemon and sweet orgeat, is elevated by the pear notes of St. George Liqueur.  The addition of club soda creates a light, effervescent finish, reminiscent of a summer day in Dublin. "
+    },
+    "floradora": {
+        "description": "The Floradora, a fizzy delight born in London's 1890s, is a classic fizz cocktail.  It blends the tartness of lime and raspberry gum with the spicy kick of ginger syrup, all balanced by gin and topped with soda water. "
+    },
+    "bijou": {
+        "description": "The Bijou is a captivating member of the **aromatic, herbal-forward cocktail family** reminiscent of the classic French 75. Its roots likely lie in the **early 20th century**, born amidst the golden age of cocktails, where Chartreuse's unique botanicals were embraced for their complexity. "
+    },
+    "tequila_slammer": {
+        "description": "The Tequila Slammer, a simple blend of tequila and 7-Up, belongs to the Highball family, known for their tall, refreshing nature. Its origins are murky, likely emerging from the American college scene in the 1970s, a testament to its easy-to-make, high-proof appeal. "
+    },
+    "abc": {
+        "description": "The ABC cocktail, a harmonious blend of Amaretto, Baileys Irish Cream, and Cognac, belongs to the **Cream Liqueur Cocktail** family. Its origins are likely modern, a playful combination of popular liqueurs, enjoyed for its rich, creamy texture and sweet, nutty notes. "
+    },
+    "rum_toddy": {
+        "description": "The Rum Toddy belongs to the Hot Toddy family, a comforting warm drink popular for centuries. Originating in the 18th century, its origins are debated, with some attributing it to British sailors, others to the Irish. The name toddy likely comes from the Hindi word for palm wine. "
+    },
+    "fig_jam": {
+        "description": "Fig Jam belongs to the Sour family, a classic cocktail style known for its tart and sweet balance. This unique twist on the Sour likely originated in the early 20th century, drawing inspiration from the burgeoning use of fruit liqueurs and the burgeoning American cocktail scene. "
+    },
+    "gin_fizz": {
+        "description": "The Gin Fizz is a classic member of the Fizz family, characterized by its bubbly, refreshing nature. Originating in the 19th century, this gin-based cocktail is believed to have emerged from the popularity of fizzy drinks like lemonade and soda water. "
+    },
+    "happy_skipper": {
+        "description": "The Happy Skipper belongs to the Highball family, characterized by tall, refreshing drinks built with a spirit base and a carbonated mixer.  Its origins likely stem from the 19th century, when rum and ginger ale combinations were popular among seafaring men. "
+    },
+    "monkey_wrench": {
+        "description": "The Monkey Wrench, a refreshing blend of light rum, grapefruit juice, and bitters, belongs to the **Sour** family of cocktails. Its origins are unknown, but its simplicity and tartness likely made it a popular choice among sailors and laborers in the early 20th century. "
+    },
+    "drinking_chocolate": {
+        "description": "This isn't a cocktail, but a decadent, warm beverage. It draws inspiration from centuries-old hot chocolate traditions, with the creamy richness and spices echoing European and Latin American recipes. Enjoy it as a comforting treat, not a boozy concoction! "
+    },
+    "kiss_me_quick": {
+        "description": "Kiss Me Quick belongs to the **highball family**, a refreshing and easy-to-drink category typically featuring spirits, mixers, and ice. While its origins are unknown, the combination of vodka, apple flavors, and a fizzy element suggests a playful, contemporary creation likely inspired by modern interpretations of classic cocktails. "
+    },
+    "russian_spring_punch": {
+        "description": "The Russian Spring Punch is a member of the sour family, characterized by its tart and sweet flavor profile. Though its origin remains debated, it's likely a modern invention inspired by classic sour recipes, likely emerging in the mid-20th century. "
+    },
+    "victor": {
+        "description": "The Victor, a blend of gin, sweet vermouth, and brandy, is a member of the classic Manhattan family, a group of cocktails that often feature whiskey or brandy as a base, fortified with sweet vermouth.  Its origins are shrouded in mystery, but likely emerged from the 19th century American bar scene. "
+    },
+    "irish_cream": {
+        "description": "This drink, a creamy concoction, is not a traditional cocktail but rather a modern, indulgent creation.  It draws inspiration from the creamy liqueurs of the early 20th century, but its specific combination of flavors and ingredients is likely a recent invention. "
+    },
+    "tequila_surprise": {
+        "description": "The Tequila Surprise belongs to the spicy cocktail family, a category with roots in the early 20th century. Its origin is likely rooted in the American Southwest, where the combination of tequila and fiery flavors was a popular choice. "
+    },
+    "rum_punch": {
+        "description": "Rum Punch falls into the **Punch** family, a category known for its communal origins. This specific concoction likely emerged in the Caribbean, blending the tropical flavors of rum, fruit punch, and orange juice with the refreshing fizz of ginger ale.  "
+    },
+    "dragonfly": {
+        "description": "The Dragonfly, a refreshing blend of gin, ginger ale, and lime, belongs to the Highball family.  Its origins are likely rooted in the early 20th century, when gin cocktails enjoyed a surge in popularity, with the addition of ginger ale providing a bubbly, spicy kick. "
+    },
+    "orange_scented_hot_chocolate": {
+        "description": "This decadent drink, with its warm chocolate base and citrus zest, is a member of the Hot Chocolate family, a comforting classic with roots in ancient Mesoamerica. The addition of espresso and nutmeg evokes a European influence, suggesting a modern twist on a timeless favorite. "
+    },
+    "flying_dutchman": {
+        "description": "The Flying Dutchman is a classic Gin & Orange Liqueur cocktail, likely a twist on the classic Sidecar. It emerged in the late 19th or early 20th century, with its origin shrouded in maritime folklore.  "
+    },
+    "deadpan_fix": {
+        "description": "The Deadpan Fix is a sophisticated twist on the classic Sour family. This contemporary concoction draws inspiration from the complex flavor profiles of the Old Fashioned, blending the citrusy tartness of a Sour with the bitterness of Campari and the warmth of Rye.  "
+    },
+    "algonquin": {
+        "description": "The Algonquin, a blend of whiskey, dry vermouth, and pineapple juice, belongs to the **Whiskey Sour family**. Though its exact origin is debated, it's believed to have emerged in the early 20th century at the famed Algonquin Hotel in New York City, hence its namesake. "
+    },
+    "cuba_libre": {
+        "description": "The Cuba Libre, a refreshing blend of light rum, lime, and Coca-Cola, belongs to the Highball family. Originating in Havana, Cuba, during the Spanish-American War, it's said to have been created by American soldiers mixing their rum with Coke and lime. "
+    },
+    "chocolate_drink": {
+        "description": "This is a simple, timeless Milk Drink \u2013 a beverage family known for its creamy, comforting qualities. While its exact origin is unclear, its components suggest a long history, possibly dating back to ancient civilizations who enjoyed chocolate with milk and water. "
+    },
+    "gin_cooler": {
+        "description": "The Gin Cooler belongs to the Highball family, characterized by its simple, refreshing mix of spirits and carbonated water. Its origins likely trace back to the early 20th century, emerging as a lighter, more approachable alternative to the gin cocktails popular at the time. "
+    },
+    "sweet_tooth": {
+        "description": "Sweet Tooth belongs to the **Cream Cocktail** family, known for their velvety texture and rich flavors. This drink likely originated in the early 20th century, drawing inspiration from the popularity of chocolate liqueurs and milk-based cocktails like the White Russian. "
+    },
+    "shark_attack": {
+        "description": "The Shark Attack is a simple, refreshing highball, similar to a Vodka Soda with a twist. While its origins are unknown, the combination of vodka and lemonade likely draws inspiration from classic cocktails like the Vodka Sour or the Moscow Mule, which utilize these flavors in a more complex fashion. "
+    },
+    "raspberry_cooler": {
+        "description": "The Raspberry Cooler is a simple, refreshing Highball, a cocktail family originating in the 19th century. Its origins are likely rooted in the classic Gin & Tonic, substituting gin with raspberry vodka for a fruity twist. "
+    },
+    "screwdriver": {
+        "description": "The Screwdriver, a simple blend of vodka and orange juice, belongs to the Highball family, characterized by their tall, mixed-drink format.  Its origin is debated, but most agree it emerged in the mid-20th century, possibly among American oil workers in the Middle East. "
+    },
+    "halloween_punch": {
+        "description": "This Halloween Punch is a spiced, fruit-forward cocktail, akin to a spiced sangria. It draws inspiration from the centuries-old tradition of using spices and fruit in warming winter drinks, but with a modern twist using vodka for a chillingly smooth finish. "
+    },
+    "siesta": {
+        "description": "The Siesta belongs to the **Sour** family, characterized by its tangy balance of citrus and spirit. Its origins are likely a modern creation, blending the bitter Campari and the sweetness of grapefruit with the robust Tequila, a unique spin on the classic sour template. "
+    },
+    "grand_blue": {
+        "description": "The Grand Blue is a vibrant tropical cocktail, likely a modern creation,  belonging to the **Sour** family.  Its base of rum, the sweetness of Malibu, and tartness of sour mix are a classic sour recipe, enhanced with the fruity flavors of peach schnapps and the striking blue hue of Curacao. "
+    },
+    "porto_flip": {
+        "description": "The Porto Flip is a classic example of a flip cocktail, characterized by its creamy, egg yolk-based texture. Originating in the 18th century, flips were popular throughout the Victorian era and employed spirits like brandy, rum, and whiskey, often paired with fortified wines like Port. "
+    },
+    "kir_royale": {
+        "description": "The Kir Royale, a delightful blend of Cr\u00e8me de Cassis and Champagne, belongs to the **French aperitif** family. It originated in the 1950s in Dijon, France, named after Canon F\u00e9lix Kir, a local politician who served Cr\u00e8me de Cassis with white wine. "
+    },
+    "iron_ranger": {
+        "description": "The Iron Ranger, a vibrant blend of Demerara syrup, bourbon, Falernum, pineapple and lemon juices, and bitters, is a modern spin on the classic **Rum Punch**. It's a refreshing twist on a Caribbean staple, embodying the spirit of adventure and exploration. "
+    },
+    "flyover": {
+        "description": "The Flyover belongs to the **Sour** family, a classic cocktail style that originated in the 18th century. Its combination of citrus, sweet, and bitter elements, along with the addition of bourbon, creates a refreshing and complex flavor profile that has stood the test of time. "
+    },
+    "oreo_mudslide": {
+        "description": "The Oreo Mudslide belongs to the **Dessert Cocktail** family, a category that emerged in the late 19th century.  Its origins are likely contemporary, inspired by the popular Mudslide cocktail but with the playful addition of Oreo cookies, echoing the dessert-like nature of this family. "
+    },
+    "white_wine_sangria": {
+        "description": "This refreshing White Wine Sangria belongs to the **Sangria family**, a Spanish tradition dating back centuries.  This specific version, with its fruity additions and brandy, is a modern twist on the classic, offering a delightful blend of sweet and tart flavors. "
+    },
+    "jacks_rose": {
+        "description": "Jack's Rose is a riff on the classic Sour family, with a twist of brandy and grenadine. Though its exact origin is murky, it likely emerged in the late 19th or early 20th century, mirroring the growing popularity of cocktails during that era. "
+    },
+    "paradise": {
+        "description": "Paradise belongs to the classic Sour family, a blend of spirits, citrus juice, and sweetener.  While its exact origin is unclear, its combination of gin, apricot brandy, and orange juice suggests a 19th-century European influence, possibly drawing inspiration from the popularity of gin and brandy-based cocktails of the era. "
+    },
+    "royal_flush": {
+        "description": "The Royal Flush, a vibrant blend of Crown Royal whiskey, peach schnapps, Chambord, and cranberry juice, falls squarely into the Fruity Cocktail family. This modern concoction likely emerged in the late 20th century, mirroring the growing popularity of sweet, easy-to-drink cocktails. "
+    },
+    "coffee-vodka": {
+        "description": ""
+    },
+    "gluehwein": {
+        "description": "Gl\u00fchwein, meaning glowing wine, is a warm, spiced wine beverage belonging to the **mulled wine** family.  Originating in medieval Germany, it's a comforting drink enjoyed during the cold months, especially around Christmas markets. "
+    },
+    "darkwood_sling": {
+        "description": "The Darkwood Sling is a riff on the classic Sling family, a group of long, refreshing drinks popular in the 19th century. Its cherry liqueur base, soda water, and citrus fruit twist are reminiscent of the Sling's versatility and adaptability, making it a modern take on a historic cocktail. "
+    },
+    "french_martini": {
+        "description": "The French Martini, a blend of vodka, raspberry liqueur, and pineapple juice, belongs to the Sour family, characterized by the use of citrus and a sweetener. It emerged in the 1980s, likely originating in New York City, gaining popularity for its fruity and sweet appeal. "
+    },
+    "gin_smash": {
+        "description": "The Gin Smash is a refreshing variation on the classic smash cocktail family, known for muddled fruits and herbs. Its origins likely stem from the 19th century, a time when gin-based cocktails were booming in popularity, drawing inspiration from the potent and flavorful punch bowls of the era. "
+    },
+    "kool_aid_slammer": {
+        "description": "The Kool-Aid Slammer is a playful riff on the classic College Cocktail family, notorious for their simplicity and high-proof kick.  While its exact origin is murky, the Kool-Aid Slammer likely emerged in the 1980s, a testament to the enduring appeal of budget-friendly, high-energy drinks. "
+    },
+    "kool_first_aid": {
+        "description": "Kool First Aid belongs to the Jungle Juice family, a category of potent, often homemade, punch-like cocktails popular in the 1970s and 80s.  This specific concoction likely arose from college parties and dorm rooms, a testament to the ingenuity of budget-minded drinkers. "
+    },
+    "cafe_savoy": {
+        "description": "The Caf\u00e9 Savoy, a creamy blend of coffee, milk, Triple Sec, and brandy, belongs to the Coffee Cocktail family. Its origin is likely rooted in the early 20th century, a time when coffee-based drinks were gaining popularity. The Savoy Hotel in London, known for its sophisticated atmosphere, could have been its namesake. "
+    },
+    "royal_bitch": {
+        "description": "The Royal Bitch is a sweet, decadent liqueur cocktail. It falls into the dessert cocktail family, likely inspired by the popularity of creamy liqueurs like Frangelico in the late 20th century.  While its exact origin is unknown, it's likely a recent creation, combining readily available spirits for a simple, enjoyable drink. "
+    },
+    "spanish_rumor": {
+        "description": "The Spanish Rumor draws from the classic Manhattan family, a sophisticated blend of rye whiskey, sweet vermouth, and a touch of cherry liqueur. Its origins are likely rooted in the early 20th century, a time when Manhattan variations were popular and kola syrup's sweetness offered a unique twist. "
+    },
+    "kentucky_b_and_b": {
+        "description": "The Kentucky B&B, a simple yet elegant mix of bourbon and Benedictine, belongs to the After Dinner cocktail family.  This cocktail is a classic Southern American creation, popularized in the mid-20th century by the legendary bartender,  The  Jim Meehan of the New York City bar, PDT. "
+    },
+    "fruit_shake": {
+        "description": "The Fruit Shake belongs to the **Milkshake family**, a refreshing beverage category with roots in the late 19th century. Originating in America, milkshakes were initially made with ice cream, milk, and flavorings, evolving to incorporate fruits and yogurt for a healthier twist. "
+    },
+    "kool_aid_shot": {
+        "description": "This Kool-Aid Shot is a modern riff on the classic Sour family, a category that blends spirits with sweet and sour elements. It's likely a recent creation, drawing inspiration from the tartness of cranberry juice and the sweetness of amaretto and triple sec, while borrowing the base spirit and sloe gin from the classic Sour formula. "
+    },
+    "kioki_coffee": {
+        "description": "The Kioki Coffee belongs to the Coffee Cocktail family, a group of drinks featuring coffee liqueur as a key ingredient.  While its exact origin is unknown, it likely emerged in the early 20th century, a time when coffee liqueurs like Kahlua were gaining popularity. "
+    },
+    "jewel_of_the_nile": {
+        "description": "Jewel of the Nile is a sophisticated Chartreuse cocktail, a family known for their herbal and aromatic qualities. The drink likely emerged in the late 19th or early 20th century, during the cocktail boom, taking advantage of the unique flavors of both green and yellow Chartreuse. "
+    },
+    "orange_crush": {
+        "description": "The Orange Crush is a classic highball, a family of cocktails typically served in a tall glass with ice and a mixer.  Its origins are likely rooted in the early 20th century, a time when simple, refreshing drinks gained popularity. "
+    },
+    "dark_caipirinha": {
+        "description": "The Dark Caipirinha is a twist on the classic Caipirinha, a Brazilian cocktail.  It belongs to the Sour family, characterized by its sour, sweet, and strong profile.  The Demerara sugar adds depth and complexity, making it a richer, more sophisticated version of the original. "
+    },
+    "baby_eskimo": {
+        "description": "The Baby Eskimo belongs to the creamy cocktail family, similar to the White Russian. Its origin is likely American, emerging in the mid-20th century as a simple, comforting drink popular in home bars and family gatherings. "
+    },
+    "daiquiri": {
+        "description": "The Daiquiri, a member of the Sour family, hails from the early 20th century in Cuba. Its simplicity \u2013 light rum, lime juice, and sugar \u2013 belies its sophistication, showcasing the bright, acidic flavors of its ingredients. "
+    },
+    "alexander": {
+        "description": "The Alexander, a creamy concoction of gin, cr\u00e8me de cacao, light cream, and nutmeg, belongs to the classic **cr\u00e8me de cacao** cocktail family. This elegant drink, born in the late 19th century, is believed to have originated in New York City, possibly at the famous Knickerbocker Hotel. "
+    },
+    "scotch_sour": {
+        "description": "The Scotch Sour belongs to the Sour family, a classic cocktail style featuring a spirit, citrus juice, and sweetener.  It likely originated in the 19th century, a riff on the Whiskey Sour, with Scotch replacing bourbon as the base spirit. "
+    },
+    "kentucky_colonel": {
+        "description": "The Kentucky Colonel is a classic Whiskey Sour variation, a family known for their tart and refreshing nature. This cocktail's origins are shrouded in mystery, likely emerging from the vibrant bar scene of the early 20th century, with its combination of bourbon, herbal Benedictine, and a citrus twist epitomizing the era's sophisticated drinking culture. "
+    },
+    "kurant_tea": {
+        "description": "Kurant Tea belongs to the **Highball** family, a refreshing combination of spirits, mixers, and ice served tall in a highball glass. While its exact origin is unknown, it's a modern twist on classic tea-based cocktails, likely inspired by the increasing popularity of flavored vodkas like Absolut Kurant. "
+    },
+    "vermouth_cassis": {
+        "description": "The Vermouth Cassis, a refreshing and elegant cocktail, belongs to the **Fizz family**, characterized by its light, bubbly nature. This drink likely originated in the early 20th century, gaining popularity as a sophisticated alternative to the traditional Gin Fizz. Its combination of dry vermouth, sweet cr\u00e8me de cassis, and carbonated water creates a harmonious balance of bitter, sweet, and effervescent flavors. "
+    },
+    "divorce_papers": {
+        "description": "Divorce Papers is a contemporary twist on the classic Sour family, with a vibrant, bittersweet profile.  Its origin likely lies in the modern craft cocktail movement, where passionfruit and Aperol are popular flavor combinations, creating a complex and balanced drink. "
+    },
+    "camerons_kick": {
+        "description": "Cameron's Kick is a spirited riff on the classic Whiskey Sour family, with its tart lemon juice base and whiskey foundation.  The addition of Orgeat Syrup adds a unique, nutty, and sweet dimension, perhaps inspired by the traditional use of Orgeat in tiki cocktails.  "
+    },
+    "dark_and_stormy": {
+        "description": "The Dark and Stormy, a potent blend of dark rum and ginger beer, belongs to the Highball family, characterized by tall, refreshing drinks. Its origin is disputed, with claims from both Bermuda and Jamaica, but its popularity stems from its bold, spicy character, perfect for tropical climates. "
+    },
+    "ipamena": {
+        "description": "The Ipamena is a refreshing, fruit-forward cocktail, belonging to the highball family.  Its origin is likely inspired by the tropical flavors of South America, combining the tartness of lime and passion fruit with the sweetness of brown sugar and the effervescence of ginger ale. "
+    },
+    "addison": {
+        "description": "The Addison is a classic Martini variation, likely hailing from the early 20th century.  This gin-based cocktail is part of the Martini family, known for its dry, crisp flavor profile and elegant presentation. "
+    },
+    "winter_rita": {
+        "description": "The Winter Rita draws inspiration from the classic Margarita, blending tequila's agave spirit with the citrusy zing of lime and orange. Its addition of Campari and rosemary syrup, however, gives it a sophisticated twist, reminiscent of the bitter-sweetness found in Negroni-style drinks. "
+    },
+    "caipirinha": {
+        "description": "The Caipirinha, a vibrant blend of sugar, lime, and cacha\u00e7a, hails from Brazil and belongs to the **sour** cocktail family. This iconic South American drink is a refreshing, tangy classic, similar to other sour cocktails like the Margarita and Daiquiri. "
+    },
+    "damned_if_you_do": {
+        "description": "The Damned If You Do is a spirited riff on the classic Hot Damn, a high-octane, candy-flavored cocktail popular in the 1980s.  This fiery concoction belongs to the shooter family, known for their quick, potent delivery and often audacious flavor combinations. "
+    },
+    "queen_elizabeth": {
+        "description": "The Queen Elizabeth is a member of the Martini family, showcasing the classic dry vermouth and gin base with a touch of sweetness from Benedictine. While its exact origin is unclear, it likely emerged in the early 20th century, paying homage to the reigning Queen Elizabeth at the time. "
+    },
+    "waikiki_beachcomber": {
+        "description": "The Waikiki Beachcomber is a classic tiki cocktail, a category known for its exotic flavors and colorful presentations.  Popularized in the mid-20th century, these drinks often feature rum, but this gin-based variation likely originated in a Hawaiian bar catering to the growing tourism of the era. "
+    },
+    "spritz": {
+        "description": "The Spritz is a classic member of the Aperitivo family, originating in the Veneto region of Italy in the 19th century. This refreshing, bitter-sweet concoction is perfect for sipping before a meal. "
+    },
+    "limona_corona": {
+        "description": "The Limona Corona is a straightforward highball, a category popularized in the late 19th century. This simple combination of beer and flavored liqueur, likely originated in a casual setting, highlighting the refreshing and vibrant flavors of both ingredients. "
+    },
+    "sol_y_sombra": {
+        "description": "Sol Y Sombra belongs to the **Anisette family**, a group of cocktails traditionally enjoyed in Spain and Latin America.  Its origin is uncertain but likely dates back to the 19th century,  a time when brandy and anise liqueurs were popular throughout the region. "
+    },
+    "gg": {
+        "description": "The GG is a refreshing Highball, a cocktail family known for their tall, mixed drinks.  It likely originated in the late 19th or early 20th century, when Galliano, a popular Italian liqueur, became available.  The combination of sweet Galliano and spicy ginger ale creates a unique and delightful taste. "
+    },
+    "millionaire_cocktail": {
+        "description": "The Millionaire Cocktail is a vibrant, layered concoction, blending the sweet and tart with a touch of absinthe.  Though its origins are uncertain, it likely emerged in the 1920s, reminiscent of the era's flamboyant spirit.  Consider it a cousin to the classic Sour family, elevated with the unique complexity of absinthe. "
+    },
+    "just_a_moonmint": {
+        "description": "Just a Moonmint belongs to the **Milk Punch family**, a historical cocktail style dating back to the 18th century. This creamy, refreshing concoction blends the comforting flavors of milk and chocolate with the invigorating coolness of mint. "
+    },
+    "caipirissima": {
+        "description": "The Caipirissima is a member of the **Caipirinha family**, a group of cocktails originating in Brazil. Its simple recipe of lime, sugar, white rum, and ice makes it a refreshing and versatile drink. "
+    },
+    "hd": {
+        "description": "The H.D. cocktail belongs to the Coffee Cocktail family. This drink likely emerged in the late 20th century, a product of the growing popularity of Irish Cream liqueurs and coffee-based drinks. It's a simple yet satisfying combination, perfect for a cozy evening. "
+    },
+    "pink_penocha": {
+        "description": "The Pink Penocha belongs to the **fruit punch** family, a vibrant and playful category often associated with parties and gatherings. Its origins are likely a modern, home-brewed concoction, mixing popular spirits and fruit juices for a sweet and refreshing flavor profile. "
+    },
+    "passion_fruit_martini": {
+        "description": "The Passion Fruit Martini, a modern concoction, belongs to the **Martini family**. Its exact origin is debated, but likely emerged in the 1990s as a sweet and tropical twist on the classic Martini,  appealing to the growing popularity of fruity cocktails. "
+    },
+    "grass_skirt": {
+        "description": "The Grass Skirt, a vibrant blend of gin, triple sec, pineapple juice, grenadine, and pineapple, belongs to the **tropical cocktail family**.  Its origins are uncertain, but it likely emerged in the mid-20th century, reflecting the growing popularity of tropical cocktails during that era. "
+    },
+    "kiwi_martini": {
+        "description": "The Kiwi Martini, a refreshing twist on the classic Martini, belongs to the **Fruit Martini** family. While its exact origin is unclear, it likely emerged in the late 20th century as a contemporary interpretation of the Martini, incorporating the bright flavors of kiwi. "
+    },
+    "vodka_fizz": {
+        "description": "The Vodka Fizz is a refreshing twist on the classic Fizz family, which dates back to the 18th century. It's a simple yet elegant blend of vodka, cream, citrus, and spice, drawing inspiration from the popularity of creamy cocktails in the 1950s and 60s. "
+    },
+    "gin_sling": {
+        "description": "The Gin Sling is a classic highball, a refreshing and simple cocktail family favored for its tall, chilled form. It's believed to have originated in 18th-century India, where gin was mixed with local ingredients for a thirst-quenching drink. "
+    },
+    "talos_coffee": {
+        "description": "The Talos Coffee belongs to the classic Coffee Cocktail family, drawing inspiration from the timeless tradition of pairing coffee with liqueurs. This drink's origins remain shrouded in mystery, but it likely emerged in the 20th century, reflecting the rising popularity of coffee-based cocktails. "
+    },
+    "lexington": {
+        "description": "The Lexington, a sophisticated blend of bourbon, kola syrup, sweet vermouth, and bitters, belongs to the **Manhattan family**. This twist on the classic, born in the 1970s, embraces the boldness of bourbon with the sweetness of kola syrup, creating a unique and refreshing experience. "
+    },
+    "jack_rose_cocktail": {
+        "description": "The Jack Rose, a vibrant pink concoction, is a classic sour, a family of cocktails typically made with a spirit, citrus juice, and a sweetener.  Originating in the early 20th century, its exact birthplace is debated, but it's linked to New York City's bar scene. "
+    },
+    "fros\u00e9": {
+        "description": "Fros\u00e9, a modern twist on a classic, belongs to the **Frozen Cocktail** family.  Though its exact origin is murky, it likely emerged in the 2010s as a refreshing summer beverage, borrowing inspiration from the French **ros\u00e9 wine** and the Italian **granita**. "
+    },
+    "lord_and_lady": {
+        "description": "The Lord and Lady is a classic **coffee cocktail**, likely originating in the Caribbean where dark rum and Tia Maria, a coffee liqueur, are readily available.  This simple combination delivers a rich, complex flavor profile that's both sweet and boozy. "
+    },
+    "irish_russian": {
+        "description": "The Irish Russian is a unique twist on the classic Black Russian, incorporating the creamy, coffee-forward notes of Kahlua with the robust, bittersweet taste of Guinness Stout. While its exact origin remains shrouded in mystery, its combination of vodka and stout suggests a nod to both Irish and Russian spirits. "
+    },
+    "scofflaw": {
+        "description": "The Scofflaw is a classic American cocktail belonging to the Sour family, with its base of rye whiskey, vermouth, and citrus.  Named for the scofflaws who broke Prohibition laws, it's likely from the 1920s,  embracing the rebellious spirit of the era. "
+    },
+    "devil_inside": {
+        "description": "The Devil Inside belongs to the **Whiskey Sour** family, a classic cocktail style that blends whiskey with citrus and sweetener.  This particular iteration, with its rye and scotch base, hints at a **New York** origin, likely born in the early 20th century. "
+    },
+    "ginger_cocktail": {
+        "description": "The Ginger Cocktail is a refreshing, citrus-forward drink belonging to the **Gin Sour** family. Though its exact origin is unknown, its simple combination of gin, citrus, and a sweetening agent echoes the classic Sour formula, popularized in the late 19th century.  "
+    },
+    "french_tart": {
+        "description": "The French Tart belongs to the **Sour** family of cocktails, characterized by its tart and refreshing profile. While its exact origin is unknown, its combination of vodka, elderflower liqueur, and citrus juices points to a modern creation inspired by classic sour recipes like the Whiskey Sour. "
+    },
+    "jello_shots": {
+        "description": "Jello shots, though not a traditional cocktail, belong to the family of **Party Shots**, a modern, informal category.  Their origins are likely rooted in the 1980s, arising from the desire for a fun, portable, and easily consumed way to enjoy alcohol. "
+    },
+    "pink_gin": {
+        "description": "Pink Gin, a simple yet captivating cocktail, belongs to the **Bitters & Spirits** family.  Its origin is shrouded in mystery, but likely emerged in 19th-century England,  where gin was often served with Angostura bitters to mask impurities. "
+    },
+    "victory_collins": {
+        "description": "The Victory Collins is a twist on the classic Collins family, a refreshing highball originating in the 19th century.  This patriotic spin likely emerged during World War II, using the colors of the American flag (red, white, and blue) in its vibrant grape, lemon, and vodka composition. "
+    },
+    "gin_toddy": {
+        "description": "The Gin Toddy is a classic hot toddy, a drink family known for warming comfort. Its origins are unclear, but likely arose in the 18th century as a way to soothe colds and ailments with gin, sugar, and lemon's citrus. "
+    },
+    "pink_lady": {
+        "description": "The Pink Lady, a delightful blend of gin, apple brandy, lemon juice, and grenadine, is a member of the sour cocktail family. Its origins trace back to the early 20th century, likely originating in the United States, and its vibrant pink hue and sweet-tart flavor quickly made it a popular choice. "
+    },
+    "rum_milk_punch": {
+        "description": "Rum Milk Punch is a classic milk punch, a category of cocktails that originated in the Caribbean.  The sweet, creamy combination of rum, milk, and spices like nutmeg was a popular drink among sailors and plantation workers. "
+    },
+    "egg_nog_healthy": {
+        "description": "This Healthy Egg Nog is a member of the **Creamy Cocktail** family, often featuring dairy and eggs. Its origins trace back to medieval European posset drinks, combining milk, eggs, and spices. "
+    },
+    "sherry_flip": {
+        "description": "The Sherry Flip is a classic example of a Flip, a family of cocktails that originated in the 18th century. These drinks were traditionally made with spirits, cream, sugar, and a raw egg, creating a rich, frothy texture. The Sherry Flip specifically utilizes the fortified wine Sherry for a uniquely nuanced flavor profile. "
+    },
+    "flaming_lamborghini": {
+        "description": "The Flaming Lamborghini belongs to the layered shot family, a popular style originating in the 1980s. Its vibrant layers, often ignited for a dramatic presentation,  showcase a playful mix of sweet liqueurs like Kahlua, Sambuca, Blue Curacao, and Baileys Irish Cream. "
+    },
+    "zimadori_zinger": {
+        "description": "The Zimadori Zinger falls into the Highball family, a classic cocktail style known for its tall, refreshing nature. This particular concoction, a recent creation, likely emerged from the 1990s trend of mixing popular, readily available beverages for a quick and easy drink. "
+    },
+    "pornstar_martini": {
+        "description": ""
+    },
+    "iced_coffee": {
+        "description": "While not a traditional cocktail in the sense of spirits, Iced Coffee is firmly in the Coffee Cocktail family. Its origin is widely debated, but likely emerged from the simple desire to enjoy a chilled coffee drink, particularly in warmer climates. "
+    },
+    "zombie": {
+        "description": "The Zombie is a potent Tiki cocktail, hailing from the 1930s.  Born in the rum-soaked atmosphere of the Don the Beachcomber bar in Hollywood, its complex blend of rums, Pernod, and fruit juices was designed to knock you off your feet (and maybe your chair). "
+    },
+    "affinity": {
+        "description": "Affinity belongs to the classic Manhattan family, with a unique twist. It's a modern take on the timeless cocktail, incorporating both sweet and dry vermouth, adding complexity and depth to the traditional Scotch base. "
+    },
+    "winter_paloma": {
+        "description": "The Winter Paloma is a riff on the classic Paloma, a refreshing tequila-based cocktail that hails from Mexico.  This twist adds a touch of spice with pepper, creating a warming and complex flavor profile perfect for the colder months. "
+    },
+    "gagliardo": {
+        "description": "The Gagliardo, with its base of vodka, citrus, and liqueurs,  belongs to the Martini family,  a classic cocktail style known for its dry and sophisticated profile.  While its exact origin is unknown, the use of Galliano hints at an Italian influence, likely emerging in the mid-20th century. "
+    },
+    "quarter_deck_cocktail": {
+        "description": "The Quarter Deck Cocktail is a member of the **Rum Daiquiri family**, a classic combination of rum, citrus, and a sweetener. While its exact origin is unclear, it likely emerged in the late 19th or early 20th century, possibly in the Caribbean or among sailors, hence the maritime name. "
+    },
+    "nuked_hot_chocolate": {
+        "description": "Nuked Hot Chocolate is a playful take on the classic Hot Chocolate, a comforting beverage enjoyed for centuries. While its origins are unclear, it likely emerged from the fusion of ancient Aztec cacao drinks and European dairy traditions.  "
+    },
+    "frozen_daiquiri": {
+        "description": "The Frozen Daiquiri, a refreshing blend of light rum, triple sec, lime juice, sugar, and ice, belongs to the **Daiquiri family**. Originating in the early 20th century in Cuba, the Daiquiri is named after the nearby town of Daiquir\u00ed, where the drink was first concocted. "
+    },
+    "masala_chai": {
+        "description": "Masala Chai, while not a traditional cocktail, is a spiced beverage from India. It falls into the Hot Beverage family, often enjoyed as a comforting drink, similar to hot toddies or spiced cider. Its origins trace back centuries to Ayurvedic medicine, where its warming spices were used for their health benefits. "
+    },
+    "tennesee_mud": {
+        "description": "The Tennessee Mud, a blend of coffee, Jack Daniel's, amaretto, and whipped cream, falls into the coffee cocktail family.  While its exact origin is unknown, it likely emerged in the American South, a region known for its love of both coffee and whiskey. "
+    },
+    "godfather": {
+        "description": "The Godfather is a classic **liqueur-based cocktail**, similar to the Brandy Alexander or the White Russian.  Originating in the 1970s, it's said to have been named after the iconic movie character played by Marlon Brando, due to its rich, smooth, and powerful flavor. "
+    },
+    "the_laverstoke": {
+        "description": "The Laverstoke, a refreshing and complex gin cocktail, belongs to the **Gin & Tonic family**. Its origin likely draws inspiration from the classic Gin & Tonic, adding layers of floral notes, herbal bitterness and a touch of spice, making it a modern twist on a time-honored classic. "
+    },
+    "tia_maria": {
+        "description": "Tia Maria, a sweet and coffee-forward cocktail, belongs to the **liqueur family**. Originating in Jamaica, its recipe is shrouded in legend, but it is believed to have been crafted by a noblewoman seeking to preserve her family's wealth during the island's turbulent past. "
+    },
+    "national_aquarium": {
+        "description": "The National Aquarium belongs to the **multi-spirit sour family**, a vibrant group known for their tangy, citrusy profiles.  Its origins remain obscure, likely a modern creation born from the desire to blend popular spirits with bright blue curacao.  "
+    },
+    "loch_lomond": {
+        "description": "The Loch Lomond is a sophisticated variation on the classic **Whiskey Sour** family.  Its origins are unclear, but the blend of Scotch, sweet Drambuie, and dry Vermouth likely emerged in the late 19th or early 20th century, reflecting the growing popularity of Scotch whisky cocktails. "
+    },
+    "boston_sour": {
+        "description": "The Boston Sour belongs to the Sour family of cocktails, characterized by their acidic, sweet, and often frothy texture.  Originating in the late 19th century, likely in Boston, this drink combines the sharp tang of lemon with the sweetness of sugar and the richness of whiskey, creating a balanced and refreshing cocktail. "
+    },
+    "white_negroni": {
+        "description": "The White Negroni is a modern twist on the classic Negroni, belonging to the Negroni family.  Its origin is debated, but it's likely a recent invention, playing on the Negroni's structure with lighter, herbal notes from Lillet Blanc and Suze. "
+    },
+    "sweet_sangria": {
+        "description": "Sweet Sangria, a vibrant fruit-infused beverage, belongs to the **Sangria family**, a traditional Spanish drink. It's a modern variation of the classic, incorporating Fresca for a unique twist on the traditional citrus profile. "
+    },
+    "planter\u2019s_punch": {
+        "description": "Planter's Punch is a classic rum punch, a member of the large and lively family of fruit-forward, spirit-based punches.  Its origins likely lie in the Caribbean, where rum was readily available and tropical fruits abundant, making it a popular drink amongst planters. "
+    },
+    "french_75": {
+        "description": "The French 75 is a classic Champagne cocktail, a family known for their celebratory elegance.  Created during World War I in Paris, this potent concoction was named for the powerful French 75mm field gun. "
+    },
+    "57_chevy_with_a_white_license_plate": {
+        "description": "The 57 Chevy with a White License Plate is a delightful twist on the classic **Creme de Cacao cocktail family**.  Its origins are likely contemporary, drawing inspiration from the smooth, sweet-and-spicy flavor profile of its ancestors, while incorporating the modern preference for vodka's clean, crisp finish. "
+    },
+    "quaker's_cocktail": {
+        "description": ""
+    },
+    "jam_donut": {
+        "description": "The Jam Donut is a modern take on the classic dessert cocktail, likely inspired by the popular British treat. This creamy, sweet concoction blends the rich smoothness of Baileys with the fruity sweetness of Chambord, creating a decadent and playful drink perfect for a celebratory occasion. "
+    },
+    "bora_bora": {
+        "description": "The Bora Bora is a vibrant tropical cocktail belonging to the **Sour family**. Though its exact origin is unknown, it likely emerged in the 1980s, capturing the essence of Polynesian paradise with its bright, tangy flavors. "
+    },
+    "frapp\u00e9": {
+        "description": "The Frapp\u00e9, a simple blend of coffee, milk, and sugar, belongs to the Coffee Cocktail family. Originating in Greece in the early 20th century, it's a refreshing, iced beverage popularized by the Nescaf\u00e9 brand,  providing a delightful jolt of caffeine. "
+    },
+    "gin_tonic": {
+        "description": "The Gin Tonic belongs to the Highball family, characterized by a strong spirit base topped with a carbonated mixer. Its origin dates back to the 19th century in British India, where gin was mixed with tonic water, originally used to treat malaria. "
+    },
+    "pineapple_gingerale_smoothie": {
+        "description": "This refreshing smoothie falls into the **Fruity Cocktail** family, drawing inspiration from the long tradition of fruit-based drinks. While its exact origin is unknown, it likely emerged from the modern fusion of tropical flavors and the growing popularity of smoothies. "
+    },
+    "tequila_sour": {
+        "description": "The Tequila Sour is a classic Sour cocktail, a family known for its tangy, citrusy base. While its exact origin is murky, it likely emerged in the early 20th century, as tequila gained popularity in the U.S., adapting the classic Whiskey Sour recipe. "
+    },
+    "horse's_neck": {
+        "description": ""
+    },
+    "brasserie_special": {
+        "description": "The Brasserie Special is a vibrant, citrus-forward cocktail hailing from the Sour family.  Its roots likely lie in the classic Whiskey Sour, with the addition of passionfruit lending a tropical twist and orange liqueur adding complexity. "
+    },
+    "yoghurt_cooler": {
+        "description": "The Yoghurt Cooler belongs to the **lassi family**, a refreshing Indian beverage traditionally made with yogurt, water, and spices. This modern twist likely originated in the Western world, incorporating fresh fruit for a contemporary and vibrant flavor profile. "
+    },
+    "bramble": {
+        "description": "The Bramble is a classic sour, a family of cocktails featuring a spirit, citrus juice, and sweetener.  Born in 1984 at the The Harp pub in London, it's credited to Dick Bradsell, who wanted a simple, yet elegant drink featuring creme de mure (blackberry liqueur). "
+    },
+    "sea_breeze": {
+        "description": "The Sea Breeze is a classic highball, a refreshing blend of vodka, cranberry, and grapefruit juices.  Originating in the 1940s, this pink and tart cocktail likely emerged as a sweeter take on the traditional Vodka and Grapefruit juice cocktail.  "
+    },
+    "orange_whip": {
+        "description": "The Orange Whip is a delightful twist on the classic cream-based cocktail family, likely drawing inspiration from the creamy concoctions popularized in the early 20th century. Its exact origin remains shrouded, but it likely emerged from the creative bartending scene, a testament to the enduring appeal of blending tropical fruit flavors with creamy textures. "
+    },
+    "zinger": {
+        "description": "The Zinger is a unique concoction that doesn't neatly fit into a traditional cocktail family. Its combination of fruit-flavored liqueur (Peachtree Schnapps) and a high-caffeine soda (Surge) makes it a modern, DIY creation. "
+    },
+    "maracuya_mojito": {
+        "description": "The Maracuya Mojito is a vibrant twist on the classic Cuban Mojito, a refreshing cocktail family born in Havana.  This modern interpretation infuses the traditional rum, lime, and mint with the tropical sweetness of passionfruit syrup, creating a lively and exotic experience. "
+    },
+    "moscow_mule": {
+        "description": "The Moscow Mule is a classic highball, born in the 1940s from a partnership between Smirnoff Vodka and the G.F. Heublein Brothers. This refreshing concoction utilizes the simplicity of a vodka base with the invigorating kick of ginger ale and lime juice. "
+    },
+    "rum_screwdriver": {
+        "description": "The Rum Screwdriver is a member of the classic **Screwdriver family**, a simple blend of citrus juice and spirits. While its exact origin is debated, it's believed to have emerged in the 1940s, likely in the USA, as a variation on the Vodka Screwdriver. "
+    },
+    "casino": {
+        "description": "The Casino, a refreshing gin cocktail, belongs to the Sour family. It emerged in the early 20th century, likely in the United States, and is a twist on the classic Whiskey Sour, replacing whiskey with gin and adding a touch of Maraschino Liqueur. "
+    },
+    "notorious_fig": {
+        "description": "The Notorious Fig is a sophisticated twist on the classic Manhattan, belonging to the stirred cocktail family. Its origins lie in the contemporary cocktail scene, drawing inspiration from the rich flavors of fig syrup and the bittersweet complexity of amaro. "
+    },
+    "mary_pickford": {
+        "description": "The Mary Pickford is a classic **rum punch** cocktail, named after the silent film actress. It originated in the early 20th century, likely at the Hotel Nacional de Cuba in Havana. Its sweet, fruity profile makes it a refreshing and approachable choice. "
+    },
+    "chicago_fizz": {
+        "description": "The Chicago Fizz belongs to the **Fizz family**, a group of cocktails characterized by their bubbly, refreshing nature. Originating in the late 19th century, this particular Fizz likely emerged from the bustling Chicago bar scene, combining the sweetness of Port with the citrusy tang of lemon and the frothy texture of egg white. "
+    },
+    "orgasm": {
+        "description": ""
+    },
+    "vodka_slime": {
+        "description": "Vodka Slime is a refreshing highball, a cocktail family known for their simple, tall structure and use of soda or a mixer. Though its specific origin is unknown, it's likely a modern creation, a playful twist on classic vodka highballs like the Vodka Tonic or Vodka Soda. "
+    },
+    "cameron\u2019s_kick": {
+        "description": "Cameron's Kick is a unique twist on the classic Whiskey Sour family, incorporating both Irish and Scotch whiskies for a complex and nuanced flavor profile. This hybrid creation likely emerged in the early 20th century, during the cocktail boom, when bartenders experimented with diverse spirits and ingredients. "
+    },
+    "bumble_bee": {
+        "description": "The Bumble Bee belongs to the layered shot family, a popular style originating in the late 20th century.  Its distinct layered appearance, achieved by carefully pouring the heavier Baileys, followed by Kahlua, and finally the lighter Sambuca,  creates a visually striking drink. "
+    },
+    "vodka_lemon": {
+        "description": "Vodka Lemon is a classic Sour, a cocktail family known for its simple, tart, and refreshing nature.  While its exact origin is unknown, it's likely a contemporary riff on the Whiskey Sour, taking advantage of Vodka's versatility. "
+    },
+    "cosmopolitan": {
+        "description": ""
+    },
+    "figgy_thyme": {
+        "description": "Figgy Thyme belongs to the **Fizz** family, a classic cocktail style known for its effervescence.  Though its precise origin is unclear, the combination of spirit, sweetener, and bitter elements, often topped with sparkling water, has roots in the 19th century. "
+    },
+    "imperial_fizz": {
+        "description": "The Imperial Fizz is a member of the Fizz family, a classic cocktail style characterized by a spirit base, citrus juice, sweetener, and a topping of carbonated water. Its origins are murky, but it likely emerged in the late 19th century as a twist on the traditional Gin Fizz, substituting rum and whiskey for gin. "
+    },
+    "hawaiian_cocktail": {
+        "description": "The Hawaiian Cocktail is a classic sour, a family known for its tart, refreshing profiles. While its exact origin is unclear, it likely emerged in the early 20th century, capitalizing on the popularity of tropical flavors and gin-based drinks. "
+    },
+    "brain_fart": {
+        "description": "Brain Fart is a chaotic, high-proof concoction belonging to the college party punch family.  Originating in the late 20th century, it's a testament to the ingenuity (or perhaps desperation) of students seeking potent, readily available ingredients for a cheap, memorable (though perhaps not in a good way) experience. "
+    },
+    "busted_pipe": {
+        "description": "The Busted Pipe is a riff on the classic Old Fashioned, a cocktail family born in the 19th century. The addition of amaro adds complexity and herbal notes, while the bitters create a rich, nuanced profile. This drink, with its bold flavors and intriguing name, nods to the classic yet offers a modern twist. "
+    },
+    "whiskey_rosa_sour": {
+        "description": "The Whiskey Rosa Sour belongs to the Sour family, a classic cocktail category characterized by a base spirit, citrus juice, and sweetener.  This particular twist draws inspiration from the classic Whiskey Sour, substituting traditional sugar with Gum Syrup and adding the floral and slightly bitter notes of Cocchi Rosa. "
+    },
+    "3_mile_long_island_iced_tea": {
+        "description": "The 3-Mile Long Island Iced Tea is a potent member of the Long Island Iced Tea family, known for its multiple spirits. Originating in the 1970s, this cocktail's name likely refers to its ability to make a long journey seem short, though its origins are debated. "
+    },
+    "rum_runner": {
+        "description": "The Rum Runner is a vibrant tropical cocktail, a descendant of the classic Rum Punch family. Originating in the 1950s, it hails from the Caribbean, where its mix of rum, fruit juices, and brandy perfectly captures the island's spirit. "
+    },
+    "mojito_extra": {
+        "description": "The Mojito Extra belongs to the Highball family, known for their tall, refreshing nature.  It's a riff on the classic Cuban Mojito, featuring the same core ingredients - mint, lime, rum, and soda - but with the addition of Angostura Bitters for a complex, aromatic twist. "
+    },
+    "monongahela_mule": {
+        "description": "The Monongahela Mule is a riff on the classic Moscow Mule, a cocktail family known for its refreshing ginger kick.  This variation incorporates the sweetness of raspberry and the boldness of rye, creating a unique twist on the traditional recipe. "
+    },
+    "cherry_rum": {
+        "description": "Cherry Rum is a creamy, fruity cocktail belonging to the **Cream Cocktail** family. Its origins are unknown, but its simple composition suggests a likely birth in the mid-20th century, a time when creamy cocktails like the White Russian were gaining popularity. "
+    },
+    "acid": {
+        "description": "ACID is a potent concoction belonging to the highball family, a category characterized by tall drinks mixed with spirits and mixers. Its origins remain shrouded in mystery, likely emerging from the underground bar culture of the 1970s, where high-proof spirits were favored for their potency. "
+    },
+    "egg_nog_classic_cooked": {
+        "description": "Egg-nog, a classic cooked beverage, belongs to the **Creamy Cocktail** family.  Originating in England during the 17th century, it was traditionally a winter drink enjoyed by the upper classes.  The name egg-nog is thought to derive from the noggin, a wooden cup used to serve the drink. "
+    },
+    "lassi_raita": {
+        "description": "Lassi Raita isn't a cocktail, but a refreshing Indian beverage! It hails from the South Asian subcontinent, belonging to the family of yogurt-based drinks like lassi and buttermilk.  Think of it as a creamy, spiced, and chilled beverage perfect for any occasion. "
+    },
+    "english_highball": {
+        "description": "The English Highball is a unique blend of spirits and fizz, defying easy categorization. Though its ingredients hint at a classic highball, its brandy and vermouth base lean towards a Manhattan-like complexity. Its origin is shrouded in mystery, likely emerging from the eclectic cocktail scene of late 19th century England. "
+    },
+    "zorbatini": {
+        "description": "The Zorbatini, a harmonious blend of Vodka and Ouzo, belongs to the Martini family, a lineage of sophisticated cocktails known for their dry and aromatic profiles. This drink, likely born in the Greek islands, pays homage to the iconic Zorba the Greek film, capturing the spirit of Greece in a glass. "
+    },
+    "boxcar": {
+        "description": "The Boxcar, with its gin base, citrus acidity, and sweetness balanced by grenadine, falls firmly into the Sour family.  Its origin remains shrouded in mystery, though it's likely a modern creation, popularized in the mid-20th century, blending classic sour elements with a touch of sweetness. "
+    },
+    "addington": {
+        "description": "The Addington belongs to the **Vermouth Cocktail** family, a classic style featuring vermouth as the base spirit. Though its exact origin is murky, it likely arose in the early 20th century as a dry, refreshing alternative to the more complex vermouth cocktails of the Victorian era. "
+    },
+    "vodka_and_tonic": {
+        "description": "The Vodka and Tonic belongs to the Highball family, characterized by its tall, ice-filled glass and simple mixing of spirits with a carbonated mixer. While its exact origin is debated, it likely emerged in the late 20th century as a straightforward and refreshing alternative to the Gin and Tonic. "
+    },
+    "casa_blanca": {
+        "description": "Casa Blanca belongs to the **Sour** family, a classic cocktail style known for its tart, tangy profile.  While its origin isn't definitively documented, its composition suggests a Caribbean influence, likely emerging in the early 20th century. "
+    },
+    "the_galah": {
+        "description": "The Galah, with its rum base, bitter Campari, sweet banana liqueur, and tropical fruit juices, is a vibrant take on the classic Tiki cocktail family.  While its specific origin is unclear, its flavors evoke the spirit of Polynesian-inspired cocktails that gained popularity in the mid-20th century. "
+    },
+    "barracuda": {
+        "description": "The Barracuda is a vibrant, tropical concoction that belongs to the **Rum Punch** family. It likely originated in the Caribbean, where rum, pineapple, and lime are staples, with the addition of Galliano adding a distinct Italian flair.  "
+    },
+    "blackberry_smash": {
+        "description": "The Blackberry Smash is a refreshing take on the classic Smash family of cocktails, known for their muddled fruit and herbaceous notes.  Its origins likely trace back to the early 20th century, when similar fruit-forward cocktails were popularized in American bars. "
+    },
+    "pimms_cup": {
+        "description": "The Pimm's Cup belongs to the **Gin & Tonic family**, a group of refreshing, spirit-based drinks. Its origins lie in **19th century England**, where the Pimm's brothers created a gin-based liqueur specifically designed for mixing with lemonade and fruit. "
+    },
+    "gin_and_soda": {
+        "description": "The Gin and Soda is a classic highball, a refreshing and simple cocktail family known for its tall, chilled format.  Its origins likely date back to the 19th century, when gin was widely enjoyed and soda water became popular. "
+    },
+    "michelada": {
+        "description": "The Michelada, a Mexican spin on a classic chelada, is a member of the **beer cocktail** family.  Its origin is debated, but it's widely believed to have emerged in Mexico in the early 20th century, blending the refreshing tang of tomato juice with the boldness of beer. "
+    },
+    "moranguito": {
+        "description": "The Moranguito falls into the **liqueur-based cocktail family**, a category known for its vibrant flavors and often surprising combinations. This specific concoction, likely a modern invention, blends the herbal bitterness of absinthe, the agave spirit of tequila, and the sweet, fruity notes of grenadine, creating a unique and intriguing experience. "
+    },
+    "lone_tree_cooler": {
+        "description": "The Lone Tree Cooler is a refreshing twist on the classic Gin Fizz family.  Its origins likely lie in the late 19th century, when carbonated water and powdered sugar were popular additions to gin-based cocktails.  The citrus notes and garnish nod to the enduring popularity of citrus-forward drinks. "
+    },
+    "hot_creamy_bush": {
+        "description": "The Hot Creamy Bush is a comforting Irish coffee variation, belonging to the Hot Toddy family.  Its origins likely lie in the cozy pubs of Ireland, where whiskey, cream, and coffee were readily available for a warming winter drink. "
+    },
+    "homemade_kahlua": {
+        "description": "This homemade Kahlua is a **liqueur**, specifically a **coffee liqueur**. Though not historically accurate, it emulates the process of creating coffee liqueurs that have existed for centuries, likely originating in monasteries where coffee and alcohol were combined for medicinal purposes. "
+    },
+    "espresso_martini": {
+        "description": "The Espresso Martini, a potent blend of vodka, coffee liqueur (Kahlua), and a touch of sweetness, is a member of the Coffee Cocktail family.  This iconic drink, born in London in the 1980s, is said to have been created by a bartender seeking a cocktail as strong as coffee and as smooth as silk. "
+    },
+    "avenue_scotch": {
+        "description": "Avenue Scotch, with its tropical fruit and spice notes, falls squarely into the **Contemporary Cocktail** family.  It blends classic elements like blended scotch and lime juice with modern flavor profiles, showcasing the vibrant experimentation happening in the world of cocktails today. "
+    },
+    "sazerac": {
+        "description": "The Sazerac, a New Orleans classic, is a member of the **Old Fashioned** family.  Its history dates back to the 1800s, with its roots in a French-American apothecary in New Orleans.  The recipe evolved over time, with the addition of rye whiskey and absinthe. "
+    },
+    "havana_cocktail": {
+        "description": "The Havana Cocktail is a tropical delight, belonging to the **Rum Punch** family.  Its origin is likely Cuban, blending the island's signature rum with the sweetness of pineapple and the tang of lemon, reflecting the vibrant flavors of the Caribbean. "
+    },
+    "lukas_grog": {
+        "description": "The Lukas Grog is a vibrant tropical cocktail, blending the sweetness of passionfruit with the robust flavors of rum and citrus.  It draws inspiration from the classic Grog, a rum-based drink enjoyed by sailors, adding a modern twist with smoky and fruity elements. "
+    },
+    "grim_reaper": {
+        "description": "The Grim Reaper, a potent blend of Kahlua, high-proof rum, and grenadine, is a member of the Coffee Cocktail family.  While its exact origin is unclear, its combination of sweet, bitter, and boozy notes likely emerged from the early 20th century, a time when coffee-based drinks were gaining popularity. "
+    },
+    "tipperary": {
+        "description": "Tipperary is a member of the Whiskey Sour family,  a sophisticated twist on the classic. Born in Dublin around 1910, this cocktail blends the boldness of Irish whiskey with the herbal sweetness of green Chartreuse and vermouth, a timeless combination for a balanced, refreshing drink. "
+    },
+    "owens_grandmothers_revenge": {
+        "description": "Owen's Grandmother's Revenge belongs to the Highball family, a refreshing blend of spirits and mixers. While its precise origin is unknown, the combination of whiskey, beer, and lemonade likely arose from the practice of highballing \u2013 using soda water to dilute strong spirits, popularized in the early 20th century. "
+    },
+    "747": {
+        "description": "The 747 is a creamy, sweet cocktail belonging to the **liqueur-based cocktail family**. Its origin is unknown, but its simple combination of Kahlua, Baileys, and Frangelico suggests a likely American invention, popularized in the 1980s and 90s. "
+    },
+    "grasshopper": {
+        "description": "The Grasshopper belongs to the creamy liqueur family, specifically a mint chocolate variation. Originating in the 1950s, its name reflects the green hue and purportedly, its hopping popularity. "
+    },
+    "lemon_elderflower_spritzer": {
+        "description": "The Lemon Elderflower Spritzer is a refreshing, modern twist on the classic Fizz family.  Its origins are likely rooted in the popularity of elderflower cordial, a European staple, and the growing trend of light, sophisticated cocktails. "
+    },
+    "old_fashioned": {
+        "description": "The Old Fashioned belongs to the Whiskey Cocktail family, predating the modern cocktail era.  Its origins trace back to the 1800s, emerging from the Whiskey & Bitters drinks popular in America at the time. "
+    },
+    "old_cuban": {
+        "description": "The Old Cuban is a modern twist on the classic Daiquiri, belonging to the sour family of cocktails. Though not a traditional Cuban drink, it is believed to have originated in the early 2000s, inspired by the Daiquiri's Cuban roots and the effervescence of Prosecco. "
+    },
+    "frozen_mint_daiquiri": {
+        "description": "The Frozen Mint Daiquiri is a refreshing twist on the classic Daiquiri family, born in the vibrant rum-soaked bars of Cuba. This frozen delight blends the traditional rum, lime, and sugar with the invigorating coolness of fresh mint, creating a perfect summer sipper. "
+    },
+    "apple_kickin": {
+        "description": "Apple Kickin' is a unique twist on the classic Old Fashioned, drawing inspiration from its base of spirit and sugar. Its combination of Japanese whisky, apple brandy, and Amaro, alongside the traditional Demerara Gum Syrup and bitters, creates a complex and invigorating cocktail with a modern American flair. "
+    },
+    "vesper": {
+        "description": "The Vesper, a sophisticated blend of gin, vodka, and Lillet Blanc, is a classic Martini variation.  Created by Ian Fleming for his fictional spy James Bond, the Vesper's dry, herbaceous profile with a touch of sweetness reflects the character's refined tastes. "
+    },
+    "horses_neck": {
+        "description": "The Horse's Neck is a classic highball, its origins dating back to the early 20th century.  This simple yet elegant cocktail features the refreshing combination of brandy, ginger ale, and bitters, topped with a lemon twist for a citrusy finish. "
+    },
+    "flying_scotchman": {
+        "description": "The Flying Scotchman belongs to the classic Manhattan family, a sophisticated blend of whiskey, sweet vermouth, and bitters.  Its exact origins are murky, but it likely emerged in the late 19th or early 20th century, a testament to the enduring appeal of whiskey-based cocktails. "
+    },
+    "rose": {
+        "description": "The Rose is a classic, pre-Prohibition era cocktail, belonging to the Sour family. Its origins likely trace back to the late 19th or early 20th century, a time when sweet, fruity cocktails were popular.  "
+    },
+    "kir": {
+        "description": "The Kir, a simple yet elegant cocktail, is a member of the aperitif family, enjoyed before meals to stimulate the appetite.  Originating in Burgundy, France, it was named after F\u00e9lix Kir, a French priest and mayor who promoted the use of Cr\u00e8me de Cassis with local wine. "
+    },
+    "corn_n_oil": {
+        "description": "Corn n Oil is a riff on the classic Daiquiri family, a rum-based cocktail with citrus and sweetener. The use of Falernum, a Caribbean-inspired liqueur, and Blackstrap Rum, known for its molasses-driven intensity, adds a unique twist to the traditional profile. "
+    },
+    "funk_and_soul": {
+        "description": "Funk and Soul belongs to the **Sour** family, a classic cocktail style. It's a modern twist, incorporating fruity elements like apricot and pomegranate, which are popular in today's mixology. The addition of soda water gives it a refreshing, spritzy finish. "
+    },
+    "dubonnet_cocktail": {
+        "description": "The Dubonnet Cocktail is a classic *aperitif* drink belonging to the *Gin and Tonic* family.  It originated in the 1930s, with its roots in the French aperitif tradition of mixing wine with fortified wines. The gin adds a botanical complexity, while the bitters and lemon peel provide a refreshing twist. "
+    },
+    "paloma": {
+        "description": "The Paloma, a refreshing blend of tequila and grapefruit soda, belongs to the Highball family. It originated in Mexico in the 1950s, gaining popularity as a simple yet delicious alternative to the Margarita. "
+    },
+    "pop_quiz": {
+        "description": "This cocktail belongs to the **Old Fashioned family**, with roots in the 19th century.  The use of gum syrup, bourbon, and bitters harkens back to the classic Old Fashioned, while the Amaro adds a modern twist, referencing the emerging popularity of Italian liqueurs. "
+    },
+    "japanese_fizz": {
+        "description": "The Japanese Fizz belongs to the Sour family, a classic cocktail style featuring a base spirit, citrus juice, and a sweetener. Though its exact origins are unclear, its name suggests a Japanese influence, likely a variation on the classic Whiskey Sour, popularized in Japan during the 19th century. "
+    },
+    "jelly_bean": {
+        "description": "The Jelly Bean belongs to the **liqueur-based** cocktail family. This cocktail's origin is unknown, but its combination of Blackberry Brandy and Anis suggests a late 19th-century origin, likely from a European bar. "
+    },
+    "chocolate_milk": {
+        "description": "Chocolate Milk belongs to the **Creamy Cocktail** family, known for their rich textures and often sweet profiles.  While its exact origin is obscure, its blend of chocolate liqueur, milk, and Amaretto suggests a playful nod to both classic dessert flavors and the Italian tradition of mixing milk with spirits. "
+    },
+    "quick_f**k": {
+        "description": "The Quick F**K is a creamy, layered cocktail belonging to the Shooter family.  Its origin is likely contemporary, arising from the shotgun drinking trend of the 1990s, combining popular liqueurs for a quick, indulgent experience. "
+    },
+    "rhyme_or_reason": {
+        "description": "Rhyme or Reason is a vibrant twist on the classic Sour family, drawing inspiration from the tropical flavors of the South Pacific. The use of blood orange cordial, orgeat, and rye whiskey creates a complex and refreshing profile reminiscent of tiki cocktails, with a modern touch. "
+    },
+    "shot_gun": {
+        "description": "This concoction, aptly named Shotgun, belongs to the **Whiskey Blend** family, a classic category known for combining different whiskey expressions.  Its origin likely hails from the **American South**, a region synonymous with hearty whiskey and unpretentious drinking. "
+    },
+    "501_blue": {
+        "description": "The 501 Blue is a vibrant member of the Sour family, a category known for its tart and refreshing nature.  While its exact origin is unknown, its combination of sweet and tart flavors suggests a likely American invention, born from the desire for a colorful and exciting drink. "
+    },
+    "coke_and_drops": {
+        "description": "Coke and Drops belongs to the **Highball family**, known for their simple, refreshing nature. Its origins likely lie in the early 20th century, a time when Coca-Cola was a popular soda and simple drinks with a touch of citrus were common. "
+    },
+    "tanglin_club": {
+        "description": "The Tanglin Club is a twist on the classic Martini, belonging to the Martini family. Its origin is likely Singapore, drawing inspiration from the colonial era Tanglin Club, a prestigious social club. The addition of passionfruit syrup and lime juice adds a tropical touch to the traditional dry Martini. "
+    },
+    "lunch_box": {
+        "description": "The Lunch Box is a unique blend from the **Highball** family, a group of cocktails typically served tall with ice. Its origin remains obscure, likely a modern invention combining the sweet, nutty notes of Amaretto with the refreshing tang of orange juice and a crisp beer base. "
+    },
+    "munich_mule": {
+        "description": "The Munich Mule is a twist on the classic Moscow Mule, a copper mug cocktail family born in the 1940s. This refreshing variation uses gin, a nod to Germany's gin history, while still embracing the ginger beer and citrus notes that define the mule. "
+    },
+    "big_red": {
+        "description": "The Big Red is a creamy, sweet cocktail that falls into the **liqueur-based** family, reminiscent of Irish coffee with its combination of Irish cream and a spiced liqueur (Goldschlager). While its origin is obscure, it likely emerged in the late 20th century, gaining popularity among those seeking a simple, comforting drink. "
+    },
+    "sourise": {
+        "description": "The Sourise is a contemporary cocktail, likely influenced by the Sour family, which features citrus and a spirit base.  Its use of raspberry gum syrup and orgeat suggests a modern twist on classic sour flavors.  Exact origins are unknown, but the combination points to a recent, creative invention. "
+    },
+    "derby": {
+        "description": "The Derby is a refreshing gin-based cocktail belonging to the **Highball** family. Its origin is unknown, but the combination of gin, peach bitters, and mint suggests a playful nod to the classic Gin & Tonic, with a fruity twist. "
+    },
+    "new_york_sour": {
+        "description": "The New York Sour, a member of the Whiskey Sour family, is a twist on the classic.  Originating in the late 19th century, it's believed to have been invented in New York City, adding a touch of red wine for a complex, bittersweet finish. "
+    },
+    "diesel": {
+        "description": "Diesel belongs to the Highball family, a category known for its simple, refreshing blends of spirits and mixers. This particular concoction, likely originating in the UK, takes inspiration from the classic shandy (beer and lemonade) with a twist, substituting cider for lemonade and adding blackcurrant cordial for a tart, fruity complexity. "
+    },
+    "deep_south": {
+        "description": "The Deep South is a modern take on the classic Whiskey Sour family, drawing inspiration from the Southern US's peach bounty. The mezcal adds a smoky complexity, while the rye whiskey and lemon juice offer a bright and tart base. "
+    },
+    "coffee_vodka": {
+        "description": "This Coffee-Vodka falls into the Coffee Cocktail family, a category with roots dating back to the 19th century. Its origins are likely a fusion of the classic Vodka Martini and the popularity of coffee-based drinks, creating a modern, caffeinated twist. "
+    },
+    "pink_moon": {
+        "description": "The Pink Moon is a contemporary twist on the classic Gin Sour family.  Drawing inspiration from the floral and fruity notes of the Gin Sour, it incorporates modern flavors like coconut and elderflower, resulting in a light and refreshing cocktail perfect for warm weather sipping. "
+    },
+    "white_lady": {
+        "description": "The White Lady, a classic gin sour, belongs to the **sour family**, characterized by a base spirit, citrus juice, and sweetener. Originating in the 1920s at Harry's New York Bar in Paris, it's a refreshing and tart cocktail with a rich history. "
+    },
+    "death_in_the_afternoon": {
+        "description": "Death in the Afternoon is a classic *liqueur cocktail*, a category that combines spirits with other flavors, often sweet or herbal.  Created by Ernest Hemingway, the drink  combines the anise-flavored absinthe with champagne, reflecting Hemingway's fondness for both. "
+    },
+    "godchild": {
+        "description": "The Godchild is a creamy cocktail belonging to the Creamy Liqueur family.  Its origins are somewhat murky, but it likely emerged in the late 20th century as a twist on the classic Godfather, swapping whiskey for vodka. "
+    },
+    "allegheny": {
+        "description": "The Allegheny is a unique twist on the classic Sour family, drawing inspiration from the rich history of American cocktailing. While its origins are debated, it likely emerged in the early 20th century, showcasing the versatility of bourbon and the burgeoning popularity of blackberry brandy. "
+    },
+    "highland_fling_cocktail": {
+        "description": "The Highland Fling is a classic Manhattan variation, likely born in the early 20th century. Its scotch base and orange bitters add a smoky, citrusy twist to the traditional sweet vermouth and bitters combination, perfect for a sophisticated yet approachable cocktail. "
+    },
+    "lassi_a_south_indian_drink": {
+        "description": "The Lassi, a South Indian staple, isn't a cocktail in the traditional sense but rather a refreshing beverage. It belongs to the family of yogurt-based drinks, similar to buttermilk or kefir.  Its origins trace back to ancient India, where it was enjoyed for its cooling and digestive properties. "
+    },
+    "zoksel": {
+        "description": "The Zoksel is a unique concoction that defies easy categorization.  Its base of beer, sodas, and fruit juices hints at a Boilermaker lineage, but the addition of Creme de Cassis and lemon evokes a more sophisticated, potentially European influence.  The exact origin remains shrouded in mystery. "
+    },
+    "cranberry_punch": {
+        "description": "Cranberry Punch belongs to the **Punch** family, a broad category of mixed drinks with origins tracing back to 17th century India. It's a modern take on traditional punch, incorporating fruity flavors and sparkling ginger ale for a refreshing, celebratory drink. "
+    },
+    "manhattan": {
+        "description": "The Manhattan is a classic member of the Whiskey Cocktail family, born in the late 19th century.  It's said to have originated in New York City at the Manhattan Club, hence its name.  The combination of bourbon, sweet vermouth, and bitters creates a rich, balanced, and sophisticated drink. "
+    },
+    "rosemary_blue": {
+        "description": "The Rosemary Blue belongs to the Highball family, a refreshing group of long drinks typically featuring a spirit, a mixer, and often a garnish. This contemporary twist on the classic Gin & Tonic incorporates the herbaceous notes of rosemary, bringing a modern touch to a timeless favorite. "
+    },
+    "long_island_iced_tea": {
+        "description": "The Long Island Iced Tea is a potent highball cocktail, born in the 1970s on Long Island, New York. This strong, multi-spirit drink, often mistaken for tea due to its dark color, is classified as a highball due to its base of cola and spirit ratios. "
+    },
+    "sweet_bananas": {
+        "description": "Sweet Bananas belongs to the **Milk Punch family**, a historical cocktail category featuring milk and spirits.  While its exact origin is unknown, milk punches have been enjoyed for centuries, likely originating in colonial America.  This simple yet delightful drink is a refreshing take on this classic style. "
+    },
+    "blackthorn": {
+        "description": "The Blackthorn, a simple yet elegant blend of sweet vermouth, sloe gin, and lemon peel, belongs to the classic *Old Fashioned* family. Its origin remains shrouded in mystery, but its bold, bittersweet character likely emerged from the rich history of British cocktail culture. "
+    },
+    "pysch_vitamin_light": {
+        "description": "The Psych Vitamin Light is a vibrant and refreshing fruit punch, a classic member of the non-alcoholic cocktail family. Its origins are rooted in the desire for healthy, revitalizing beverages, likely popularized in the mid-20th century as a refreshing alternative to sugary sodas. "
+    },
+    "lady_love_fizz": {
+        "description": "The Lady Love Fizz is a delightful member of the Fizz family, a classic cocktail style originating in the late 19th century. Its combination of gin, cream, and egg white creates a creamy, frothy delight, while the lemon and carbonated water provide a refreshing and bubbly finish. "
+    },
+    "old_pal": {
+        "description": "The Old Pal is a classic American variation of the Negroni, belonging to the esteemed family of bitter, spirit-forward cocktails. Its origins trace back to the 1930s, likely originating in the United States during the Prohibition era. "
+    },
+    "kiwi_papaya_smoothie": {
+        "description": "The Kiwi Papaya Smoothie isn't technically a cocktail, but rather a contemporary fruit smoothie, a modern beverage category popularized in the late 20th century.  It draws inspiration from the long tradition of blended fruit drinks, but emphasizes a fresh, healthy approach. "
+    },
+    "mr_black_espresso_martini": {
+        "description": "The Mr. Black Espresso Martini is a modern twist on the classic Espresso Martini.  Born from the coffee-cocktail craze, it blends the boldness of cold brew with the smooth elegance of vodka, a nod to the original's creamy coffee-liqueur base. "
+    },
+    "port_wine_flip": {
+        "description": "The Port Wine Flip belongs to the **Flip** family of cocktails, a historic style popular in the 18th and 19th centuries. Originating in England, these drinks were traditionally made with spirits, cream, sugar, and a raw egg, shaken vigorously to create a frothy, decadent beverage. "
+    },
+    "3_wise_men": {
+        "description": "The 3 Wise Men cocktail, a blend of Jack Daniel's, Johnnie Walker, and Jim Beam, belongs to the **Whiskey Smash** family, known for its simple, straightforward combination of whiskeys. This drink likely originated in the US, a playful nod to the diverse world of whiskey, and the trio of iconic brands. "
+    },
+    "b_53": {
+        "description": "The B-53, a harmonious blend of coffee, anise, and orange liqueur, belongs to the Coffee Cocktail family, a sub-category of the classic After-Dinner Drink. Its origin, though uncertain, is likely rooted in the early 20th century, reflecting the popularity of layered cocktails during that era. "
+    },
+    "penicillin": {
+        "description": "The Penicillin, a sophisticated twist on the classic Whisky Sour, belongs to the Sour family. Created by Sam Ross at New York's Milk & Honey, it blends the smooth sweetness of honey syrup with the bold heat of ginger and the smoky depth of Islay Scotch, a nod to the medicinal properties of penicillin. "
+    },
+    "vampiro": {
+        "description": "The Vampiro belongs to the **Bloody Mary family**, a group of tomato-based cocktails. Originating in **Mexico**, this refreshing drink blends the savory tang of tomato with the bright acidity of citrus and the kick of tequila. "
+    },
+    "privateer": {
+        "description": "The Privateer is a vibrant tropical cocktail belonging to the Sour family. Its origins likely stem from the fusion of Latin American and Caribbean influences, with the tequila and passionfruit paying homage to Mexico and the pineapple and lime reflecting the Caribbean's bounty. "
+    },
+    "hot_toddy": {
+        "description": "The Hot Toddy is a classic warming drink cocktail, often enjoyed during cold weather.  Originating in the 18th century, it's a comforting blend of whiskey, honey, spices, and citrus - a perfect remedy for a winter chill. "
+    },
+    "dry_rob_roy": {
+        "description": "The Dry Rob Roy belongs to the Manhattan family, a classic cocktail style featuring whiskey, vermouth, and bitters. This variation, believed to have originated in the early 20th century, swaps the traditional sweet vermouth for dry vermouth and adds a citrus twist for a lighter, more refreshing profile. "
+    },
+    "whitecap_margarita": {
+        "description": "The Whitecap Margarita is a delightful twist on the classic Margarita, belonging to the Sour family. This creamy, tropical take emerged in the 1970s, likely born from the desire to create a more approachable, sweeter version of the traditional tequila cocktail. "
+    },
+    "monkey_gland": {
+        "description": "The Monkey Gland, a gin-based concoction, belongs to the Sour family, characterized by its tart, citrusy flavor. Originating in the 1920s, it was likely named after the then-popular monkey gland injections, a fad that promised rejuvenation. "
+    },
+    "kiwi_lemon": {
+        "description": "The Kiwi Lemon belongs to the **Highball** family, a simple yet refreshing mix of spirits and soda. Its origin likely draws inspiration from the classic Gin and Tonic, substituting the gin with Kiwi liqueur and the tonic with Bitter Lemon for a uniquely fruity and tangy twist. "
+    },
+    "vodka_russian": {
+        "description": "The Vodka Russian is a simple highball, a classic cocktail style dating back to the 19th century.  This particular iteration, likely a modern invention, plays on the Russian name, pairing vodka with a popular Schweppes mixer.  The combination offers a refreshing, slightly sweet and bubbly drink. "
+    },
+    "nutty_irishman": {
+        "description": "The Nutty Irishman, a creamy blend of Baileys Irish Cream, Frangelico, and milk, falls into the **creamy cocktail family**. It's likely a modern invention, combining popular Irish and Italian liqueurs for a rich, nutty, and decadent treat. "
+    },
+    "orange_rosemary_collins": {
+        "description": "The Orange Rosemary Collins is a modern twist on the classic Collins family, a highball cocktail traditionally made with gin or whiskey and a citrus juice base. This refreshing concoction incorporates rosemary's herbal complexity, a recent trend in cocktail innovation. "
+    },
+    "brigadier": {
+        "description": "The Brigadier, a unique blend of hot chocolate, Green Chartreuse, and Cherry Heering, defies easy categorization. It's likely a modern invention, drawing inspiration from the warm, comforting flavors of traditional hot chocolate and the herbal, bittersweet notes of Chartreuse. "
+    },
+    "egg_cream": {
+        "description": "The Egg Cream, a delightful concoction of chocolate syrup, milk, and soda water, belongs to the **soda fountain** family.  Originating in the late 19th century in New York City, it was a popular treat in drugstores and soda fountains, offering a refreshing and creamy chocolatey experience. "
+    },
+    "rum_cooler": {
+        "description": "The Rum Cooler is a classic highball, a family of cocktails typically made with a spirit, a mixer, and often a citrus element. Its origins likely trace back to the 19th century, where rum was readily available and simple, refreshing drinks were in demand. "
+    },
+    "radioactive_long_island_iced_tea": {
+        "description": "The Radioactive Long Island Iced Tea belongs to the Long Island Iced Tea family, a potent mix of multiple spirits. While the exact origins are debated, the Long Island Iced Tea emerged in the 1970s, likely as a bar creation to quickly serve large groups. "
+    },
+    "aviation": {
+        "description": "The Aviation, a gin-based cocktail, belongs to the Sour family, characterized by its tart, citrusy profile. Created in the early 20th century, this classic drink is often attributed to Hugo Ensslin, a renowned bartender at the Hotel Wallick in New York City. "
+    },
+    "mojito": {
+        "description": "The Mojito belongs to the Highball family, characterized by its tall, chilled presentation and combination of spirits, mixers, and ice.  Originating in Cuba, the Mojito's origins can be traced back to a 16th-century drink called Draque made with sugarcane juice, lime, and mint. "
+    },
+    "harvey_wallbanger": {
+        "description": "The Harvey Wallbanger is a member of the Highball cocktail family, known for its tall, mixed-drink format. Originating in the 1960s, it gained popularity with its sweet, citrusy profile, likely inspired by the Screwdriver cocktail, but with the addition of the herbal liqueur Galliano. "
+    },
+    "bluebird": {
+        "description": "The Bluebird is a vibrant twist on the classic Gin Sour family. While its precise origins are unclear, it likely emerged in the mid-20th century, drawing inspiration from the popularity of blue cura\u00e7ao and other vibrant liqueurs. Its combination of citrus, gin, and bitters creates a refreshingly tart and slightly bitter cocktail, ideal for a summer afternoon. "
+    },
+    "cuba_libra": {
+        "description": "The Cuba Libre, a member of the Highball family, boasts a simple yet invigorating blend. Born in Havana, Cuba, during the early 20th century, this iconic cocktail was initially a celebratory drink for the liberation of Cuba from Spanish rule. "
+    },
+    "easy_speak": {
+        "description": "Easy Speak, with its Bourbon base and bitter-sweet notes, is a modern take on the classic Old Fashioned. The addition of Cynar and chocolate bitters adds a unique, complex flavor profile, showcasing the artistry of contemporary cocktail culture. "
+    },
+    "spice_75": {
+        "description": "The Spice 75, a delightful twist on the classic French 75, belongs to the **Champagne Cocktail** family. Its origins likely stem from the Caribbean, where rum and spice combinations were popular, offering a unique twist on the French 75's sophisticated elegance. "
+    },
+    "san_francisco": {
+        "description": "The San Francisco is a bright and fruity cocktail belonging to the Sour family. It's a modern twist on the classic Whiskey Sour, with vodka replacing whiskey and the addition of banana liqueur and grenadine for a tropical flair. "
+    },
+    "lone_tree_cocktail": {
+        "description": "The Lone Tree Cocktail is a classic Martini variation, a member of the esteemed gin-based cocktail family.  While its exact origin is shrouded in mystery, its simple elegance points to a likely birth in the late 19th or early 20th century, a time when gin cocktails were all the rage. "
+    },
+    "radler": {
+        "description": "The Radler, a refreshing blend of beer and lemon-lime soda, belongs to the **Shandy** family.  Originating in Germany, the Radler was invented in the 1920s by a Bavarian innkeeper who diluted his beer with lemonade to serve the influx of cyclists. "
+    },
+    "applecar": {
+        "description": "The Applecar, with its base of Applejack and citrus, belongs to the Sour family of cocktails. Its origin is likely a modern twist on classic sour recipes, incorporating the unique flavor of Applejack, a spirit distilled from apple cider. "
+    },
+    "margarita": {
+        "description": "The Margarita, a member of the sour family, boasts a vibrant history. Born in the 1930s, it's believed to have originated in Mexico, with its tequila base and citrusy lime juice creating a refreshing and iconic taste. "
+    },
+    "the_jimmy_conway": {
+        "description": "The Jimmy Conway is a riff on the classic Whiskey Sour family, utilizing the sweet, nutty notes of Amaretto to complement the Irish Whiskey base.  While its exact origin is unknown, the blend of Irish whiskey, sweet liqueur, and tart juice is reminiscent of the popular Irish Coffee  and Irish Cream drinks. "
+    },
+    "bahama_mama": {
+        "description": "The Bahama Mama, a tropical concoction bursting with rum, fruit juices, and sweet liqueurs, belongs to the **rum punch** family. It's said to have originated in the 1950s at the **Bahama Beach Club** in Nassau, Bahamas, becoming a popular vacation drink ever since. "
+    },
+    "tomato_tang": {
+        "description": "The Tomato Tang belongs to the **savory cocktail** family, a category that emerged in the early 20th century. Its simplicity suggests an American origin, likely born during the Prohibition era, when resourceful bartenders experimented with readily available ingredients. "
+    },
+    "texas_rattlesnake": {
+        "description": "The Texas Rattlesnake belongs to the Highball family, known for their tall, mixed drinks with a base spirit and a mixer. Its origins are likely rooted in the American South, where it gained popularity in the 1970s, reflecting a blend of regional favorites like Southern Comfort and cherry brandy. "
+    },
+    "hemingway_special": {
+        "description": "The Hemingway Special, a refreshing blend of rum, grapefruit, maraschino, and lime, is a classic **rum sour**.  It's rumored to be a favorite of Ernest Hemingway, though its origins remain shrouded in mystery. "
+    },
+    "snowball": {
+        "description": "The Snowball, a creamy, tangy delight, belongs to the **liqueur-based cocktail family**, with roots in **19th-century England**. It's a simple blend of the Dutch egg liqueur, Advocaat, with citrusy lemonade and lemon, creating a refreshing and indulgent drink. "
+    },
+    "mudslinger": {
+        "description": "The Mudslinger is a highball cocktail, a refreshing mix of spirits, juices, and soda. Its origin is likely a Southern US invention, drawing inspiration from the region's love for sweet, easy-drinking drinks.  The combination of Southern Comfort's whiskey base with citrus and cola is a classic example of this style. "
+    },
+    "lemouroudji": {
+        "description": "The Lemouroudji, with its ginger, lemon, and cayenne pepper, belongs to the **Ginger family** of cocktails.  This refreshing, spicy concoction likely originated in the Caribbean, where ginger and cayenne pepper are common ingredients in traditional drinks. "
+    },
+    "irish_coffee": {
+        "description": "Irish Coffee, a member of the **Coffee Cocktail** family, was born in the 1940s at Foynes Flying Boat Base in Ireland. It's a warm and comforting blend of Irish whiskey, hot coffee, sugar, and a fluffy crown of whipped cream. "
+    },
+    "texas_sling": {
+        "description": "The Texas Sling belongs to the Coffee Cocktail family, a category of drinks featuring coffee liqueur. This particular concoction likely originated in the 1980s, born from the era's love for sweet, layered cocktails.  "
+    },
+    "negroni": {
+        "description": "The Negroni is a classic Italian bitter aperitivo, belonging to the Americano family of cocktails.  Born in Florence in 1919, it's named after Count Camillo Negroni, who requested a stronger version of the Americano by replacing the soda water with gin. "
+    },
+    "24k_nightmare": {
+        "description": ""
+    },
+    "69_special": {
+        "description": "The 69 Special belongs to the Highball family, characterized by their tall, mixed-drink format. Its origins are likely rooted in the early 20th century, a time when gin-based cocktails were popular and 7-Up emerged as a popular soda. "
+    },
+    "poppy_cocktail": {
+        "description": "The Poppy Cocktail, a harmonious blend of gin and cr\u00e8me de cacao, belongs to the **liqueur-based cocktail** family. While its exact origins are unclear, its composition suggests a  connection to the **classic French Cr\u00e8me de Menthe** cocktails popular in the early 20th century. "
+    },
+    "scooter": {
+        "description": "The Scooter is a creamy cocktail, likely belonging to the Brandy Alexander family, known for its rich, decadent flavors.  While its exact origins are unknown, it likely emerged in the 1970s or 1980s, influenced by the popularity of creamy liqueurs like Amaretto. "
+    },
+    "lemon_shot": {
+        "description": "The Lemon Shot, a vibrant blend of Galliano, Absolut Citron, lemon, sugar, and 151 proof rum, belongs to the **Shooter** family. This high-proof, punchy cocktail likely originated in the late 20th century, reflecting the era's love for bold flavors and quick, potent drinks. "
+    },
+    "dirty_martini": {
+        "description": "The Dirty Martini belongs to the Martini family, a sophisticated and iconic cocktail group.  Originating in the late 19th century, the Dirty Martini adds a salty, briny edge to the classic Martini with olive brine, a twist that gained popularity in the mid-20th century. "
+    },
+    "b_52": {
+        "description": "The B-52 is a layered shot, a classic cocktail family known for its visually striking appearance.  Originating in the 1970s, likely in the United States, this cocktail gets its name from the B-52 bomber aircraft, with its layered colors representing the plane's markings. "
+    },
+    "new_york_lemonade": {
+        "description": "The New York Lemonade belongs to the Sour family, a classic cocktail style characterized by a base spirit, citrus juice, and a sweetener. While its exact origins are unclear, its bright, refreshing nature likely draws inspiration from the 19th-century New York bar scene. "
+    },
+    "ice_pick": {
+        "description": "The Ice Pick belongs to the Highball family, a refreshing mix of spirits, mixers, and ice. Its origins are likely modern, born from the desire for a simple, cool, and invigorating drink using readily available ingredients. "
+    },
+    "mango_mojito": {
+        "description": "The Mango Mojito belongs to the Mojito family, a Cuban classic. This tropical twist on the original adds mango sweetness and aroma, enhancing the refreshing lime and mint flavors.  "
+    },
+    "long_island_tea": {
+        "description": "The Long Island Iced Tea is a potent member of the highball family, known for its tall, mixed drink format. Originating in the 1970s, its creation is debated, but it's believed to have stemmed from Long Island, New York. "
+    },
+    "fruit_cooler": {
+        "description": "The Fruit Cooler belongs to the **fruit punch family**, a refreshing beverage with roots in the **18th century**. Its origin is likely rooted in the colonial American tradition of mixing fruit juices, sugar, and spirits, evolving into a non-alcoholic, celebratory drink. "
+    },
+    "gin_sour": {
+        "description": "The Gin Sour is a classic member of the Sour family, a group of cocktails typically made with a spirit, citrus juice, and sweetener. Its origins are murky, but it's likely a variation on the Whiskey Sour, popularized in the 19th century and enjoyed by both bartenders and home drinkers alike. "
+    },
+    "stinger": {
+        "description": "The Stinger, a potent blend of brandy and white cr\u00e8me de menthe, belongs to the **liqueur cocktail** family.  Originating in the early 20th century, it's believed to have been created at the Knickerbocker Hotel in New York City, gaining popularity during the roaring twenties. "
+    },
+    "karsk": {
+        "description": "Karsk, a potent coffee-based drink, belongs to the Hot Toddy family, originating in Sweden. This traditional drink, made with strong coffee and grain alcohol, is a warming concoction enjoyed during cold winter months. "
+    },
+    "espresso_rumtini": {
+        "description": "The Espresso Rumtini is a vibrant member of the coffee cocktail family, drawing inspiration from the classic Martini. This invigorating blend, likely born from a desire to elevate the after-dinner coffee experience, fuses the richness of rum with the bold intensity of espresso and the sweetness of vanilla. "
+    },
+    "long_vodka": {
+        "description": "Long Vodka is a refreshing highball, a cocktail family known for their tall, mixed-drink format. Its origins are likely modern, a twist on the classic Gin and Tonic, using vodka's clean taste and the citrusy bite of lime. "
+    },
+    "iced_coffee_fillip": {
+        "description": "The Iced Coffee Fillip is a classic **coffee cocktail**, a variation on the coffee liqueur and coffee theme.  Its origins likely lie in the early 20th century, a time when coffee was becoming increasingly popular, and bartenders were experimenting with new ways to incorporate it into cocktails. "
+    },
+    "limeade": {
+        "description": "Limeade, a refreshing summer staple, belongs to the **Fruity Fizz** cocktail family. Its origins are debated, likely originating in the Caribbean or Southeast Asia, where limes are abundant.  It's a simple yet timeless combination of lime juice, sugar, soda water, and a touch of lime peel for aroma. "
+    },
+    "almeria": {
+        "description": "Almeria belongs to the classic **Egg White Cocktail** family, known for its frothy texture and often featuring spirits like rum and coffee liqueurs. While its exact origin is unclear, its ingredients suggest a Caribbean influence, possibly emerging from Spanish-colonial Almeria, Spain. "
+    },
+    "acapulco": {
+        "description": "The Acapulco is a refreshing twist on the classic Daiquiri family, with its base of rum, lime, and sugar.  Though its exact origin is debated, it likely emerged in the mid-20th century, reflecting the growing popularity of Mexican-inspired cocktails. "
+    },
+    "the_philosopher": {
+        "description": "The Philosopher is a twist on the classic Fizz family. It's a modern concoction, likely born in a contemporary bar scene, combining the bracing gin and citrus base with the sweetness of melon liqueur, the complexity of bitters, and the celebratory effervescence of Prosecco. "
+    },
+    "zipperhead": {
+        "description": "The Zipperhead cocktail is a modern spin on the classic Fizz family, characterized by its bubbly, refreshing nature. The combination of Chambord's raspberry sweetness, vodka's crispness, and soda water's effervescence creates a contemporary twist on this timeless style. Its exact origin remains obscure, likely emerging from the recent craft cocktail scene. "
+    },
+    "port_and_starboard": {
+        "description": "The Port and Starboard, a vibrant green concoction, hails from the **layered cocktail** family. Its origins remain shrouded in mystery, likely emerging in the late 19th or early 20th century, a time when layered drinks were gaining popularity.  "
+    },
+    "tres_pasion": {
+        "description": "Tres Pasion draws inspiration from the vibrant world of South American cocktails. This refreshingly tangy concoction blends the fruit-forward sweetness of Passionfruit Syrup with the fiery kick of Tequila, creating a delightful fusion of flavors reminiscent of classic Latin American libations.  "
+    },
+    "fig_manhattan": {
+        "description": "The Fig Manhattan is a twist on the classic Manhattan, a member of the Whiskey Cocktail family. This modern variation, likely born in the 2010s,  uses fig syrup to add a unique sweetness and complexity, showcasing the versatility of the Manhattan's base recipe. "
+    },
+    "holloween_punch": {
+        "description": "This Halloween Punch falls into the **Punch cocktail family**, a broad category with roots in the 16th century. Its origins likely lie in the tradition of large, communal drinks, often served at social gatherings, with the inclusion of sherbet adding a fun, fizzy twist. "
+    },
+    "jacks_vanilla_coke": {
+        "description": "Jack's Vanilla Coke belongs to the highball family, a simple yet elegant combination of spirits and a mixer.  This riff on the classic Whiskey Coke introduces a touch of sweetness and vanilla complexity, likely born from a desire to elevate the classic drink. "
+    },
+    "corpse_reviver": {
+        "description": "The Corpse Reviver No. 2 is a classic cocktail belonging to the **Sour** family, a category characterized by a base spirit, citrus juice, and a sweetener.  Its origin dates back to the 1920s, likely invented by Harry MacElhone at Harry's New York Bar in Paris. "
+    },
+    "duchamps_punch": {
+        "description": "Duchamp's Punch is a contemporary twist on the classic South American Pisco Sour family.  The addition of St. Germain, lavender, and pepper adds modern complexity and a touch of floral intrigue, making it a unique and flavorful take on the iconic cocktail. "
+    },
+    "vesuvio": {
+        "description": "The Vesuvio, a classic from the early 20th century, is a member of the Sour family. This Cuban cocktail, popularized in Havana's famed Hotel Nacional, blends rum's sweetness with the tartness of lemon and vermouth, creating a smooth, frothy delight. "
+    },
+    "imperial_cocktail": {
+        "description": "The Imperial Cocktail, a refreshing blend of lime juice, gin, and Aperol, belongs to the **Gin Sour family**. Its origins are debated, but likely emerged in the **1920s**, during the American Prohibition era, as a twist on the classic Gin Sour. "
+    },
+    "9_1_2_weeks": {
+        "description": "The 9 1/2 Weeks cocktail, with its citrusy base and fruit liqueurs, belongs to the **Sour family**, a classic cocktail style originating in the 18th century. It likely emerged from the American bar scene, combining the tartness of citrus with the sweetness of liqueurs and the refreshing touch of fruit juice. "
+    },
+    "gin_daisy": {
+        "description": "The Gin Daisy is a classic sour cocktail, a family known for its tart, refreshing profile.  It likely emerged in the late 19th century, a twist on the classic Daisy, using gin instead of whiskey. The sweetness of grenadine and maraschino cherry add a playful touch. "
+    },
+    "zorro": {
+        "description": "The Zorro cocktail, with its creamy base and minty sweetness, belongs to the **layered shooter family**, a group of drinks known for their distinct visual layers. Its origins are uncertain, likely a modern concoction born in the home-bartending realm. "
+    },
+    "elderflower_caipirinha": {
+        "description": "The Elderflower Caipirinha is a modern twist on the classic Caipirinha, hailing from Brazil.  It belongs to the Sour family, characterized by a base spirit, citrus juice, and a sweetener. The elderflower cordial adds a floral complexity, elevating the traditional rum-based sour. "
+    },
+    "melya": {
+        "description": "The Melya, a harmonious blend of espresso, honey, and cocoa powder, is a member of the Coffee Cocktail family. This sophisticated drink likely originated in Italy, where espresso is king and sweetening with honey is a traditional practice. "
+    },
+    "pure_passion": {
+        "description": "Pure Passion belongs to the **Sour** family, a classic cocktail style with roots in the 18th century. Its vibrant blend of rum, tropical fruit flavors, and a touch of bitterness echoes the spirit of tiki cocktails, popularized in the mid-20th century. "
+    },
+    "martinez_2": {
+        "description": "The Martinez 2 belongs to the classic Old Tom Gin Cocktail family, sharing roots with the Martini.  It's a historical predecessor, emerging in the late 19th century at the Martinez Hotel in San Francisco, and is believed to have inspired the Martini's evolution. "
+    },
+    "mimosa": {
+        "description": "The Mimosa, a quintessential brunch staple, belongs to the **Fizz family**, characterized by the combination of sparkling wine and a citrus juice.  Its origins trace back to the late 19th century, likely originating in France, where it was initially called Buck's Fizz. "
+    },
+    "white_russian": {
+        "description": "The White Russian, a creamy and decadent concoction, belongs to the Coffee Cocktail family.  Born in the 1940s, likely in Belgium, it is a close cousin to the Black Russian, differing only by the addition of cream.  "
+    },
+    "afterglow": {
+        "description": "The Afterglow is a classic **tropical cocktail**, a refreshing blend of sweet and tart flavors. While its exact origins are unclear, its simplicity and fruity profile point to its likely development in the 1920s-1930s, during the cocktail boom in the US and Caribbean. "
+    },
+    "popped_cherry": {
+        "description": "The Popped Cherry belongs to the Sour family, a classic cocktail group characterized by a balance of sweet, sour, and spirit.  While its exact origin is unknown, it likely evolved from the popular Cranberry Sour with the addition of cherry liqueur for a vibrant, fruity twist. "
+    },
+    "flander's_flake_out": {
+        "description": ""
+    },
+    "clove_cocktail": {
+        "description": "The Clove Cocktail is a member of the classic Sweet Vermouth cocktail family, often featuring bittersweet liqueurs like sloe gin.  Though its exact origin is unknown, its combination of botanicals and sweet-tart flavors suggests a mid-19th century origin, possibly from a London or New York bar. "
+    },
+    "vodka_tonic": {
+        "description": "The Vodka Tonic is a quintessential Highball, a family of long, refreshing drinks built on a base spirit and a mixer.  Originating in the early 20th century, the Vodka Tonic combines the clean taste of vodka with the effervescent bitterness of tonic water, garnished with a citrus twist. "
+    },
+    "dirty_nipple": {
+        "description": ""
+    },
+    "zippy's_revenge": {
+        "description": ""
+    },
+    "stolen_negroni": {
+        "description": "The Stolen Negroni is a modern riff on the classic Negroni, drawing from the bitter-sweet Italian Negroni family. It swaps Campari for Cynar and Aperol, creating a unique flavor profile that blends the herbal bitterness of Cynar with the bright orange notes of Aperol. "
+    },
+    "quakers_cocktail": {
+        "description": "The Quaker's Cocktail is a classic Sour, a family of cocktails characterized by their combination of spirit, citrus juice, and sweetener. Its origins are shrouded in mystery, but its components suggest a late 19th or early 20th century creation, likely emerging from the era of American cocktail innovation. "
+    },
+    "grapefruit_gin_sour": {
+        "description": "The Grapefruit Gin Sour belongs to the Sour family, a classic cocktail style dating back to the 18th century.  This twist on the traditional sour utilizes the bitter-sweet notes of Aperol, adding a refreshing Italian touch to the traditional citrus and spirit base. "
+    },
+    "oaxacan_old_fashioned": {
+        "description": "The Oaxacan Old Fashioned is a modern twist on the classic Old Fashioned, drawing inspiration from the rich history of mezcal in Oaxaca, Mexico.  It's a riff on the classic, adding smoky mezcal to the traditional sugar, bitters, and spirit base, creating a complex and nuanced flavor profile. "
+    },
+    "rum_sour": {
+        "description": "The Rum Sour is a classic Sour, a cocktail family known for its simplicity and balance of spirit, citrus, and sweetener.  Its origins are debated, but likely emerged in the 1800s, likely a rum-based adaptation of the whiskey Sour. "
+    },
+    "aramadillo\u2019s_light": {
+        "description": "Aramadillo's Light is a unique twist on the classic Sour family, showcasing a vibrant tropical profile. Its origins likely lie in the modern cocktail scene, combining classic sour elements with contemporary flavor trends. "
+    },
+    "americano": {
+        "description": "The Americano belongs to the **Aperitivo** family, a category of Italian cocktails designed to stimulate the appetite before a meal. It originated in **Milan, Italy**, in the late 19th century, and its name is a nod to the popularity of American tourists who frequented its birthplace, the Caf\u00e9 Campari. "
+    },
+    "mauresque": {
+        "description": "The Mauresque belongs to the **French aperitif** family, a category known for its refreshing and stimulating qualities. This specific cocktail hails from the **southern region of France**, likely originating in the early 20th century, during the rise of Ricard's popularity. "
+    },
+    "at&t": {
+        "description": "The AT&T is a unique twist on the classic Gin & Tonic, belonging to the Highball family. Its origin is unclear, but the name likely references the telecommunications giant's connection to gin,  as it was once distributed by AT&T employees during the Prohibition era. "
+    },
+    "halekulani": {
+        "description": "The Halekulani, a vibrant fusion of tropical fruit juices and warming bourbon, belongs to the **Sour family**, with its tart citrus base and sweet syrup components.  While its exact origin remains shrouded in mystery, it likely emerged from the vibrant cocktail culture of Hawaii, where its name, meaning House of the Ocean, reflects its refreshing island spirit. "
+    },
+    "double_fill_up": {
+        "description": "The Double Fill Up is a classic Sour, a cocktail family known for its tart and sweet balance.  Sour cocktails originated in the 18th century, likely in the American colonies, using whiskey, citrus, and sugar. The Double Fill Up offers a unique twist with rye and grenadine, showcasing a rich and complex flavor profile. "
+    },
+    "avalanche": {
+        "description": "The Avalanche belongs to the creamy cocktail family, characterized by its smooth, sweet, and decadent texture.  Though its exact origin is unknown, it's likely a modern creation, popularized in the late 20th century for its simple yet satisfying blend of whiskey, coffee liqueur, and cream. "
+    },
+    "zenmeister": {
+        "description": "The Zenmeister is a unique twist on the classic J\u00e4ger Bomb, a highball cocktail. This combination of J\u00e4germeister, a German herbal liqueur, with the sweetness of root beer originated in the early 2000s, likely emerging from the college party scene. "
+    },
+    "empell\u00f3n_cocinas_fat_washed_mezcal": {
+        "description": "This cocktail belongs to the **Coffee & Chocolate** family, a sub-genre of the **Digestif** category.  Its origins trace back to the 19th century, where coffee and chocolate liqueurs were popular after-dinner drinks.  This modern twist uses mezcal, a smoky spirit, to add a distinctive touch. "
+    },
+    "ruby_tuesday": {
+        "description": "The Ruby Tuesday is a classic sour cocktail, a family known for its tart and refreshing flavors.  While its exact origin is unknown, it likely emerged in the 1950s-60s, taking inspiration from the popularity of sour cocktails and the bright red hues of cranberry and grenadine. "
+    },
+    "tuxedo_cocktail": {
+        "description": "The Tuxedo Cocktail is a classic member of the Martini family, dating back to the early 20th century. Its origins are shrouded in mystery, but it's likely a variation on the Martinez, with the addition of maraschino liqueur and anise adding a sweet, herbal complexity. "
+    },
+    "kool-aid_shot": {
+        "description": ""
+    },
+    "downshift": {
+        "description": "Downshift is a contemporary concoction that falls under the umbrella of highball cocktails, characterized by their simple construction and tall, ice-filled serving style.  It's likely a modern invention, combining the fruity sweetness of fruit punch and Sprite with the potent kick of tequila and 151 proof rum. "
+    },
+    "turkeyball": {
+        "description": "The Turkeyball, a blend of Wild Turkey bourbon, Amaretto, and pineapple juice, belongs to the **Whiskey Sour family**. This simple, refreshing cocktail likely originated in the late 20th century, a product of the American cocktail renaissance that embraced both classic and new combinations. "
+    },
+    "million_dollar_gin": {
+        "description": "The Million Dollar Gin is a twist on the classic Gin Sour, a cocktail family known for its tart, refreshing balance of gin, citrus, and sweetener.  Its origins remain unclear, but it likely emerged in the mid-20th century as a playful take on the classic, incorporating tropical pineapple and vibrant grenadine. "
+    },
+    "lassi_sweet": {
+        "description": "The Lassi - Sweet isn't technically a cocktail, but a traditional Indian beverage. It belongs to the **Milk Punch** family, characterized by its milky base and refreshing nature. Originating in the Indian subcontinent, the Lassi is a centuries-old drink enjoyed for its cooling and hydrating properties. "
+    },
+    "gin_lemon": {
+        "description": "The Gin Lemon is a classic Sour, a cocktail family that originated in the 18th century. Its simplicity is a hallmark of the style, showcasing the bright acidity of lemon juice and the botanicals of gin, creating a refreshing and invigorating drink. "
+    },
+    "flanders_flake_out": {
+        "description": "Flander's Flake-Out, a unique blend of Sambuca and Sarsaparilla, belongs to the liqueur-based cocktail family. Its origin likely stems from the 19th century, a time when sarsaparilla was a popular American soda and Sambuca was gaining traction in Europe. "
+    },
+    "french_negroni": {
+        "description": "The French Negroni is a twist on the classic Negroni, belonging to the Negroni family. It swaps Campari for the French aperitif Lillet, adding a lighter, more floral twist. Its origin likely stems from the mid-20th century, as Lillet rose to popularity in the 1950s. "
+    },
+    "110_in_the_shade": {
+        "description": "110 in the Shade is a unique blend of beer and tequila, falling into the Highball cocktail family.  Its origin remains shrouded in mystery, but the combination likely emerged from the desire to mix traditional Mexican flavors with a refreshing, thirst-quenching beer base. "
+    },
+    "a_j": {
+        "description": "The A.J. is a classic highball, a refreshing blend of spirits and fruit juice.  Its origins likely lie in the early 20th century, born from the desire for simple yet invigorating drinks, mirroring the popularity of the Tom Collins and other fruit-forward cocktails of the era. "
+    },
+    "rusty_nail": {
+        "description": "The Rusty Nail is a member of the **Whisky Cocktail** family.  It originated in the 1930s, likely in the UK, and is known for its simple yet sophisticated blend of Scotch whisky and the sweet, herbal liqueur Drambuie. "
+    },
+    "queen_bee": {
+        "description": "The Queen Bee blends the warmth of coffee brandy, the tang of lime vodka, and the nutty complexity of sherry. This cocktail draws inspiration from the classic Brandy Alexander family, featuring a layered sweetness and a smooth finish. Its origin likely lies in the modern era, a creative fusion of classic and contemporary flavors. "
+    },
+    "toronto": {
+        "description": "The Toronto is a riff on the classic Manhattan, a member of the Whiskey Cocktail family.  Its unique blend of rye, Fernet, and aromatic bitters likely originated in the Canadian city of Toronto, reflecting the city's vibrant cocktail culture. "
+    },
+    "near_and_dear": {
+        "description": "The Near and Dear is a riff on the classic Whiskey Sour family, born from the blending of Tennessee whiskey's smooth character with bright citrus and a hint of sweetness. The addition of egg white lends a creamy texture and elegant foam, elevating it to a sophisticated twist on a familiar favorite. "
+    },
+    "hot_chocolate_to_die_for": {
+        "description": "This decadent concoction belongs to the **Hot Toddy** family, offering warmth and comfort like its namesake.  Though not a classic, Hot Chocolate to Die For likely emerged in the 20th century, fueled by the American love for all things chocolate and cozy. "
+    },
+    "space_odyssey": {
+        "description": "The Space Odyssey is a tropical cocktail, drawing heavily on the classic Rum Runner family. Its sweet, fruity profile likely emerged in the 1970s, when tropical cocktails gained popularity, reflecting the space race era's fascination with the unknown. "
+    },
+    "mint_julep": {
+        "description": "The Mint Julep is a classic member of the Whiskey Sour family, a category defined by its use of whiskey, citrus, and sweetener.  Originating in the American South, it's a refreshing and iconic drink deeply tied to Kentucky's bourbon culture. "
+    },
+    "granada_diablo": {
+        "description": "The Granada Diablo is a contemporary twist on the classic Sour family.  While its exact origin is unknown, its vibrant blend of sweet, spicy, and tart flavors reflects the modern mixologist's penchant for playful experimentation, drawing inspiration from both traditional and contemporary techniques. "
+    },
+    "155_belmont": {
+        "description": "The 155 Belmont belongs to the **Rum Punch** family. It's a modern twist on classic Caribbean cocktails, incorporating vodka for a contemporary edge. Its precise origin is unknown, but the combination of rums and orange juice suggests a playful homage to the sun-drenched islands. "
+    },
+    "blood_moon": {
+        "description": "Blood Moon is a contemporary twist on the classic Whiskey Sour family.  While its origins are modern, it draws inspiration from the sour's citrus-forward profile, employing blood orange cordial and lemon juice, while adding a touch of complexity with bourbon, aromatic bitters, and peach bitters. "
+    },
+    "a1": {
+        "description": "A1 belongs to the Sour family, a classic cocktail style characterized by its tart, balanced flavors. Though its exact origins are unclear, it likely emerged in the early 20th century, drawing inspiration from the iconic Whiskey Sour and its numerous variations. "
+    },
+    "clover_club": {
+        "description": "The Clover Club is a classic sour cocktail, a family known for their tart, refreshing flavors. It originated in the late 19th century at the Clover Club in Philadelphia, gaining popularity for its unique egg white foam and vibrant pink hue. "
+    },
+    "casino_royale": {
+        "description": "The Casino Royale belongs to the classic **sour** family, characterized by the tangy combination of citrus and spirits.  While its exact origin is debated, it's likely a variation of the **Gin Daisy**, a popular drink in the early 20th century. "
+    },
+    "50_50": {
+        "description": "The 50/50 is a classic example of a **highball**, a family of mixed drinks typically served in tall glasses with a base spirit and a mixer. Its origins likely lie in the early 20th century, where the popularity of citrus-based cocktails like the Screwdriver and Orange Blossom blossomed. "
+    },
+    "thriller": {
+        "description": "The Thriller likely belongs to the **Highball** family, characterized by their tall, mixed drink format.  While its specific origin is unknown, the combination of Scotch, wine, and orange juice suggests a unique twist on the classic Scotch and Soda with a fruity touch, perhaps inspired by the Whiskey Sour tradition. "
+    },
+    "tom_collins": {
+        "description": "The Tom Collins is a classic gin sour, a cocktail family known for its tart, refreshing flavors.  Its origin is debated, with claims ranging from a 19th-century New York bartender to a British comedian's joke. "
+    },
+    "ramos_gin_fizz": {
+        "description": "The Ramos Gin Fizz is a classic American Fizz, originating in the late 19th century at the famed New Orleans bar, The Imperial Cafe. This complex, creamy concoction is known for its frothy texture, achieved through vigorous shaking with egg white and soda water.  "
+    },
+    "wine_cooler": {
+        "description": "The Wine Cooler belongs to the **Highball** family, a simple yet refreshing cocktail style. Though its exact origins are murky, it likely emerged in the late 20th century, fueled by the popularity of ready-to-drink beverages. "
+    },
+    "broadside": {
+        "description": "The Broadside, with its potent rum and scotch base,  belongs to the robust world of **highball cocktails**.  Its origins likely stem from the 19th century, reflecting the era's fascination with strong spirits and bold flavors. The use of wormwood, a key ingredient in absinthe, hints at the cocktail's connection to the historical death in the afternoon era. "
+    },
+    "flaming_dr._pepper": {
+        "description": ""
+    },
+    "bible_belt": {
+        "description": "The Bible Belt is a classic sour cocktail, a family known for their tangy, citrusy profiles. It's likely a Southern invention, blending the warmth of Southern Comfort with the sweetness of Triple Sec and lime, creating a refreshing drink perfect for the region's climate. "
+    },
+    "whiskey_sour": {
+        "description": "The Whiskey Sour is a classic member of the Sour family, characterized by its blend of whiskey, citrus juice, and sweetener.  Born in the 1800s, likely in America, it remains a staple, with countless variations but always retaining its refreshing, tart appeal. "
+    },
+    "sidecar": {
+        "description": "The Sidecar, a classic cocktail, belongs to the Sour family, characterized by its tangy, citrusy base.  Its origin is shrouded in mystery, with claims ranging from a Parisian bar in the early 1900s to a British officer in WWI. "
+    },
+    "dont_scoff_at_the_scoff": {
+        "description": "Don't Scoff at the Scoff is a captivating riff on the classic Old Fashioned, drawing inspiration from its rich history of bourbon, bitters, and sweetening agents.  The addition of mezcal and orgeat brings a modern twist,  creating a layered and complex cocktail that celebrates both tradition and innovation. "
+    },
+    "turf_cocktail": {
+        "description": "The Turf Cocktail is a classic dry Martini variation.  Its origin is shrouded in mystery, likely dating back to the early 20th century.  The addition of anise and bitters to the traditional gin and vermouth base adds complexity and intrigue to this sophisticated drink. "
+    },
+    "frozen_pineapple_daiquiri": {
+        "description": "The Frozen Pineapple Daiquiri is a refreshing twist on the classic Daiquiri family, a rum-based cocktail originating in Cuba.  This tropical take swaps the traditional lime for pineapple, creating a sweet and tangy summer treat perfect for sipping poolside. "
+    },
+    "red_snapper": {
+        "description": "The Red Snapper is a fruity, sweet cocktail belonging to the Sour family.  It's a modern invention, likely originating in the late 20th century, combining the sweet, nutty notes of Amaretto with the tartness of cranberry juice and the smooth character of Crown Royal whiskey. "
+    },
+    "kentucky_mai_tai": {
+        "description": "The Kentucky Mai Tai is a unique twist on the classic Polynesian cocktail family, blending traditional Mai Tai elements like orgeat and rum with American influences. The bourbon, mezcal, and Cynar add smoky, herbal, and bittersweet notes, while the peach liqueur and lemon juice provide a balance of sweetness and acidity. "
+    },
+    "port_wine_cocktail": {
+        "description": "The Port Wine Cocktail, a blend of fortified Port and Brandy, belongs to the **Brandy Cocktail** family.  Originating in the 19th century, it's a classic variation on the Brandy Alexander, substituting Port for the sweet cream liqueur. "
+    },
+    "orange_push_up": {
+        "description": "The Orange Push-up is a vibrant, nostalgic riff on the classic Sour family.  While its exact origin is unknown, its blend of rum, citrus, and sweet elements echoes the popular Rum Sour of the early 20th century, likely adapted with modern sour mix and a playful, popsicle-inspired name. "
+    },
+    "jack's_vanilla_coke": {
+        "description": ""
+    },
+    "kool-aid_slammer": {
+        "description": ""
+    },
+    "basil_julep": {
+        "description": "The Basil Julep is a twist on the classic Julep, a family of cocktails traditionally made with bourbon, sugar, and mint. This refreshing take on the Julep swaps the bourbon for Irish whiskey and the mint for basil, adding a contemporary flavor profile while staying true to its Southern roots. "
+    },
+    "410_gone": {
+        "description": "410 Gone falls into the Highball family, a simple yet refreshing category. It's likely a modern creation, combining the classic soda-and-spirit mix with the popularity of fruit-infused vodkas. The name, referencing an area code, suggests a regional or local origin. "
+    },
+    "buena_vista": {
+        "description": "The Buena Vista, a vibrant fusion of tequila, Ancho Reyes, lime, and cocoa bitters, is a modern twist on the classic Sour family. This contemporary creation likely emerged from the burgeoning craft cocktail scene, showcasing the rich flavors of Mexican spirits and artisanal bitters. "
+    },
+    "mayan_blood": {
+        "description": "Mayan Blood is a vibrant twist on the classic Sour family, incorporating tropical elements. It's likely a contemporary invention drawing inspiration from the bold flavors of Mesoamerican cuisine and the colorful, layered complexity of South American cocktail traditions. "
+    },
+    "london_town": {
+        "description": "The London Town, a delightful blend of gin, maraschino liqueur, and orange bitters, is a classic member of the Martini family. Though its exact origins are shrouded in mystery, its profile suggests a nod to the rich history of gin cocktails in London, where the spirit itself was born. "
+    },
+    "king_smash_mule": {
+        "description": "The King Smash Mule is a vibrant member of the Mule family, a modern twist on the classic Moscow Mule. This refreshing cocktail blends the spicy kick of ginger syrup with the smooth warmth of bourbon, balanced by tart lemon juice and the aromatic freshness of mint. "
+    },
+    "mai_tai": {
+        "description": "The Mai Tai, a tropical delight, belongs to the Tiki cocktail family, born in 1944 at Trader Vic's in Oakland, California.  This iconic rum-based cocktail is a vibrant blend of sweet and sour flavors, showcasing the Polynesian influence that swept the cocktail scene in the mid-20th century. "
+    },
+    "kill_the_cold_smoothie": {
+        "description": "Kill the Cold Smoothie belongs to the **wellness cocktail** family, a modern twist on traditional medicinal remedies.  This drink draws inspiration from ancient folk remedies that used ginger and lemon to soothe sore throats and fight colds. "
+    },
+    "kamikaze": {
+        "description": ""
+    },
+    "pegu_club": {
+        "description": "The Pegu Club, a classic gin sour, hails from the legendary Pegu Club in Burma (present-day Myanmar). It's a member of the sour family, where citrus juices and a sweetener are balanced by the spirit, in this case, gin.  "
+    },
+    "irish_spring": {
+        "description": "The Irish Spring is a vibrant, fruit-forward cocktail belonging to the Sour family, likely a modern creation inspired by classic whiskey sours. Its blend of Irish whiskey, peach brandy, and citrus juices creates a refreshing and balanced flavor profile. "
+    },
+    "tequila_sunrise": {
+        "description": "The Tequila Sunrise is a member of the Sunrise family, characterized by layered liqueurs creating a colorful gradient.  Born in the 1970s, it was popularized by the band The Eagles and remains a classic for its simple yet visually striking appeal. "
+    },
+    "hunter's_moon": {
+        "description": ""
+    },
+    "brooklyn": {
+        "description": "The Brooklyn is a classic Manhattan variation, hailing from the 19th century.  This  rye-based cocktail, sweetened with dry vermouth and a touch of maraschino, boasts a complex flavor profile balanced by bitter notes from Angostura bitters. It's a sophisticated choice for any occasion. "
+    },
+    "midnight_mint": {
+        "description": "The Midnight Mint is a creamy, refreshing cocktail belonging to the **liqueur-based** family. Its origins are likely recent, a modern twist on classic mint-flavored drinks, drawing inspiration from the smooth combination of Irish Cream and Creme de Menthe. "
+    },
+    "dead_mans_handle": {
+        "description": "The Dead Man's Handle is a vibrant, citrus-forward cocktail that falls into the Sour family. Its origins likely stem from the recent cocktail renaissance, drawing inspiration from classic Sours with a modern twist using Orgeat Syrup for added sweetness and complexity. "
+    },
+    "jamaican_coffee": {
+        "description": "The Jamaican Coffee is a riff on the classic Coffee Cocktail family, likely originating in the Caribbean. The rum adds a tropical twist to the traditional coffee and cream base, making it a perfect after-dinner drink. "
+    },
+    "egg_nog_#4": {
+        "description": "This decadent concoction belongs to the **Creamy Cocktail** family, a group known for their rich textures and often festive origins.  While its specific history is unclear,  Egg Nog #4 likely draws inspiration from traditional egg nog recipes, popularized in the 18th century, which combined spirits, eggs, and spices. "
+    },
+    "godmother": {
+        "description": "The Godmother, a simple blend of vodka and amaretto, belongs to the **liqueur-based cocktail family**. Its origins are shrouded in mystery, but it's believed to have emerged in the 1970s, likely a playful twist on the classic Godfather (scotch and amaretto). "
+    },
+    "valencia_cocktail": {
+        "description": "The Valencia Cocktail is a vibrant, citrus-forward drink belonging to the Sour family. It likely originated in the early 20th century, drawing inspiration from the popular Sidecar, with its base of brandy and citrus. The orange bitters add a subtle, aromatic complexity. "
+    },
+    "la_pasion": {
+        "description": "La Pasion belongs to the **Highball** family, a refreshing category often featuring spirits, mixers, and ice. This contemporary creation likely originated in a modern bar, combining the smoky intensity of mezcal with the vibrant fruitiness of passionfruit, ancho reyes, and lime, all balanced by the crispness of soda water. "
+    },
+    "raspberry_julep": {
+        "description": "The Raspberry Julep is a modern riff on the classic Mint Julep, a Southern American cocktail dating back to the 18th century.  It embraces the Julep's traditional base of Bourbon and Mint, adding a fruity twist with Raspberry Syrup. "
+    },
+    "salty_dog": {
+        "description": "The Salty Dog belongs to the **Highball** family, known for their tall, refreshing nature.  It hails from the 1930s, likely originating in the United States, where gin was gaining popularity and grapefruit juice was a newly-fashionable ingredient.  The salt rim, a touch of sophistication, elevates the classic citrus-gin combination. "
+    },
+    "citrus_coke": {
+        "description": "Citrus Coke falls into the **Highball** family, a simple yet refreshing combination of spirits and mixers. This classic combo likely emerged in the late 19th century, as both rum and cola were popular beverages. The citrus twist adds a modern touch to this timeless drink. "
+    },
+    "apello": {
+        "description": "The Apello is a vibrant fruit punch, reminiscent of the classic Shirley Temple but with a more sophisticated twist. Its origins are likely rooted in the American home bar scene, emerging as a refreshing, non-alcoholic option for gatherings. "
+    },
+    "sangria": {
+        "description": "Sangria, a vibrant Spanish concoction, hails from the punch family. Its roots trace back to ancient Rome, where wine was infused with spices and fruit.  This refreshing drink has evolved over centuries, becoming a beloved staple of Spanish culture. "
+    },
+    "herbal_flame": {
+        "description": "Herbal Flame belongs to the **Hot Toddy** family, a warm, comforting drink typically enjoyed during cold weather. Originating in the 18th century, the Hot Toddy was traditionally used as a medicinal remedy, often incorporating whiskey, honey, and spices. "
+    },
+    "dos_besitos": {
+        "description": "Dos Besitos belongs to the Margarita family, a modern twist on the classic. It embraces the agave spirit's versatility,  blending both Blanco and Reposado Tequila for a complex flavor profile.  Originating in the vibrant cocktail scene of the early 21st century, Dos Besitos is a delicious evolution of the beloved margarita. "
+    },
+    "buccaneer": {
+        "description": "The Buccaneer, a blend of Corona and Bacardi Limon, is a contemporary twist on the classic beer cocktail family.  Its origins are likely modern, combining the refreshing appeal of a light lager with the citrusy kick of a rum-based liqueur.  "
+    },
+    "van_vleet": {
+        "description": "The Van Vleet is a refreshing twist on the classic Daiquiri family,  with a maple syrup sweetness replacing the traditional sugar. Its origin is unknown, likely a modern invention drawing on the popular rum and citrus combinations. "
+    },
+    "lemon_drop": {
+        "description": "The Lemon Drop, a classic sour cocktail, belongs to the Sour family. Its origin is debated, but likely emerged in the 1970s, combining the sharp citrus of a lemon sour with the sweetness of Cointreau. "
+    },
+    "fahrenheit_5000": {
+        "description": "Fahrenheit 5000 is a fiery, audacious concoction that defies categorization. While inspired by the classic Bloody Mary, it boldly steps outside the family with its use of Firewater and Tabasco. Its origin is likely rooted in contemporary bartending culture, a playful exploration of the extreme and the unconventional. "
+    },
+    "english_rose_cocktail": {
+        "description": "The English Rose Cocktail belongs to the classic Martini family, showcasing the sophisticated balance of gin and vermouth. While its exact origin is unknown, the use of apricot brandy and grenadine suggests a late 19th or early 20th century creation, likely from a London bar, combining English spirits with continental flavors. "
+    },
+    "mulled_wine": {
+        "description": "Mulled wine, a warming winter beverage, belongs to the Hot Cocktails family. Its origins trace back to ancient Rome, where wine was spiced with herbs and honey for medicinal and celebratory purposes. "
+    },
+    "252": {
+        "description": "The 252 is a potent rum-bourbon highball, likely hailing from the American South in the mid-20th century. It's a straightforward, high-proof concoction reflecting the era's fondness for strong, unfussy drinks. "
+    },
+    "orangeade": {
+        "description": "Orangeade belongs to the **Fizz** family, a refreshing group of cocktails typically featuring citrus, sugar, and a carbonated top.  While its exact origins are unknown, it likely emerged in the late 19th century, a time when fizzy drinks were gaining popularity. "
+    },
+    "royal_gin_fizz": {
+        "description": "The Royal Gin Fizz belongs to the esteemed Fizz family, known for their refreshing bubbly nature.  Though its exact origin is unclear, its name suggests a royal connection, likely emerging in the Victorian era when gin cocktails were highly popular.  "
+    },
+    "frisco_sour": {
+        "description": "The Frisco Sour is a member of the Sour family, a classic cocktail style featuring a base spirit, citrus juice, and sweetener. This specific variation, likely hailing from San Francisco (Frisco), embraces the city's history of blending whiskey and the distinctive herbal sweetness of Benedictine. "
+    },
+    "smut": {
+        "description": "Smut belongs to the Highball family, a classic combination of spirits, mixers, and ice served in a tall glass. Its origins are likely contemporary, blending popular flavors of the 1990s - sweet, fruity, and soda-based.  "
+    },
+    "bronx_cheer": {
+        "description": "The Bronx Cheer, a playful twist on the classic Bronx cocktail, belongs to the Sour family. This spirited concoction, likely born in the early 20th century, blends the tartness of lime juice with the spice of rye, the sweetness of raspberry syrup, and the unique floral complexity of Falernum. "
+    },
+    "gin_squirt": {
+        "description": "The Gin Squirt belongs to the Fizz family, a group of carbonated cocktails with a creamy texture.  While its exact origin is unknown, it likely emerged in the 1920s during the American Prohibition era, utilizing readily available ingredients and mimicking the popularity of fizzy drinks. "
+    },
+    "mule_in_paradise": {
+        "description": "The Mule in Paradise is a vibrant twist on the classic Moscow Mule, a cocktail family known for its refreshing ginger kick.  This tropical adaptation, with passionfruit's sweetness and bourbon's warmth, offers a playful, modern take on the original, born in the 1940s. "
+    },
+    "bubble_gum": {
+        "description": "The Bubble Gum cocktail, with its fruity blend of vodka, banana liqueur, orange juice, and peach schnapps, falls into the **Fruity Cocktail** family. Its origin is unknown, likely a modern concoction born from the popularity of sweet, playful drinks. "
+    },
+    "balmoral": {
+        "description": "The Balmoral is a classic variation of the Manhattan, belonging to the esteemed family of whiskey-based cocktails. While its exact origins remain shrouded in mystery, it's likely to have emerged in the early 20th century, possibly named after the iconic Scottish castle. "
+    },
+    "adam": {
+        "description": "The Adam belongs to the Sour family, a classic cocktail group characterized by the base spirit, citrus juice, and sweetener. Its origins remain obscure, but likely emerged in the early 20th century, possibly in the Caribbean where rum, lemons, and grenadine were readily available. "
+    },
+    "stone_sour": {
+        "description": "The Stone Sour, with its base of apricot brandy, orange juice, and sweet & sour mix, is a classic Sour cocktail.  Dating back to the 19th century, Sours were a popular choice in saloons and were often tailored to the available ingredients, creating a range of unique variations like the Stone Sour. "
+    },
+    "danbooka": {
+        "description": "The Danbooka, a potent blend of coffee and Everclear, belongs to the Coffee Cocktail family. Its origins are obscure, likely born in the rough-and-tumble bars of the American frontier, where strong spirits and caffeine were essential for survival. "
+    },
+    "orange_oasis": {
+        "description": "Orange Oasis is a refreshing Highball, a cocktail family known for its tall, mixed-drink format. This bubbly concoction likely originated in the early 20th century, drawing inspiration from the popularity of fruit-forward cocktails and the widespread use of ginger ale as a mixer. "
+    },
+    "bob_marley": {
+        "description": "The Bob Marley cocktail, with its blend of Midori, J\u00e4germeister, and Goldschlager, is a unique concoction that defies easy categorization. While it exhibits elements of the shooter family with its potent and layered flavors, its origin remains shrouded in mystery.  "
+    },
+    "vieux_carre": {
+        "description": "The Vieux Carre is a classic New Orleans cocktail, a member of the Old Fashioned family, characterized by its rich, complex flavors.  Created in the 1930s at the Hotel Monteleone's Carousel Bar, it's a sophisticated blend of rye, brandy, sweet vermouth, Benedictine, and Peychaud's Bitters. "
+    },
+    "honey_bee": {
+        "description": "The Honey Bee is a member of the Sour family, a classic cocktail style featuring a base spirit, citrus juice, and a sweetener. Its origins are likely rooted in the Caribbean, where rum, honey, and citrus fruits are readily available.  "
+    },
+    "backsliding_presbyterian": {
+        "description": "The Backsliding Presbyterian is a unique spin on the classic Highball family, combining the spirit-forward backbone of a Whiskey Sour with the refreshing fizz of a traditional Highball. Its origin is likely a modern invention, drawing inspiration from the contrasting flavors of Bourbon, Campari, and Ginger. "
+    },
+    "pina_colada": {
+        "description": "The Pina Colada, a refreshing blend of light rum, coconut milk, and pineapple juice, belongs to the tropical cocktail family.  Born in Puerto Rico in the 1950s, it's a classic symbol of island life, embodying the sweet and fruity flavors of the Caribbean. "
+    },
+    "the_last_word": {
+        "description": "The Last Word is a classic sour cocktail, a family known for its tart, refreshing flavors.  Created in the 1920s at the Detroit Athletic Club, it's a potent blend of green Chartreuse, maraschino liqueur, lime juice, and gin, making it a sophisticated and complex drink. "
+    },
+    "royal_fizz": {
+        "description": "The Royal Fizz belongs to the Fizz family, a group of cocktails characterized by their effervescence and use of a spirit, citrus, and a fizz element.  This particular variation likely originated in the early 20th century, combining the popular gin fizz with the novelty of Coca-Cola, a rising beverage at the time. "
+    },
+    "bellini": {
+        "description": "The Bellini, a vibrant pink delight, belongs to the Fizz family, characterized by its bubbly, refreshing nature. This classic Italian cocktail, created in the 1930s at Harry's Bar in Venice, gets its name from the Venetian artist, Giovanni Bellini, due to its resemblance to his paintings. "
+    },
+    "cream_soda": {
+        "description": "This refreshing, bubbly concoction belongs to the Highball family, known for their tall, ice-filled format and simple ingredient list.  While its exact origin is unclear, its combination of spiced rum and ginger ale likely emerged in the early 20th century, a time when both ingredients were readily available and enjoyed in popular drinks. "
+    },
+    "gin_rickey": {
+        "description": "The Gin Rickey is a refreshing, classic highball, named after its creator, Colonel Rickey. Its origins lie in the late 19th century, when Colonel Rickey, a Washington, D.C. socialite, requested a simple gin and soda water drink with a squeeze of lime. "
+    },
+    "monsieur_manhattan": {
+        "description": "Monsieur Manhattan is a twist on the classic Manhattan, belonging to the Whiskey Cocktail family.  This variation, likely created in the late 19th or early 20th century,  introduces Brandy and Demerara Gum Syrup for a richer, more complex flavor profile. "
+    },
+    "gin_swizzle": {
+        "description": "The Gin Swizzle is a classic highball, a refreshing combination of spirits, mixers, and ice.  Born in the 19th century, its roots lie in the Caribbean, where rum swizzles were popular, but gin eventually took its place in this invigorating, slightly bitter drink. "
+    },
+    "gimlet": {
+        "description": "The Gimlet, a crisp and refreshing cocktail, belongs to the Sour family, characterized by the combination of spirit, citrus juice, and sweetener. Its origins trace back to the 19th century British Royal Navy, where it was used as a medicinal drink to combat scurvy. "
+    },
+    "campari_beer": {
+        "description": "Campari Beer is a refreshing member of the **Highball** family, characterized by its simple yet bold flavor profile. Its origin is debated, likely emerging from the Italian aperitivo scene in the late 20th century, combining the bitterness of Campari with the crispness of lager. "
+    },
+    "wine_punch": {
+        "description": "Wine Punch falls into the **punch** family, a historical category of large-batch cocktails often served at social gatherings.  Its origins are likely rooted in the 17th century, where punches were popular in both Europe and the Caribbean, evolving over time to incorporate various fruit juices and spirits. "
+    },
+    "ace": {
+        "description": "The Ace is a delightful twist on the classic Clover Club, a gin-based cocktail that emerged in the late 19th century. It's a member of the Sour family, known for its tangy and creamy character, but the Ace adds a touch of sweetness and richness with the grenadine and heavy cream. "
+    },
+    "oatmeal_cookie": {
+        "description": "The Oatmeal Cookie cocktail, a blend of Kahlua, Baileys, Butterscotch Schnapps, J\u00e4germeister, and Goldschlager, belongs to the dessert cocktail family, a category known for its sweet, rich, and often creamy flavors.  This particular creation likely originated in the late 20th century, as it utilizes popular liqueurs of that era. "
+    },
+    "fruit_flip_flop": {
+        "description": "The Fruit Flip-Flop belongs to the **Milk Punch** family, a historical cocktail category dating back to the 18th century. These drinks, often made with milk or cream, were popular for their refreshing and palate-cleansing qualities.  "
+    },
+    "whisky_mac": {
+        "description": "The Whisky Mac, a simple blend of Scotch whisky and sweet wine, is a member of the wine-based cocktail family.  It's a classic British drink, popularized in the early 20th century, likely originating from Scottish pubs as a quick and flavorful way to enjoy whisky. "
+    },
+    "kentucky_mule": {
+        "description": "The Kentucky Mule is a twist on the classic Moscow Mule, belonging to the **Mule family**.  This bourbon-based variation likely originated in the American South, combining the refreshing ginger and lime notes of the Mule with the robust flavor of Kentucky bourbon. "
+    },
+    "fig_old_fashioned": {
+        "description": "The Fig Old Fashioned is a twist on the classic Old Fashioned, a cocktail family born in the 1800s.  It's a riff on the traditional recipe, using fig syrup to bring a unique sweetness and fruitiness to the bourbon base, balanced by aromatic bitters. "
+    },
+    "avalon": {
+        "description": "The Avalon falls into the Sour family, a classic cocktail category known for its balance of sweet, sour, and spirit.  This tropical twist likely emerged from the modern cocktail scene, drawing inspiration from the exotic flavors of Pisang Ambon (banana) and the refreshing tartness of apple and lemon. "
+    },
+    "thai_iced_coffee": {
+        "description": "Thai Iced Coffee, a refreshing blend of coffee, sugar, cream, and cardamom, is a delightful member of the *Coffee Cocktail* family. Originating in Thailand, this beloved beverage reflects the country's rich culinary history and love for strong coffee, sweetened with condensed milk and often spiced with aromatic cardamom. "
+    },
+    "coffee_liqueur": {
+        "description": "This Coffee Liqueur is a member of the **liqueur family**, a category of sweet, flavored spirits.  Its origin likely traces back to the 18th century, as coffee and vanilla were already popular ingredients in European cuisine.  "
+    },
+    "lazy_coconut_paloma": {
+        "description": "The Lazy Coconut Paloma is a playful twist on the classic Paloma, a tequila-based cocktail born in Mexico. This variation swaps tequila for coconut liqueur, lending a tropical twist to the grapefruit and soda water base.  "
+    },
+    "747_drink": {
+        "description": "The 747 Drink is a contemporary twist on the classic Sour family, drawing inspiration from modern, layered cocktail trends. Its bright, fruity flavors are reminiscent of a tropical vacation, capturing the spirit of air travel with its whimsical name. "
+    },
+    "whippersnapper": {
+        "description": "The Whippersnapper, a vibrant and refreshing cocktail, belongs to the Sour family. Its origins are uncertain, but its use of bourbon, citrus, and bitters points to a classic American cocktail tradition, likely emerging in the early 20th century. "
+    },
+    "zima_blaster": {
+        "description": "The Zima Blaster, a playful twist on the classic Kir Royale, blends the citrusy fizz of Zima with the sweet raspberry notes of Chambord.  This contemporary concoction borrows from the tradition of French aperitifs, offering a light and refreshing drink perfect for any occasion. "
+    },
+    "opposites_attract": {
+        "description": "Opposites Attract is a contemporary take on the classic Sour family, blending sweet and savory notes.  Its unique profile is a nod to modern mixology, drawing inspiration from both classic whiskey cocktails and the emerging world of Mexican spirits. "
+    },
+    "paper_plane": {
+        "description": "The Paper Plane, a harmonious blend of bourbon, amaro, Aperol, and lemon juice, belongs to the sour family of cocktails.  This modern classic, created by Sam Ross in 2007, is a riff on the classic Whiskey Sour, featuring the bitter complexity of amaro and Aperol. "
+    },
+    "planters_punch": {
+        "description": "Planter's Punch is a classic rum punch, a member of the punch cocktail family. Its origins are debated, but most trace it back to the 19th century Caribbean, where rum punches were popular amongst plantation owners. "
+    },
+    "city_slicker": {
+        "description": "The City Slicker belongs to the classic Sour family, a timeless combination of spirits, citrus, and sweetener.  While its exact origin is obscure, its profile suggests a 19th-century American invention, likely born in a bustling city bar. "
+    },
+    "jamaica_kiss": {
+        "description": "The Jamaica Kiss is a creamy, coffee-infused cocktail belonging to the **Coffee Cocktail** family, likely inspired by the popularity of coffee liqueurs and rum in the Caribbean. It's a modern twist on classic coffee cocktails, with the addition of milk adding a smooth and velvety texture. "
+    },
+    "flowering_fields": {
+        "description": "Flowering Fields is a contemporary twist on the classic Sazerac, a New Orleans cocktail born in the 19th century.  It utilizes the signature rye whiskey and absinthe base, but elevates it with botanicals like green Chartreuse and citrus notes, giving it a modern, floral touch. "
+    },
+    "snowday": {
+        "description": "Snowday belongs to the **Sour family**, a classic cocktail style with origins in the 18th century. This spirit-forward drink takes inspiration from its namesake, incorporating the wintery flavors of blood orange and amaro for a unique and balanced twist. "
+    },
+    "rum_cobbler": {
+        "description": "The Rum Cobbler is a classic **Cobblers** cocktail, characterized by its refreshing, fruity nature.  Originating in the 19th century, its name likely refers to the cobbled ice used in its preparation.  The sweet, citrusy flavors of the Rum Cobbler are a perfect summer drink. "
+    },
+    "hunters_moon": {
+        "description": "The Hunter's Moon is a unique twist on the classic Sour family, incorporating the fruitiness of blackberries and a touch of maraschino. Its origins are likely modern, blending elements of classic cocktails with contemporary flavor profiles. "
+    },
+    "zizi_coin_coin": {
+        "description": "The Zizi Coin-coin is a classic sour cocktail, a family known for its tart and refreshing nature. Its origins are likely French, with the name possibly referencing a playful, mischievous character. "
+    },
+    "vodka_martini": {
+        "description": "The Vodka Martini, a classic member of the Martini family, is a modern twist on the original Gin Martini.  Its origins are murky, likely arising in the early 20th century as vodka gained popularity in the U.S. The simplicity of its ingredients \u2013 vodka, dry vermouth, and an olive garnish \u2013 has made it an enduring icon. "
+    },
+    "boulevardier": {
+        "description": "The Boulevardier, a sophisticated twist on the Negroni, belongs to the Americano family of cocktails.  Created in the 1920s by American expat, Erskine Gwynne, the Boulevardier substitutes Rye whiskey for the Negroni's gin, offering a more robust and spicy profile. "
+    },
+    "pineapple_paloma": {
+        "description": "The Pineapple Paloma is a twist on the classic Paloma, a tequila-based cocktail originating in Mexico. It builds upon the Paloma's grapefruit and lime base, adding a tropical twist with pineapple juice and a spicy kick from pepper. "
+    },
+    "quick_sand": {
+        "description": "The Quick-Sand is a highball, a classic cocktail family characterized by its simple combination of spirits and mixers. This particular variation, likely originating in the late 20th century, offers a playful contrast of Sambuca's anise-driven sweetness and orange juice's bright acidity. "
+    },
+    "french_connection": {
+        "description": "The French Connection is a member of the liqueur cocktail family, combining strong spirits with sweet, aromatic liqueurs. While its exact origin is debated, it likely emerged in the 1970s, drawing inspiration from classic French-Italian flavor pairings. "
+    },
+    "pisco_sour": {
+        "description": "The Pisco Sour is a classic Sour cocktail, a family characterized by a base spirit, citrus juice, sweetener, and often egg white for a foamy texture. This Peruvian invention dates back to the early 20th century, popularized in Lima's bars and gaining international fame. "
+    },
+    "thai_iced_tea": {
+        "description": "This refreshing drink isn't technically a cocktail, but rather a popular Thai beverage.  It falls under the **Sweetened Tea** family,  originating in Thailand as a street food staple.  The use of condensed milk and ice makes it a cool and satisfying treat perfect for the hot climate. "
+    },
+    "sherry_eggnog": {
+        "description": "The Sherry Eggnog belongs to the **Eggnog** family, a rich and creamy cocktail tradition dating back centuries.  Its origins likely trace back to medieval Europe, where egg-based drinks were popular for their nourishing properties.  The addition of sherry adds a complex, nutty flavor profile, giving this eggnog a sophisticated twist. "
+    },
+    "veteran": {
+        "description": "The Veteran belongs to the **Old Fashioned** cocktail family, known for its simplicity and bold flavors. This drink likely originated in the **late 19th or early 20th century**, during the golden age of cocktails, when rum and cherry brandy were popular ingredients. "
+    },
+    "artillery": {
+        "description": "The Artillery, with its base of sweet vermouth and gin, is a member of the classic Martini family. Though its exact origins are murky, it likely emerged in the early 20th century, possibly as a variation on the Martini, with a more pronounced vermouth presence. "
+    },
+    "amaretto_sour": {
+        "description": "The Amaretto Sour belongs to the **sour** family, a classic cocktail category characterized by its tart, sweet, and often frothy texture. Its exact origin is debated, but its roots likely lie in the 19th century, possibly evolving from the Whiskey Sour with the addition of Amaretto. "
+    },
+    "foxy_lady": {
+        "description": "The Foxy Lady is a creamy, sweet cocktail belonging to the **liqueur-based** family, reminiscent of classic dessert drinks. While its exact origin is unknown, it likely emerged in the mid-20th century, a time when creamy cocktails like the White Russian were popular. "
+    },
+    "affair": {
+        "description": "The Affair is a refreshing, fruit-forward cocktail that falls into the **highball** family. While its precise origin is unknown, its combination of fruit juices and a liqueur, like many highballs, likely emerged in the late 19th or early 20th century, a time when American bars embraced vibrant, fruity mixes. "
+    },
+    "irish_curdling_cow": {
+        "description": "The Irish Curdling Cow is a unique concoction that doesn't fit neatly into any established cocktail family. It's likely a modern invention, blending the creaminess of Irish Cream with the boldness of bourbon and vodka, and the citrusy sweetness of orange juice. It's a playful combination defying categorization, much like its quirky name. "
+    },
+    "abilene": {
+        "description": "The Abilene, with its rum base and fruity sweetness, belongs to the **tropical cocktail** family.  Though its exact origin is unclear, its combination of dark rum, peach nectar, and orange juice likely emerged in the **mid-20th century**, reflecting the growing popularity of tropical cocktails during that era. "
+    },
+    "jackhammer": {
+        "description": "The Jackhammer, a blend of Jack Daniel's and Amaretto, belongs to the Whiskey Sour family. While its exact origin is unclear, its simple yet satisfying combination of whiskey, sweet liqueur, and often a citrus element echoes the classic Whiskey Sour's spirit. "
+    },
+    "tequila_fizz": {
+        "description": "The Tequila Fizz is a member of the Fizz family, known for their lively carbonation and citrusy profiles.  Born in the early 20th century, this tequila-based iteration likely emerged in the American Southwest, combining the spirit's popularity with the Fizz's existing structure. "
+    },
+    "john_collins": {
+        "description": "The John Collins is a classic highball, a refreshing and easy-drinking cocktail family. Originating in the mid-19th century, it's attributed to John Collins, a bartender at the Limmer's Hotel in London, though the exact origins remain a bit hazy. "
+    },
+    "miami_vice": {
+        "description": "Miami Vice, a colorful fusion of rum, pineapple, and coconut, belongs to the tropical cocktail family. This iconic 1980s concoction likely originated in Miami, Florida, gaining popularity thanks to the hit TV show of the same name. "
+    },
+    "rail_splitter": {
+        "description": "The Rail Splitter is a refreshing Highball, a category known for its tall, mixed drinks. This particular cocktail is likely a recent creation, inspired by the simplicity and refreshment of classic Highballs like the Gin & Tonic. Its name, referencing the American pioneer Abraham Lincoln, suggests an American origin. "
+    },
+    "thai_coffee": {
+        "description": "Thai Coffee, though not a traditional cocktail, draws inspiration from the **Coffee Cocktail** family.  It's a modern twist on Southeast Asian coffee culture, blending strong coffee with spices like coriander and cardamom, often found in Thai cuisine.  The addition of whipped cream offers a touch of indulgence. "
+    }
+}

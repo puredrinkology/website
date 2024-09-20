@@ -1,0 +1,69 @@
+
+
+{{ define "main" }}
+  <section class="section blog-list pb-5">
+    <div class="container p-0">
+      
+        
+      <div class="row justify-content-center">
+       
+
+        <div class="row justify-content-center">
+          <div class="col-12 col-xl-6">
+            {{ with .Title }}
+              <h1 class="fs-1 fw-bold text-center text-primary pb-3">{{ . }}</h1>
+            {{ end }}
+            {{ with .Params.description }}
+              <p class="text-black-61 text-center pb-3">{{ . }}</p>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+     
+
+     
+      <div class="row g-4 p-2">
+          {{ range .Pages }}
+          <div class="col-12 col-md-6 col-lg-4">
+            <div class="card shadow border-0 p-4 text-decoration-none h-100" style="border-radius: 15px;" >
+              <a class="aspect-ratio-full" href="{{ .Permalink }}">
+                    {{ with .Resources.GetMatch (printf "**/%s" "{cover.*}") }}
+                        {{ with .Resize "1000x" }}
+                            <img class="" src="{{ .RelPermalink }}" alt="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}" />
+                        {{ end }} 
+                    {{ end }}
+              </a>
+
+              <div class="card-body">
+                <h5 class="card-title fw-semibold"><a href="{{ .Permalink }}" class="text-decoration-none">{{ .Title }}</a></h5>
+                <p class="card-text text-black-61">{{ .Summary }}</p>
+                <a href="/recipes/category/{{lower .Params.category}}/" class="badge text-bg-primary text-decoration-none">{{ lower .Params.category }}</a> 
+                <a href="/recipes/spirit/{{lower .Params.base_spirit}}/" class="badge text-bg-secondary text-decoration-none">{{lower .Params.base_spirit }}</a>
+                <a href="/recipes/family/{{lower .Params.family}}/" class="badge text-bg-info text-decoration-none">{{ lower .Params.family }}</a> 
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+
+    <div class="row pb-5 p-2">
+      {{ template "_internal/pagination.html" . }}
+    </div>
+
+    
+    <div class="row pb-5 p-2">
+      <div class="col-12 d-flex justify-content-center">
+        <div class="blog-content fs-5 ">
+          {{ .Content }}
+        </div>
+      </div>
+    </div>  
+    
+
+  </div>
+
+
+  </section>
+{{ end }}
+
+
