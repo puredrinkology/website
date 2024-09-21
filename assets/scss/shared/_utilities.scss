@@ -35,18 +35,21 @@ header, footer {
 .background-video {
   top: 0%;
   left: 0%;
+  width: 100%;
   min-width: 100%;   /* Ensure video covers the full width */
   min-height: 100%;   /* Ensure video covers the full width */
-  width: auto;
-  height: auto;
+  // width: auto;
+  // height: auto;
   object-fit: cover; /* Maintain aspect ratio, cover the container */
   z-index: -1;
 }
+
 
 .overlay-content {
   position: absolute;
   z-index: 2;
 }
+
 
 h1.site-header {
   font-size: 8rem;
@@ -59,6 +62,20 @@ p.site-description {
   margin-top: 1rem;
   text-transform: uppercase;
 }
+
+@media (max-width: 768px) {
+
+  .overlay-content{
+    padding: 1em;
+  }
+  .overlay-content .site-header {
+    font-size: 4em;
+  }
+  .overlay-content .site-description {
+    font-size: 1.2em;
+  }
+}
+
 
 .explore-btn {
   display: inline-block;
