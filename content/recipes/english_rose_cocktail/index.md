@@ -26,7 +26,7 @@ glass: "Cocktail glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "gin"
-family: "sour"
+family: "martini"
 visual: "## LLM Prompt: Describe the appearance of the English Rose Cocktail using the following ingredients: Apricot Brandy, Gin, Dry Vermouth, Grenadine, Lemon Juice, Cherry. **Focus on:*** **Color:** What are the dominant colors of the cocktail? Is it clear, cloudy, layered, or a solid hue?* **Texture:**  Is it smooth and silky, or does it have a bubbly, frothy, or layered appearance?* **Garnish:** How does the cherry enhance the visual appeal?  Is it muddled, floating, or perched on the rim?* **Overall Impression:**  What kind of mood does the appearance of the cocktail evoke? Is it elegant, whimsical, refreshing, or sophisticated?**Example:**The English Rose Cocktail is a mesmerizing spectacle of color and texture. Its base is a shimmering pale rose hue, hinting at the delicate apricot brandy and dry vermouth. A wisp of pink grenadine gracefully floats atop, creating a subtle ombre effect. The garnish, a plump, glossy maraschino cherry, rests proudly on the rim, adding a touch of playful whimsy to the sophisticated presentation. "
 source: "personal_collection"
 ---

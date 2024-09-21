@@ -19,7 +19,7 @@ glass: "Highball Glass"
 category: "shake"
 has_alcohol: false
 base_spirit:
-family: "punch"
+family: ""
 visual: "## LLM Prompt for Sweet Bananas Cocktail Description:**Imagine a glass filled with a creamy, pale yellow liquid, reminiscent of a banana milkshake.  The surface shimmers with a delicate sheen, like a thin layer of honey.  Tiny bubbles rise from the depths, hinting at a gentle sweetness.  The aroma is an intoxicating blend of ripe banana and subtle floral notes from the honey.  What words would you use to describe this visual and olfactory experience?** **Bonus:** * **Include a sentence describing the consistency of the drink, e.g., The liquid is thick and velvety, almost like a mousse.*** **Mention any interesting visual elements, e.g., A single banana slice sits on the rim of the glass, adding a touch of rustic charm.** "
 source: "personal_collection"
 ---

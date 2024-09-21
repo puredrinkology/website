@@ -23,7 +23,7 @@ glass: "White wine glass"
 category: "shake"
 has_alcohol: true
 base_spirit: "vodka"
-family: "fizz"
+family: ""
 visual: "Imagine a tall, chilled glass filled with a luminous, icy concoction. The base is a pristine white, reminiscent of fresh snow, thanks to the Half-And-Half. A vibrant, citrusy green hue emerges from the limeade, creating streaks of color throughout the drink. The vodka itself is invisible, lending its subtle warmth to the overall experience. A delicate dusting of nutmeg, like a whisper of cinnamon, rests atop the frothy surface, adding a touch of warmth and complexity to the visual symphony. The drink's cool, inviting nature is further enhanced by the condensation clinging to the outside of the glass, making it a perfect choice for a refreshing summer day. "
 source: "personal_collection"
 ---

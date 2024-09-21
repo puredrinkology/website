@@ -18,7 +18,7 @@ glass: "Shot glass"
 category: "shot"
 has_alcohol: true
 base_spirit: "vodka"
-family: "highball"
+family: ""
 visual: ""
 source: "personal_collection"
 ---

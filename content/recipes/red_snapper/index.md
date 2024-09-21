@@ -18,7 +18,7 @@ glass: "Old-fashioned glass"
 category: "shot"
 has_alcohol: true
 base_spirit:
-family: "sour"
+family: ""
 visual: "## LLM Prompt for Describing a Red Snapper Cocktail:Imagine a tall glass, frosted with condensation, filled with a vibrant, ruby-red liquid. It's a symphony of colors, with the deep crimson of cranberry juice dominating, punctuated by streaks of amber from the Crown Royal whiskey and a subtle hint of golden-brown from the Amaretto.  The drink is garnished with a single, glistening cranberry, its dark red hue contrasting beautifully with the bright red of the cocktail. Perhaps a small sprig of rosemary adds a touch of greenery, or a twist of orange peel graces the rim, adding a subtle citrus aroma to the mix. The ice cubes, perfectly clear and pristine, chime softly as they jostle in the glass, inviting you to take a sip.  The overall effect is one of festive cheer and delicious anticipation. "
 source: "personal_collection"
 ---

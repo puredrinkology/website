@@ -16,7 +16,7 @@ glass: "Martini Glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "gin"
-family: "spirit-forward"
+family: "martini"
 visual: "## LLM Prompt:**Imagine a classic cocktail named Addison made with gin and vermouth. Describe its appearance in detail, considering the following elements:*** **Color:** What is the overall hue of the cocktail? Is it clear, cloudy, or tinted? Is there a specific shade of color, like a pale gold, deep ruby, or a vibrant emerald?* **Texture:** Is it a smooth, clear liquid? Does it have any visible swirls or layers? Does it have any ice chunks or garnishes that contribute to its texture?* **Garnish:** What, if anything, adorns the top of the cocktail? Consider the color, shape, and size of the garnish. * **Glassware:** What type of glass is the cocktail served in? Is it a classic martini glass, a coupe, or a rocks glass? What effect does the glassware have on the overall appearance of the drink?**Remember to use vivid imagery and sensory details to bring the appearance of the Addison to life.** "
 source: "personal_collection"
 ---

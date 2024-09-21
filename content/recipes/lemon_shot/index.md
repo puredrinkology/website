@@ -25,7 +25,7 @@ glass: "Shot glass"
 category: "shot"
 has_alcohol: true
 base_spirit: "rum"
-family: "punch"
+family: ""
 visual: "## LLM Prompt for Lemon Shot Description:Imagine a shot glass filled with a vibrant, almost fluorescent yellow liquid.  It's layered with a distinct gradient, starting with a bright, almost translucent yellow at the top, gradually transitioning into a richer, deeper yellow towards the bottom.  The surface is crowned with a delicate, almost shimmering layer of bubbles, reminiscent of champagne.  A thin sliver of fresh lemon peel, strategically placed on the edge of the glass, releases a subtle aroma of citrus.  The entire composition, although small in size, radiates energy and a sense of playful sophistication.  **Describe this scene using evocative language and sensory details.  Focus on the colors, textures, and aromas that contribute to the overall impression of the Lemon Shot.** "
 source: "personal_collection"
 ---

@@ -61,7 +61,10 @@ def identify_cocktail_family(ingredients, drink_name, history, category):
         if all(any(any(ingredient_variant in ingredient['item'].lower() for ingredient_variant in group) for ingredient in ingredients) for group in ingredient_groups):
             return family
         
-        # Special case for Martini where the name might give it away
+        # Special cases to determine from other fields
+        elif category in ["shot", "shake", "cafe"]:
+            return ""
+        
         elif 'martini' in drink_name.lower():
             return "martini"
         
@@ -97,8 +100,7 @@ def identify_cocktail_family(ingredients, drink_name, history, category):
         elif "coffee cocktail family" in history.lower():
             return ""
         
-        elif category in ["shot", "shake", "cafe"]:
-            return ""
+        
         
     
     return "other"  # If no family matches

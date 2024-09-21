@@ -5,10 +5,7 @@
     <div class="container-fluid p-0">
       <div id="search-results" class="row"></div>
 
-      <div class="row ">
-        <div class="col-12">
-          
-        </div>
+      <div class="row w-100 m-0">
         <div class="col-12 description mb-4 ">
           <div class="row">
               <div class="col-md-6 col-12">
@@ -30,7 +27,7 @@
          
         </div>
       </div>
-      <div class="row p-4">
+      <div class="row p-4 w-100">
 
       {{ $familyOrder := .Site.Params.familyOrder }}
       {{ $recipes := .Pages }}
@@ -46,7 +43,7 @@
         {{ end }}
         {{ range $family := sort $families }}
           {{ range $recipe := where $sortedRecipes "Params.family" $family }}
-            <div class="col-12 col-md-6 col-lg-3 mb-4 ">
+            <div class="col-12 col-md-4 col-lg-3 mb-4 ">
               <div class="card shadow border-0 p-4 text-decoration-none h-100" style="border-radius: 15px;">
                 <a class="aspect-ratio-full" href="{{ $recipe.Permalink }}">
                   {{ with $recipe.Resources.GetMatch (printf "**/%s" "{cover.*}") }}
@@ -68,34 +65,6 @@
         {{ end }}
       {{ end }}
 
-        <!-- {{ range .Pages }}
-        <div class="col-12 col-md-6 col-lg-3 mb-4 ">
-          <div class="card shadow border-0 p-4 text-decoration-none h-100" style="border-radius: 15px;" >
-            <a class="aspect-ratio-full" href="{{ .Permalink }}">
-                  {{ with .Resources.GetMatch (printf "**/%s" "{cover.*}") }}
-                      {{ with .Resize "1000x" }}
-                          <img class="" src="{{ .RelPermalink }}" alt="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}" />
-                      {{ end }} 
-                  {{ end }}
-                  {{ with .Params.coverImage }}
-                    <img class=" rounded-10" src="{{ . }}" />
-                  {{ end }}
-            </a>
-
-            <div class="card-body text-center">
-              <h5 class="card-title fw-semibold">
-                <a href="{{ .Permalink }}" class="text-decoration-none">
-                  {{ with .Params.shortname }}{{ . }}{{ else }}{{ .Title }}{{ end }}
-                </a>
-              </h5>
-              
-              <a href="/recipes/category/{{lower .Params.category}}/" class="badge text-bg-primary text-decoration-none">{{ lower .Params.category }}</a> 
-              <a href="/recipes/spirit/{{lower .Params.base_spirit}}/" class="badge text-bg-secondary text-decoration-none">{{lower .Params.base_spirit }}</a>
-              <a href="/recipes/family/{{lower .Params.family}}/" class="badge text-bg-info text-decoration-none">{{ lower .Params.family }}</a> 
-            </div>
-          </div>
-        </div>
-        {{ end }} -->
       </div>
     </div>
   </div>

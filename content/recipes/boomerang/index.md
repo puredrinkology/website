@@ -24,7 +24,7 @@ glass: "Cocktail glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "gin"
-family: "spirit-forward"
+family: "martini"
 visual: ""
 source: "personal_collection"
 ---

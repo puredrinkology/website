@@ -17,7 +17,7 @@ glass: "Shot glass"
 category: "shot"
 has_alcohol: true
 base_spirit: "rum"
-family: "punch"
+family: ""
 visual: "## LLM Prompt: **Describe the appearance of a cocktail called Kool First Aid made with 151 proof rum and Kool-Aid.** **Consider the following:*** **Color:**  What color is the Kool-Aid flavor?  How does the rum change the color? * **Clarity:**  Is the drink clear, cloudy, or opaque? * **Texture:**  Is it thick, thin, or layered? Are there any visible particles?* **Glassware:**  What type of glass would be used? * **Garnish:**  What, if any, garnish would enhance the appearance?**Example:**The Kool First Aid, with its [insert Kool-Aid flavor] base, presents a vibrant [color] hue, slightly darkened by the 151 proof rum. The drink is [clear/cloudy/opaque] with a [thin/thick] consistency, showing subtle [texture] due to [describe any visible particles]. It's served in a [type of glass] and garnished with a [garnish]. "
 source: "personal_collection"
 ---

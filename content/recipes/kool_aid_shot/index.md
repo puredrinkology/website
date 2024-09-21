@@ -23,7 +23,7 @@ glass: "Old-fashioned glass"
 category: "shot"
 has_alcohol: true
 base_spirit: "gin"
-family: "sour"
+family: ""
 visual: "## LLM Prompt:Imagine a vibrant cocktail called Kool-Aid Shot.  It's a concoction of:* **Vodka:** Clear and sharp, providing a neutral base.* **Amaretto:** Rich and nutty, adding depth and a hint of sweetness.* **Sloe Gin:**  Ruby red and subtly tart, lending a fruity kick.* **Triple Sec:** Bright orange and citrusy, adding a refreshing zest.* **Cranberry Juice:**  A vibrant crimson, bringing a tangy sweetness and a beautiful color.**Describe the appearance of this cocktail, paying close attention to:*** **Color:** What overall hue does the combination of these ingredients create? Is it a deep red, a bright pink, or something else entirely?* **Clarity:** Is it clear, cloudy, or somewhere in between? * **Texture:** Is it smooth and silky, or does it have any visible layers or particulates?* **Presentation:** Would you expect it to be served in a shot glass, a cocktail glass, or something else?  **Bonus:**  Imagine this shot being served in a dimly lit bar. How would the light play off the cocktail? Does it create a dramatic effect, or is it more subtle and alluring? "
 source: "personal_collection"
 ---

@@ -20,7 +20,7 @@ glass: "Cocktail glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "gin"
-family: "other"
+family: "martini"
 visual: "## LLM Prompt: Imagine a classic cocktail called London Town made with **gin, maraschino liqueur, and orange bitters**.  Describe the appearance of this cocktail in detail, considering:* **Color:** What is the overall hue of the drink?  Is it clear, cloudy, or somewhere in between? Are there any layers or gradients in the color?* **Texture:** Is the drink clear and still, or does it have a cloudy appearance? Does it have any visible particles or sediments? * **Garnish:** What would be a suitable garnish for this cocktail? Describe its appearance and how it complements the drink visually.* **Glassware:** What type of glass would be best suited for serving this cocktail? How does the glass shape enhance the visual appeal?**Please provide a detailed description of the visual aspects of the London Town cocktail, capturing its aesthetic appeal.** "
 source: "personal_collection"
 ---

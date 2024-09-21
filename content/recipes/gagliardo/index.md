@@ -21,7 +21,7 @@ glass: "Cocktail glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "vodka"
-family: "other"
+family: "martini"
 visual: "## Gagliardo Cocktail Description Prompt:Imagine a **Gagliardo cocktail** resting in a chilled coupe glass. Describe its appearance:* **Color:**  What shade of pink or orange does the cocktail display? Is it a vibrant, almost neon color, or more of a subtle blush? * **Texture:** Does it have a smooth, silky surface, or is there a gentle effervescence? Are there any visible layers or gradients?* **Garnish:** What garnishes, if any, are used to complement the drink? Consider the size, color, and shape of the garnish in relation to the cocktail.* **Overall Impression:** How would you describe the visual appeal of the Gagliardo? Is it elegant, playful, refreshing, or something else entirely? Please provide a detailed, evocative description that captures the essence of this beautiful and complex cocktail. "
 source: "personal_collection"
 ---
