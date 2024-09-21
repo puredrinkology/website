@@ -1,6 +1,8 @@
 {{ define "main" }}
 <section class="section blog-list pb-5">
   <div class="container p-0">
+    <div id="search-results" class="row"></div>
+
     <div class="row g-4 p-2">
       {{ $categoryOrder := .Site.Params.categoryOrder }}
       {{ $categoryNames := .Site.Params.categoryNames }}

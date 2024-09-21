@@ -740,3 +740,15 @@ div.description{
 div.description .row{
   padding: 3em;
 }
+
+
+#search-box{
+ border: 0;
+
+}
+
+#search-box:focus {
+  outline: none;  /* Remove the default outline */
+  border: none;   /* Optionally remove the border if you have one */
+  box-shadow: 0 0 5px rgba(0, 120, 255, 0.5); /* Example custom focus style */
+}

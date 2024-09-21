@@ -19,7 +19,14 @@
 
     <!-- Desktop Menu Items -->
     <div class="collapse navbar-collapse d-none d-xl-flex" id="navbarDesktopContent">
+      
+      
       <ul class="navbar-nav ms-auto mb-xl-0">
+        <li class="nav-item text-center m-0">
+          <form id="search" >
+            <input type="text" id="search-box" placeholder="Search Cocktails" autocomplete="off" class="m-0 px-3 py-2" style="border-radius: 20px; width: 25em"/>
+          </form>
+        </li>
         {{ range .Site.Menus.main }}
           <li class="nav-item text-center m-0">
             <a class="nav-link text-white px-4" href="{{ .URL }}">{{ .Name }}</a>

@@ -1,0 +1,11 @@
+{{- $items := "" -}}
+{{- range .Params.ingredients -}}
+  {{- if .item -}}
+    {{- if $items -}}
+      {{- $items = printf "%s, %s" $items .item -}}
+    {{- else -}}
+      {{- $items = .item -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{ $items }}

@@ -3,6 +3,8 @@
 
   <section class="section blog-single p-0">
     <div class="container-fluid p-0">
+      <div id="search-results" class="row"></div>
+
       <div class="row gx-0 align-items-center">
         <div class="col-lg-6 col-12">
             {{ with .Resources.GetMatch (printf "**/%s" "{cover.*}") }}

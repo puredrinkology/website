@@ -1,0 +1,19 @@
+{{- $pages := where .Site.Pages "Type" "recipes" -}}
+[
+  {{- range $index, $page := $pages -}}
+    {{- if $index }},{{ end }}
+    {
+      "title": {{ $page.Title | jsonify }},
+      "content": {{ $page.Plain | jsonify }},
+      "url": {{ $page.Permalink | jsonify }},
+      "category": {{ $page.Params.category | jsonify }},
+      "family": {{ $page.Params.family | jsonify }},
+      "base_spirit": {{ $page.Params.base_spirit | jsonify }},
+      "description": {{ $page.Params.description | jsonify }},
+      "bartender_tips": {{ $page.Params.bartender_tips | jsonify }},
+      "flavor_description": {{ $page.Params.flavor_description | jsonify }},
+      "glass": {{ $page.Params.glass | jsonify }},
+      "ingredient_items": {{ partial "utilities/ingredient-items.html" . | jsonify }}
+    }
+  {{- end -}}
+]

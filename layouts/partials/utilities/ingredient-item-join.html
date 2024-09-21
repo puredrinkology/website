@@ -1,0 +1,5 @@
+{{- $ingredientItems := slice -}}
+{{- range . -}}
+  {{- $ingredientItems = $ingredientItems | append .item -}}
+{{- end -}}
+{{- delimit $ingredientItems ", " -}}

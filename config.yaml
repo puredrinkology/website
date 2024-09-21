@@ -82,10 +82,6 @@ params:
 
 menus:
   main:
-    - name: ""
-      url: "/"
-      weight: 1
-
     - name: "Cocktail Collections"
       url: "/recipes/"
       weight: 2
