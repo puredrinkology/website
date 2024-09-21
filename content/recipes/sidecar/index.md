@@ -17,7 +17,7 @@ glass: "Cocktail glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "brandy"
-family: "other"
+family: "sour"
 visual: "## LLM Prompt: Describe the appearance of a Sidecar cocktail.**Imagine a classic Sidecar cocktail, perfectly crafted. Describe the following:*** **Color:** What is the overall hue of the drink? Is it clear, amber, golden, or something else entirely?  * **Clarity:** Is the cocktail crystal clear, or does it have a slight haze or cloudiness? * **Texture:**  Is it a smooth, silky liquid, or does it have a more viscous, syrupy texture? * **Garnish:** What type of garnish is used? Is it a simple lemon twist, a sugared rim, or something more elaborate? How does the garnish enhance the visual appeal? * **Glassware:** What type of glass is it served in? A coupe, a martini glass, or something else? How does the shape of the glass contribute to the overall visual impact? **Please be as descriptive as possible, using vivid imagery and sensory details to bring the Sidecar's appearance to life.** "
 source: "personal_collection"
 ---

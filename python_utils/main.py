@@ -407,8 +407,8 @@ def store_descriptions_in_data_file():
 
 
 
-# json_dir = Path('thecocktailsofmine/')
-json_dir = Path('thecocktaildb/')
+json_dir = Path('thecocktailsofmine/')
+# json_dir = Path('thecocktaildb/')
 
 if __name__ == "__main__":
     process_json_files(json_dir, "personal_collection", False)

@@ -1,8 +1,8 @@
 ---
-title: "Cameron'S Kick"
-description: "Cameron's Kick is a spirited riff on the classic Whiskey Sour family, with its tart lemon juice base and whiskey foundation.  The addition of Orgeat Syrup adds a unique, nutty, and sweet dimension, perhaps inspired by the traditional use of Orgeat in tiki cocktails.  "
-flavor_description: "Cameron's Kick is a complex yet balanced cocktail. The Orgeat syrup brings a sweet, nutty almond flavor, while the Irish whiskey offers a smooth, warm spice. The blended Scotch adds a smoky, peaty depth, and the lemon juice provides a tart, refreshing touch. The combination creates a delicious, slightly smoky and sweet cocktail with a lingering almond aftertaste. "
-bartender_tips: "To make Cameron's Kick sing, balance sweetness and acidity.  Start with a good quality Irish whiskey and blended Scotch.  Use fresh lemon juice and a high-quality orgeat syrup - it's key to the unique flavor profile.  Shake well with ice and double strain into a chilled coupe glass.  Garnish with a lemon twist for a touch of citrus aroma. "
+title: "Camerons Kick"
+description: "Cameron's Kick is a unique twist on the classic Whiskey Sour family, incorporating both Irish and Scotch whiskies for a complex and nuanced flavor profile. This hybrid creation likely emerged in the early 20th century, during the cocktail boom, when bartenders experimented with diverse spirits and ingredients. "
+flavor_description: "Cameron's Kick is a complex and intriguing cocktail. The sweetness of the Orgeat syrup, reminiscent of almond and apricot, is balanced by the peaty smoke of the Blended Scotch and the robust character of Irish Whiskey. A touch of tartness from the lemon juice adds a refreshing counterpoint, creating a layered and sophisticated flavor profile. "
+bartender_tips: "When making Cameron's Kick, use a good quality Irish whiskey and a robust blended scotch. The orgeat syrup adds sweetness and a subtle almond flavor, so don't overpower it with too much lemon juice. Shake vigorously with ice to chill and dilute the mixture.  Strain into a chilled coupe glass and garnish with a lemon twist. "
 ingredients:
   - item: "Orgeat Syrup"
     measure: "0.75 oz"
@@ -19,7 +19,7 @@ category: "cocktail"
 has_alcohol: true
 base_spirit: "whiskey"
 family: "sour"
-visual: "## LLM Prompt for Cameron's Kick Visual Description:Imagine a Cameron's Kick cocktail in a **chilled coupe glass**. The drink is **golden amber** in color, with **subtle hints of green** from the Irish whiskey and **a slight haze** from the Scotch. It's **layered beautifully**, with **a thin layer of foam** on top created by the orgeat syrup. **Describe the following:*** **What does the foam look like?** Is it white, creamy, or perhaps a bit sticky? How does it interact with the liquid beneath it?* **Are there any visible sediment or particles?** If so, what do they look like?* **How does the light reflect off the surface of the drink?** Is it a smooth, even reflection, or does it create a shimmering effect?* **Is there any garnish?** If so, what is it and how does it complement the overall appearance?**Focus on the details that create a vivid image of the cocktail.** The goal is to bring the Cameron's Kick to life through words, capturing its unique visual characteristics and enticing readers to imagine its taste. "
+visual: "## LLM Prompt: Imagine a cocktail called Cameron's Kick in a chilled coupe glass. The drink is a beautiful amber hue with a hint of golden yellow, reminiscent of a sunset over the Scottish Highlands.  **Describe the following:*** **The texture of the cocktail:** Is it smooth and velvety, or does it have a slightly cloudy appearance? * **Any noticeable layers or separation:**  Does the cocktail exhibit distinct layers, or is it a uniform blend?* **The presence of any garnishes:** Is there a lemon twist, a sprig of mint, or perhaps a single cherry resting on the rim?* **The overall impression of the cocktail:** Does it look sophisticated and refreshing, or bold and vibrant?**Bonus:**  Can you incorporate any sensory details to enhance the description, such as the aroma of citrus and whisky, or the sound of ice clinking in the glass? "
 source: "personal_collection"
 ---
 

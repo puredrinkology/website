@@ -453,7 +453,7 @@
         },
         {
             "idDrink": "00027",
-            "strDrink": "Jack's Rose",
+            "strDrink": "Jacks Rose",
             "strCategory": "Cocktail",
             "strAlcoholic": "Alcoholic",
             "strGlass": "Nick and Nora Glass",
@@ -1049,23 +1049,6 @@
             "strMeasure4": "0.5 oz "
         },
         {
-            "idDrink": "00029",
-            "strDrink": "Cameron’s Kick",
-            "strCategory": "Cocktail",
-            "strAlcoholic": "Alcoholic",
-            "strGlass": "Coupe Glass",
-            "strFamily": "sour",
-            "strInstructions": "Shake all ingredients with ice and strain into a coupe glass.",
-            "strIngredient1": "Orgeat Syrup",
-            "strIngredient2": "Irish Whisky",
-            "strIngredient3": "Blended Scotch",
-            "strIngredient4": "Lemon Juice",
-            "strMeasure1": "0.75 oz ",
-            "strMeasure2": "1 oz ",
-            "strMeasure3": "1 oz ",
-            "strMeasure4": "0.75 oz "
-        },
-        {
             "idDrink": "00030",
             "strDrink": "Millionaire Cocktail",
             "strCategory": "Cocktail",
@@ -1420,7 +1403,7 @@
         },
         {
             "idDrink": "00049",
-            "strDrink": "Cameron's Kick",
+            "strDrink": "Camerons Kick",
             "strCategory": "Cocktail",
             "strAlcoholic": "Alcoholic",
             "strGlass": "Coupe Glass",

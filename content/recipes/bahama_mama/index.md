@@ -26,7 +26,7 @@ glass: "Highball glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "rum"
-family: "other"
+family: "punch"
 visual: ""
 source: "personal_collection"
 ---

@@ -15,7 +15,7 @@ glass: "Beer Glass"
 category: "beer"
 has_alcohol: true
 base_spirit: "tequila"
-family: "other"
+family: "highball"
 visual: "## LLM Prompt for 110 in the Shade Cocktail Description:**Please describe the visual appearance of a 110 in the Shade cocktail, a refreshing drink made with Lager and Tequila. Consider the following:*** **Color:** What is the overall color of the drink? Is it clear, cloudy, or layered? * **Clarity:** Is the drink transparent, or does it have a slightly hazy appearance? * **Head:** Does the Lager create a head on top? Describe its size, color, and texture. * **Garnish:**  What garnish is used? How does it enhance the visual appeal?* **Glassware:** Is the drink served in a specific type of glass? Describe its shape, size, and material. * **Overall Impression:** What is the overall visual impression of the 110 in the Shade cocktail? Is it refreshing, vibrant, or elegant? **Example Response:**The 110 in the Shade cocktail is a vibrant blend of golden lager and clear tequila, resulting in a light, straw-colored drink. A subtle, frothy head crowns the top, reminiscent of a well-poured pint of beer, adding a touch of creaminess to the visual appeal.  A simple lime wedge garnish rests on the rim of the tall, frosted glass, adding a touch of citrusy color and fragrance to the composition. The overall impression is one of refreshing lightness, ideal for a hot summer day. "
 source: "personal_collection"
 ---

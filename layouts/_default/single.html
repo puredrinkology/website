@@ -3,47 +3,49 @@
 
   <section class="section blog-single p-0">
     <div class="container-fluid p-0">
-      <div class="row gx-0">
-        <div class="col-lg-6 col-12 d-flex">
-          {{ with .Resources.GetMatch (printf "**/%s" "{cover.*}") }}
-              {{ with .Resize "1000x" }}
-                  <img class="" src="{{ .RelPermalink }}" alt="{{ .Title }}" style="width:100%; height: 100%" />
-              {{ end }} 
-          {{ end }}
+      <div class="row gx-0 align-items-center">
+        <div class="col-lg-6 col-12">
+            {{ with .Resources.GetMatch (printf "**/%s" "{cover.*}") }}
+                {{ with .Resize "1000x" }}
+                    <img class="" src="{{ .RelPermalink }}" alt="{{ .Title }}" style="width:100%; height: 100%; object-fit: cover;" />
+                {{ end }} 
+            {{ end }}
         </div>
         <div class="col-lg-6 col-12 recipe">
-          <div class="ingredients_header">
-          <h1 class="fs-1 text-primary pb-3">The {{ .Title }} {{humanize .Params.category }}</h1>
-            <h2>Ingredients</h2>
-          </div>
-          <div class="ingredients">
-            {{ range $index, $ingredient := .Params.ingredients }}
-              <div itemprop="recipeIngredient" class="ingredient">
-                <span data-amount="{{ $ingredient.measure }}" data-system="imperial">{{ $ingredient.measure }}</span>
-                <span data-system="imperial">{{ $ingredient.unit }}</span>
-                <span>{{ $ingredient.item }}</span>
-              </div>
-            {{ end }}
-          </div>
-
-          <div class="instructions_header">
-            <h2>Method</h2>
-          </div>
-          {{ range $index, $instr := .Params.instructions }}
-              <div itemprop="recipeIngredient" class="ingredient">
-                <span>{{ $instr.item }}</span>
-              </div>
-          {{ end }}
-
-          {{ if .Params.serve }}
-            <div class="instructions_header">
-              <h2>Serve</h2>
+            <div class="recipe-content d-flex flex-column px-lg-5 px-2 h-100">
+                <div class="ingredients_header">
+                    <h1 class="fs-1 text-primary pb-3 text-uppercase">The {{ .Title }} {{humanize .Params.category }}</h1>
+                    <!-- <h2>Ingredients</h2> -->
+                </div>
+                <div class="ingredients">
+                    {{ range $index, $ingredient := .Params.ingredients }}
+                        <div itemprop="recipeIngredient" class="ingredient">
+                            <span data-amount="{{ $ingredient.measure }}" data-system="imperial" class="text-lowercase">{{ $ingredient.measure }}</span>
+                            <span data-system="imperial" class="text-lowercase">{{ $ingredient.unit }}</span>
+                            <span class="text-uppercase">{{ $ingredient.item }}</span>
+                        </div>
+                    {{ end }}
+                </div>
+    
+                <div class="instructions_header">
+                    <!-- <h2>Method</h2> -->
+                </div>
+                {{ range $index, $instr := .Params.instructions }}
+                    <div itemprop="recipeIngredient" class="ingredient">
+                        <span>{{ $instr.item }}</span>
+                    </div>
+                {{ end }}
+    
+                {{ if .Params.serve }}
+                    <div class="instructions_header">
+                        <h2>Serve</h2>
+                    </div>
+                    <div itemprop="recipeInstructions" class="instruction">{{ .Params.serve }}</div>
+                    <div itemprop="recipeInstructions" class="instruction">{{ .Params.garnish }}</div>
+                {{ end }}
             </div>
-            <div itemprop="recipeInstructions" class="instruction">{{ .Params.serve }}</div>
-            <div itemprop="recipeInstructions" class="instruction">{{ .Params.garnish }}</div>
-          {{ end }}
         </div>
-      </div>
+    </div>
     </div>
 
 

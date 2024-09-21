@@ -103,17 +103,10 @@ menus:
     #   weight: 5
 
   footer:
-    - name: "Home"
+    - name: ""
       url: "/"
       weight: 1
 
-    - name: "Terms of Use"
-      url: "/termsofuse/"
-      weight: 10
-
-    - name: "Privacy Policy"
-      url: "/privacy/"
-      weight: 11
 
 permalinks:
   base_spirit: "/recipes/spirit/:slug/"
@@ -133,6 +126,6 @@ related:
     - name: "family"
       weight: 100
     - name: "base_spirit"
-      weight: 100
+      weight: 90
 
 

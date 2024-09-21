@@ -5,9 +5,9 @@ flavor_description: "The Addison, with its gin and vermouth base, offers a sophi
 bartender_tips: "The Addison is a classic Gin Martini, so focus on the gin!  Choose a quality gin with distinct botanicals for a complex flavor profile.  Chill your glass and gin for a crisp experience.  Use a good vermouth for depth, but don't overdo it.  Stir gently to avoid diluting, and garnish with a lemon twist for a touch of citrus. "
 ingredients:
   - item: "Gin"
-    measure: "1.5"
-  - item: "Vermouth"
-    measure: "1.5"
+    measure: "1.5 oz"
+  - item: "Sweet Vermouth"
+    measure: "1.5 oz"
 instructions:
   - item: "Shake together all the ingredients and strain into a cold glass."
 glass: "Martini Glass"

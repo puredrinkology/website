@@ -20,7 +20,7 @@ glass: "Collins Glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "vodka"
-family: "other"
+family: "highball"
 visual: ""
 source: "personal_collection"
 ---

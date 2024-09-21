@@ -15,7 +15,7 @@ glass: "Champagne Flute"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "wine"
-family: "other"
+family: "fizz"
 visual: ""
 source: "personal_collection"
 ---

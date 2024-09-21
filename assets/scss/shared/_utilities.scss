@@ -706,15 +706,22 @@ ul li {
 .recipe{
   padding: 0em;
   font-size: 1.2em;
+  height: 100%;
+
+}
+.recipe-content {
+  height: 100%; /* This div should also take full height */
+  justify-content: center; /* Center vertically */
+  align-items: flex-start; /* Keep content aligned to the top within the centered space */
 }
 
 .recipe .ingredients_header{
-  background-color: #f9f7f4;
+  // background-color: #f9f7f4;
   padding: 1em;
 }
 
 .recipe .instructions_header{
-  background-color: #f9f7f4;
+  // background-color: #f9f7f4;
   padding: 1em;
 }
 
