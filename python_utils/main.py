@@ -14,6 +14,14 @@ content_dir = Path('../content/recipes/')
 content_dir.mkdir(parents=True, exist_ok=True)
 
 genai.configure(api_key=os.environ['GOOGLE_GENAI_APIKEY'])
+
+
+def generate_title(name, category):
+    clean_name = name.lower().replace("cocktail", "").replace("the", "").replace("punch", "").replace("'", "")
+    long_name = f"the {clean_name} {category}"
+    short_name = f"{clean_name}"
+
+    return [long_name.title(), short_name.title()]
     
 def identify_base_spirit(ingredients):
     base_spirits = {
@@ -222,9 +230,12 @@ def create_hugo_content(drink, source, get_ai_content):
     # get from gemini
     
     
+    [drink_name, short_name] = generate_title(drink["strDrink"], category)
 
     frontmatter = {
-        "title": drink["strDrink"].replace("Cocktail", "").title(),
+        "title": drink_name,
+        "fullname": drink_name,
+        "shortname": short_name,
         "description": history.replace("\n", "").replace('"', ''),
         "flavor_description": flavor_description.replace("\n", "").replace('"', ''),
         "bartender_tips": bartender_tips.replace("\n", "").replace('"', ''),
