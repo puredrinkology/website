@@ -1,5 +1,7 @@
 ---
-title: "Hot Chocolate To Die For"
+title: "The Hot Chocolate To Die For Cocoa"
+fullname: "The Hot Chocolate To Die For Cocoa"
+shortname: "Hot Chocolate To Die For"
 description: "This decadent concoction belongs to the **Hot Toddy** family, offering warmth and comfort like its namesake.  Though not a classic, Hot Chocolate to Die For likely emerged in the 20th century, fueled by the American love for all things chocolate and cozy. "
 flavor_description: "This drink is a decadent, creamy dream. Rich dark chocolate notes dance with buttery smoothness, while a whisper of vanilla adds a warm, comforting touch. The half-and-half provides a luxurious texture, and the marshmallows melt into a fluffy sweetness that lingers on the palate. It's a hug in a mug, perfect for a chilly evening. "
 bartender_tips: "Use good quality chocolate for the richest flavor.  Melt it slowly over low heat with the butter, stirring constantly.  Don't overcook the chocolate, as it can seize.  Let the mixture cool slightly before adding the half-and-half, to avoid curdling.  A splash of vanilla extract adds depth, but don't overdo it.  Top with toasted marshmallows for a delightful touch. "

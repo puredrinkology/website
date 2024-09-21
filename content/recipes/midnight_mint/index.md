@@ -1,5 +1,7 @@
 ---
-title: "Midnight Mint"
+title: "The Midnight Mint Cocktail"
+fullname: "The Midnight Mint Cocktail"
+shortname: "Midnight Mint"
 description: "The Midnight Mint is a creamy, refreshing cocktail belonging to the **liqueur-based** family. Its origins are likely recent, a modern twist on classic mint-flavored drinks, drawing inspiration from the smooth combination of Irish Cream and Creme de Menthe. "
 flavor_description: "The Midnight Mint is a decadent and creamy cocktail. The Baileys Irish Cream provides a rich, sweet, and slightly boozy base. The White Creme de Menthe adds a refreshing, minty sweetness with a hint of cool mint. The cream rounds out the drink, adding a velvety texture and enhancing the overall sweetness. The combination creates a smooth and luxurious experience, perfect for a special occasion or a quiet night in. "
 bartender_tips: "This one's all about layering.  Chill your glass and ingredients beforehand.  Pour the Baileys slowly down the side to form the bottom layer.  Carefully add the Creme de Menthe, letting it float on top.  Finish with a thin layer of cream.  A gentle swirl with a skewer adds a touch of elegance, but avoid overmixing! "

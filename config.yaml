@@ -71,6 +71,7 @@ params:
   familyOrder:
     - "ancestral"
     - "spirit-forward"
+    - "negroni"
     - "martini"
     - "sour"
     - "margarita"
@@ -86,9 +87,14 @@ menus:
       url: "/recipes/"
       weight: 2
 
+    - name: "Cocktail Families"
+      url: "/recipes/family/"
+      weight: 3
+
+
     - name: "Spirits"
       url: "/recipes/spirit/"
-      weight: 3
+      weight: 4
 
     # - name: "Bar Tools"
     #   url: "/tools/"

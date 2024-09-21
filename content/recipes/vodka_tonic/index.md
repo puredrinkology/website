@@ -1,5 +1,7 @@
 ---
-title: "Vodka Tonic"
+title: "The Vodka Tonic Cocktail"
+fullname: "The Vodka Tonic Cocktail"
+shortname: "Vodka Tonic"
 description: "The Vodka Tonic is a quintessential Highball, a family of long, refreshing drinks built on a base spirit and a mixer.  Originating in the early 20th century, the Vodka Tonic combines the clean taste of vodka with the effervescent bitterness of tonic water, garnished with a citrus twist. "
 flavor_description: "The Vodka Tonic is a refreshing and crisp cocktail.  The vodka provides a clean, neutral base, while the tonic water offers a slightly bitter, quinine-forward flavor with a hint of sweetness.  The lemon peel adds a subtle citrus aroma and a touch of tartness that balances the sweetness.  The result is a light, refreshing drink that is perfect for any occasion. "
 bartender_tips: "Start with a chilled highball glass. Use a good quality vodka, and don't over-pour. A light hand with the tonic is key - you want it to be bubbly, not watery. A gentle squeeze of lemon peel releases oils, giving the drink a bright citrus aroma.  No need to muddle - a simple garnish of a lemon twist adds elegance. "

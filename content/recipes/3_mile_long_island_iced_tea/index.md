@@ -1,5 +1,7 @@
 ---
-title: "3-Mile Long Island Iced Tea"
+title: "The 3-Mile Long Island Iced Tea Cocktail"
+fullname: "The 3-Mile Long Island Iced Tea Cocktail"
+shortname: "3-Mile Long Island Iced Tea"
 description: "The 3-Mile Long Island Iced Tea is a potent member of the Long Island Iced Tea family, known for its multiple spirits. Originating in the 1970s, this cocktail's name likely refers to its ability to make a long journey seem short, though its origins are debated. "
 flavor_description: "This cocktail is a boozy beast, a punch to the palate.  The citrusy sweetness of Triple Sec and sweet and sour mingle with the strong kick of gin, rum, tequila, and vodka. Coca-Cola adds a touch of sweetness and the bitterness of Angostura bitters cuts through the sugary notes. It's a complex blend of sweet, sour, and bitter, with a strong alcoholic bite.  Be warned, this one packs a punch! "
 bartender_tips: "This is a deceptively potent drink.  Don't be fooled by the tea name; it's a serious cocktail.  Use a good quality soda for best results.  Be precise with measurements, as adding too much of one spirit can make the drink unbalanced.  A good bartender will know how to balance all of the flavors and create a delicious and potent cocktail. "

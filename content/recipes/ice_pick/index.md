@@ -1,5 +1,7 @@
 ---
-title: "Ice Pick"
+title: "The Ice Pick Cocktail"
+fullname: "The Ice Pick Cocktail"
+shortname: "Ice Pick"
 description: "The Ice Pick belongs to the Highball family, a refreshing mix of spirits, mixers, and ice. Its origins are likely modern, born from the desire for a simple, cool, and invigorating drink using readily available ingredients. "
 flavor_description: "The Ice Pick is a refreshing, tangy cocktail with a clean, crisp finish. The vodka provides a smooth base, while the iced tea lends a subtle sweetness and earthy notes. Lemon juice brightens the profile, adding a tartness that balances the sweetness and adds a hint of citrus. The overall effect is a light, refreshing drink that's perfect for a warm day. "
 bartender_tips: "This one's all about balance. Use a good quality vodka and fresh lemon juice for the best flavor.  Don't overpower the tea with too much lemon. Start with a 1:1 ratio of iced tea to vodka, then add lemon juice to taste.  Shake with ice for a frosty, refreshing drink. If you're feeling fancy, rim the glass with sugar before pouring. "
@@ -17,7 +19,7 @@ glass: "Collins Glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "vodka"
-family: "other"
+family: "highball"
 visual: "## LLM Prompt:**Imagine a refreshing summer cocktail named Ice Pick. It's a visually appealing blend of:*** **Vodka:** Clear and crisp, shimmering with a slight icy sheen.* **Iced Tea:**  A deep, amber hue, with subtle hints of gold depending on the tea used.* **Lemon Juice:**  A vibrant yellow, adding a touch of acidity and freshness.**Describe the appearance of the Ice Pick cocktail. Consider the following:*** **Color:**  Is it a uniform blend, or does it have layers?* **Clarity:**  Is it crystal clear, or slightly cloudy?* **Texture:**  Is it smooth or does it have a slight fizz?* **Garnish:**  What could enhance its visual appeal? (e.g., lemon wedge, sprig of mint)**Please provide a detailed description of the cocktail's appearance, incorporating sensory details and evocative language. For example, The Ice Pick shimmers with a pale gold hue, its clarity mirroring the glistening ice cubes, while a delicate lemon twist adds a touch of vibrancy.** "
 source: "personal_collection"
 ---

@@ -1,5 +1,7 @@
 ---
-title: "Kir Royale"
+title: "The Kir Royale Cocktail"
+fullname: "The Kir Royale Cocktail"
+shortname: "Kir Royale"
 description: "The Kir Royale, a delightful blend of Crème de Cassis and Champagne, belongs to the **French aperitif** family. It originated in the 1950s in Dijon, France, named after Canon Félix Kir, a local politician who served Crème de Cassis with white wine. "
 flavor_description: "Kir Royale is a delicate balance of sweet and tart.  The Creme de Cassis, a blackcurrant liqueur, brings forth a rich, fruity sweetness with subtle herbal notes.  This sweetness is beautifully counterbalanced by the dry, crisp effervescence of the Champagne, creating a sophisticated and refreshing experience. The overall effect is a light, elegant cocktail with a delightful lingering finish. "
 bartender_tips: "Chill your Champagne thoroughly before mixing.  Use high-quality Crème de Cassis, as it makes all the difference.  A good ratio is 1 part Crème de Cassis to 5 parts Champagne, but adjust to your taste. Pour the Crème de Cassis into the Champagne flute first, then top with Champagne gently, ensuring a beautiful layering effect. Garnish with a fresh raspberry or blackcurrant for a classic touch. "

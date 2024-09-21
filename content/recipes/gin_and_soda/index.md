@@ -1,5 +1,7 @@
 ---
-title: "Gin And Soda"
+title: "The Gin And Soda Cocktail"
+fullname: "The Gin And Soda Cocktail"
+shortname: "Gin And Soda"
 description: "The Gin and Soda is a classic highball, a refreshing and simple cocktail family known for its tall, chilled format.  Its origins likely date back to the 19th century, when gin was widely enjoyed and soda water became popular. "
 flavor_description: "Gin and Soda is a crisp and refreshing cocktail with a bright, citrusy character. The gin's juniper and botanical flavors are balanced by the clean, bubbly soda water, while the lime adds a tart and juicy touch. The overall taste profile is clean, dry, and invigorating, perfect for a light and refreshing drink. "
 bartender_tips: "A good Gin & Soda is all about balance. Use a high-quality gin with a distinct character. Fill your glass with ice first, then add the gin and a good squeeze of fresh lime juice. Top with chilled soda water, keeping the bubbles lively. Garnish with a lime wheel and enjoy the refreshing simplicity! "

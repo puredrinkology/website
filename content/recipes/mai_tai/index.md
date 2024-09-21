@@ -1,5 +1,7 @@
 ---
-title: "Mai Tai"
+title: "The Mai Tai Cocktail"
+fullname: "The Mai Tai Cocktail"
+shortname: "Mai Tai"
 description: "The Mai Tai, a tropical delight, belongs to the Tiki cocktail family, born in 1944 at Trader Vic's in Oakland, California.  This iconic rum-based cocktail is a vibrant blend of sweet and sour flavors, showcasing the Polynesian influence that swept the cocktail scene in the mid-20th century. "
 flavor_description: "The Mai Tai is a tropical delight. Light rum provides a smooth base, while orgeat syrup adds a sweet almond essence. Triple sec offers a citrusy kick, balanced by the tartness of sweet and sour. The cherry adds a touch of fruity sweetness. Overall, it's a complex yet refreshing blend of sweet, sour, and exotic flavors. "
 bartender_tips: "Use a high-quality light rum for a truly authentic Mai Tai.  Orgeat syrup can be tricky, so taste it before adding; some are too sweet.  Triple Sec adds citrus, but don't overdo it. Sweet and sour is essential, but adjust the amount for desired sweetness. A fresh lime wedge is a must for garnish. Shake well with ice for a frosty, refreshing drink. "

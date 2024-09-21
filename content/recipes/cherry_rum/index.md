@@ -1,5 +1,7 @@
 ---
-title: "Cherry Rum"
+title: "The Cherry Rum Cocktail"
+fullname: "The Cherry Rum Cocktail"
+shortname: "Cherry Rum"
 description: "Cherry Rum is a creamy, fruity cocktail belonging to the **Cream Cocktail** family. Its origins are unknown, but its simple composition suggests a likely birth in the mid-20th century, a time when creamy cocktails like the White Russian were gaining popularity. "
 flavor_description: "Cherry Rum is a delightful blend of sweet and creamy notes. The light rum provides a smooth, slightly spicy base, while the cherry brandy adds a vibrant, fruity burst. The light cream softens the edges, creating a luxuriously smooth texture and balancing the sweetness. This cocktail is reminiscent of a cherry cordial with a boozy kick, perfect for those seeking a sweet and comforting drink. "
 bartender_tips: "Use a high-quality light rum for a clean base.  Ensure the cherry brandy is sweet and fruity, not too bitter.  Shake with ice to chill thoroughly, then strain into a chilled glass. A light touch with the cream is key: a small amount adds richness without overpowering the rum and cherry. Garnish with a cherry or a cherry-infused sugar rim. "

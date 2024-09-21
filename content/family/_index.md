@@ -1,7 +1,7 @@
 ---
 title: The Cocktail Families
 description: An organization of cocktails into their respective family groups
-layout: taxonomy
+layout: family
 url: "/recipes/family/"
 
 secondary: "

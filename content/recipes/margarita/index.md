@@ -1,5 +1,7 @@
 ---
-title: "Margarita"
+title: "The Margarita Cocktail"
+fullname: "The Margarita Cocktail"
+shortname: "Margarita"
 description: "The Margarita, a member of the sour family, boasts a vibrant history. Born in the 1930s, it's believed to have originated in Mexico, with its tequila base and citrusy lime juice creating a refreshing and iconic taste. "
 flavor_description: "The Margarita is a symphony of citrus and spice.  The tequila's earthy agave notes dance with the bright acidity of lime juice, balanced by the sweet, orangey warmth of Grand Marnier. Agave syrup adds a touch of honeyed sweetness, while the salt rim enhances the citrus and balances the overall profile.  The result is a refreshing, complex cocktail that's both invigorating and satisfying. "
 bartender_tips: "For a perfect Margarita, **fresh is key**. Use freshly squeezed lime juice, not bottled.  **Chill your ingredients:** tequila, Grand Marnier, and lime juice, for a crisp, refreshing taste.  **Rim the glass with coarse salt** for a classic touch.  **Shake well with ice** to dilute slightly and chill thoroughly.  **Don't over-shake** or you'll get a cloudy drink.  Lastly, **adjust sweetness** to your preference with agave syrup. "

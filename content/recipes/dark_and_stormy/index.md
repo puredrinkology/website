@@ -1,5 +1,7 @@
 ---
-title: "Dark And Stormy"
+title: "The Dark And Stormy Cocktail"
+fullname: "The Dark And Stormy Cocktail"
+shortname: "Dark And Stormy"
 description: "The Dark and Stormy, a potent blend of dark rum and ginger beer, belongs to the Highball family, characterized by tall, refreshing drinks. Its origin is disputed, with claims from both Bermuda and Jamaica, but its popularity stems from its bold, spicy character, perfect for tropical climates. "
 flavor_description: "The Dark and Stormy is a bold and refreshing cocktail with a spicy kick. Dark rum's molasses notes mingle with the ginger beer's zesty bite, creating a complex flavor profile. The sweetness of the rum is balanced by the ginger beer's effervescence and subtle spice, resulting in a well-rounded drink that's both invigorating and comforting. "
 bartender_tips: "Use a high-quality dark rum for the best flavor.  Fresh ginger beer is ideal, but if using bottled, chill it thoroughly for a crisp taste. Build the drink over ice in a highball glass, pouring rum first, then ginger beer.  Gently stir to combine, leaving a bit of fizz on top. Garnish with a lime wedge or a sprig of fresh mint for an extra touch. "

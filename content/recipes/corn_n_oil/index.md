@@ -1,5 +1,7 @@
 ---
-title: "Corn N Oil"
+title: "The Corn N Oil Cocktail"
+fullname: "The Corn N Oil Cocktail"
+shortname: "Corn N Oil"
 description: "Corn n Oil is a riff on the classic Daiquiri family, a rum-based cocktail with citrus and sweetener. The use of Falernum, a Caribbean-inspired liqueur, and Blackstrap Rum, known for its molasses-driven intensity, adds a unique twist to the traditional profile. "
 flavor_description: "Corn n Oil bursts with a bright, citrusy lime punch, balanced by the subtle spice and sweetness of the Falernum. A whisper of bitters adds complexity, while the Añejo Rum contributes warm caramel notes and the Blackstrap Rum brings a deep, molasses-like richness. The result is a complex and layered cocktail that is both refreshing and satisfying. "
 bartender_tips: "To make a great Corn n' Oil, remember these tips: * **Start with good quality ingredients:** Use fresh lime juice and high-quality rums.* **Measure carefully:** This cocktail is balanced, so precise measurements are key. * **Shake well with ice:** This chills the drink and dilutes it properly. * **Strain into a chilled coupe glass:** This keeps the drink cool and enhances the aroma. * **Garnish with a lime wheel:** It adds a touch of freshness and elegance. "

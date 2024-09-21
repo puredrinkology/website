@@ -1,5 +1,7 @@
 ---
-title: "Dirty Nipple"
+title: "The Dirty Nipple Shot"
+fullname: "The Dirty Nipple Shot"
+shortname: "Dirty Nipple"
 description: ""
 flavor_description: ""
 bartender_tips: ""
@@ -16,7 +18,7 @@ glass: "Shot glass"
 category: "shot"
 has_alcohol: true
 base_spirit:
-family: "other"
+family: ""
 visual: ""
 source: "personal_collection"
 ---

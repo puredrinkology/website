@@ -1,5 +1,7 @@
 ---
-title: "Maracuya Mojito"
+title: "The Maracuya Mojito Cocktail"
+fullname: "The Maracuya Mojito Cocktail"
+shortname: "Maracuya Mojito"
 description: "The Maracuya Mojito is a vibrant twist on the classic Cuban Mojito, a refreshing cocktail family born in Havana.  This modern interpretation infuses the traditional rum, lime, and mint with the tropical sweetness of passionfruit syrup, creating a lively and exotic experience. "
 flavor_description: "The Maracuya Mojito is a vibrant, tropical delight.  The passionfruit syrup bursts with sweet, tangy notes, mingling with the refreshing coolness of mint and lime. White rum adds a subtle warmth and complexity, creating a balanced flavor profile that is both sweet and tart, with a hint of herbal freshness.  The combination is both invigorating and exotic, perfect for a warm summer evening. "
 bartender_tips: "Muddle the mint gently, don't crush it to avoid bitterness.  Use fresh lime juice for the best flavor.  Add the Passionfruit syrup after the rum and lime, as it will balance the sweetness.  Shake vigorously with ice, then strain into a chilled glass. Garnish with a sprig of mint and a lime wheel. "

@@ -1,5 +1,7 @@
 ---
-title: "Poppy "
+title: "The Poppy  Cocktail"
+fullname: "The Poppy  Cocktail"
+shortname: "Poppy "
 description: "The Poppy Cocktail, a harmonious blend of gin and crème de cacao, belongs to the **liqueur-based cocktail** family. While its exact origins are unclear, its composition suggests a  connection to the **classic French Crème de Menthe** cocktails popular in the early 20th century. "
 flavor_description: "The Poppy Cocktail is a delightful blend of gin's botanicals and the rich, chocolatey sweetness of crème de cacao. It offers a complex, well-balanced taste. The gin provides a crisp, juniper-forward base, while the crème de cacao adds notes of dark chocolate and a touch of spice.  The result is a smooth, slightly sweet cocktail with a lingering chocolate finish. "
 bartender_tips: "For a velvety smooth Poppy Cocktail, chill your gin and crème de cacao separately before mixing. This ensures a perfectly chilled drink. Use a good quality crème de cacao for a richer flavor profile.  Don't over-shake the cocktail, as this can dilute it. Garnish with a Luxardo cherry or a twist of orange peel for an elegant touch.  "

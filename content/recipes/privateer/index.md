@@ -1,5 +1,7 @@
 ---
-title: "Privateer"
+title: "The Privateer Cocktail"
+fullname: "The Privateer Cocktail"
+shortname: "Privateer"
 description: "The Privateer is a vibrant tropical cocktail belonging to the Sour family. Its origins likely stem from the fusion of Latin American and Caribbean influences, with the tequila and passionfruit paying homage to Mexico and the pineapple and lime reflecting the Caribbean's bounty. "
 flavor_description: "The Privateer bursts with a vibrant tropical punch. The passionfruit syrup's sweet, tangy notes dance with the smooth tequila, creating a delightful balance. Pineapple juice adds a juicy sweetness, while lime juice brings a refreshing acidity. A whisper of salt enhances the flavors, rounding out this exotic and invigorating cocktail. "
 bartender_tips: "For a perfectly balanced Privateer, use a high-quality tequila that complements the tropical fruit notes. Ensure the passionfruit syrup is homemade or a good quality store-bought option.  Shake well with ice to chill and dilute the cocktail.  Use fresh lime juice for optimal tartness.  A pinch of salt enhances the sweetness and brings out the flavor of the tequila. Garnish with a lime wheel or a passionfruit wedge. "

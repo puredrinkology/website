@@ -1,5 +1,7 @@
 ---
-title: "Brain Fart"
+title: "The Brain Fart Punch"
+fullname: "The Brain Fart Punch"
+shortname: "Brain Fart"
 description: "Brain Fart is a chaotic, high-proof concoction belonging to the college party punch family.  Originating in the late 20th century, it's a testament to the ingenuity (or perhaps desperation) of students seeking potent, readily available ingredients for a cheap, memorable (though perhaps not in a good way) experience. "
 flavor_description: ""
 bartender_tips: ""
@@ -24,7 +26,7 @@ glass: "Punch bowl"
 category: "punch"
 has_alcohol: true
 base_spirit: "vodka"
-family: "other"
+family: "punch"
 visual: ""
 source: "personal_collection"
 ---

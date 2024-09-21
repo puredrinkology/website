@@ -1,5 +1,7 @@
 ---
-title: "Foxy Lady"
+title: "The Foxy Lady Cocktail"
+fullname: "The Foxy Lady Cocktail"
+shortname: "Foxy Lady"
 description: "The Foxy Lady is a creamy, sweet cocktail belonging to the **liqueur-based** family, reminiscent of classic dessert drinks. While its exact origin is unknown, it likely emerged in the mid-20th century, a time when creamy cocktails like the White Russian were popular. "
 flavor_description: "The Foxy Lady is a creamy, decadent cocktail with a sweet, nutty, and subtly chocolatey flavor profile. The Amaretto provides a rich almond essence, balanced by the smooth sweetness of the Creme de Cacao.  Light cream adds a touch of richness and a velvety texture, making this a luxurious and indulgent drink. "
 bartender_tips: "This cocktail is a creamy delight, but requires a bit of finesse. Chill your ingredients, especially the cream, for a smooth and refreshing drink.  Use a good quality Amaretto and Creme de Cacao for the best flavor.  Shake well with ice, and strain into a chilled coupe glass for a flawless presentation.  Garnish with a chocolate curl for a touch of elegance. "

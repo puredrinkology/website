@@ -1,5 +1,7 @@
 ---
-title: "Port Wine Flip"
+title: "The Port Wine Flip Cocktail"
+fullname: "The Port Wine Flip Cocktail"
+shortname: "Port Wine Flip"
 description: "The Port Wine Flip belongs to the **Flip** family of cocktails, a historic style popular in the 18th and 19th centuries. Originating in England, these drinks were traditionally made with spirits, cream, sugar, and a raw egg, shaken vigorously to create a frothy, decadent beverage. "
 flavor_description: "The Port Wine Flip is a luxurious, decadent treat. The sweetness of the Port wine and powdered sugar is balanced by the richness of the cream and the velvety texture of the egg.  A hint of spice from the nutmeg adds a warm complexity, leaving you with a lingering warmth and a touch of boozy sweetness. "
 bartender_tips: "This is a classic, so use fresh ingredients. Separate the egg white and yolk,  whip the white separately until stiff peaks form. This creates a rich, frothy head. Fold the yolk mixture into the whipped white gently, don't overmix.  Chill the port before combining to prevent the egg from cooking.  Don't shake this drink, just stir gently to avoid over-diluting. "

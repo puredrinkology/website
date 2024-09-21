@@ -1,5 +1,7 @@
 ---
-title: "Egg-Nog - Classic Cooked"
+title: "The Egg-Nog - Classic Cooked Punch"
+fullname: "The Egg-Nog - Classic Cooked Punch"
+shortname: "Egg-Nog - Classic Cooked"
 description: "Egg-nog, a classic cooked beverage, belongs to the **Creamy Cocktail** family.  Originating in England during the 17th century, it was traditionally a winter drink enjoyed by the upper classes.  The name egg-nog is thought to derive from the noggin, a wooden cup used to serve the drink. "
 flavor_description: "This classic eggnog is a creamy, comforting delight.  The sweetness of the sugar is balanced by the subtle saltiness, while the rich vanilla extract adds warm notes.  The egg yolk adds a velvety texture and depth of flavor, creating a luxuriously smooth mouthfeel.  It's a classic for a reason, delivering a comforting warmth and festive spirit with every sip. "
 bartender_tips: "For a smooth, silky egg nog, temper your eggs gently.  Whisk yolks with sugar and salt until pale, then slowly drizzle in hot milk, whisking constantly to prevent curdling.  Simmer until thickened, stirring frequently. Cool completely before adding vanilla and chilling.  Don't overcook; it'll become grainy.  Use fresh, high-quality ingredients for the best flavor! "

@@ -1,5 +1,7 @@
 ---
-title: "Sherry Eggnog"
+title: "The Sherry Eggnog Cocktail"
+fullname: "The Sherry Eggnog Cocktail"
+shortname: "Sherry Eggnog"
 description: "The Sherry Eggnog belongs to the **Eggnog** family, a rich and creamy cocktail tradition dating back centuries.  Its origins likely trace back to medieval Europe, where egg-based drinks were popular for their nourishing properties.  The addition of sherry adds a complex, nutty flavor profile, giving this eggnog a sophisticated twist. "
 flavor_description: "This Sherry Eggnog boasts a unique, complex flavor profile. The sherry lends a dry, nutty, and slightly salty note, while the powdered sugar provides sweetness. The egg adds richness and creaminess, balanced by the milk's smoothness. A dusting of nutmeg rounds out the experience with warmth and spice, creating a subtly sweet and surprisingly savory cocktail. "
 bartender_tips: "Use a good quality dry sherry, like fino or manzanilla, for a balanced flavor. Whisk the egg yolks and sugar until light and fluffy, then slowly drizzle in the sherry, whisking constantly to prevent curdling.  Fold in the chilled milk and sprinkle with fresh nutmeg.  This will help ensure a smooth and creamy texture, and enhance the richness of the cocktail. "

@@ -1,5 +1,7 @@
 ---
-title: "Dark Caipirinha"
+title: "The Dark Caipirinha Cocktail"
+fullname: "The Dark Caipirinha Cocktail"
+shortname: "Dark Caipirinha"
 description: "The Dark Caipirinha is a twist on the classic Caipirinha, a Brazilian cocktail.  It belongs to the Sour family, characterized by its sour, sweet, and strong profile.  The Demerara sugar adds depth and complexity, making it a richer, more sophisticated version of the original. "
 flavor_description: "The Dark Caipirinha is a bold and complex twist on the classic. The Demerara sugar adds a rich, caramel sweetness that contrasts beautifully with the tart lime juice. The cachaça brings a smoky, earthy depth, reminiscent of molasses and burnt sugar, creating a sophisticated and nuanced flavor profile that lingers on the palate.  "
 bartender_tips: "Use a muddler with a heavy base to crush the lime and sugar, ensuring even extraction of oils. Don't over-muddle, you want a coarse texture, not a paste.  Chill the cachaca beforehand for a crisp, refreshing drink.  Adjust the sugar to your preference - Demerara's molasses notes work well with the cachaca, so err on the sweeter side.  Garnish with a lime wheel for an aromatic touch. "

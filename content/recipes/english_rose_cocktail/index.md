@@ -1,5 +1,7 @@
 ---
-title: "English Rose "
+title: "The English Rose  Cocktail"
+fullname: "The English Rose  Cocktail"
+shortname: "English Rose "
 description: "The English Rose Cocktail belongs to the classic Martini family, showcasing the sophisticated balance of gin and vermouth. While its exact origin is unknown, the use of apricot brandy and grenadine suggests a late 19th or early 20th century creation, likely from a London bar, combining English spirits with continental flavors. "
 flavor_description: "The English Rose is a delightful harmony of sweet and tart. The apricot brandy brings a luscious fruitiness, balanced by the crisp juniper notes of gin and dry vermouth. A whisper of grenadine adds a touch of floral sweetness, while lemon juice provides a bright acidity. The cherry garnish adds a final touch of sweetness and a delightful aroma. "
 bartender_tips: "This cocktail calls for balance.  Start with a chilled glass. Use quality gin and apricot brandy. Measure carefully, ensuring the vermouth doesn't overwhelm the gin. Shake vigorously with ice to chill thoroughly. Strain into the glass, and gently float the grenadine on top for a vibrant color gradient. Garnish with a lemon twist and a cherry for a classic finish. "

@@ -1,5 +1,7 @@
 ---
-title: "Toronto"
+title: "The Toronto Cocktail"
+fullname: "The Toronto Cocktail"
+shortname: "Toronto"
 description: "The Toronto is a riff on the classic Manhattan, a member of the Whiskey Cocktail family.  Its unique blend of rye, Fernet, and aromatic bitters likely originated in the Canadian city of Toronto, reflecting the city's vibrant cocktail culture. "
 flavor_description: "The Toronto is a bold and complex cocktail with a surprisingly smooth finish. The rye whiskey provides a spicy backbone, balanced by the bittersweet herbal notes of Fernet-Branca. Gum syrup adds a touch of sweetness, while aromatic bitters enhance the overall complexity. The result is a sophisticated, slightly bitter, and undeniably intriguing drink. "
 bartender_tips: "The Toronto relies on balancing sweet, spicy, and bitter notes.  Use a good quality rye for backbone, and a generous pour of Fernet for its distinctive herbal bitterness.  Aromatic bitters add complexity, so use sparingly.  Chill the ingredients beforehand for a crisp, refreshing drink.  The gum syrup provides sweetness, but don't overdo it - aim for a subtle sweetness that allows the other flavors to shine. "

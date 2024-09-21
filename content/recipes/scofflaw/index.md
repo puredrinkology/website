@@ -1,5 +1,7 @@
 ---
-title: "Scofflaw"
+title: "The Scofflaw Cocktail"
+fullname: "The Scofflaw Cocktail"
+shortname: "Scofflaw"
 description: "The Scofflaw is a classic American cocktail belonging to the Sour family, with its base of rye whiskey, vermouth, and citrus.  Named for the scofflaws who broke Prohibition laws, it's likely from the 1920s,  embracing the rebellious spirit of the era. "
 flavor_description: "The Scofflaw is a complex, balanced cocktail with a dry, spicy kick. Rye whiskey provides a bold, peppery flavor that's tempered by the dry vermouth's botanical notes. Lemon juice adds a bright acidity, while a touch of grenadine rounds out the flavor with a subtle sweetness and a hint of pomegranate. It's a sophisticated drink that's both refreshing and satisfying. "
 bartender_tips: "Use a good quality rye for a robust base.  Chill the vermouth and lemon juice before mixing for a crisp flavor.  Don't be afraid to adjust the grenadine to your sweetness preference - a touch is all you need.  Shake vigorously with ice for a frothy, well-chilled drink.  Strain into a chilled coupe glass and garnish with a lemon twist. "

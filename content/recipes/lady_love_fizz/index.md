@@ -1,5 +1,7 @@
 ---
-title: "Lady Love Fizz"
+title: "The Lady Love Fizz Cocktail"
+fullname: "The Lady Love Fizz Cocktail"
+shortname: "Lady Love Fizz"
 description: "The Lady Love Fizz is a delightful member of the Fizz family, a classic cocktail style originating in the late 19th century. Its combination of gin, cream, and egg white creates a creamy, frothy delight, while the lemon and carbonated water provide a refreshing and bubbly finish. "
 flavor_description: "The Lady Love Fizz is a delightful fusion of tart and creamy. The gin provides a crisp juniper backbone, while the lemon juice adds a bright, citrusy zing. The cream softens the edges with a velvety richness, while the egg white creates a light, airy foam. The powdered sugar adds a touch of sweetness, balanced perfectly by the refreshing carbonated water.  It's a delicate yet complex cocktail, with a surprisingly long, smooth finish. "
 bartender_tips: "For a perfect Lady Love Fizz, the key is a smooth, frothy texture. Dry shake the gin, cream, sugar, lemon, and egg white vigorously for 30 seconds to emulsify the egg white. Then, add ice and shake again for 15 seconds. Double strain to remove any ice shards. Top with carbonated water for a delightful fizz. "

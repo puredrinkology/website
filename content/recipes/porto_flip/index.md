@@ -1,5 +1,7 @@
 ---
-title: "Porto Flip"
+title: "The Porto Flip Cocktail"
+fullname: "The Porto Flip Cocktail"
+shortname: "Porto Flip"
 description: "The Porto Flip is a classic example of a flip cocktail, characterized by its creamy, egg yolk-based texture. Originating in the 18th century, flips were popular throughout the Victorian era and employed spirits like brandy, rum, and whiskey, often paired with fortified wines like Port. "
 flavor_description: "The Porto Flip is a decadent and complex cocktail. The brandy provides a warm, spicy backbone, while the port adds richness and sweetness. The egg yolk, whisked into a silky froth, contributes a velvety texture and a subtle creaminess. The flavors meld beautifully, creating a harmonious balance of sweetness, spice, and creaminess. "
 bartender_tips: "Use high-quality brandy and port for the best flavor.  Ensure the egg yolk is at room temperature for easier emulsification.  Shake vigorously with ice to chill and create a frothy texture.  Strain into a chilled coupe glass for a smooth presentation.  Don't over-shake, or the drink will become too watery.  Garnish with a twist of orange peel for an elegant touch. "

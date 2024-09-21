@@ -1,5 +1,7 @@
 ---
-title: "Blood Moon"
+title: "The Blood Moon Cocktail"
+fullname: "The Blood Moon Cocktail"
+shortname: "Blood Moon"
 description: "Blood Moon is a contemporary twist on the classic Whiskey Sour family.  While its origins are modern, it draws inspiration from the sour's citrus-forward profile, employing blood orange cordial and lemon juice, while adding a touch of complexity with bourbon, aromatic bitters, and peach bitters. "
 flavor_description: "The Blood Moon offers a complex and intriguing flavor profile.  The Blood Orange Cordial provides a sweet, tart base with a hint of citrus. Bourbon adds warmth and spice, while lemon juice balances the sweetness. Aromatic and Peach Bitters lend a subtle complexity with notes of orange peel and stone fruit. A touch of cinnamon adds warmth and depth, creating a harmoniously balanced cocktail with a memorable finish. "
 bartender_tips: "For a balanced Blood Moon,  start by chilling your glass. Use a high-quality bourbon and a good blood orange cordial.  Shake hard with ice to ensure proper dilution.  The aromatic bitters add complexity, but use sparingly.  A touch of cinnamon garnish adds warmth.  Adjust the lemon juice to taste for your preferred level of tartness. "

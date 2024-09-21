@@ -15,3 +15,4 @@ temp/
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json
+.env.yaml

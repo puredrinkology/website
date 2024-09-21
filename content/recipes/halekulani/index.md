@@ -1,5 +1,7 @@
 ---
-title: "Halekulani"
+title: "The Halekulani Cocktail"
+fullname: "The Halekulani Cocktail"
+shortname: "Halekulani"
 description: "The Halekulani, a vibrant fusion of tropical fruit juices and warming bourbon, belongs to the **Sour family**, with its tart citrus base and sweet syrup components.  While its exact origin remains shrouded in mystery, it likely emerged from the vibrant cocktail culture of Hawaii, where its name, meaning House of the Ocean, reflects its refreshing island spirit. "
 flavor_description: "The Halekulani is a symphony of tropical sweetness and bourbon warmth.  The Demerara syrup and grenadine provide a lush, fruity sweetness, while the bourbon adds a robust spice and depth.  The orange, pineapple, and lemon juices create a vibrant, tangy base, while the Angostura bitters add a subtle, herbal complexity.  It's a well-balanced cocktail that's both refreshing and sophisticated. "
 bartender_tips: "This cocktail is a tropical delight! For a balanced Halekulani, shake well with ice to ensure proper dilution. Don't skimp on the fresh juices; they bring the vibrant flavors. Start with a small amount of grenadine for sweetness, adjust to taste. A touch of Angostura bitters adds complexity. Finally, garnish with a pineapple wedge and a maraschino cherry for a delightful presentation. "

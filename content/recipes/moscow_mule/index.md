@@ -1,5 +1,7 @@
 ---
-title: "Moscow Mule"
+title: "The Moscow Mule Cocktail"
+fullname: "The Moscow Mule Cocktail"
+shortname: "Moscow Mule"
 description: "The Moscow Mule is a classic highball, born in the 1940s from a partnership between Smirnoff Vodka and the G.F. Heublein Brothers. This refreshing concoction utilizes the simplicity of a vodka base with the invigorating kick of ginger ale and lime juice. "
 flavor_description: "The Moscow Mule is a refreshing and invigorating cocktail. The vodka provides a smooth, clean base, while the lime juice adds a tart and citrusy kick. Ginger ale contributes a spicy, ginger-forward flavor and a bubbly texture. The combination creates a harmonious balance of sweet, sour, and spicy notes, making it a classic and beloved drink. "
 bartender_tips: "Use fresh lime juice, not bottled, for the best flavor.  Chill your copper mugs beforehand.  Add the vodka and lime juice directly to the mug, then top with ginger ale and gently stir.  Use good quality ginger ale for a more complex taste.  Don't overfill the mug; leave room for ice and the ginger ale to fizz.  Garnish with a lime wheel and enjoy! "

@@ -1,5 +1,7 @@
 ---
-title: "French Martini"
+title: "The French Martini Cocktail"
+fullname: "The French Martini Cocktail"
+shortname: "French Martini"
 description: "The French Martini, a blend of vodka, raspberry liqueur, and pineapple juice, belongs to the Sour family, characterized by the use of citrus and a sweetener. It emerged in the 1980s, likely originating in New York City, gaining popularity for its fruity and sweet appeal. "
 flavor_description: "The French Martini is a delightful blend of sweet and tart. Vodka provides a smooth base, while raspberry liqueur adds a burst of juicy fruitiness. Pineapple juice balances the sweetness with a refreshing, tropical tang. The overall experience is decadent yet light, making it a perfect choice for a celebratory occasion or a sophisticated nightcap. "
 bartender_tips: "Chill your shaker and ingredients beforehand. This ensures a perfectly chilled and refreshing drink. Use a good quality raspberry liqueur for a richer flavor. Shake vigorously to thoroughly chill and mix the ingredients. Strain into a chilled martini glass for a beautiful presentation. Garnish with a fresh raspberry for a touch of elegance. "

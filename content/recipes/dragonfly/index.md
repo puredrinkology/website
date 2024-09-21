@@ -1,5 +1,7 @@
 ---
-title: "Dragonfly"
+title: "The Dragonfly Cocktail"
+fullname: "The Dragonfly Cocktail"
+shortname: "Dragonfly"
 description: "The Dragonfly, a refreshing blend of gin, ginger ale, and lime, belongs to the Highball family.  Its origins are likely rooted in the early 20th century, when gin cocktails enjoyed a surge in popularity, with the addition of ginger ale providing a bubbly, spicy kick. "
 flavor_description: "The Dragonfly is a refreshing, citrusy delight. Gin's botanicals and juniper shine through, balanced by the crisp bite of ginger ale and lime's tart acidity. It's a light and bubbly cocktail, with the ginger spice adding a subtle warmth that lingers on the palate. Ideal for a warm day or as a pre-dinner aperitif. "
 bartender_tips: "Use a high-quality gin for a more complex flavor profile. Muddle a lime wedge in the bottom of the glass for added zest. Fill with ice and top with ginger ale, gently stirring to avoid over-carbonation. Garnish with a lime wheel or a sprig of fresh mint. "

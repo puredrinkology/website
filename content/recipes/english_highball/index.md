@@ -1,5 +1,7 @@
 ---
-title: "English Highball"
+title: "The English Highball Cocktail"
+fullname: "The English Highball Cocktail"
+shortname: "English Highball"
 description: "The English Highball is a unique blend of spirits and fizz, defying easy categorization. Though its ingredients hint at a classic highball, its brandy and vermouth base lean towards a Manhattan-like complexity. Its origin is shrouded in mystery, likely emerging from the eclectic cocktail scene of late 19th century England. "
 flavor_description: "The English Highball offers a complex, layered flavor profile. The brandy provides rich fruitiness and warmth, while gin adds a botanical spice. Sweet vermouth contributes sweetness and herbal notes, balanced by the refreshing effervescence of carbonated water. A subtle citrus zest from the lemon peel completes the experience, creating a harmonious blend of sweet, spicy, and invigorating notes. "
 bartender_tips: "For a perfect English Highball, chill your glass and ingredients beforehand. Use high-quality brandy and gin, and a touch of sweet vermouth for complexity. Don't over-shake, as you want a light, refreshing drink. Garnish with a lemon peel twist, expressing the oils over the cocktail for aroma.  "

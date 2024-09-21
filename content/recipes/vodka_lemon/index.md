@@ -1,5 +1,7 @@
 ---
-title: "Vodka Lemon"
+title: "The Vodka Lemon Cocktail"
+fullname: "The Vodka Lemon Cocktail"
+shortname: "Vodka Lemon"
 description: "Vodka Lemon is a classic Sour, a cocktail family known for its simple, tart, and refreshing nature.  While its exact origin is unknown, it's likely a contemporary riff on the Whiskey Sour, taking advantage of Vodka's versatility. "
 flavor_description: "The Vodka Lemon is a crisp, refreshing cocktail with a sharp, tart bite.  The vodka provides a clean, neutral base, allowing the lemon juice to shine through with its bright acidity.  A hint of citrus zest from the lemon peel adds a subtle floral aroma, complementing the tangy flavor.  The ice chills the drink, creating a smooth, cool experience. "
 bartender_tips: "For a vibrant Vodka Lemon, use fresh lemon juice and a generous twist of peel for maximum citrus aroma.  Muddle the peel gently to release oils, but avoid bitterness.  Shake vigorously with ice to chill and dilute, ensuring a crisp, refreshing drink.  Strain into a chilled glass and garnish with a lemon wedge.  Enjoy! "
@@ -20,7 +22,7 @@ glass: "Highball glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "vodka"
-family: "other"
+family: "sour"
 visual: "##  LLM Prompt:Imagine a tall, frosted glass filled with ice. The liquid within is crystal clear, reflecting the light in a mesmerizing way. It's a beautiful pale yellow, reminiscent of sunshine. Tiny bubbles dance on the surface, creating a gentle effervescence. A thin sliver of lemon peel, curled delicately, sits perched on the edge of the glass, releasing a subtle citrus aroma.  **Describe the appearance of this cocktail in detail, focusing on: *** **The color and clarity of the liquid*** **The texture and movement of the ice*** **The shape and size of the glass*** **The garnish and its effect on the overall appearance****Consider using sensory words to evoke a vivid image of this refreshing cocktail.** "
 source: "personal_collection"
 ---

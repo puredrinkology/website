@@ -1,5 +1,7 @@
 ---
-title: "Tequila Sour"
+title: "The Tequila Sour Cocktail"
+fullname: "The Tequila Sour Cocktail"
+shortname: "Tequila Sour"
 description: "The Tequila Sour is a classic Sour cocktail, a family known for its tangy, citrusy base. While its exact origin is murky, it likely emerged in the early 20th century, as tequila gained popularity in the U.S., adapting the classic Whiskey Sour recipe. "
 flavor_description: "The Tequila Sour is a vibrant and tart cocktail. The tequila's agave notes mingle with the bright acidity of lemon, creating a refreshing balance.  The powdered sugar adds a touch of sweetness that complements the tartness, while the cherry adds a subtle fruity note. The overall taste profile is zesty, slightly sweet, and invigorating, with a lingering tequila finish. "
 bartender_tips: "For a perfectly balanced Tequila Sour, use a good quality reposado tequila.  Shake vigorously with fresh lemon juice and powdered sugar to ensure proper dilution and a frothy top.  Don't over-shake, or you'll have a watery drink.  For a more complex flavor, add a splash of agave nectar.  Finally, garnish with a lemon twist and a maraschino cherry. "

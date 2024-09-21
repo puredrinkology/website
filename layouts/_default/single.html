@@ -16,7 +16,7 @@
         <div class="col-md-6 col-12 recipe d-flex align-items-center justify-content-center">
             <div class="recipe-content d-flex flex-column px-lg-5 px-2">
                 <div class="ingredients_header">
-                    <h1 class="fs-1 text-primary pb-3 text-uppercase">The {{ .Title }} {{humanize .Params.category }}</h1>
+                    <h1 class="fs-1 text-primary pb-3 text-uppercase">{{ .Params.fullname }}</h1>
                 </div>
                 <div class="ingredients">
                     {{ range $index, $ingredient := .Params.ingredients }}
@@ -52,7 +52,7 @@
     <div class="container-fluid p-0  description">
       <div class="row gx-0 p-3">
         <div class="col-lg-6 col-12 p-lg-5 p-0">
-          <h1 class="fs-1 text-primary pb-3">The {{ .Title }} {{humanize .Params.category }}</h1>
+          <h2 class="fs-1 text-primary pb-3">{{ .Params.Title }}</h2>
           <p>
             <a href="/recipes/category/{{lower .Params.category}}/" class="badge text-bg-primary text-decoration-none">{{ lower .Params.category }}</a> 
             <a href="/recipes/spirit/{{lower .Params.base_spirit}}/" class="badge text-bg-secondary text-decoration-none">{{lower .Params.base_spirit }}</a>
@@ -65,14 +65,14 @@
 
         <div class="col-lg-6 col-12 p-0 p-lg-5">
           {{ if .Params.flavor_description }}
-          <h2 class="fs-4 text-primary py-3">What does the {{ .Title }} taste like?</h2>
+          <h2 class="fs-4 text-primary py-3">What does the {{ .Params.fullname }} taste like?</h2>
           <p>
             {{ .Params.flavor_description | markdownify}}
           </p>
           {{ end }}
 
           {{ if .Params.bartender_tips }}
-          <h2 class="fs-4 text-primary py-3">What tips do you have when making the {{ .Title }}?</h2>
+          <h2 class="fs-4 text-primary py-3">What tips do you have when making the {{ .Params.fullname }}?</h2>
           <p>
             {{ .Params.bartender_tips | markdownify }}
           </p>
@@ -85,7 +85,7 @@
       
     </div>
 
-    <div class="container-fluid p-5">
+    <div class="container-fluid p-lg-5 p-md-3 p-2">
       <div class="row">
         <div class="col-lg-12 col-12">
             <h2 class="fs-2 text-primary pb-3">Related Cocktails</h2>
@@ -105,7 +105,7 @@
                         </a>
         
                         <div class="card-body">
-                          <h5 class="card-title fw-semibold"><a href="{{ .Permalink }}" class="text-decoration-none">{{ .Title }}</a></h5>
+                          <h5 class="card-title fw-semibold"><a href="{{ .Permalink }}" class="text-decoration-none">{{ .Params.shortname }}</a></h5>
                           <p class="card-text text-black-61">{{ .Summary }}</p>
                           <a href="/recipes/category/{{lower .Params.category}}/" class="badge text-bg-primary text-decoration-none">{{ lower .Params.category }}</a> 
                           <a href="/recipes/spirit/{{lower .Params.base_spirit}}/" class="badge text-bg-secondary text-decoration-none">{{lower .Params.base_spirit }}</a>

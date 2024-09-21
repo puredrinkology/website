@@ -1,5 +1,7 @@
 ---
-title: "Cranberry Punch"
+title: "The Cranberry  Punch"
+fullname: "The Cranberry  Punch"
+shortname: "Cranberry "
 description: "Cranberry Punch belongs to the **Punch** family, a broad category of mixed drinks with origins tracing back to 17th century India. It's a modern take on traditional punch, incorporating fruity flavors and sparkling ginger ale for a refreshing, celebratory drink. "
 flavor_description: "This punch bursts with a vibrant, tart cranberry flavor, balanced by the sweetness of sugar and pineapple juice. A hint of almond adds a subtle nutty complexity, while the ginger ale provides a refreshing effervescence. The overall taste is sweet and tart, with a slightly spicy finish. "
 bartender_tips: "For a vibrant Cranberry Punch, use high-quality cranberry juice for the best flavor. Adjust sugar to your preference, starting with a little and tasting as you go.  Use a good quality almond extract for a subtle nutty flavor.  Don't over-mix the ginger ale, as it will lose its fizz.  Chill everything beforehand for a refreshing drink! "
@@ -22,7 +24,7 @@ instructions:
 glass: "Punch Bowl"
 category: "punch"
 has_alcohol: false
-base_spirit: "gin"
+base_spirit:
 family: "punch"
 visual: "## LLM Prompt:Imagine a **vibrant red punch bowl** filled with a **sparkling, crimson liquid**. The **cranberry juice** dominates, creating a rich, jewel-toned base. Tiny bubbles from the **ginger ale** dance on the surface, adding a playful, effervescent quality. Hints of **golden pineapple juice** peek through, adding a touch of sunshine and brightness.  The **almond flavoring** lends a subtle, aromatic note, hinting at a complex depth beneath the fruity sweetness. This punch is both **inviting and visually captivating**, promising a refreshing and flavorful experience. "
 source: "personal_collection"

@@ -1,5 +1,7 @@
 ---
-title: "Tequila Sunrise"
+title: "The Tequila Sunrise Cocktail"
+fullname: "The Tequila Sunrise Cocktail"
+shortname: "Tequila Sunrise"
 description: "The Tequila Sunrise is a member of the Sunrise family, characterized by layered liqueurs creating a colorful gradient.  Born in the 1970s, it was popularized by the band The Eagles and remains a classic for its simple yet visually striking appeal. "
 flavor_description: "The Tequila Sunrise is a refreshing and vibrant cocktail with a balance of sweet, tangy, and smoky flavors. The tequila provides a smooth, slightly smoky base, while the orange juice adds a bright, citrusy sweetness. The grenadine, layered on top, creates a visually stunning effect and adds a touch of tart sweetness with a subtle hint of pomegranate. Overall, it's a light and easy-drinking cocktail that's perfect for any occasion. "
 bartender_tips: "Start with a tall glass filled with ice. Pour tequila, followed by orange juice, leaving a little space at the top.  Gently pour grenadine over the back of a spoon to create the layered effect -  it should sink to the bottom.  No stirring! This cocktail is all about the visual appeal, so take your time with the grenadine pour. "

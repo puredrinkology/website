@@ -17,7 +17,7 @@ genai.configure(api_key=os.environ['GOOGLE_GENAI_APIKEY'])
 
 
 def generate_title(name, category):
-    clean_name = name.lower().replace("cocktail", "").replace("the", "").replace("punch", "").replace("'", "")
+    clean_name = name.lower().replace("cocktail", "").replace("the", "").replace("punch", "").replace("'", "").replace("’", "").replace("shot", "").replace("shake", "")
     long_name = f"the {clean_name} {category}"
     short_name = f"{clean_name}"
 
@@ -25,16 +25,15 @@ def generate_title(name, category):
     
 def identify_base_spirit(ingredients):
     base_spirits = {
-        'Bourbon': ['bourbon'],
-        'Whiskey': ['whiskey', 'whisky', 'jack daniels', 'johnnie walker', 'jim beam'],
+        'Bourbon': ['bourbon', 'jack daniels', 'jim beam'],
         'Rye': ['rye'],
+        'Whiskey': ['whiskey', 'whisky', 'scotch', 'johnnie walker'],
         'Gin': ['gin'],
         'Vodka': ['vodka'],
         'Rum': ['rum', 'rhum', 'cachaca'],
         'Tequila': ['tequila', 'mezcal'],
         'Brandy': ['brandy', 'cognac', 'armagnac'],
-        'Scotch': ['scotch'],
-        'Wine': ['rose', 'red wine', 'white wine', 'champagne', 'cabernet', 'merlot', 'sauvignon blanc', 'reisling']
+        'Wine': ['rose', 'red wine', 'white wine', 'champagne', 'cabernet', 'merlot', 'sauvignon blanc', 'reisling', 'vermouth'],
         # Add more as needed
     }
     
@@ -44,7 +43,7 @@ def identify_base_spirit(ingredients):
                 return spirit.lower()
     return None
 
-def identify_cocktail_family(ingredients, drink_name):
+def identify_cocktail_family(ingredients, drink_name, history, category):
     # Define families with variations in ingredients
     families = {
         'margarita': [['lemon', 'lime', 'sweet and sour'], ['sugar', 'syrup', 'agave'], ['orange liqueur', 'triple sec', 'grand marnier', 'cointreau', 'orange juice']],
@@ -63,14 +62,44 @@ def identify_cocktail_family(ingredients, drink_name):
             return family
         
         # Special case for Martini where the name might give it away
-        if 'martini' in drink_name.lower():
+        elif 'martini' in drink_name.lower():
             return "martini"
         
-        if 'fizz' in drink_name.lower():
+        elif 'fizz' in drink_name.lower():
             return "fizz"
         
-        if 'punch' in drink_name.lower():
+        elif 'punch' in drink_name.lower():
             return "punch"
+        
+        elif "sour family" in history.lower():
+            return "sour"
+        
+        elif "classic sour" in history.lower():
+            return "sour"
+        
+        elif "fizz family" in history.lower():
+            return "fizz"
+        
+        elif "martini family" in history.lower():
+            return "martini"
+        
+        elif "highball" in history.lower():
+            return "highball"
+        
+        elif "punch" in history.lower():
+            return "punch"
+        
+        elif "beer family" in history.lower():
+            return ""
+        elif "beer cocktail family" in history.lower():
+            return ""
+        
+        elif "coffee cocktail family" in history.lower():
+            return ""
+        
+        elif category in ["shot", "shake", "cafe"]:
+            return ""
+        
     
     return "other"  # If no family matches
 
@@ -244,8 +273,8 @@ def create_hugo_content(drink, source, get_ai_content):
         "glass": drink["strGlass"],
         "category": category,
         "has_alcohol": has_alcohol,
-        "base_spirit": identify_base_spirit(ingredients) or [],
-        "family": identify_cocktail_family(ingredients, drink["strDrink"]) if not "strFamily" in drink else drink["strFamily"],
+        "base_spirit": identify_base_spirit(ingredients) or [] if has_alcohol else [],
+        "family": identify_cocktail_family(ingredients, drink["strDrink"], history, category) if not "strFamily" in drink else drink["strFamily"],
         "visual": visuals.replace("\n", "").replace('"', ''),
         "source": source
     }
@@ -418,10 +447,8 @@ def store_descriptions_in_data_file():
 
 
 
-json_dir = Path('thecocktailsofmine/')
-# json_dir = Path('thecocktaildb/')
-
 if __name__ == "__main__":
-    process_json_files(json_dir, "personal_collection", False)
+    process_json_files(Path('thecocktailsofmine/'), "personal_collection", False)
+    process_json_files(Path('thecocktaildb/'), "personal_collection", False)
     # store_descriptions_in_data_file()
     print("All JSON files processed and Hugo content files created.")

@@ -1,5 +1,7 @@
 ---
-title: "Brasserie Special"
+title: "The Brasserie Special Cocktail"
+fullname: "The Brasserie Special Cocktail"
+shortname: "Brasserie Special"
 description: "The Brasserie Special is a vibrant, citrus-forward cocktail hailing from the Sour family.  Its roots likely lie in the classic Whiskey Sour, with the addition of passionfruit lending a tropical twist and orange liqueur adding complexity. "
 flavor_description: "The Brasserie Special bursts with a tropical punch thanks to the passionfruit syrup, balanced by the warmth of bourbon and the subtle sweetness of orange liqueur. A bright acidity from lemon juice cuts through the richness, creating a refreshing and complex cocktail. The interplay of sweet, tart, and spicy notes leaves you craving another sip. "
 bartender_tips: "**Brasserie Special Tips:*** Use a good quality bourbon for a robust base.* Freshly squeeze the lemon juice for optimal flavor.* Shake with ice vigorously to ensure proper dilution and chill.* Strain into a chilled coupe glass for a sophisticated presentation.* Garnish with a passionfruit wedge or a lemon twist. "

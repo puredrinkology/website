@@ -1,5 +1,7 @@
 ---
-title: "Paper Plane"
+title: "The Paper Plane Cocktail"
+fullname: "The Paper Plane Cocktail"
+shortname: "Paper Plane"
 description: "The Paper Plane, a harmonious blend of bourbon, amaro, Aperol, and lemon juice, belongs to the sour family of cocktails.  This modern classic, created by Sam Ross in 2007, is a riff on the classic Whiskey Sour, featuring the bitter complexity of amaro and Aperol. "
 flavor_description: "The Paper Plane is a bright and bittersweet cocktail. The bourbon provides a warm, oaky base, while the Amaro adds herbal and bitter notes. Aperol contributes a vibrant orange flavor and a touch of sweetness, perfectly balanced by the tartness of fresh lemon juice. The result is a refreshing and complex drink with a long, lingering finish. "
 bartender_tips: "For a perfect Paper Plane, use a good quality bourbon and a balanced amaro like Averna or Montenegro.  Shake well with ice to ensure proper dilution and chilling.  Use fresh lemon juice, not bottled, and make sure the Aperol is cold, too. Strain into a chilled coupe glass for a crisp, refreshing drink. "

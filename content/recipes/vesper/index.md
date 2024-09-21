@@ -1,5 +1,7 @@
 ---
-title: "Vesper"
+title: "The Vesper Cocktail"
+fullname: "The Vesper Cocktail"
+shortname: "Vesper"
 description: "The Vesper, a sophisticated blend of gin, vodka, and Lillet Blanc, is a classic Martini variation.  Created by Ian Fleming for his fictional spy James Bond, the Vesper's dry, herbaceous profile with a touch of sweetness reflects the character's refined tastes. "
 flavor_description: "The Vesper is a complex and sophisticated cocktail. Gin dominates the palate with its juniper and botanical notes, balanced by the dryness of vodka. Lillet Blanc adds a touch of sweetness and bitterness, with hints of citrus and floral aromas. The overall taste profile is dry, refreshing, and slightly herbal, with a lingering finish that hints at both the gin and the Lillet. "
 bartender_tips: "For a perfect Vesper, chill your glassware and all ingredients, especially the Lillet Blanc. Use a good quality gin and vodka, and measure precisely.  Shake vigorously with ice to thoroughly chill the drink, then double strain for a crystal clear result. Garnish with a lemon twist and express the oils over the drink before discarding. "

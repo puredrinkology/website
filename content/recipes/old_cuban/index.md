@@ -1,5 +1,7 @@
 ---
-title: "Old Cuban"
+title: "The Old Cuban Cocktail"
+fullname: "The Old Cuban Cocktail"
+shortname: "Old Cuban"
 description: "The Old Cuban is a modern twist on the classic Daiquiri, belonging to the sour family of cocktails. Though not a traditional Cuban drink, it is believed to have originated in the early 2000s, inspired by the Daiquiri's Cuban roots and the effervescence of Prosecco. "
 flavor_description: "The Old Cuban is a bright and bubbly delight. The white rum provides a smooth, slightly sweet base, while the lime juice delivers a tart and refreshing zing.  The sugar syrup balances the acidity with a touch of sweetness, and the Angostura bitters add a subtle, aromatic complexity. The Prosecco provides a lively effervescence that cleanses the palate.  Overall, the Old Cuban is a delicious and sophisticated cocktail that's perfect for any occasion. "
 bartender_tips: "Chill your glass and ingredients, especially the Prosecco, for a crisp, refreshing experience. Muddle the lime and sugar syrup gently to avoid bitterness. Use a good quality white rum with a bit of spice for complexity. Build the cocktail in the glass, topping with Prosecco to maintain its effervescence. A twist of lime adds a touch of elegance. "

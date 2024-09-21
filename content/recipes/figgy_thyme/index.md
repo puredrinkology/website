@@ -1,5 +1,7 @@
 ---
-title: "Figgy Thyme"
+title: "The Figgy Thyme Cocktail"
+fullname: "The Figgy Thyme Cocktail"
+shortname: "Figgy Thyme"
 description: "Figgy Thyme belongs to the **Fizz** family, a classic cocktail style known for its effervescence.  Though its precise origin is unclear, the combination of spirit, sweetener, and bitter elements, often topped with sparkling water, has roots in the 19th century. "
 flavor_description: "The Figgy Thyme is a complex and balanced cocktail. The vodka provides a clean base, while the honey adds a touch of sweetness. The figs contribute a rich, fruity flavor, and the thyme offers a subtle herbal note.  Angostura bitters add a hint of spice and complexity, and the tonic water provides a refreshing and slightly bitter finish. The result is a surprisingly elegant drink that is both refreshing and flavorful. "
 bartender_tips: "Muddle the figs and thyme thoroughly to extract their flavors. Use a good quality vodka, and don't be afraid to let the honey syrup shine. A dash of Angostura bitters adds complexity, while tonic water brings a refreshing fizz.  Use a nice glass, and garnish with a fig slice and thyme sprig.  Enjoy! "

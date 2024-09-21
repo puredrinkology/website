@@ -1,5 +1,7 @@
 ---
-title: "Rum Old-Fashioned"
+title: "The Rum Old-Fashioned Cocktail"
+fullname: "The Rum Old-Fashioned Cocktail"
+shortname: "Rum Old-Fashioned"
 description: "This potent twist on the classic Old Fashioned hails from the Rum Renaissance of the early 20th century.  It's a potent, sugar-forward take on the traditional Old Fashioned, emphasizing rum's versatility.  The high-proof rum and lime peel lend a unique, tropical touch. "
 flavor_description: "The Rum Old-fashioned is a potent and complex cocktail. The light rum provides a smooth sweetness, while the 151 proof rum contributes a powerful, fiery kick. The powdered sugar adds a touch of sweetness, balanced by the bitters' bitter notes.  A hint of citrus from the lime peel rounds out the flavor, leaving a warm, lingering finish. "
 bartender_tips: "For a balanced Rum Old Fashioned, use a good quality light rum as your base and a splash of 151 for warmth. Don't overdo the powdered sugar, just enough to dissolve in the water and create a light syrup. A few dashes of Angostura bitters are key for complexity. Muddle lime peel gently to release oils, not bitterness, and use a large ice cube to chill slowly. "

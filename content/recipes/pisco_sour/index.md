@@ -1,5 +1,7 @@
 ---
-title: "Pisco Sour"
+title: "The Pisco Sour Cocktail"
+fullname: "The Pisco Sour Cocktail"
+shortname: "Pisco Sour"
 description: "The Pisco Sour is a classic Sour cocktail, a family characterized by a base spirit, citrus juice, sweetener, and often egg white for a foamy texture. This Peruvian invention dates back to the early 20th century, popularized in Lima's bars and gaining international fame. "
 flavor_description: "The Pisco Sour is a vibrant and complex cocktail. The Pisco provides a bold, fruity base with notes of grape and apricot. The lemon juice adds a sharp, tart acidity, balanced by the sweetness of the sugar. The egg white creates a smooth, foamy texture, resulting in a harmonious blend of flavors and textures. "
 bartender_tips: "**For a perfect Pisco Sour:**- Use fresh lemon juice for the best flavor.- Dry shake the egg white and ice first to create a frothy head.- Don't over-shake; the egg white will become too frothy.- Once shaken, strain the cocktail into a chilled coupe glass for a clean, elegant presentation.- Garnish with a few drops of Angostura bitters and a lemon twist. "

@@ -1,5 +1,7 @@
 ---
-title: "Irish Russian"
+title: "The Irish Russian Beer"
+fullname: "The Irish Russian Beer"
+shortname: "Irish Russian"
 description: "The Irish Russian is a unique twist on the classic Black Russian, incorporating the creamy, coffee-forward notes of Kahlua with the robust, bittersweet taste of Guinness Stout. While its exact origin remains shrouded in mystery, its combination of vodka and stout suggests a nod to both Irish and Russian spirits. "
 flavor_description: "The Irish Russian is a surprisingly complex cocktail with a smooth, decadent flavor profile.  The vodka provides a clean, crisp base, while the Kahlua adds rich, coffee-chocolate notes.  The Coca-Cola brings a touch of sweetness and a familiar cola flavor, while the Guinness Stout adds a subtle bitterness and creamy texture.  The result is a well-balanced drink that is both refreshing and indulgent. "
 bartender_tips: "Start by layering the Kahlua and vodka to avoid mixing. Gently pour the Coca-Cola over the back of a spoon to create a distinct layer. Finish with a slow, careful pour of Guinness Stout. Don't stir! The layers are the beauty of this drink. Enjoy the unique flavor profiles as they dance on your palate. "

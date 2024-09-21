@@ -1,5 +1,7 @@
 ---
-title: "Raspberry Julep"
+title: "The Raspberry Julep Cocktail"
+fullname: "The Raspberry Julep Cocktail"
+shortname: "Raspberry Julep"
 description: "The Raspberry Julep is a modern riff on the classic Mint Julep, a Southern American cocktail dating back to the 18th century.  It embraces the Julep's traditional base of Bourbon and Mint, adding a fruity twist with Raspberry Syrup. "
 flavor_description: "The Raspberry Julep is a delightful blend of sweet and refreshing flavors. The smooth Bourbon mingles with the tart sweetness of raspberry syrup, creating a harmonious balance. The mint adds a cool, herbaceous touch, accentuating the fruitiness and providing a subtle cooling sensation. The overall experience is a sophisticated twist on the classic mint julep, with a vibrant raspberry twist. "
 bartender_tips: "Use fresh mint for the best flavor. Muddle gently to release oils without bruising the leaves.  For a sweeter julep, use more raspberry syrup; for a tart twist, add a squeeze of lemon juice.  Don't over-crush the ice, you want it to be chunky for a slow, refreshing melt. Garnish with a sprig of mint and a fresh raspberry for a beautiful presentation. "

@@ -1,5 +1,7 @@
 ---
-title: "Frosé"
+title: "The Frosé Cocktail"
+fullname: "The Frosé Cocktail"
+shortname: "Frosé"
 description: "Frosé, a modern twist on a classic, belongs to the **Frozen Cocktail** family.  Though its exact origin is murky, it likely emerged in the 2010s as a refreshing summer beverage, borrowing inspiration from the French **rosé wine** and the Italian **granita**. "
 flavor_description: "Frosé is a refreshingly sweet and tart cocktail. The rose adds a delicate floral aroma, while the strawberries provide a bright and juicy fruitiness.  The lemon juice balances the sweetness, adding a touch of acidity.  The overall effect is a light and refreshing drink, perfect for warm weather.  Its smooth and creamy texture makes it incredibly easy to sip. "
 bartender_tips: "Use high-quality rosé for a vibrant flavor. Don't be afraid to adjust the sugar to your taste.  For a smooth texture, blend the strawberries well, and strain the mixture for a seed-free drink. A squeeze of fresh lemon juice brightens the flavor and adds a touch of tartness. Chill the mixture thoroughly before serving for a refreshing experience.  "

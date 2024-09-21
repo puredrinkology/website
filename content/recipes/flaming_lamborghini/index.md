@@ -1,5 +1,7 @@
 ---
-title: "Flaming Lamborghini"
+title: "The Flaming Lamborghini Cocktail"
+fullname: "The Flaming Lamborghini Cocktail"
+shortname: "Flaming Lamborghini"
 description: "The Flaming Lamborghini belongs to the layered shot family, a popular style originating in the 1980s. Its vibrant layers, often ignited for a dramatic presentation,  showcase a playful mix of sweet liqueurs like Kahlua, Sambuca, Blue Curacao, and Baileys Irish Cream. "
 flavor_description: "The Flaming Lamborghini is a layered cocktail that bursts with sweet, creamy, and boozy flavors. The Kahlua and Baileys offer a rich, coffee and chocolate base, while the Sambuca adds a licorice kick. The Blue Curacao provides a subtle citrus tang and vibrant blue hue.  Overall, it's a decadent and slightly sweet experience with a complex interplay of flavors. "
 bartender_tips: "This is a layered shot, so use a shot glass and layer carefully. Start with the heaviest ingredient, Baileys, then Kahlua, followed by Sambuca. The Blue Curacao is drizzled on top for a visual effect.  Be mindful of the Sambuca's flammability.  Light it carefully with a long match and let the flames subside before consuming."

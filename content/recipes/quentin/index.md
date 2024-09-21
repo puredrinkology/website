@@ -1,5 +1,7 @@
 ---
-title: "Quentin"
+title: "The Quentin Cocktail"
+fullname: "The Quentin Cocktail"
+shortname: "Quentin"
 description: "The Quentin belongs to the **Coffee Cocktail** family, a popular category featuring coffee liqueur as a key ingredient.  While its exact origin is unknown, its composition suggests it draws inspiration from classic coffee cocktails like the **Black Russian** and **White Russian**, evolving with the addition of cream and nutmeg. "
 flavor_description: "Quentin is a rich and decadent cocktail, with a smooth, velvety texture. The dark rum provides a robust, spiced base, perfectly balanced by the sweet, coffee-forward notes of Kahlua. Light cream adds a touch of sweetness and creaminess, while a sprinkle of nutmeg offers a warm, aromatic finish. It's a complex yet comforting drink, ideal for sipping on a cool evening. "
 bartender_tips: "The Quentin is a delicious, creamy, and decadent cocktail. Here are some tips for success:* **Chill your ingredients:**  This will ensure a cold and refreshing drink.* **Use quality rum:**  The flavor of the rum will be prominent, so choose a dark rum with rich notes.* **Don't overdo the nutmeg:**  A light dusting is all you need. Too much will overpower the other flavors.* **Shake well with ice:**  This will properly chill and combine the ingredients.* **Garnish with a sprinkle of nutmeg and a cherry:**  This adds a beautiful touch. "

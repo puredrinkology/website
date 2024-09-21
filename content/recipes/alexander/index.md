@@ -1,5 +1,7 @@
 ---
-title: "Alexander"
+title: "The Alexander Cocktail"
+fullname: "The Alexander Cocktail"
+shortname: "Alexander"
 description: "The Alexander, a creamy concoction of gin, crème de cacao, light cream, and nutmeg, belongs to the classic **crème de cacao** cocktail family. This elegant drink, born in the late 19th century, is believed to have originated in New York City, possibly at the famous Knickerbocker Hotel. "
 flavor_description: "The Alexander is a sweet and creamy cocktail with a delicate balance of flavors. The gin provides a subtle, juniper-forward base, while the crème de cacao adds rich chocolate notes. Light cream contributes a smooth, velvety texture and a hint of dairy sweetness. A sprinkle of nutmeg adds warmth and complexity, rounding out the profile with a comforting spice. "
 bartender_tips: "The Alexander is all about balance. Use a good quality creme de cacao, and don't skimp on the cream! Shake vigorously with ice to chill and emulsify.  A fine layer of nutmeg on top adds aroma and elegance. Don't over-shake, you want it smooth, not frothy.  Serve chilled in a coupe or martini glass. "

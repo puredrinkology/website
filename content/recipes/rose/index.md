@@ -1,5 +1,7 @@
 ---
-title: "Rose"
+title: "The Rose Cocktail"
+fullname: "The Rose Cocktail"
+shortname: "Rose"
 description: "The Rose is a classic, pre-Prohibition era cocktail, belonging to the Sour family. Its origins likely trace back to the late 19th or early 20th century, a time when sweet, fruity cocktails were popular.  "
 flavor_description: "The Rose is a delicate, yet complex cocktail. The dry vermouth and gin provide a crisp, botanical base, while the apricot brandy adds a touch of sweetness and fruitiness. The lemon juice balances the sweetness with a bright acidity, while the grenadine and powdered sugar contribute a subtle floral and sugary sweetness. The combination results in a well-rounded, refreshing cocktail with a hint of floral complexity. "
 bartender_tips: "For a perfect Rose, chill your ingredients, especially the vermouth and gin. Use a good quality dry vermouth for a complex flavor. Don't over-shake the cocktail, a gentle shake will preserve the delicate balance of flavors.  A touch of powdered sugar on the rim adds sweetness and a visually appealing touch. "

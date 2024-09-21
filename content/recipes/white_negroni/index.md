@@ -1,5 +1,7 @@
 ---
-title: "White Negroni"
+title: "The White Negroni Cocktail"
+fullname: "The White Negroni Cocktail"
+shortname: "White Negroni"
 description: "The White Negroni is a modern twist on the classic Negroni, belonging to the Negroni family.  Its origin is debated, but it's likely a recent invention, playing on the Negroni's structure with lighter, herbal notes from Lillet Blanc and Suze. "
 flavor_description: "The White Negroni is a sophisticated and refreshing twist on the classic. It's dry, herbal, and bittersweet, with a delicate floral aroma from the Lillet Blanc. The gin provides a juniper backbone, while Suze adds a distinct, gentian-driven bitterness. The overall taste is complex and well-balanced, with a lingering dryness that leaves you wanting more. "
 bartender_tips: "Chill your ingredients well, especially the Lillet Blanc.  Use a good quality gin, and a quality ice cube or large chunk of ice for optimal dilution.  Stir gently but thoroughly for about 30 seconds to ensure proper blending.  Garnish with an orange peel, letting the oils from the zest express over the drink. "

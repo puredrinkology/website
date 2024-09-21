@@ -1,5 +1,7 @@
 ---
-title: "Caipirissima"
+title: "The Caipirissima Cocktail"
+fullname: "The Caipirissima Cocktail"
+shortname: "Caipirissima"
 description: "The Caipirissima is a member of the **Caipirinha family**, a group of cocktails originating in Brazil. Its simple recipe of lime, sugar, white rum, and ice makes it a refreshing and versatile drink. "
 flavor_description: "The Caipirissima is a refreshingly tart and sweet cocktail. The lime's citrusy tang is balanced by the sweetness of the sugar, while the white rum adds a smooth, slightly spicy note.  Crushed ice creates a satisfyingly cool and slushy texture, making it a perfect choice for a hot day. "
 bartender_tips: "For a perfect Caipirissima, muddle the lime and sugar thoroughly to release all the oils and flavors.  Use good quality white rum and don't over-ice. The drink should be refreshing and tart, not watery.  A good muddler is essential, and use a highball glass for plenty of room for ice.  Finally, enjoy your delicious Caipirissima!"

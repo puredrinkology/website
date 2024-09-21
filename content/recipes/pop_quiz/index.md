@@ -1,5 +1,7 @@
 ---
-title: "Pop Quiz"
+title: "The Pop Quiz Cocktail"
+fullname: "The Pop Quiz Cocktail"
+shortname: "Pop Quiz"
 description: "This cocktail belongs to the **Old Fashioned family**, with roots in the 19th century.  The use of gum syrup, bourbon, and bitters harkens back to the classic Old Fashioned, while the Amaro adds a modern twist, referencing the emerging popularity of Italian liqueurs. "
 flavor_description: "The Pop Quiz is a sophisticated and balanced cocktail. The gum syrup provides a sweet and slightly herbal base, while the bourbon offers warmth and spice. The Amaro adds a touch of bitterness and herbal complexity, with notes of dried fruit and chocolate. The chocolate bitters round out the flavor profile, adding a subtle hint of dark chocolate and a pleasant, lingering finish. "
 bartender_tips: "This cocktail is a delicious blend of sweetness, spice, and bitter notes. Here's a tip: use a high-quality bourbon for the best flavor. To enhance the chocolate notes, consider using a chocolate-flavored bitters, such as Angostura Chocolate Bitters.  For a more intense flavor, use a concentrated gum syrup or adjust the amount to your preference.  Finally, chill the cocktail thoroughly before serving for a truly refreshing experience. "

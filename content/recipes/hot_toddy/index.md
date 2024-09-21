@@ -1,5 +1,7 @@
 ---
-title: "Hot Toddy"
+title: "The Hot Toddy Cocktail"
+fullname: "The Hot Toddy Cocktail"
+shortname: "Hot Toddy"
 description: "The Hot Toddy is a classic warming drink cocktail, often enjoyed during cold weather.  Originating in the 18th century, it's a comforting blend of whiskey, honey, spices, and citrus - a perfect remedy for a winter chill. "
 flavor_description: "The Hot Toddy is a warm hug in a mug.  The whiskey provides a robust, warming base, balanced by the honey's sweet, floral notes.  A gentle spice from cinnamon and cloves adds complexity, while the lemon brightens the palate with its tartness.  The combination creates a comforting and soothing drink, ideal for a chilly evening. "
 bartender_tips: "For the perfect Hot Toddy, start with a good quality whiskey. Use real honey, not artificial sweeteners.  Don't overcook the cinnamon and cloves, just a simmer is enough to infuse the flavor.  Use freshly squeezed lemon juice for brightness.  A splash of hot water can help dissolve the honey and create a smooth texture.  Lastly, garnish with a lemon wedge and cinnamon stick for that classic touch. "

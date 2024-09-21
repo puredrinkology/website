@@ -1,5 +1,7 @@
 ---
-title: "Lassi - A South Indian Drink"
+title: "The Lassi - A South Indian Drink Shake"
+fullname: "The Lassi - A South Indian Drink Shake"
+shortname: "Lassi - A South Indian Drink"
 description: "The Lassi, a South Indian staple, isn't a cocktail in the traditional sense but rather a refreshing beverage. It belongs to the family of yogurt-based drinks, similar to buttermilk or kefir.  Its origins trace back to ancient India, where it was enjoyed for its cooling and digestive properties. "
 flavor_description: "The Lassi is a refreshing, tangy, and savory drink. The yogurt provides a creamy base, while the water balances its thickness.  Cumin seed adds a warm, earthy note, and salt enhances the flavors. Mint offers a cool, refreshing touch, making this a perfect summer drink. "
 bartender_tips: "For a perfect Lassi, use **full-fat yogurt** for richness. **Freshly ground cumin** provides the most flavor, so grind it yourself. **Chill everything** before blending to ensure a cool, refreshing drink. Use a **powerful blender** to achieve a smooth consistency. Adjust the **water and salt** to your taste preference, and don't forget the **mint garnish** for a beautiful finish! "
@@ -23,7 +25,7 @@ glass: "Highball Glass"
 category: "shake"
 has_alcohol: false
 base_spirit:
-family: "other"
+family: ""
 visual: "## LLM Prompt:Imagine a refreshing glass of **Lassi**, a beloved South Indian beverage. Describe its appearance, focusing on the following aspects:* **Color:** What shade is the Lassi? Does it vary depending on the amount of yogurt or mint used?* **Texture:** Is it thick and creamy, or thinner and more watery? Are there any visible ingredients like seeds or pieces of mint?* **Garnish:** What, if anything, is used to garnish the Lassi? Does it have a traditional look or a modern twist?* **Glassware:**  What type of glass would you typically serve Lassi in? Does it enhance the visual appeal of the drink?* **Overall impression:** What is the overall feeling you get when you look at a glass of Lassi? Is it inviting, refreshing, or comforting? **Bonus:** Describe any variations in appearance based on different ingredients or preparation methods. "
 source: "personal_collection"
 ---

@@ -1,5 +1,7 @@
 ---
-title: "Homemade Kahlua"
+title: "The Homemade Kahlua Liqueur"
+fullname: "The Homemade Kahlua Liqueur"
+shortname: "Homemade Kahlua"
 description: "This homemade Kahlua is a **liqueur**, specifically a **coffee liqueur**. Though not historically accurate, it emulates the process of creating coffee liqueurs that have existed for centuries, likely originating in monasteries where coffee and alcohol were combined for medicinal purposes. "
 flavor_description: "This homemade Kahlua boasts a rich, smooth flavor profile. The coffee shines through, offering a robust, slightly bitter base. Sweetness comes from the sugar and corn syrup, balanced by the subtle warmth of vanilla extract. Vodka provides a clean, subtle alcohol bite. The result is a complex, slightly sweet and intensely coffee-flavored liqueur, perfect for sipping or mixing. "
 bartender_tips: "To create the perfect homemade Kahlua, focus on high-quality coffee. Brew a strong, fresh pot, let it cool, and use a fine-mesh strainer for a smooth texture. Don't be afraid to experiment with vanilla extract - a few drops go a long way! Let your mixture steep for at least 24 hours to develop complex flavors. Adjust sweetness to your taste, and store in a cool, dark place. "

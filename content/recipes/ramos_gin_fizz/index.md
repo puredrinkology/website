@@ -1,5 +1,7 @@
 ---
-title: "Ramos Gin Fizz"
+title: "The Ramos Gin Fizz Cocktail"
+fullname: "The Ramos Gin Fizz Cocktail"
+shortname: "Ramos Gin Fizz"
 description: "The Ramos Gin Fizz is a classic American Fizz, originating in the late 19th century at the famed New Orleans bar, The Imperial Cafe. This complex, creamy concoction is known for its frothy texture, achieved through vigorous shaking with egg white and soda water.  "
 flavor_description: "The Ramos Gin Fizz is a complex and refreshing cocktail. Gin provides the base spirit with its juniper and botanical notes. Lemon juice delivers a tart, bright acidity. Cream adds a velvety, smooth texture, while egg white contributes a subtle foaminess. Vanilla extract offers a touch of sweetness and warmth. Finally, soda water adds effervescence and lightness, making the cocktail both decadent and refreshing. "
 bartender_tips: "**Ramos Gin Fizz Tips:** * **Shake with Ice:** Shake vigorously with ice for at least 30 seconds to emulsify the egg white and create a thick, foamy head.* **Dry Shake:**  Do a dry shake (without ice) first to emulsify the egg white and create a silky texture. * **Fresh is Best:** Use fresh lemon juice and soda water for optimal flavor.* **Don't Over-Pour Soda:** Gently pour soda water to avoid excessive foam.* **Garnish:**  A lemon twist or sprig of mint adds a touch of elegance. "

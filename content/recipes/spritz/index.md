@@ -1,5 +1,7 @@
 ---
-title: "Spritz"
+title: "The Spritz Cocktail"
+fullname: "The Spritz Cocktail"
+shortname: "Spritz"
 description: "The Spritz is a classic member of the Aperitivo family, originating in the Veneto region of Italy in the 19th century. This refreshing, bitter-sweet concoction is perfect for sipping before a meal. "
 flavor_description: "The Spritz is a vibrant and refreshing cocktail. It features a bright, bitter punch from the Campari, balanced by the delicate sweetness of the Prosecco. The soda water adds a light, bubbly effervescence, making it a perfect summer drink. It's slightly bitter, slightly sweet, and very refreshing, leaving you with a clean finish. "
 bartender_tips: "For a perfect Spritz, chill everything! Use a large wine glass filled with ice, and build the drink directly in it for optimal dilution.  Use a good quality Prosecco for best results, and don't skimp on the soda water – it balances the bitterness of the Campari. Remember, it's a light, refreshing drink, so don't over-pour the Campari! "

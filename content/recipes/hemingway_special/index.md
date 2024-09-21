@@ -1,5 +1,7 @@
 ---
-title: "Hemingway Special"
+title: "The Hemingway Special Cocktail"
+fullname: "The Hemingway Special Cocktail"
+shortname: "Hemingway Special"
 description: "The Hemingway Special, a refreshing blend of rum, grapefruit, maraschino, and lime, is a classic **rum sour**.  It's rumored to be a favorite of Ernest Hemingway, though its origins remain shrouded in mystery. "
 flavor_description: "The Hemingway Special is a refreshing, bittersweet cocktail. The rum provides a backbone of sweetness and spice, while the grapefruit juice adds a tart and slightly bitter counterpoint.  The maraschino liqueur contributes a touch of cherry sweetness and a delicate floral note, while the lime juice balances everything with its bright acidity, creating a harmonious and complex flavor profile. "
 bartender_tips: "For a perfect Hemingway Special, use a good quality white rum. Freshly squeezed grapefruit juice is key. Don't be afraid to use a generous amount of maraschino liqueur, it balances the bitterness of the grapefruit.  Shake vigorously with ice to chill and dilute.  Strain into a chilled coupe glass and garnish with a grapefruit twist or a maraschino cherry. "

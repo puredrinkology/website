@@ -1,5 +1,7 @@
 ---
-title: "Pink Gin"
+title: "The Pink Gin Cocktail"
+fullname: "The Pink Gin Cocktail"
+shortname: "Pink Gin"
 description: "Pink Gin, a simple yet captivating cocktail, belongs to the **Bitters & Spirits** family.  Its origin is shrouded in mystery, but likely emerged in 19th-century England,  where gin was often served with Angostura bitters to mask impurities. "
 flavor_description: "Pink gin is a harmonious dance of botanicals. The gin's juniper and citrus notes are enhanced by the bitters' subtle spice and herbal complexity. This results in a dry, refreshing drink with a nuanced flavor profile. The pink hue, achieved through the bitters, adds a playful touch to the classic gin cocktail. "
 bartender_tips: "For a perfect Pink Gin, use a high-quality gin and a good Angostura bitters.  A few dashes is all you need - don't overdo it.  A good chill is key, so make sure both the gin and the glass are ice cold.  Gently stir to blend, but avoid shaking, as this can dilute the flavors.  Serve it up in a chilled coupe glass with a twist of lemon or orange peel. "

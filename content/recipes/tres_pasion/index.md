@@ -1,5 +1,7 @@
 ---
-title: "Tres Pasion"
+title: "The Tres Pasion Cocktail"
+fullname: "The Tres Pasion Cocktail"
+shortname: "Tres Pasion"
 description: "Tres Pasion draws inspiration from the vibrant world of South American cocktails. This refreshingly tangy concoction blends the fruit-forward sweetness of Passionfruit Syrup with the fiery kick of Tequila, creating a delightful fusion of flavors reminiscent of classic Latin American libations.  "
 flavor_description: "Tres Pasion is a vibrant and refreshing cocktail. The passionfruit syrup delivers a tropical sweetness balanced by the tart lime juice. Tequila adds a smooth, agave-forward warmth, while Aperol contributes a bittersweet orange note. The choice of soda enhances the overall profile: ginger beer adds spice, grapefruit soda brings a citrusy punch, and Sprite offers a clean, bubbly finish.  "
 bartender_tips: "For a vibrant Tres Pasion, use fresh lime juice and a high-quality tequila. Shake the passionfruit syrup, tequila, Aperol, and lime juice with ice vigorously to chill and emulsify. Strain into a chilled glass over ice, then top with your chosen soda for a refreshing fizz. Adjust sweetness with a splash of simple syrup if needed.  "

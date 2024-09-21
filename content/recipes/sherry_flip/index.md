@@ -1,5 +1,7 @@
 ---
-title: "Sherry Flip"
+title: "The Sherry Flip Cocktail"
+fullname: "The Sherry Flip Cocktail"
+shortname: "Sherry Flip"
 description: "The Sherry Flip is a classic example of a Flip, a family of cocktails that originated in the 18th century. These drinks were traditionally made with spirits, cream, sugar, and a raw egg, creating a rich, frothy texture. The Sherry Flip specifically utilizes the fortified wine Sherry for a uniquely nuanced flavor profile. "
 flavor_description: "The Sherry Flip offers a complex yet comforting experience.  The sweetness of the sherry and powdered sugar mingles with the richness of the cream, creating a smooth, velvety texture.  The egg adds a delicate richness, while the nutmeg provides a warm, aromatic finish. This cocktail is a delightful balance of sweet, savory, and creamy flavors, making it both satisfying and sophisticated. "
 bartender_tips: "Use a high-quality sherry for the best flavor.  Ensure the cream is cold for a creamy texture.  Don't over-shake the cocktail, just enough to emulsify.  If you use a whole egg, separate the yolk and white for a smoother texture.  Gently grate nutmeg for a fresh aroma.  Serve immediately, the flavor fades quickly. "

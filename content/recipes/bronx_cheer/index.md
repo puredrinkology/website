@@ -1,5 +1,7 @@
 ---
-title: "Bronx Cheer"
+title: "The Bronx Cheer Cocktail"
+fullname: "The Bronx Cheer Cocktail"
+shortname: "Bronx Cheer"
 description: "The Bronx Cheer, a playful twist on the classic Bronx cocktail, belongs to the Sour family. This spirited concoction, likely born in the early 20th century, blends the tartness of lime juice with the spice of rye, the sweetness of raspberry syrup, and the unique floral complexity of Falernum. "
 flavor_description: "The Bronx Cheer is a tart and tangy cocktail with a sweet raspberry backbone. The rye whiskey provides a spicy warmth, balanced by the floral sweetness of falernum and the bright acidity of lime juice. The raspberry syrup adds a touch of fruity sweetness, creating a complex and refreshing flavor profile. "
 bartender_tips: "This drink is all about balance.  Use a high-quality rye for a complex flavor profile.  Ensure your raspberry syrup is homemade for a vibrant fruitiness.  Don't skimp on the Falernum - it adds depth and spice.  Shake hard with ice to chill and dilute, then strain into a chilled coupe.  Garnish with a lime wheel for an extra pop of tartness.  Enjoy! "

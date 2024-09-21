@@ -1,5 +1,7 @@
 ---
-title: "Turf "
+title: "The Turf  Cocktail"
+fullname: "The Turf  Cocktail"
+shortname: "Turf "
 description: "The Turf Cocktail is a classic dry Martini variation.  Its origin is shrouded in mystery, likely dating back to the early 20th century.  The addition of anise and bitters to the traditional gin and vermouth base adds complexity and intrigue to this sophisticated drink. "
 flavor_description: "The Turf Cocktail is a sophisticated and complex drink.  The dry vermouth and gin provide a crisp, herbal backbone, while the anis adds a subtle licorice note.  Bitters contribute a touch of bitterness and complexity, and the orange peel offers a bright citrus aroma. The result is a well-balanced cocktail with a dry, herbal, and slightly spicy finish. "
 bartender_tips: "Chill your glass and ingredients beforehand.  Use a high-quality dry vermouth, as it's the base flavor.  Don't over-shake the cocktail; a gentle stir is best to preserve the delicate aromatics.  Use fresh orange peel, and express its oils over the drink before dropping it in.  Finally, a dash of bitters adds complexity.  Enjoy! "

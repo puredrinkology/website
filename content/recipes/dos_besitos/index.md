@@ -1,5 +1,7 @@
 ---
-title: "Dos Besitos"
+title: "The Dos Besitos Cocktail"
+fullname: "The Dos Besitos Cocktail"
+shortname: "Dos Besitos"
 description: "Dos Besitos belongs to the Margarita family, a modern twist on the classic. It embraces the agave spirit's versatility,  blending both Blanco and Reposado Tequila for a complex flavor profile.  Originating in the vibrant cocktail scene of the early 21st century, Dos Besitos is a delicious evolution of the beloved margarita. "
 flavor_description: "The Dos Besitos is a vibrant and complex cocktail. The sweetness of grenadine and pineapple juice blends with the bright acidity of lime, creating a refreshing balance. The blanco tequila provides a clean, vegetal note while the reposado tequila adds a touch of oaky spice. Agave syrup rounds out the sweetness and creates a harmonious finish.  "
 bartender_tips: "To ensure your Dos Besitos sings, use fresh lime juice and good quality agave nectar. Shake hard with ice to chill thoroughly.  The grenadine adds sweetness, so adjust it to your liking. A splash of soda water can add a light fizz. Garnish with a lime wheel and enjoy the tequila-forward, fruity delight! "

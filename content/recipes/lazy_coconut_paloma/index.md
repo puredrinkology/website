@@ -1,5 +1,7 @@
 ---
-title: "Lazy Coconut Paloma"
+title: "The Lazy Coconut Paloma Cocktail"
+fullname: "The Lazy Coconut Paloma Cocktail"
+shortname: "Lazy Coconut Paloma"
 description: "The Lazy Coconut Paloma is a playful twist on the classic Paloma, a tequila-based cocktail born in Mexico. This variation swaps tequila for coconut liqueur, lending a tropical twist to the grapefruit and soda water base.  "
 flavor_description: "The Lazy Coconut Paloma is a tropical twist on the classic Paloma. It boasts a refreshing, slightly sweet and tangy flavor profile. The coconut liqueur adds a creamy, nutty sweetness, perfectly balanced by the tartness of the grapefruit juice. The soda water provides a light and bubbly finish, making it a perfect summer sipper. "
 bartender_tips: "For a balanced Lazy Coconut Paloma, use a high-quality coconut liqueur with subtle sweetness. Fresh grapefruit juice is key, so make sure it's not overly bitter. Build the drink over ice, starting with the liqueur, then juice, and top with soda water for optimal carbonation. Don't overshake, as it will dilute the flavors. Garnish with a grapefruit wedge for a refreshing touch. "

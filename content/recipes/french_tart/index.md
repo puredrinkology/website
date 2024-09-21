@@ -1,5 +1,7 @@
 ---
-title: "French Tart"
+title: "The French Tart Cocktail"
+fullname: "The French Tart Cocktail"
+shortname: "French Tart"
 description: "The French Tart belongs to the **Sour** family of cocktails, characterized by its tart and refreshing profile. While its exact origin is unknown, its combination of vodka, elderflower liqueur, and citrus juices points to a modern creation inspired by classic sour recipes like the Whiskey Sour. "
 flavor_description: "The French Tart is a delightful blend of sweet and tart flavors. Vodka provides a clean canvas, while elderflower liqueur adds a floral sweetness.  Grapefruit juice brings a bright citrus tang, balanced by the lime juice's sharper acidity. A touch of simple syrup rounds out the sweetness, creating a harmonious and refreshing cocktail with a bright, citrusy finish. "
 bartender_tips: "To make a perfect French Tart, ensure your grapefruit juice is freshly squeezed for the best flavor. Use a good quality elderflower liqueur for a floral aroma.  Don't over-shake the cocktail, as it can become cloudy.  Finally, adjust the simple syrup to your desired sweetness level. "

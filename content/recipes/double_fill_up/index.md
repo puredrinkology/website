@@ -1,5 +1,7 @@
 ---
-title: "Double Fill Up"
+title: "The Double Fill Up Cocktail"
+fullname: "The Double Fill Up Cocktail"
+shortname: "Double Fill Up"
 description: "The Double Fill Up is a classic Sour, a cocktail family known for its tart and sweet balance.  Sour cocktails originated in the 18th century, likely in the American colonies, using whiskey, citrus, and sugar. The Double Fill Up offers a unique twist with rye and grenadine, showcasing a rich and complex flavor profile. "
 flavor_description: "Double Fill Up is a tangy, complex cocktail with a delightful balance.  The rye whiskey provides a robust spiciness, while the lemon juice offers a bright, tart counterpoint.  The grenadine adds a touch of sweetness and a subtle floral note, rounding out the flavor profile.  This cocktail is both refreshing and intriguing, with a lingering warmth that lingers on the palate. "
 bartender_tips: "The Double Fill Up sounds intriguing! To make it a hit, use fresh lemon juice for a brighter flavor. Start with a 2:1 ratio of rye to grenadine, adjusting to taste. Shake hard with ice for a well-chilled, frothy drink.  Strain into a chilled coupe glass and garnish with a lemon twist. You can even rim the glass with sugar for a classic touch. "

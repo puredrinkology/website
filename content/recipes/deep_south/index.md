@@ -1,5 +1,7 @@
 ---
-title: "Deep South"
+title: "The Deep South Cocktail"
+fullname: "The Deep South Cocktail"
+shortname: "Deep South"
 description: "The Deep South is a modern take on the classic Whiskey Sour family, drawing inspiration from the Southern US's peach bounty. The mezcal adds a smoky complexity, while the rye whiskey and lemon juice offer a bright and tart base. "
 flavor_description: "The Deep South is a complex and intriguing cocktail. The peach syrup brings a sweet, fruity sweetness, balanced by the smoky, earthy notes of the Mezcal. Rye whiskey adds spice and warmth, while the lemon juice provides a refreshing acidity. This combination creates a surprisingly harmonious and delicious cocktail, with a distinct smoky sweetness and a lingering citrus finish. "
 bartender_tips: "When making the Deep South, ensure your peach syrup is fresh and flavorful.  Use a good quality mezcal for smokiness, and balance the rye with a quality, tart lemon juice.  Shake hard with ice to chill thoroughly, and double-strain for a pristine presentation.  Garnish with a lemon twist or a fresh peach slice. "

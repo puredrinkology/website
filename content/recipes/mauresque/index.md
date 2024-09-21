@@ -1,5 +1,7 @@
 ---
-title: "Mauresque"
+title: "The Mauresque Cocktail"
+fullname: "The Mauresque Cocktail"
+shortname: "Mauresque"
 description: "The Mauresque belongs to the **French aperitif** family, a category known for its refreshing and stimulating qualities. This specific cocktail hails from the **southern region of France**, likely originating in the early 20th century, during the rise of Ricard's popularity. "
 flavor_description: "The Mauresque offers a complex, balanced flavor profile. The anise-forward Ricard provides a distinctive licorice note, while the Orgeat syrup adds a sweet, almond-like sweetness. The water balances the sweetness and bitterness, creating a refreshing and slightly herbal finish. The overall experience is reminiscent of a sophisticated, slightly bitter herbal liqueur with subtle floral hints. "
 bartender_tips: "For the Mauresque, **precision matters**.  Start with chilled Ricard, and use a good quality orgeat syrup.  Measure carefully, as the balance is delicate.  Don't over-dilute with water – a splash is all you need to brighten the flavors.  Stir gently to ensure a smooth blend.  Serve in a chilled coupe or martini glass for maximum enjoyment. "

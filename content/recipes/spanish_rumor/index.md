@@ -1,5 +1,7 @@
 ---
-title: "Spanish Rumor"
+title: "The Spanish Rumor Cocktail"
+fullname: "The Spanish Rumor Cocktail"
+shortname: "Spanish Rumor"
 description: "The Spanish Rumor draws from the classic Manhattan family, a sophisticated blend of rye whiskey, sweet vermouth, and a touch of cherry liqueur. Its origins are likely rooted in the early 20th century, a time when Manhattan variations were popular and kola syrup's sweetness offered a unique twist. "
 flavor_description: "The Spanish Rumor is a complex and alluring cocktail. The Kola Syrup lends a sweet, cola-like note, while the Rye provides a spicy kick. The Sweet Vermouth adds a touch of bitterness and herbal complexity, while the Cherry Liqueur offers a sweet and fruity counterpoint. The interplay of these flavors creates a balanced and intriguing cocktail that is both refreshing and sophisticated. "
 bartender_tips: "The Spanish Rumor is a delicate balance of flavors.  Use high-quality rye and sweet vermouth, but don't overdo it on the kola syrup—a splash is all you need.  The cherry liqueur adds a touch of sweetness and complexity, but be careful not to overpower the other elements.  Chill your ingredients beforehand and use a good ice cube to keep the drink cold. "

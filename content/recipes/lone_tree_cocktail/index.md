@@ -1,5 +1,7 @@
 ---
-title: "Lone Tree "
+title: "The Lone Tree  Cocktail"
+fullname: "The Lone Tree  Cocktail"
+shortname: "Lone Tree "
 description: "The Lone Tree Cocktail is a classic Martini variation, a member of the esteemed gin-based cocktail family.  While its exact origin is shrouded in mystery, its simple elegance points to a likely birth in the late 19th or early 20th century, a time when gin cocktails were all the rage. "
 flavor_description: "The Lone Tree Cocktail offers a balanced and complex taste profile. The sweet vermouth provides a rich, slightly bitter base with notes of dried fruits and herbs, while the gin adds a crisp, juniper-forward character. The interplay of these elements creates a harmonious blend of sweetness, bitterness, and herbal complexity. The cocktail finishes with a lingering dryness, leaving a pleasant warmth on the palate. "
 bartender_tips: "Use a good quality gin and a vermouth that's not overly sweet.  Chill your glass beforehand and stir the drink with ice to ensure a perfectly chilled cocktail. Don't over-stir or the gin will become cloudy. Garnish with a lemon twist for a citrusy aroma and a final touch of elegance. "

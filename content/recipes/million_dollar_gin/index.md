@@ -1,5 +1,7 @@
 ---
-title: "Million Dollar Gin"
+title: "The Million Dollar Gin Cocktail"
+fullname: "The Million Dollar Gin Cocktail"
+shortname: "Million Dollar Gin"
 description: "The Million Dollar Gin is a twist on the classic Gin Sour, a cocktail family known for its tart, refreshing balance of gin, citrus, and sweetener.  Its origins remain unclear, but it likely emerged in the mid-20th century as a playful take on the classic, incorporating tropical pineapple and vibrant grenadine. "
 flavor_description: "The Million Dollar Gin is a delightful blend of sweet and tart. The gin's juniper notes dance with the sweetness of the vermouth and pineapple juice, creating a harmonious base. A touch of grenadine adds a delicate floral sweetness and a vibrant red hue. The overall taste profile is refreshing, slightly fruity, and balanced, with a subtle gin backbone that lingers on the palate. "
 bartender_tips: "For a Million Dollar Gin, chilling your ingredients beforehand is key. Use high-quality gin and vermouth for a smoother, more complex taste. Shake vigorously with ice to ensure proper dilution and a frosty finish. Don't over-pour the grenadine; a splash is all you need for a beautiful color gradient. Garnish with a pineapple wedge and a maraschino cherry for a classic touch. "

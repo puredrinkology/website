@@ -1,5 +1,7 @@
 ---
-title: "Fall In Manhattan"
+title: "The Fall In Manhattan Cocktail"
+fullname: "The Fall In Manhattan Cocktail"
+shortname: "Fall In Manhattan"
 description: "Fall in Manhattan belongs to the Manhattan family, a classic American cocktail lineage dating back to the late 19th century. This variation twists the traditional formula with Demerara gum syrup's caramel notes, the herbal complexity of Green Chartreuse, and the aromatic depth of bitters.  "
 flavor_description: "Fall in Manhattan is a complex and intriguing cocktail. The Demerara Gum Syrup adds a rich, molasses-like sweetness balanced by the spicy rye whiskey. Green Chartreuse brings a herbal, slightly minty note, while aromatic bitters add a touch of bitterness and complexity. Expect a warming, slightly sweet, and invigorating drink with an herbal undertone. "
 bartender_tips: "This is a delicious twist on the classic!  First, use a high-quality rye, like Rittenhouse, for the best flavor.  Don't over-shake this one, you want a crisp, clear drink.  A dash of bitters goes a long way, so add just a few drops to enhance the complexity.  Finally, the Demerara Gum Syrup adds a unique sweetness, so adjust to your taste. "

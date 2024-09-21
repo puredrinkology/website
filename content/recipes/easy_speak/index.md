@@ -1,5 +1,7 @@
 ---
-title: "Easy Speak"
+title: "The Easy Speak Cocktail"
+fullname: "The Easy Speak Cocktail"
+shortname: "Easy Speak"
 description: "Easy Speak, with its Bourbon base and bitter-sweet notes, is a modern take on the classic Old Fashioned. The addition of Cynar and chocolate bitters adds a unique, complex flavor profile, showcasing the artistry of contemporary cocktail culture. "
 flavor_description: "Easy Speak is a complex cocktail with a bittersweet and herbal profile. The bourbon provides a warm, oaky base, while the Cynar adds earthy artichoke notes and a touch of bitterness. The gum syrup lends sweetness and a touch of floral complexity, balanced by the dark chocolate and herbal notes of the bitters. The result is a well-rounded cocktail with surprising depth and a lingering finish. "
 bartender_tips: "This cocktail is all about balance. Use a high-quality bourbon for depth. Don't skimp on the Cynar, its artichoke notes are essential.  A good quality chocolate bitters will add complexity.  The gum syrup is key for sweetness, but don't overdo it.  A dash or two is plenty.  Chill everything beforehand for a crisp, refreshing drink.  Stir well and enjoy! "

@@ -1,5 +1,7 @@
 ---
-title: "White Russian"
+title: "The White Russian Cocktail"
+fullname: "The White Russian Cocktail"
+shortname: "White Russian"
 description: "The White Russian, a creamy and decadent concoction, belongs to the Coffee Cocktail family.  Born in the 1940s, likely in Belgium, it is a close cousin to the Black Russian, differing only by the addition of cream.  "
 flavor_description: "The White Russian is a creamy, decadent cocktail with a smooth, full-bodied flavor. Vodka provides a clean, neutral base, while coffee liqueur adds rich, roasted coffee notes and a hint of sweetness. The light cream contributes a velvety texture and a subtle, dairy-like sweetness. The overall taste profile is indulgent and balanced, with the coffee and cream complementing the vodka beautifully. "
 bartender_tips: "For the perfect White Russian, chill your glassware and vodka. Use a good quality coffee liqueur, preferably one with a strong coffee flavor. Pour the vodka and liqueur first, then gently layer the cream on top to create a beautiful gradient. Avoid stirring, as this will create a milky mess. Garnish with a coffee bean or a sprinkle of cocoa powder. "
@@ -17,7 +19,7 @@ glass: "Old-fashioned glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "vodka"
-family: "other"
+family: ""
 visual: "## LLM Prompt:**Describe the visual appearance of a classic White Russian cocktail. Consider the following aspects:*** **Color:** What is the overall color of the drink? Is it a uniform color, or does it have layers? * **Texture:** Is it smooth, layered, or does it have any visible texture? * **Clarity:** Is the drink clear, opaque, or somewhere in between? * **Glassware:** What kind of glass is the cocktail served in? * **Garnish:** Does it have any garnishes? If so, describe them. * **Overall Impression:**  What is the first impression you get when you see a White Russian? Does it look inviting? Rich? Creamy? **Please write a detailed description of a White Russian based on these aspects.** "
 source: "personal_collection"
 ---

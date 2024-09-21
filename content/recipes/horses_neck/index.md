@@ -1,5 +1,7 @@
 ---
-title: "Horse'S Neck"
+title: "The Horses Neck Cocktail"
+fullname: "The Horses Neck Cocktail"
+shortname: "Horses Neck"
 description: "The Horse's Neck is a classic highball, its origins dating back to the early 20th century.  This simple yet elegant cocktail features the refreshing combination of brandy, ginger ale, and bitters, topped with a lemon twist for a citrusy finish. "
 flavor_description: "The Horse's Neck is a delightful blend of sweet and spicy, with a refreshing, citrusy twist. The brandy's rich, fruity notes are balanced by the ginger ale's effervescence and the bitters' subtle, aromatic complexity.  The lemon peel adds a bright, zesty element, creating a harmonious and invigorating cocktail.  It's a classic for a reason, delivering a clean and enjoyable drinking experience. "
 bartender_tips: "For a perfect Horse's Neck, chill your glass and brandy beforehand. Use a good quality brandy with strong notes. Don't over-muddle the lemon peel - just express its oils over the drink. Gently pour the ginger ale to maintain its fizz, and add just a dash of bitters for complexity. Finally, garnish with a long, curled lemon peel. "

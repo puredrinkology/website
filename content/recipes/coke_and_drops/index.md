@@ -1,5 +1,7 @@
 ---
-title: "Coke And Drops"
+title: "The Coke And Drops Nonalcoholic"
+fullname: "The Coke And Drops Nonalcoholic"
+shortname: "Coke And Drops"
 description: "Coke and Drops belongs to the **Highball family**, known for their simple, refreshing nature. Its origins likely lie in the early 20th century, a time when Coca-Cola was a popular soda and simple drinks with a touch of citrus were common. "
 flavor_description: "Coke and Drops is a simple but refreshing drink. The Coca-Cola provides a familiar sweetness and fizz, while the lemon juice cuts through the sugar with a bright, tart acidity. The result is a balanced, effervescent drink that's perfect for quenching your thirst on a hot day. "
 bartender_tips: "This is a super simple drink, but there are a few things to keep in mind. First, use fresh lemon juice. It makes a world of difference. Second, don't overpower the Coke. Start with just a few drops of lemon juice and taste as you go. You can always add more!  Lastly, a splash of Angostura bitters adds a nice complexity."

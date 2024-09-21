@@ -1,5 +1,7 @@
 ---
-title: "Kentucky B And B"
+title: "The Kentucky B And B Cocktail"
+fullname: "The Kentucky B And B Cocktail"
+shortname: "Kentucky B And B"
 description: "The Kentucky B&B, a simple yet elegant mix of bourbon and Benedictine, belongs to the After Dinner cocktail family.  This cocktail is a classic Southern American creation, popularized in the mid-20th century by the legendary bartender,  The  Jim Meehan of the New York City bar, PDT. "
 flavor_description: "The Kentucky B&B is a warm, comforting hug in a glass. The bourbon's robust character blends beautifully with Benedictine's sweet, herbal notes, creating a complex and balanced flavor profile. Expect notes of honey, spice, and a touch of citrus, all wrapped in a smooth, velvety finish. It's the perfect sipper for a chilly evening or a cozy night in. "
 bartender_tips: "The key to a perfect Kentucky B&B is balance. Use high-quality bourbon and Benedictine for the best flavor. Start with a 2:1 ratio of bourbon to Benedictine, then adjust to your taste. Chill the ingredients beforehand for a smoother drink. Stir well with ice to chill and dilute, but don't over-dilute. Garnish with a lemon twist or a brandied cherry. Enjoy responsibly! "

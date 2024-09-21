@@ -1,5 +1,7 @@
 ---
-title: "Vodka And Tonic"
+title: "The Vodka And Tonic Cocktail"
+fullname: "The Vodka And Tonic Cocktail"
+shortname: "Vodka And Tonic"
 description: "The Vodka and Tonic belongs to the Highball family, characterized by its tall, ice-filled glass and simple mixing of spirits with a carbonated mixer. While its exact origin is debated, it likely emerged in the late 20th century as a straightforward and refreshing alternative to the Gin and Tonic. "
 flavor_description: "Vodka and Tonic is a crisp and refreshing cocktail. The vodka provides a clean, neutral base, allowing the tonic water's bitter quinine flavor to shine. The carbonation adds a lively effervescence, making it a perfect thirst quencher. The sweetness of the tonic water balances the bitterness, creating a harmonious and well-rounded taste. "
 bartender_tips: "Chill your vodka and tonic water well. Use a highball glass filled with ice. Pour vodka first, then tonic, creating a gentle fizz. Garnish with a lime wedge and a sprig of fresh mint for a refreshing touch. A citrus twist over the drink will also release aromatic oils for a richer experience.  "

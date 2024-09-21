@@ -1,5 +1,7 @@
 ---
-title: "Quaker'S "
+title: "The Quakers  Cocktail"
+fullname: "The Quakers  Cocktail"
+shortname: "Quakers "
 description: "The Quaker's Cocktail is a classic Sour, a family of cocktails characterized by their combination of spirit, citrus juice, and sweetener. Its origins are shrouded in mystery, but its components suggest a late 19th or early 20th century creation, likely emerging from the era of American cocktail innovation. "
 flavor_description: "The Quaker's Cocktail is a harmonious blend of sweetness and tartness.  The light rum provides a smooth base with subtle notes of molasses, while the brandy adds depth and warmth.  The lemon juice balances the sweetness of the raspberry syrup, resulting in a refreshing, slightly tart finish.  The overall flavor profile is fruity, complex, and perfectly balanced, making it a sophisticated yet approachable cocktail. "
 bartender_tips: "**Bartender Tips:*** Use a high-quality light rum for a clean, smooth flavor.* Opt for a fruity brandy like Armagnac or Cognac to complement the raspberry syrup.* Freshly squeeze the lemon juice for optimal brightness.* Adjust the raspberry syrup to your desired sweetness level.* Shake well with ice to chill the cocktail and dilute it properly.* Garnish with a lemon twist or a fresh raspberry for an elegant touch. "

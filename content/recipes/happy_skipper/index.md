@@ -1,5 +1,7 @@
 ---
-title: "Happy Skipper"
+title: "The Happy Skipper Cocktail"
+fullname: "The Happy Skipper Cocktail"
+shortname: "Happy Skipper"
 description: "The Happy Skipper belongs to the Highball family, characterized by tall, refreshing drinks built with a spirit base and a carbonated mixer.  Its origins likely stem from the 19th century, when rum and ginger ale combinations were popular among seafaring men. "
 flavor_description: "The Happy Skipper is a refreshing and vibrant cocktail. The spiced rum provides warm notes of cinnamon and clove, balanced by the crisp bite of ginger ale. A squeeze of lime adds a touch of tartness and acidity, creating a harmonious blend of sweet, spicy, and tangy flavors. The ice chills the drink to perfection, making it ideal for warm weather. "
 bartender_tips: "For a Happy Skipper, start with a chilled glass.  Muddle lime wedges to release their oils and create a fragrant base.  Use a good quality spiced rum for depth of flavor.  Top with chilled ginger ale and stir gently, not shake, to maintain the fizz.  Garnish with a lime wheel and enjoy the refreshing, tropical vibe! "

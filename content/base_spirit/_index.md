@@ -1,7 +1,7 @@
 ---
 title: The Cocktail Spirit
 description: An organization of cocktails into their respective spirits
-layout: taxonomy
+layout: spirit
 url: "/recipes/spirit/"
 
 ---

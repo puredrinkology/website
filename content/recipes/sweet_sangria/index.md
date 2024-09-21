@@ -1,5 +1,7 @@
 ---
-title: "Sweet Sangria"
+title: "The Sweet Sangria Punch"
+fullname: "The Sweet Sangria Punch"
+shortname: "Sweet Sangria"
 description: "Sweet Sangria, a vibrant fruit-infused beverage, belongs to the **Sangria family**, a traditional Spanish drink. It's a modern variation of the classic, incorporating Fresca for a unique twist on the traditional citrus profile. "
 flavor_description: "Sweet Sangria bursts with a vibrant, fruity sweetness. The red wine provides a rich, earthy base, while the sugar adds a touch of caramel. Freshly cut apples, oranges, limes, and lemons lend their citrusy and tart notes, creating a refreshing and balanced flavor profile. Fresca adds a crisp, bubbly effervescence, further enhancing the overall taste experience.  "
 bartender_tips: "To make a killer Sweet Sangria, **start by muddling the fruit**.  This releases the juices and flavors.  Use a good quality red wine, but don't be afraid to use a bit more sugar than you think you need - the fruit will balance it out.  For a refreshing twist, add a splash of Fresca.  Let it chill for at least 2 hours to allow the flavors to meld.  Serve over ice with a garnish of your favorite fruit. "

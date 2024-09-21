@@ -1,5 +1,7 @@
 ---
-title: "Adam"
+title: "The Adam Cocktail"
+fullname: "The Adam Cocktail"
+shortname: "Adam"
 description: "The Adam belongs to the Sour family, a classic cocktail group characterized by the base spirit, citrus juice, and sweetener. Its origins remain obscure, but likely emerged in the early 20th century, possibly in the Caribbean where rum, lemons, and grenadine were readily available. "
 flavor_description: "Adam is a balanced, bittersweet cocktail with a vibrant citrus kick. The dark rum provides a rich, spiced base, mellowed by the tart lemon juice. A touch of sweetness from grenadine adds a subtle depth, while the interplay of these flavors evokes a tropical sunset. "
 bartender_tips: "For a balanced Adam, use a good quality dark rum and fresh lemon juice.  Don't skimp on the grenadine, it adds the sweetness and vibrant color.  Shake well with ice to chill and dilute.  Strain into a chilled coupe glass and garnish with a lemon twist or a cherry.  Enjoy! "

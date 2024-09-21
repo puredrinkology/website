@@ -1,5 +1,7 @@
 ---
-title: "110 In The Shade"
+title: "The 110 In  Shade Beer"
+fullname: "The 110 In  Shade Beer"
+shortname: "110 In  Shade"
 description: "110 in the Shade is a unique blend of beer and tequila, falling into the Highball cocktail family.  Its origin remains shrouded in mystery, but the combination likely emerged from the desire to mix traditional Mexican flavors with a refreshing, thirst-quenching beer base. "
 flavor_description: "110 in the Shade offers a refreshing, contrasting taste experience.  The lager provides a crisp, clean base, while the tequila adds a subtle, agave-forward warmth.  Expect a hint of citrus, perhaps lime or lemon, to cut through the sweetness and create a balanced, thirst-quenching drink. "
 bartender_tips: "This sounds like a unique, refreshing twist! To nail the 110 in the Shade, chill your lager and tequila well before mixing. A good ratio is 2 parts lager to 1 part tequila.  Use a tall glass with ice and a lime wedge garnish.  Remember,  this drink is all about balance, so experiment with the ratios to find your perfect blend. "

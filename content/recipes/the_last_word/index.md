@@ -1,5 +1,7 @@
 ---
-title: "The Last Word"
+title: "The  Last Word Cocktail"
+fullname: "The  Last Word Cocktail"
+shortname: " Last Word"
 description: "The Last Word is a classic sour cocktail, a family known for its tart, refreshing flavors.  Created in the 1920s at the Detroit Athletic Club, it's a potent blend of green Chartreuse, maraschino liqueur, lime juice, and gin, making it a sophisticated and complex drink. "
 flavor_description: "The Last Word is a complex and refreshing cocktail with a bright, herbaceous character.  The Green Chartreuse dominates with its unique, minty and herbal notes.  Maraschino adds a sweet, cherry-like sweetness balanced by the tart lime juice.  Gin provides a subtle juniper backbone. The result is a well-balanced, slightly bitter, and intensely aromatic drink that lingers on the palate. "
 bartender_tips: "When making a Last Word, chill your glassware beforehand.  Shake vigorously with ice, using a good quality gin for optimal flavor.  Strain into a chilled coupe glass, and use a high-quality Green Chartreuse for its complex herbal notes.  The perfect Last Word balances bitterness, sweetness, and citrus, so adjust the lime juice for your desired taste. "

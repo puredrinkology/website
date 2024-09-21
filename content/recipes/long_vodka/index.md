@@ -1,5 +1,7 @@
 ---
-title: "Long Vodka"
+title: "The Long Vodka Cocktail"
+fullname: "The Long Vodka Cocktail"
+shortname: "Long Vodka"
 description: "Long Vodka is a refreshing highball, a cocktail family known for their tall, mixed-drink format. Its origins are likely modern, a twist on the classic Gin and Tonic, using vodka's clean taste and the citrusy bite of lime. "
 flavor_description: "The Long Vodka is a crisp and refreshing cocktail. The vodka provides a clean, neutral base, while the lime adds a bright, tart citrus note. Angostura bitters contribute a subtle, aromatic complexity, balancing the sweetness of the tonic water. The ice chills the drink to perfection, creating a smooth and invigorating experience. Overall, it's a light and easy-drinking cocktail perfect for any occasion. "
 bartender_tips: "This is a simple yet refreshing drink.  Chill your glass beforehand, the lime juice should be freshly squeezed, and use good quality tonic water.  A dash of Angostura is key, so don't be shy! Gently stir the vodka, lime, and bitters before topping with tonic water.  Garnish with a lime wedge.  Enjoy! "

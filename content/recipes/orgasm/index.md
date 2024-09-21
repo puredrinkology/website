@@ -1,5 +1,7 @@
 ---
-title: "Orgasm"
+title: "The Orgasm Cocktail"
+fullname: "The Orgasm Cocktail"
+shortname: "Orgasm"
 description: ""
 flavor_description: ""
 bartender_tips: ""

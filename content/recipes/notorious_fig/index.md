@@ -1,5 +1,7 @@
 ---
-title: "Notorious Fig"
+title: "The Notorious Fig Cocktail"
+fullname: "The Notorious Fig Cocktail"
+shortname: "Notorious Fig"
 description: "The Notorious Fig is a sophisticated twist on the classic Manhattan, belonging to the stirred cocktail family. Its origins lie in the contemporary cocktail scene, drawing inspiration from the rich flavors of fig syrup and the bittersweet complexity of amaro. "
 flavor_description: "The Notorious Fig is a complex and intriguing cocktail. The fig syrup provides a sweet and fruity base, balanced by the robust character of Irish whiskey.  Amaro adds a touch of herbal bitterness, while Peychaud's bitters contribute a spicy and aromatic layer. The result is a sophisticated and well-rounded drink with a unique flavor profile that's both sweet and savory. "
 bartender_tips: "Use a good quality fig syrup, preferably homemade for a richer flavor.  Don't skimp on the Amaro, its herbal complexity balances the sweetness and whiskey.  Paychaud's Bitters adds a subtle but important spicy kick.  Chill the ingredients before mixing for a refreshing, well-balanced drink.  Garnish with a fig slice or sprig of rosemary for an extra touch of elegance. "

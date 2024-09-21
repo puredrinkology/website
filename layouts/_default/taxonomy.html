@@ -32,8 +32,43 @@
       </div>
       <div class="row p-4">
 
+      {{ $familyOrder := .Site.Params.familyOrder }}
+      {{ $recipes := .Pages }}
+      {{ range $family := $familyOrder }}
+        {{ $sortedRecipes := where $recipes "Params.family" $family }}
 
-        {{ range .Pages }}
+        {{ $families := slice }}
+        {{ range $sortedRecipes }}
+          {{ $family := .Params.family }}
+          {{ if not (in $families $family) }}
+            {{ $families = $families | append $family }}
+          {{ end }}
+        {{ end }}
+        {{ range $family := sort $families }}
+          {{ range $recipe := where $sortedRecipes "Params.family" $family }}
+            <div class="col-12 col-md-6 col-lg-3 mb-4 ">
+              <div class="card shadow border-0 p-4 text-decoration-none h-100" style="border-radius: 15px;">
+                <a class="aspect-ratio-full" href="{{ $recipe.Permalink }}">
+                  {{ with $recipe.Resources.GetMatch (printf "**/%s" "{cover.*}") }}
+                    {{ with .Resize "1000x" }}
+                      <img class="rounded-10" src="{{ .RelPermalink }}" alt="{{ $recipe.Title }}" width="{{ .Width }}" height="{{ .Height }}" />
+                    {{ end }} 
+                  {{ end }}
+                </a>
+
+                <div class="card-body">
+                  <h5 class="card-title fw-semibold"><a href="{{ $recipe.Permalink }}" class="text-decoration-none">{{ with .Params.shortname }}{{ . }}{{ else }}{{ .Title }}{{ end }}</a></h5>
+                  <a href="/recipes/category/{{lower .Params.category}}/" class="badge text-bg-primary text-decoration-none">{{ lower .Params.category }}</a> 
+                  <a href="/recipes/spirit/{{lower .Params.base_spirit}}/" class="badge text-bg-secondary text-decoration-none">{{lower .Params.base_spirit }}</a>
+                  <a href="/recipes/family/{{lower .Params.family}}/" class="badge text-bg-info text-decoration-none">{{ lower .Params.family }}</a> 
+                </div>
+              </div>
+            </div>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+
+        <!-- {{ range .Pages }}
         <div class="col-12 col-md-6 col-lg-3 mb-4 ">
           <div class="card shadow border-0 p-4 text-decoration-none h-100" style="border-radius: 15px;" >
             <a class="aspect-ratio-full" href="{{ .Permalink }}">
@@ -48,14 +83,19 @@
             </a>
 
             <div class="card-body text-center">
-              <h5 class="card-title fw-semibold"><a href="{{ .Permalink }}" class="text-decoration-none">{{ .Title }}</a></h5>
+              <h5 class="card-title fw-semibold">
+                <a href="{{ .Permalink }}" class="text-decoration-none">
+                  {{ with .Params.shortname }}{{ . }}{{ else }}{{ .Title }}{{ end }}
+                </a>
+              </h5>
+              
               <a href="/recipes/category/{{lower .Params.category}}/" class="badge text-bg-primary text-decoration-none">{{ lower .Params.category }}</a> 
               <a href="/recipes/spirit/{{lower .Params.base_spirit}}/" class="badge text-bg-secondary text-decoration-none">{{lower .Params.base_spirit }}</a>
               <a href="/recipes/family/{{lower .Params.family}}/" class="badge text-bg-info text-decoration-none">{{ lower .Params.family }}</a> 
             </div>
           </div>
         </div>
-        {{ end }}
+        {{ end }} -->
       </div>
     </div>
   </div>

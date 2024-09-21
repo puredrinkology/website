@@ -1,5 +1,7 @@
 ---
-title: "French Connection"
+title: "The French Connection Cocktail"
+fullname: "The French Connection Cocktail"
+shortname: "French Connection"
 description: "The French Connection is a member of the liqueur cocktail family, combining strong spirits with sweet, aromatic liqueurs. While its exact origin is debated, it likely emerged in the 1970s, drawing inspiration from classic French-Italian flavor pairings. "
 flavor_description: "The French Connection is a warm and inviting cocktail with a sweet and nutty character. The cognac's rich, fruity notes mingle beautifully with the almond-infused sweetness of the amaretto. Expect a smooth and silky texture with hints of dried fruit, caramel, and a subtle, lingering almond finish. It's a complex yet balanced drink perfect for those seeking a sophisticated indulgence. "
 bartender_tips: "Use a good quality Cognac for the best flavor.  Chill both the Cognac and Amaretto before mixing.  Use a chilled glass for serving.  Shake vigorously with ice to ensure proper dilution and a frosty finish.  Don't over-shake; aim for a smooth, velvety texture.  Garnish with a cherry or orange peel for a touch of elegance. "
