@@ -1,48 +1,56 @@
 
-<!-- Navbar -->
-<nav class="navbar navbar-expand-xl navbar-dark bg-dark pb-1">
-  <div class="container d-flex justify-content-between align-items-center">
-    <!-- Spyder logo, centered on mobile -->
-    <a class="navbar-brand d-xl-none mx-auto" href="{{ .Site.BaseURL }}">
-      <span class="px-3 fs-3 fw-semibold text-uppercase text-white">{{ .Site.Title }}</span>
-    </a>
-
-    <!-- Spyder logo, left-aligned on desktop -->
-    <a class="navbar-brand d-none d-xl-flex align-items-center" href="{{ .Site.BaseURL }}">
-      <span class="px-3 fs-3 fw-semibold text-uppercase text-white">{{ .Site.Title }}</span>
-    </a>
-
-    <!-- Toggle button, visible on mobile only -->
-    <button class="navbar-toggler d-xl-none position-absolute start-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <!-- Desktop Menu Items -->
-    <div class="collapse navbar-collapse d-none d-xl-flex" id="navbarDesktopContent">
+<nav class="navbar navbar-expand-xl navbar-dark bg-dark py-2">
+  <div class="container-fluid p-0 m-0">
+    <div class="row w-100 p-0 m-0 align-items-center">
       
+      <div class="col-2 d-block d-xl-none text-light text-center">
+          <!-- Toggle button, visible on mobile only -->
+          <button class="navbar-toggler d-xl-none  m-0 border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+      </div>
+
+      <div id="site-title" class="col-xl-4 col-8 py-1 text-light text-center">
+        <a class="d-xl-flex align-items-center" href="{{ .Site.BaseURL }}">
+          <span class="p-0 px-xl-5 fs-3 fw-semibold text-uppercase text-white">{{ .Site.Title }}</span>
+        </a>
+      </div>
       
-      <ul class="navbar-nav ms-auto mb-xl-0">
-        <li class="nav-item text-center m-0">
+      <div id="search-box-item" class="col-xl-4 col-8 d-none d-xl-block align-items-center">
+        <div  class="text-center m-0 p-1 p-xl-0 d-block w-100" style="display: none">
           <form id="search" >
-            <input type="text" id="search-box" placeholder="Search Cocktails" autocomplete="off" class="m-0 px-3 py-2" style="border-radius: 20px; width: 25em"/>
+            <input type="text" id="search-box" placeholder="Search Cocktails" autocomplete="off" class="m-0 px-3 py-2 text-center w-100" style="border-radius: 20px;"/>
           </form>
-        </li>
-        {{ range .Site.Menus.main }}
-          <li class="nav-item text-center m-0">
-            <a class="nav-link text-white px-4" href="{{ .URL }}">{{ .Name }}</a>
-          </li>
-        {{ end }}
-      </ul>
-      <ul class="navbar-nav ms-auto mb-xl-0 auth_button_list">
-        {{ range .Site.Menus.buttons }}
-          <li class="nav-item m-0 d-none signin_button">
-            <a class="nav-link btn btn-secondary text-light px-4 m-0 mx-1 {{ .Pre }} " href="{{ .URL }}">{{ .Name }}</a>
-          </li>
-        {{ end }}
-      </ul>
+        </div>
+      </div>
+      
+      <div class="col-xl-4 d-none d-xl-block text-light">
+        <!-- Desktop Menu Items -->
+        <div class="collapse navbar-collapse d-flex" id="navbarDesktopContent">
+          <ul class="navbar-nav m-auto mb-xl-0 w-100 justify-content-center">
+            
+            {{ range .Site.Menus.main }}
+              <li class="nav-item text-center d-none d-xl-flex m-0">
+                <a class="nav-link text-white px-4" href="{{ .URL }}">{{ .Name }}</a>
+              </li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+
+      <div class="col-2 d-block d-xl-none text-light text-center">
+         <!-- Search button, visible on mobile only -->
+         <button id="mobile-search-btn" class="navbar-toggler d-xl-none p-0 m-0 my-2 border-0 text-center" type="button" >
+          <span class="fa fa-search"></span>
+        </button>
+      </div>
+
     </div>
   </div>
 </nav>
+
+
+
 
 <!-- Mobile Side Navbar Content -->
 <div id="navbarContent" class="side-nav collapse d-xl-none  bg-black">
@@ -73,12 +81,6 @@
       </a>
 
     </div>
-
-    <div class="row nav-item text-left m-0 my-2 p-0 auth_button_divs">
-      {{ range .Site.Menus.buttons }}
-        <div class="col-12 signin_button d-none"><a class="nav-link btn btn-secondary text-light px-4 m-0 {{ .Pre }}" href="{{ .URL }}">{{ .Name }}</a></div>
-      {{ end }}
-    </div>
   </div>
 
 
@@ -86,6 +88,24 @@
     const navbarContent = document.getElementById('navbarContent');
     document.querySelector('.navbar-toggler').addEventListener('click', function() {
       document.body.classList.toggle('navbar-open');
+    });
+
+    $(document).ready(function() {
+      $('#mobile-search-btn').on('click', function() {
+        console.log("show search box")
+        const mobileSearchBox = $('#search-box-item');
+        const mobileSiteTitle = $('#site-title');
+
+        if (mobileSearchBox.hasClass('show')) {
+          mobileSiteTitle.show()
+          mobileSearchBox.addClass("d-none")
+          mobileSearchBox.removeClass("show")
+        } else {
+          mobileSiteTitle.hide()
+          mobileSearchBox.removeClass("d-none")
+          mobileSearchBox.addClass("show")
+        }
+      });
     });
 
 </script>

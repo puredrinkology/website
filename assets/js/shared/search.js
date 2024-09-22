@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     let idx = null;  // Lunr index
-    let searchResults = document.getElementById('search-results');
+    let searchResults = $('#search-results');
     let data = null; // Store search index data
 
     // Fetch search index JSON
@@ -38,16 +38,17 @@ document.addEventListener('DOMContentLoaded', function() {
     const performSearch = debounce(function(query) {
         if (idx && query.length > 2) {
             const results = idx.search(query);
-            searchResults.innerHTML = '';  // Clear previous results
+            searchResults.html('');  // Clear previous results
 
+            var resultsHtml = ''
             if (results.length) {
                 results.forEach(result => {
                     const url = result.ref;
                     const item = data.find(i => i.url === url); // Now data is available here
                     const cover = item.url + "images/cover.jpeg";
 
-                    searchResults.innerHTML += `
-                        <div class="col-12 col-md-6 col-lg-2 mb-4">
+                    resultsHtml += `
+                        <div class="col-12 col-md-4 col-lg-2 g-4">
                             <div class="card shadow border-0 p-4 text-decoration-none h-100" style="border-radius: 15px;">
                                 <a class="aspect-ratio-full" href="${url}">
                                     ${cover ? `<img class="rounded-10" src="${cover}" alt="${item.title}" />` : ''}
@@ -64,11 +65,16 @@ document.addEventListener('DOMContentLoaded', function() {
                         </div>
                     `;
                 });
+
+                searchResults.html(resultsHtml);
+                searchResults.addClass("m-2 mb-4")
             } else {
-                searchResults.innerHTML = '';
+                searchResults.html('');
+                searchResults.removeClass("m-2 mb-4")
             }
         } else {
-            searchResults.innerHTML = '';
+                searchResults.html('');
+                searchResults.removeClass("m-2 mb-4")
         }
     }, 300); // Adjust the delay as needed
 
