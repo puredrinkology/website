@@ -25,6 +25,7 @@ secondary: "
 "
 ---
 
+<a href="/recipes/family/" class="badge bg-success text-light text-decoration-none">see all families</a> 
 <a href="/recipes/category/cocktail/" class="badge text-bg-primary text-decoration-none">cocktail</a> 
 <a href="/recipes/family/negroni/" class="badge text-bg-info text-decoration-none">negroni</a> 
 

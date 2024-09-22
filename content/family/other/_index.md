@@ -7,4 +7,6 @@ weight: 100
 coverImage: "/family/other/images/cover.jpeg"
 ---
 
+<a href="/recipes/family/" class="badge bg-success text-light text-decoration-none">see all families</a> 
+
 Well, okay you caught me.  Yes, this is a collection of other drinks that we haven't got around to a putting into its own family yet. 
