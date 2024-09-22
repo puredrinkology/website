@@ -8,7 +8,7 @@ bartender_tips: "To make the 747 Drink shine, use a high-quality vodka for a cle
 ingredients:
   - item: "Vodka"
     measure: "1 oz"
-  - item: "Roses Sweetened Lime Juice"
+  - item: "Lime Juice"
     measure: "1 oz"
   - item: "Cranberry Juice"
     measure: "1 oz"

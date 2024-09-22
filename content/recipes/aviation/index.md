@@ -12,6 +12,8 @@ ingredients:
     measure: "0.5 oz"
   - item: "Maraschino Liqueur"
     measure: "0.5 oz"
+  - item: "Creme De Violette"
+    measure: "0.25 oz"
 instructions:
   - item: "Add all ingredients into cocktail shaker filled with ice."
   - item: "Shake well and strain into cocktail glass."

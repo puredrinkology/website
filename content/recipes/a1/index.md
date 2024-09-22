@@ -7,13 +7,13 @@ flavor_description: "A1 delivers a vibrant and complex flavor profile. The gin p
 bartender_tips: "This sounds like a variation on a classic, so finesse is key!  Shake hard with ice to chill thoroughly, and strain into a chilled coupe.  Don't overdo the grenadine - a few drops add a beautiful color gradient and tartness.  A citrus twist for garnish is lovely, but a maraschino cherry adds a touch of whimsy. "
 ingredients:
   - item: "Gin"
-    measure: "1.75"
+    measure: "1.75 oz"
   - item: "Grand Marnier"
-    measure: "1 Shot"
+    measure: "1 oz"
   - item: "Lemon Juice"
-    measure: "0.25 Shot"
+    measure: "0.25 oz"
   - item: "Grenadine"
-    measure: "1/8 Shot"
+    measure: "1/8 oz"
 instructions:
   - item: "Pour all ingredients into a cocktail shaker, mix and serve over ice into a chilled glass."
 glass: "Cocktail glass"
