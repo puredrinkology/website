@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "sour"
 visual: "## LLM Prompt:Describe the appearance of a Grand Blue cocktail, made with Malibu Rum, Peach Schnapps, Blue Curacao, and Sweet & Sour. Consider the following:* **Color:** What shades of blue and other colors are present? Is it a solid color, or does it have layers or gradients?* **Clarity:** Is it clear, cloudy, or hazy?* **Texture:** Is it smooth, bubbly, or does it have any garnishes?* **Overall Impression:** How would you describe the visual appeal of the cocktail? Is it vibrant and playful, or sophisticated and elegant?**Example Response:** The Grand Blue is a vibrant, layered masterpiece. The bottom layer is a rich, golden amber hue from the Malibu Rum and Peach Schnapps, topped with a bright, electric blue layer from the Blue Curacao. The Sweet & Sour, while contributing to the flavor, doesn't significantly alter the color palette. The cocktail is clear and refreshing, with a gentle effervescence that dances in the glass.  The Grand Blue is a captivating drink, offering a visual feast before even taking the first sip. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

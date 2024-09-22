@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "sour"
 visual: "## LLM Prompt:Imagine a tall, **clear glass** filled with **crushed ice**.  The ice is **partially obscured** by a vibrant **green** liquid, the color of a **freshly cut lime**.  This liquid is **slightly cloudy** from the **sugar** that has been **dissolved** within. **Floating** on top are **thin slices of lime**, their **pale green** contrasting beautifully with the **deep green** of the drink.  A **single sprig of mint**, delicately placed on the edge of the glass, **adds a touch of freshness** to the scene.  The **aroma** is a **tangy mix of lime and rum**, hinting at the **deliciously refreshing** drink that awaits. **Please describe this image in a detailed and evocative way, focusing on the colors, textures, and overall aesthetic.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

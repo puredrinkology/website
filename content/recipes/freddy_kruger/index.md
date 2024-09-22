@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: ""
 visual: "## Freddy Kruger Cocktail: LLM Prompt**Please describe the appearance of a cocktail called Freddy Kruger made with Jägermeister, Sambuca, and Vodka. **Consider the following:*** **Color:** What is the dominant color? Are there layers, gradients, or a swirl of colors?* **Clarity:** Is the cocktail clear, cloudy, or opaque?* **Texture:**  Is it smooth, syrupy, or icy?* **Garnish:** Are there any garnishes, and if so, what are they?* **Glassware:** What type of glass is it served in?**The goal is to create a vivid description of the cocktail's visual appeal, capturing its essence and potential symbolism related to the name Freddy Kruger.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

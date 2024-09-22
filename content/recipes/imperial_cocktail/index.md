@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "sour"
 visual: "## LLM Prompt:**Describe the appearance of an Imperial Cocktail, taking into consideration the following ingredients:*** **Lime Juice:**  Consider the pale, slightly cloudy hue and the potential for a thin rim of foam. * **Gin:**  Consider the clear, colorless nature of most gins, noting any potential for a slight shimmer. * **Aperol:**  Focus on the vibrant orange hue and the slight opacity, almost like a light marmalade. **In your description, consider:*** **The color of the drink:** Is it a single, uniform hue, or do layers of color emerge? * **The texture:** Is it clear and smooth, or does it have a slight haze or a touch of foam? * **The overall impression:**  Is the drink elegant and refined, or vibrant and playful? **Please write your description in a way that is both informative and evocative.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

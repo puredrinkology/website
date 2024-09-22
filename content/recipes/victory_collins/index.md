@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "highball"
 visual: "##  LLM Prompt: **Describe the visual appearance of a Victory Collins cocktail. Consider these ingredients:*** **Vodka:** Clear, colorless spirit.* **Lemon Juice:**  Pale yellow, slightly cloudy liquid. * **Grape Juice:**  Deep purple or reddish-purple, depending on the grape variety.* **Powdered Sugar:** White, fine powder.* **Orange:** Orange rind for garnish, with its vibrant orange hue.**Focus on:*** **Color:** What is the overall color of the cocktail? Does it have a layered appearance? * **Clarity:** Is the drink clear or cloudy?* **Texture:** Is it smooth or does it have any visible particulates?* **Garnish:** How does the orange rind enhance the visual appeal?**Example:**Imagine a tall, elegant Collins glass filled with a vibrant, deep purple liquid. The color resembles a rich, dark grape juice, but there is a subtle hint of lightness to it. The drink is clear, with a hint of fine, white particulates from the powdered sugar suspended in it. A thin slice of orange rind, with its bright orange hue, is perched on the rim of the glass, adding a touch of citrusy freshness to the overall presentation. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

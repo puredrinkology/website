@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "martini"
 visual: "## LLM Prompt for Corpse Reviver Appearance:Imagine a **Corpse Reviver No. 2** resting in a chilled coupe glass. Describe its visual appeal:**Focus on:*** **Color:** What is the overall hue? Is it pale, vibrant, or somewhere in between?  * **Clarity:** Is the drink crystal clear, slightly hazy, or does it have any sediment?* **Texture:** Does it appear smooth, silky, or have any visible layers? * **Garnish:**  Describe the chosen garnish and its positioning in the glass. How does it complement the drink's visual appeal?* **Overall Impression:** Does it appear sophisticated, refreshing, or intriguing?  What emotion does it evoke in you?**Remember:*** Use vivid language to describe the visual characteristics.* Avoid mentioning specific measurements or ingredients.  Focus solely on the visual experience. * Consider the light conditions and how they influence the appearance.**Example:**The Corpse Reviver No. 2 glimmers in the soft light, a pale, ethereal yellow reminiscent of a moonlit sky. Its surface is perfectly smooth, unbroken by any visible layers or ice. A delicate twist of lemon zest, kissed with a touch of absinthe, rests elegantly on the rim of the coupe, a vibrant green contrast against the golden hue of the drink. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

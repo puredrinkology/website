@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "sour"
 visual: "## LLM Prompt for Describing the Van Vleet Cocktail:**Imagine a glass filled with a captivating blend of amber and sunshine. The **Van Vleet**, a vibrant cocktail, invites you to explore its depths.  **Describe the visual elements of this cocktail, focusing on the following aspects:*** **Color:** What shades of amber, gold, and citrus are present?  Is the color clear or slightly cloudy? * **Texture:** Does the cocktail have a smooth, silky surface or a bubbly, frothy top?* **Garnish:** Imagine a simple, yet elegant garnish that complements the cocktail's flavors.  What might it be and how does it enhance the visual appeal?* **Glassware:**  Which type of glass would best showcase the beauty of this cocktail? (e.g., a coupe, martini glass, rocks glass)**Remember to use vivid language that paints a picture in the reader's mind.  Let your words evoke the visual experience of this delightful cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

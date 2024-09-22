@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "sour"
 visual: "## LLM Prompt: Imagine a **Yellow Bird** cocktail, a vibrant, summery concoction. Describe its appearance in detail, focusing on:* **Color:**  What shade of yellow is it? Does it lean towards gold, or is it more of a pale, lemony yellow? * **Clarity:** Is it crystal clear, or does it have a slight cloudiness? * **Texture:**  How does the drink look in the glass? Is it smooth and still, or does it have a frothy head?* **Garnish:**  How does the garnish enhance the visual appeal? Is it a lime wedge, a lime wheel, or something more elaborate?* **Overall Impression:** How would you describe the overall look of the Yellow Bird? Is it elegant, playful, refreshing, or something else entirely? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

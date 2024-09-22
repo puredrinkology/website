@@ -27,6 +27,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "highball"
 visual: "## LLM Prompt:**Imagine a tall, frosted glass filled with a pale, shimmering liquid. Describe the Gin Sling's appearance, paying attention to:*** **Color:**  Is the liquid clear, slightly cloudy, or tinged with a subtle yellow hue? * **Texture:** Does the drink appear light and refreshing, or thick and syrupy? * **Garnish:**  The orange peel adds a vibrant splash of color. Describe its shape and how it rests on the rim of the glass. * **Overall Impression:** What feeling does the drink evoke? Is it sophisticated, refreshing, or invitingly classic? **Bonus:** Include details like condensation on the glass and any subtle bubbles rising from the depths. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

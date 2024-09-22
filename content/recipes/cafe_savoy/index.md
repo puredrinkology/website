@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "brandy"
 family: ""
 visual: "## LLM Prompt:Describe the appearance of a Cafe Savoy cocktail, crafted with coffee, milk, Triple Sec, and brandy. Imagine you are holding a glass of this cocktail. What are the colors, textures, and layers you see? How does the light play off the surface? Consider the following elements in your description:* **Color:**  Is it a rich, dark brown? Does the milk create a layer of creaminess?  Are there any hints of orange from the Triple Sec?* **Texture:** Is it smooth and velvety? Does the coffee create a frothy layer on top? Are there any visible traces of ice?* **Layers:** Are there distinct layers, or does it blend seamlessly? * **Light:** Does the light reflect off the surface, creating a warm glow? * **Overall Impression:** What feeling does the appearance of the cocktail evoke? Warm, inviting, decadent? Please be descriptive and use vivid imagery in your response. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

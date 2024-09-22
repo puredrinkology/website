@@ -23,6 +23,6 @@ has_alcohol: false
 base_spirit:
 family: "margarita"
 visual: ""
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

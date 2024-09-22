@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "sour"
 visual: "## LLM Prompt for Describing the Ace Cocktail:**Imagine a cocktail called Ace made with Gin, Grenadine, Heavy Cream, Milk, and Egg White. Describe its appearance in detail, focusing on its color, texture, and any visual elements that stand out.****Consider these questions:*** What is the overall color of the cocktail? Is it a single color, or does it have layers?* What is the texture like? Is it creamy, frothy, or have any distinct layers?* Are there any visual elements that stand out, such as a garnish, foam, or swirls?* How does the light interact with the cocktail? Does it reflect or refract in any interesting ways?**Example Output:**The Ace presents a captivating sight. Its base is a vibrant, almost-fluorescent pink, courtesy of the grenadine. A thick layer of velvety white foam, created by the egg white, sits atop this vibrant base.  The light dances on the surface, casting shimmering reflections that evoke a sense of playful whimsy.  A delicate garnish of a cherry perched on the edge adds a touch of classic elegance, rounding out the visual experience. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

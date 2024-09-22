@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "brandy"
 family: "other"
 visual: "## LLM Prompt:**Describe the appearance of a Scooter cocktail, made with Brandy, Amaretto, and Light Cream. Consider the following:*** **Color:** Is it a vibrant, rich color? Does it have any layers or gradients? * **Texture:** Is it creamy and smooth? Does it have any foam or froth?* **Clarity:** Is it clear, cloudy, or opaque?* **Presentation:**  How might the cocktail be garnished? What kind of glassware would it be served in?* **Overall impression:** What would be the first thing that comes to mind when you see this cocktail?**Example:** The Scooter is a stunning cocktail. Its creamy, light brown hue is reminiscent of caramel, with a delicate layer of froth on top. The glass is rimmed with a sprinkle of cinnamon, adding a touch of warmth and spice. It is served in a chilled coupe glass, showcasing the intricate layering of the ingredients. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

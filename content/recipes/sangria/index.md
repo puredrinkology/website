@@ -28,6 +28,6 @@ has_alcohol: true
 base_spirit: "wine"
 family: "punch"
 visual: "## LLM Prompt:**Describe the appearance of a traditional Sangria, focusing on the following aspects:*** **Color:** What is the overall color of the Sangria? Is it a deep red, a lighter ruby, or something in between? Are there any variations in color depending on the specific ingredients used?* **Clarity:** Is the Sangria clear or cloudy? Are there any particles or sediment visible?* **Texture:** Is the Sangria thick or thin? Does it have a syrupy consistency, or is it more watery?* **Garnish:**  What kind of garnish is typically used for Sangria? How does it visually enhance the drink?* **Overall Impression:** What is the overall visual impression of the Sangria? Is it inviting and festive, or more simple and understated? **Bonus:*** Include any specific details that might be visually interesting, such as the presence of fruit slices, the color of the cloves and cinnamon sticks, or the way the light interacts with the drink.**Remember:**  The description should be vivid and evocative, making the reader feel like they can almost taste the Sangria. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

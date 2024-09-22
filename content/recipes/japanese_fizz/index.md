@@ -27,6 +27,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: "fizz"
 visual: "## LLM Prompt: Describe the appearance of a Japanese Fizz cocktail, considering its ingredients: Blended Whiskey, Lemon, Powdered Sugar, Port, Egg White, and Carbonated Water.  **Focus on:*** **Color:** What shades of color are present? Is it clear, cloudy, layered, or gradient?* **Texture:** Is it smooth, bubbly, frothy, or layered with distinct textures?* **Garnish:**  What garnish would typically be used, and how does it impact the visual appeal?* **Overall Impression:**  Describe the overall visual appeal of the cocktail. Does it look refreshing, classic, elegant, or complex? **Bonus:** * Mention how the cocktail might appear when freshly made, compared to a few minutes later as the carbonation dissipates. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

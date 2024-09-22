@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "other"
 visual: "## LLM Prompt: Imagine a **Quarter Deck Cocktail** – a vibrant and refreshing drink that conjures images of the open sea. Describe its appearance, focusing on the following:**Color:**  The cocktail is a beautiful blend of golden hues, with the light rum and sherry creating a base of warm amber.  The lime juice adds a touch of brightness and vibrancy, creating a shimmering effect. **Texture:** The cocktail is chilled and refreshing, with a slight effervescence from the ice. It has a smooth and silky texture, with a delicate balance between the sweetness of the rum and sherry and the tartness of the lime.**Garnish:**  The cocktail is garnished with a simple lime wedge, which adds a touch of citrusy fragrance and brightens the overall presentation. The lime wedge rests elegantly on the rim of the glass, its green color contrasting beautifully with the amber liquid.**Glassware:** The Quarter Deck Cocktail is served in a classic cocktail glass, its tall, slender shape allowing the beautiful golden hue to shine through. **Overall Impression:** Describe the overall aesthetic of the Quarter Deck Cocktail. Is it elegant, refreshing, invigorating, or a combination of these? What does the overall presentation evoke? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

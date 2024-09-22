@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "tequila"
 family: "sour"
 visual: "## LLM Prompt:Imagine a **Tequila Sour** in a **chilled coupe glass**.  Describe the **color** of the cocktail, taking into account the **transparency of the tequila**, the **light yellow hue of the lemon juice**, and the **subtle white haze from the powdered sugar**.  Mention any **visible layers** or **gradients** in the drink, and describe the **texture** of the foam created by shaking the cocktail.  Finally, describe the **appearance** of the **cherry** resting on the rim of the glass.  **For example:**The Tequila Sour is a beautiful **pale yellow** cocktail, almost **translucent** with a subtle **white haze** clinging to the edges. A **thin layer of frothy foam** crowns the drink, adding a touch of **creaminess** to its appearance.  A **bright red cherry** rests elegantly on the rim of the glass, adding a splash of color and a touch of **sweetness** to the visual appeal. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

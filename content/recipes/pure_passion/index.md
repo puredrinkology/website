@@ -26,6 +26,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "sour"
 visual: "## LLM Prompt:**Imagine a cocktail called Pure Passion. It's a vibrant, tropical concoction made with rum, Passoa, lime juice, passion fruit syrup, peach bitters, and mint. Describe the visual experience of this cocktail, focusing on the colors, texture, and garnishes that might be used.** **Here are some things to consider:*** **Color:** What shades and hues dominate the drink? How does the color change with different lighting?* **Texture:** Is it a smooth, clear liquid or is it cloudy and layered? What about the presence of ice or any other texture elements?* **Garnishes:** What kind of garnish would best complement the flavors and visual appeal of this cocktail? Consider fresh fruit, herbs, or edible flowers. **Use vivid language to create a picture in your mind and describe it in detail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

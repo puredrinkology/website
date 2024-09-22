@@ -25,6 +25,6 @@ has_alcohol: false
 base_spirit:
 family: ""
 visual: "## LLM Prompt:**Describe the appearance of a Lassi - Sweet cocktail. Imagine a glass filled with this drink. What are the colors, textures, and overall visual impression?** **Consider these ingredients:*** **Yoghurt:** Creamy, white, possibly with slight variations in shade depending on the type of yoghurt used.* **Water:** Transparent, clear, contributing to the overall fluidity of the drink.* **Sugar:** Dissolves in the drink, adding a subtle sweetness but not changing the visual appearance significantly. * **Salt:** A minimal amount, invisible to the naked eye.* **Lemon Juice:** Adds a slight yellowish hue and may create a thin layer of foam on top. **Focus on:*** The overall color and its intensity.* The consistency of the drink – is it thick, smooth, or watery? * Are there any layers or separation visible in the glass? * Does the drink have any shine or sparkle?* Is there any foam or froth present? **Write your description in a descriptive and evocative way.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

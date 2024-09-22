@@ -28,6 +28,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "sour"
 visual: "## LLM Prompt for Avalon Cocktail Description:Imagine a tall, elegant glass filled with a beautiful, layered cocktail. The bottom layer is a vibrant, golden yellow, reminiscent of ripe bananas, thanks to the **Pisang Ambon**.  This layer is topped with a sparkling, clear **vodka** layer, shimmering in the light. The **apple juice** creates a soft, hazy layer in the middle, tinged with a delicate green hue.  Finally, the **lemonade** and **lemon juice** combine to form a crisp, bright yellow layer on top, giving the whole drink a fresh and citrusy character. The overall effect is a breathtakingly layered cocktail, reminiscent of a tropical sunset. **Bonus:**  Incorporate details about the presentation, such as a small, elegant garnish of a lemon twist or a sprig of mint. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

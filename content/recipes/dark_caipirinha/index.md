@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "sour"
 visual: "## LLM Prompt:Imagine a **Dark Caipirinha** in a chilled rocks glass. Describe its appearance in detail, focusing on the following aspects:* **Color:** The cocktail is a rich, deep amber color, almost like dark honey.* **Texture:** The drink is slightly viscous due to the Demerara sugar, with visible sugar crystals clinging to the sides of the glass.* **Garnish:** A lime wedge sits on the rim of the glass, with a few lime peels floating in the drink.* **Ice:** Large, clear ice cubes clink softly against the glass, slightly diluting the drink's color and creating a swirling effect as the liquid is stirred.* **Overall Impression:** What feeling does the drink evoke? Is it inviting, powerful, comforting, or sophisticated?Please provide a vivid and evocative description of the Dark Caipirinha's appearance, capturing its essence in words. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

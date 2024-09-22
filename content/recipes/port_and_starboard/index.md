@@ -19,6 +19,6 @@ has_alcohol: true
 base_spirit:
 family: "other"
 visual: "## LLM Prompt for Describing Port and Starboard Cocktail:Imagine a tall glass filled with a vibrant, layered concoction.  The top layer is a striking **emerald green**, reminiscent of a calm, tropical sea, thanks to the **Green Creme de Menthe**. Below that, a **ruby red** layer of **Grenadine** shimmers, resembling a sun-drenched sunset over the ocean.  The two layers are separated by a thin, **almost translucent** line, creating a distinct, captivating visual.  As you peer into the glass, the colors dance and swirl slightly, adding an element of movement and intrigue.  Describe this visual experience in detail, highlighting the colors, textures, and overall impression of the Port and Starboard cocktail. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

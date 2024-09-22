@@ -26,6 +26,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "highball"
 visual: "## LLM Prompt for Describing Shark Attack Cocktail:**Please describe the appearance of a Shark Attack cocktail, a refreshing summer drink made with lemonade, water, and vodka. Consider the following:*** **Color:** What is the overall color of the drink? Is it a bright, vibrant hue, or a more subtle shade? * **Clarity:** Is the drink clear or cloudy? Are there any visible ingredients or layers?* **Texture:** Is the drink smooth, bubbly, or icy? * **Garnish:** What type of garnish might be used to enhance the visual appeal? **Bonus points:*** Describe the drink's appearance using evocative language and vivid imagery.* Compare its appearance to other familiar objects or natural elements.**Example:**The Shark Attack cocktail is a vibrant, sunny yellow, like a day at the beach. The lemonade and water create a clear, refreshing base, while the vodka adds a subtle, icy chill.  A lemon wedge perched on the rim of the glass adds a touch of citrusy brightness, like a ray of sunshine cutting through the waves. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -27,6 +27,6 @@ has_alcohol: false
 base_spirit:
 family: ""
 visual: "## LLM Prompt:Imagine a refreshing glass of **Lassi**, a beloved South Indian beverage. Describe its appearance, focusing on the following aspects:* **Color:** What shade is the Lassi? Does it vary depending on the amount of yogurt or mint used?* **Texture:** Is it thick and creamy, or thinner and more watery? Are there any visible ingredients like seeds or pieces of mint?* **Garnish:** What, if anything, is used to garnish the Lassi? Does it have a traditional look or a modern twist?* **Glassware:**  What type of glass would you typically serve Lassi in? Does it enhance the visual appeal of the drink?* **Overall impression:** What is the overall feeling you get when you look at a glass of Lassi? Is it inviting, refreshing, or comforting? **Bonus:** Describe any variations in appearance based on different ingredients or preparation methods. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "sour"
 visual: "##  LLM Prompt:Imagine a tall, frosted glass filled with ice. The liquid within is crystal clear, reflecting the light in a mesmerizing way. It's a beautiful pale yellow, reminiscent of sunshine. Tiny bubbles dance on the surface, creating a gentle effervescence. A thin sliver of lemon peel, curled delicately, sits perched on the edge of the glass, releasing a subtle citrus aroma.  **Describe the appearance of this cocktail in detail, focusing on: *** **The color and clarity of the liquid*** **The texture and movement of the ice*** **The shape and size of the glass*** **The garnish and its effect on the overall appearance****Consider using sensory words to evoke a vivid image of this refreshing cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

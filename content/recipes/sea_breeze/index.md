@@ -21,6 +21,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "highball"
 visual: "## LLM Prompt:**Describe the appearance of a Sea Breeze cocktail.  Focus on the following aspects:*** **Color:** What is the dominant color of the cocktail? Are there any subtle shades or variations within the color? * **Transparency:** Is the cocktail clear, translucent, or opaque? How much can you see through the drink?* **Texture:** Does the drink appear smooth, bubbly, or layered?  Are there any visible ingredients or garnishes? * **Overall impression:** What is the overall aesthetic of the cocktail? Does it look refreshing, elegant, or casual? **Example:**Imagine a tall, chilled glass filled with a vibrant, ruby-red liquid. The color is slightly translucent, hinting at the light pink hue of the grapefruit juice beneath. The surface is smooth and still, perhaps adorned with a single, bright-green lime wedge.  The overall impression is one of refreshing elegance, perfect for a warm summer evening. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

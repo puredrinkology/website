@@ -27,6 +27,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "other"
 visual: "## LLM Prompt:Imagine a cocktail called Coffee Liqueur made with coffee, vanilla extract, sugar, vodka, and water. Describe its appearance in detail, considering the following:* **Color:**  What is the overall hue of the cocktail? Is it a deep, rich brown? Does it have a hint of amber or caramel?* **Clarity:** Is the cocktail clear, or does it have a slight haze or cloudiness? * **Texture:** Is the cocktail smooth and silky, or does it have any visible particles or sediment?* **Garnish:** Is there a garnish, and if so, what does it look like and how does it complement the overall visual appeal?Remember to use vivid language and evocative imagery to paint a picture of the Coffee Liqueur in your mind.  "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

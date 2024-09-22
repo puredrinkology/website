@@ -21,6 +21,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: ""
 visual: "##  LLM Prompt:**Describe the visual appearance of a cocktail called Grim Reaper using the following ingredients:*** **Kahlua:** A dark coffee liqueur, rich and syrupy, with a deep brown color.* **151 Proof Rum:** A high-proof rum, clear and potent, with a slightly oily texture.* **Grenadine:** A sweet and tart pomegranate syrup, with a vibrant red color.**The cocktail should be layered, showcasing each ingredient's distinct color and texture. Consider the following:*** **How would the layers separate?*** **Would there be any mixing at the edges?*** **What would the overall color profile be?*** **How would the lighting affect the appearance?****Remember to use vivid language and imagery to create a memorable and descriptive representation of this unique cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

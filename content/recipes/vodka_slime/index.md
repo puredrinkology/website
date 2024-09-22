@@ -21,6 +21,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "highball"
 visual: "## LLM Prompt: Describe the appearance of Vodka SlimeImagine a tall, frosted glass filled with a luminous green liquid. The drink is topped with a delicate layer of white foam, creating a distinct contrast with the vibrant green underneath. Tiny bubbles rise from the depths of the glass, creating a playful, effervescent effect. The lime juice adds a subtle, almost imperceptible, haze to the otherwise crystal clear liquid. The overall appearance is reminiscent of a whimsical, luminous green slime, hence the name Vodka Slime.  Focus on the details of the color, texture, and the contrast between the foam and the liquid to accurately portray the visual appeal of this cocktail. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

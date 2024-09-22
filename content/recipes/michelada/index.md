@@ -27,6 +27,6 @@ has_alcohol: true
 base_spirit:
 family: "highball"
 visual: "##  LLM Prompt:**Describe the appearance of a Michelada cocktail, focusing on the following aspects:*** **Color:** What is the overall color of the drink? Does it have any distinct layers?* **Clarity:** Is it clear, cloudy, or opaque? * **Texture:** Is it smooth, frothy, or chunky?* **Garnish:** What are the typical garnishes used in a Michelada? How do they affect the overall appearance? * **Glassware:** What type of glassware is it typically served in? How does the glass shape influence the presentation? **Example:** Imagine a tall, frosty glass filled with a vibrant, reddish-orange liquid, a bit like a sunrise in a glass. The drink has a slightly cloudy appearance, hinting at the presence of spices and sauces. A delicate froth sits atop the surface, punctuated by a bright green lime wedge and a pinch of chili flakes.  The frosted glass further enhances the refreshing look of this beloved Mexican cocktail. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

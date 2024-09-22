@@ -27,6 +27,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: "sour"
 visual: "## LLM Prompt: Describe the visual appeal of a Frisco Sour cocktail. Imagine a **Frisco Sour** resting in a chilled coupe glass. The cocktail is a **rich, amber hue**, with **hints of gold swirling within**. The **foam** on top is a **creamy white**, almost like a fluffy cloud, and **gently dissipates** as the drink sits. **Tiny, delicate bubbles** rise slowly through the liquid, adding a touch of movement to the composition.The **rim of the glass** is **lightly dusted with sugar**, providing a **delicate sparkle** and adding another layer of texture. A **thin slice of lemon** or a **small sprig of mint** might be used as a garnish, offering a **dash of vibrant green** against the warm amber of the drink.Overall, the Frisco Sour presents a **visually appealing contrast** of **warm colors and creamy textures**, creating a **sophisticated and inviting appearance**. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

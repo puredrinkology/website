@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "punch"
 visual: "## LLM Prompt: Describe the Rum Runner CocktailImagine a tall glass filled with a vibrant blend of colors. The base is a **deep, ruby red** from the cranberry juice, punctuated by bright orange hues from the **orange juice**, all layered with a **golden shimmer** from the pineapple juice.  Floating atop this delicious panorama is a **smooth, milky layer** of Malibu Rum, hinting at the sweet coconut notes that lie within.  A splash of **deep purple** from the blackberry brandy adds a hint of mystery, weaving through the other colors like a beautiful, swirling ribbon. The cocktail is garnished with a **bright orange slice** and a **fresh sprig of mint**,  adding a final touch of freshness and elegance. **Describe this scene in vivid detail.  Focus on the colors, textures, and overall appearance of the cocktail.  What adjectives would you use to describe its beauty and appeal?** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

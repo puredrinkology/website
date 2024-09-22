@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "other"
 visual: "## LLM Prompt: Describe the Appearance of a Godchild CocktailImagine a **Godchild cocktail** made with **Vodka, Amaretto, and Heavy Cream**.  Focus on the following aspects to create a vivid description:* **Color:** Is it a milky white, off-white, or has a slight hint of amber from the Amaretto?* **Texture:** Does it have a smooth, velvety surface, or does the cream create a slightly thicker, more layered texture? * **Presentation:** Is it served in a classic martini glass, a rocks glass, or something else? Are there any garnishes, such as a dusting of cocoa powder, a cherry, or a sprinkle of cinnamon? * **Overall Impression:** Does it evoke a sense of decadence, sweetness, or both? Is it a visually appealing and tempting drink? Please provide a **detailed and evocative** description of the Godchild cocktail's appearance, taking into account these aspects. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

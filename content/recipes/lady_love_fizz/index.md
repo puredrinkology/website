@@ -27,6 +27,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "fizz"
 visual: "## LLM Prompt:**Describe the appearance of a Lady Love Fizz cocktail. Consider its layers, color, texture, and any embellishments.****Cocktail Ingredients:*** Gin* Light Cream* Powdered Sugar* Lemon* Egg White* Carbonated Water**Possible Keywords:*** **Layers:** Distinct layers, gradient, hazy, cloudy, frothy* **Color:** Pale yellow, creamy white, translucent, shimmering* **Texture:** Smooth, silky, foamy, bubbly, airy* **Embellishments:** Lemon twist, sugar rim, edible flower, fruit garnish **Example Output:**The Lady Love Fizz is a beautiful cocktail, boasting a delicate layering of colors and textures. A pale yellow base of gin and lemon juice is topped with a frothy white layer of egg white, creating a hazy, shimmering effect. The light cream adds a smooth, milky quality, while the powdered sugar contributes to a subtle sweetness and an airy texture. A lemon twist, expertly curled and perched on the rim, adds a touch of elegance and a burst of citrus aroma. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: "ancestral"
 visual: "##  LLM Prompt:Imagine a **Flying Scotchman**, a classic cocktail with a rich history. Describe its appearance in detail, focusing on:* **Color:** What shades of brown, amber, or red does the drink exhibit? Is it translucent, or does it have a depth of color?* **Texture:** Is it clear and smooth, or does it have a slight haze or even a layer of ice?* **Garnish:**  What kind of garnish is typically used, and how does it add to the visual appeal? (e.g., lemon twist, cherry, orange peel)* **Glassware:** What type of glass is the cocktail served in? Does it enhance the visual appeal of the drink?Remember to focus on the *overall impression* the drink gives. Does it appear sophisticated and elegant, or bold and robust? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

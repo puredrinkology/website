@@ -28,6 +28,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "sour"
 visual: "## LLM Prompt:Imagine a **Rum Old-Fashioned**, crafted with a masterful hand. Describe its appearance:* **The glass:** It rests in a chilled, **old-fashioned glass**, its wide mouth allowing for ample surface area. * **The color:**  The drink is a **deep amber hue**, reminiscent of aged rum and tinged with the subtle sweetness of the sugar. * **The texture:** The **large ice cube** is visibly melting, its coolness reflected in the slight condensation clinging to the glass. * **The garnish:**  A **thin strip of lime peel** is delicately twisted over the drink, releasing its citrus fragrance, and rests gracefully on the rim.* **The details:**  The **tiny, swirling bits of powdered sugar** are barely discernible at the bottom of the glass, blending with the rum's color.  A faint **trail of bitters** dances on the surface, adding a touch of mystique to the drink. **What is the overall impression this cocktail evokes?** Is it a refreshing, lively concoction? Or does it possess a more sophisticated, contemplative aura? Describe the visual appeal of the Rum Old-fashioned and the emotions it might evoke. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

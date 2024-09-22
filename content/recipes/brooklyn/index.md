@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "rye"
 family: "spirit-forward"
 visual: ""
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

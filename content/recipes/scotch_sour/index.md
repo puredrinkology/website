@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: "sour"
 visual: "## LLM Prompt:**Describe the visual appearance of a Scotch Sour cocktail. Imagine you are holding a chilled glass filled with this drink. What do you see? Focus on the following:*** **Color:** Is it a vibrant, bright color? Or more muted and subtle? * **Clarity:** Is it completely clear, or does it have any cloudiness or haze? * **Texture:** Is it smooth and velvety, or does it have any foam or froth on top?* **Garnish:** What is the garnish on the rim of the glass? How does it look in relation to the rest of the drink? * **Overall Impression:** What is the overall feeling you get from looking at the drink? Is it elegant, refreshing, or something else?**Consider using specific sensory details and metaphors to bring your description to life.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

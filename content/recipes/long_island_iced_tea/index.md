@@ -27,6 +27,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "highball"
 visual: "## LLM Prompt:Imagine a tall, clear glass filled with a dark, amber liquid. The liquid is effervescent, with tiny bubbles rising to the surface. The top of the drink is adorned with a thin slice of lemon peel, its yellow rind contrasting beautifully with the dark depths of the cocktail. Describe the drink's appearance in detail, paying attention to the color, texture, and any other visual elements that make it enticing. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "martini"
 visual: "## LLM Prompt: Describe the visual appeal of a classic Martini.**Context:**  Imagine a perfectly crafted Martini, made with high-quality gin and dry vermouth, served in a chilled martini glass. **Describe the following elements:*** **Glass:** What kind of glass is it? What is its shape and size?  How does the glass enhance the visual appeal?* **Liquid:** What is the color of the gin and vermouth mixture? Is it clear, slightly cloudy, or has a tinge of color?  How does the light interact with the liquid?* **Garnish:** Describe the olive.  What kind of olive is it? How is it presented? What is its size and color? * **Overall Impression:**  What is the overall visual appeal of the Martini?  Does it evoke elegance, simplicity, sophistication, or something else? **Remember:**  Focus on using descriptive language to convey the visual experience of this classic cocktail.  Use words that evoke senses of touch, sight, and even smell.  Don't forget to include details about the liquid's clarity, the glass's chill, and the olive's presence. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

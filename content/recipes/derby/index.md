@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "highball"
 visual: "##  LLM Prompt:**Imagine a classic cocktail named Derby, crafted with Gin, Peach Bitters, and Mint. Describe its appearance in detail, focusing on the following aspects:*** **Color:** What hue does the cocktail display? Is it clear, cloudy, or layered? Does it have any shimmering or iridescence?* **Texture:** Is the drink viscous, thin, or icy? Are there any visible bubbles or foam?* **Garnish:** What kind of mint sprig or other garnish is used? How is it arranged?* **Glassware:** What type of glass is used? How does the shape of the glass contribute to the overall visual appeal?* **Lighting:** How does the drink appear under different lighting conditions? Does the color change depending on the light source?**Example:**  The Derby, a refreshing cocktail made with gin, peach bitters, and mint, presents a vibrant emerald green hue. The drink is clear and shimmering, with delicate bubbles rising from the bottom. A single, elegant sprig of mint is nestled against the rim of a chilled coupe glass, its leaves creating a verdant halo around the liquid. The glass, with its wide bowl and sloping sides, highlights the drink's alluring color, which appears more intensely green in the light. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

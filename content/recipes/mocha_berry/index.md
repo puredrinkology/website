@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit:
 family: ""
 visual: "## LLM Prompt:Describe the appearance of a Mocha-Berry cocktail. This drink is made with coffee, Chambord Raspberry Liqueur, cocoa powder, and topped with whipped cream. Be sure to mention the color, texture, and any specific details like garnishes or layering. **Bonus:**  Can you also describe the olfactory experience of this cocktail, focusing on the dominant scents? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

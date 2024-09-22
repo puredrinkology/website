@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit:
 family: "highball"
 visual: "## LLM Prompt for Describing Campari Beer:**Imagine a tall, chilled glass filled with a golden, effervescent lager.  The beer is topped with a vibrant, crimson-red layer of Campari, creating a striking two-toned effect. The Campari floats on top, its distinctive bright red color contrasting beautifully with the lighter beer underneath.  Tiny bubbles rise from the bottom of the glass, gently pushing the Campari layer upward, creating a mesmerizing visual effect.  What else do you see in this glass?** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: "spirit-forward"
 visual: "## LLM Prompt:**Describe the visual appeal of a Dry Rob Roy cocktail. Be specific about the colors, textures, and any garnishes used.****Context:** The Dry Rob Roy is a classic cocktail made with Scotch whisky, dry vermouth, and a lemon peel garnish. It is typically served in a chilled coupe or martini glass. **Desired Output:** A detailed and evocative description of the Dry Rob Roy's appearance, focusing on its visual characteristics. The response should capture the elegance and sophistication of this classic cocktail. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

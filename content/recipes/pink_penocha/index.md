@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "punch"
 visual: "## LLM Prompt:Imagine a cocktail called Pink Penocha that's made with a base of Everclear, Vodka, and Peach Schnapps, then topped with Orange Juice and Cranberry Juice. **Describe the visual appearance of this cocktail, focusing on the following:*** **Color:** What is the overall color of the cocktail? Is it a vibrant pink, a muted blush, or something else entirely?* **Texture:** Is it clear and smooth, or cloudy and slightly viscous? Is there any layering or separation visible?* **Garnish:**  What type of garnish would best complement this cocktail's color and flavors? * **Glass:** Would it be best served in a tall glass, a coupe, or something else?**Remember to be descriptive and evocative in your language, painting a picture with your words.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -33,6 +33,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "highball"
 visual: "## LLM Prompt: Describe the appearance of a **Mango Mojito**, taking into consideration the following ingredients:* **Lime:**  A thin wedge or wheel of lime, ideally with a bit of green rind still attached, resting on the rim of the glass. * **Mango:**  Chunks of fresh, ripe mango, suspended within the drink, adding a vibrant orange-yellow hue. * **Mint:**  Fresh sprigs of mint, either muddled or floating, contributing a refreshing green element. * **White Rum:**  Adding a clear, slightly hazy quality to the drink.* **Ice:**  Crushed ice, creating a frosty, translucent backdrop for the other ingredients.* **Soda Water:**  Bubbling up through the drink, bringing a slightly cloudy, effervescent texture. **Focus on the following aspects:*** **Color:**  Describe the overall color of the cocktail, considering the interplay of mango, lime, and mint.* **Texture:**  Mention the presence of ice, fruit chunks, and the bubbly soda water, creating a visually appealing texture. * **Garnish:**  Detail the lime wedge and mint sprigs, adding finishing touches to the presentation. **Write your description in a way that evokes the refreshing, tropical ambiance of the Mango Mojito.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

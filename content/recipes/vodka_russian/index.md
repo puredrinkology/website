@@ -18,6 +18,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "highball"
 visual: "## LLM Prompt for Vodka Russian Cocktail Description**Prompt:** Imagine a classic cocktail glass filled to the brim with a crystal-clear spirit.  The liquid is subtly shimmering with a faint, pale yellow hue, reminiscent of a summer sunset.  Tiny bubbles dance playfully on the surface, their delicate fizz adding a touch of effervescence.  **Please describe the appearance of this Vodka Russian cocktail in detail, emphasizing the following:*** **Clarity and color:**  How clear is the vodka?  Is there any hint of color, and if so, what shade and intensity? * **Bubbliness:**  Describe the size, quantity, and movement of the bubbles.  Do they create a gentle shimmer or a more vigorous fizz?* **Overall Impression:**  How does the appearance of the cocktail make you feel?  Does it evoke any particular emotions or sensations? **Bonus:**  If you're feeling creative, you can also include details about the glass itself, such as its shape and material. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

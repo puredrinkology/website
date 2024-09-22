@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "other"
 visual: "## LLM Prompt:**Describe the appearance of a Pink Lady cocktail.****Consider these details:*** **Color:**  A delicate pink hue, with possible variations depending on the amount of grenadine used.* **Clarity:**  Should be clear and translucent, with no cloudiness or sediment.* **Texture:**  Smooth and silky, with no visible chunks or ice particles.* **Garnish:**  Often garnished with a maraschino cherry or a lemon twist.* **Glassware:**  Typically served in a chilled coupe or martini glass.* **Overall Impression:**  A vibrant and inviting drink, with a sophisticated and elegant appearance. **Example Output:**The Pink Lady shimmers a delicate shade of rose in the chilled coupe glass. Its clarity is flawless, revealing the smooth, silken texture beneath. A bright red maraschino cherry rests gracefully on the rim, adding a pop of color to the elegant presentation.  The overall effect is a captivating blend of sophistication and playful charm. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

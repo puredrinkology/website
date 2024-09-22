@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "martini"
 visual: "## LLM Prompt: Imagine a classic cocktail, Artillery, crafted with a blend of sweet vermouth, gin, and bitters. Describe the drink's appearance, focusing on:* **Color:** What shades and hues dominate the drink? Is it transparent, opaque, or somewhere in between? * **Clarity:** Is the drink crystal clear, slightly hazy, or cloudy? * **Texture:** Is the drink smooth and silky, or does it have any noticeable texture?* **Garnish:** What, if any, garnishes are used to enhance the visual appeal of the cocktail? * **Overall impression:** What impression does the appearance of the drink give? Does it seem sophisticated, refreshing, or perhaps even mysterious? Please provide a detailed description of the Artillery cocktail's visual attributes, drawing on your understanding of its ingredients and potential garnishes. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

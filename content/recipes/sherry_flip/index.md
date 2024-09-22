@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit:
 family: "other"
 visual: "## LLM Prompt:Describe the visual appearance of a Sherry Flip cocktail.  Consider the following ingredients and their impact on the final drink:* **Sherry:**  What color is the sherry? Is it clear, amber, or something else? How does the sherry's color affect the overall drink?* **Light Cream:** How does the light cream change the appearance of the drink? Does it create a layered effect? How does the cream affect the texture of the drink?* **Powdered Sugar:**  Does the powdered sugar dissolve completely or leave any visible particles? Does it affect the color or texture of the drink?* **Egg:** Does the egg create a frothy head on the drink? How does the egg affect the overall texture and appearance?* **Nutmeg:**  How is the nutmeg presented? Is it sprinkled on top, grated, or used in another way? Does the nutmeg add any visual interest?**Bonus:**  Try to convey the texture and consistency of the Sherry Flip. Is it thick and creamy? Light and airy? Does it have any layers? **Example:**  The Sherry Flip presents a vibrant [color] hue, with a [texture] layer of light cream resting softly atop the drink. A delicate dusting of nutmeg adds a touch of warmth to the surface. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

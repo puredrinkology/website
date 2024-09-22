@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: ""
 visual: "## LLM Prompt: Imagine a classic highball glass filled with ice, the cubes gleaming like tiny diamonds.  The glass is filled with a deep amber liquid, the color of rich caramel, with a faint, swirling haze of vanilla. Tiny bubbles rise from the depths of the drink, creating a gentle effervescence.  The surface is crowned with a dark, rich cola, almost black, with a few stray bubbles clinging to the side of the glass. The aroma is a tantalizing blend of smoky whiskey, sweet vanilla, and the crisp bite of cola.  Describe this visually appealing cocktail in detail, highlighting its color, texture, and the overall impression it gives off. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

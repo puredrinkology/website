@@ -27,6 +27,6 @@ has_alcohol: true
 base_spirit: "tequila"
 family: "margarita"
 visual: "## LLM Prompt:Imagine a **Margarita** in a **classic margarita glass**, the kind with a wide rim and a sloping sides. The **liquid** itself is a **beautiful, shimmering gold**, like the setting sun reflecting off the ocean. There's a **light dusting of fine salt** on the rim of the glass, creating a subtle contrast against the vibrant gold. **Describe** the **texture** of the margarita, its **clarity** or **opacity**, and any **tiny bubbles** that might rise to the surface. What is the **viscosity** like? Does it **cling to the glass** or flow easily? Finally, imagine a **small lime wedge** carefully placed on the rim of the glass, its **green hue** providing a refreshing contrast to the warm gold of the margarita.  Focus on the **details** of the lime - its **shape**, **texture**, and how its **color** interacts with the drink and the salt. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

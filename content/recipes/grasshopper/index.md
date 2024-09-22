@@ -21,6 +21,6 @@ has_alcohol: true
 base_spirit:
 family: "other"
 visual: "## LLM Prompt for Grasshopper Cocktail Description:**Describe the appearance of a Grasshopper cocktail. Consider the following:*** **Color:**  What is the dominant color?  Is it opaque or translucent?  Are there any layers or gradients? * **Texture:** Is it smooth and creamy?  Are there any visible particles or bubbles?* **Garnish:**  Is there a garnish?  If so, what is it and how does it affect the visual appeal? * **Glass:**  What type of glass is it typically served in?  Does the glass shape contribute to the visual presentation?**Example Output:**The Grasshopper is a vibrant emerald green, almost opaque, with a smooth, creamy texture.  The color is reminiscent of a fresh patch of grass, and the drink has a slight, almost imperceptible, shimmer.  It's typically served in a chilled martini glass, with a garnish of a single chocolate mint leaf perched delicately on the rim. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

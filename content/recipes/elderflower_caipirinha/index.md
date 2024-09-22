@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "sour"
 visual: "## LLM Prompt:**Describe the appearance of an Elderflower Caipirinha. Imagine a glass filled with crushed ice, a splash of lime juice, a subtle swirl of elderflower cordial, and a generous pour of Cachaça. Consider the color, clarity, and texture of the drink. Include details like how the ice interacts with the liquid, the appearance of the lime, and any potential garnish.** **Example Response:**The Elderflower Caipirinha is a vibrant and inviting drink. The crushed ice in the glass is a pristine white, its surface barely disturbed by the shimmering liquid. The Cachaça, a clear spirit, forms a base for the drink, its color slightly tinted by the bright, chartreuse green of the elderflower cordial. A wedge of lime, its skin a deep, glossy green, rests on the rim of the glass, releasing its citrusy aroma into the air. The texture is refreshing and lively, with the crushed ice giving way to the smooth, cool liquid. It's a cocktail that captivates both the eyes and the palate. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

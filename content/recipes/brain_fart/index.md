@@ -28,6 +28,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "punch"
 visual: ""
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

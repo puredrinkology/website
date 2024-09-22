@@ -17,7 +17,7 @@ genai.configure(api_key=os.environ['GOOGLE_GENAI_APIKEY'])
 
 
 def generate_title(name, category):
-    clean_name = name.lower().replace("cocktail", "").replace("the", "").replace("punch", "").replace("'", "").replace("’", "").replace("shot", "").replace("shake", "")
+    clean_name = name.lower().replace("cocktail", "").replace("the ", "").replace(" punch", "").replace("'", "").replace("’", "").replace(" shot", "").replace(" shake", "")
     long_name = f"the {clean_name} {category}"
     short_name = f"{clean_name}"
 
@@ -451,6 +451,6 @@ def store_descriptions_in_data_file():
 
 if __name__ == "__main__":
     process_json_files(Path('thecocktailsofmine/'), "personal_collection", False)
-    process_json_files(Path('thecocktaildb/'), "personal_collection", False)
+    process_json_files(Path('thecocktaildb/'), "thecocktaildb", False)
     # store_descriptions_in_data_file()
     print("All JSON files processed and Hugo content files created.")

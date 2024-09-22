@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "other"
 visual: "## LLM Prompt for Quentin Cocktail Description:**Imagine a Quentin cocktail. It's made with dark rum, Kahlua, light cream, and a sprinkle of nutmeg. Describe its appearance, including:*** **Color:** What shades of brown and cream are present? Is there a clear distinction between the layers, or are they more blended? * **Texture:**  Is it smooth and silky, or does the cream add a hint of richness?* **Garnish:** What does the nutmeg sprinkle look like on top? Does it create a pattern, or is it more random?**Your description should be evocative and sensory, allowing a reader to almost taste the Quentin through your words.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

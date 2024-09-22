@@ -26,6 +26,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: "sour"
 visual: "## LLM Prompt:**Imagine a classic Whiskey Sour. Describe its appearance in detail, focusing on its color, texture, and any embellishments. Consider the following elements:*** **Color:**  The drink's primary color should be a vibrant, almost neon yellow. Is there any variation in hue due to the whiskey used or the amount of lemon?  * **Texture:** Describe the consistency of the drink. Is it frothy? Smooth? How does the ice affect its appearance? * **Embellishments:**  Is there a cherry perched on the rim? A lemon twist? How are these elements arranged and what effect do they have on the overall aesthetic? **Your description should paint a vivid picture of the Whiskey Sour's visual appeal, enticing someone to take a sip.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

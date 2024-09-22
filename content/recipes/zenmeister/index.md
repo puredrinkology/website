@@ -18,6 +18,6 @@ has_alcohol: true
 base_spirit:
 family: "highball"
 visual: "## LLM Prompt:Describe the appearance of a cocktail called Zenmeister made with Jägermeister and root beer. Consider the following factors:* **Jägermeister's color:** A dark, almost opaque brown with slight amber hues.* **Root beer's color:** A deep, rich brown with hints of caramel.* **Mixing technique:** The Jägermeister and root beer are likely to be mixed together, either stirred or shaken.* **Possible garnishes:**  Think about garnishes that would complement the flavors of the cocktail, such as a lime wedge, a sprig of rosemary, or a cinnamon stick.**Provide a detailed description of the cocktail's appearance, including:*** **Color:** What shade of brown does the cocktail appear to be? Is it opaque or translucent? Are there any color variations or layers?* **Texture:** Is the cocktail smooth, frothy, or bubbly?* **Garnish:** If applicable, describe the garnish and its placement on the cocktail.* **Glassware:** What type of glass would the cocktail be served in? (e.g., highball, rocks glass, etc.) **Example:**The Zenmeister appears as a dark, almost black concoction in a highball glass, resembling a thick, rich coffee. The color is opaque with just a hint of amber light shining through near the rim.  The cocktail is topped with a generous head of creamy foam, thanks to the root beer, and a single lime wedge rests on the rim for a touch of freshness. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

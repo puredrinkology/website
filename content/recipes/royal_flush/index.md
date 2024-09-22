@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit:
 family: ""
 visual: "## LLM Prompt:Imagine a cocktail called Royal Flush with a vibrant, layered appearance.  **Describe its visual characteristics, considering:*** **Color:** The cocktail is a symphony of reds and pinks.  What shades are present, and how do they blend or contrast?* **Texture:** Is it clear and smooth, or does it have a layered effect?  Are there any visible fruit pieces or garnishes?* **Shape:** Does the glass enhance the visual appeal? Is it tall and slender, or short and wide? How does the shape influence the presentation?**Bonus:*** Consider the lighting. Does it enhance the color and shimmer of the drink? * What mood does the visual appearance of this cocktail evoke? Is it celebratory, elegant, or playful? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

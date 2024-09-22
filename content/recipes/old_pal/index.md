@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "rye"
 family: "negroni"
 visual: ""
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

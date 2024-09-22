@@ -7,13 +7,13 @@ flavor_description: "The Gagliardo is a delicate dance of flavors. The sweet, ju
 bartender_tips: "The Gagliardo is a delicate balance of flavors. Use fresh lemon juice for the best acidity. Don't over-shake, as this will dilute the flavors.  The rose syrup adds a subtle sweetness, so adjust according to your preference.  A good quality peach vodka is essential for a well-rounded cocktail.  Garnish with a lemon twist or a sprig of fresh mint to add a refreshing touch. "
 ingredients:
   - item: "Peach Vodka"
-    measure: "5 oz"
+    measure: "1.5 oz"
   - item: "Lemon Juice"
-    measure: "3 oz"
+    measure: "0.5 oz"
   - item: "Galliano"
-    measure: "1 Part"
-  - item: "Sirup Of Roses"
-    measure: "1 Part"
+    measure: "0.25 oz"
+  - item: "Rose Syrup"
+    measure: "0.5 oz"
 instructions:
   - item: "Shake well and serve in a cocktail glass."
   - item: "This is a home cocktail of American/Internet Bar del Pozzo, Pavia, Italy."
@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "martini"
 visual: "## Gagliardo Cocktail Description Prompt:Imagine a **Gagliardo cocktail** resting in a chilled coupe glass. Describe its appearance:* **Color:**  What shade of pink or orange does the cocktail display? Is it a vibrant, almost neon color, or more of a subtle blush? * **Texture:** Does it have a smooth, silky surface, or is there a gentle effervescence? Are there any visible layers or gradients?* **Garnish:** What garnishes, if any, are used to complement the drink? Consider the size, color, and shape of the garnish in relation to the cocktail.* **Overall Impression:** How would you describe the visual appeal of the Gagliardo? Is it elegant, playful, refreshing, or something else entirely? Please provide a detailed, evocative description that captures the essence of this beautiful and complex cocktail. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

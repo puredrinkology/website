@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit:
 family: ""
 visual: "## LLM Prompt:Describe the visual appearance of the Zorro cocktail, a layered drink made with Sambuca, Baileys Irish Cream, and White Creme de Menthe. Consider the color, texture, and layering of each ingredient to create a vivid description. **Bonus:**  If possible, mention any unique visual features that might distinguish the Zorro from other layered cocktails. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

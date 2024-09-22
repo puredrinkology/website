@@ -23,6 +23,6 @@ has_alcohol: false
 base_spirit:
 family: ""
 visual: "## Lassi Khara: A Visual PromptImagine a **pale, creamy white** liquid swirling gently in a tall glass. The surface is **slightly textured**, a subtle reminder of the yogurt's tangy base.  **The light reflects off the surface**, revealing a delicate, **almost translucent** quality.  As you peer closer, you might notice **tiny specks of salt** scattered through the liquid, giving it a **slightly grainy appearance**.  While the color is understated, the **aroma** is potent. A **sharp, pungent note of asafoetida** cuts through the **earthy, yogurt-infused fragrance**. The **salty scent** lingers in the air, promising a bold and complex taste. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

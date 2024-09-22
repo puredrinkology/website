@@ -31,6 +31,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "other"
 visual: "## LLM Prompt:**Imagine a glass filled with Homemade Kahlua. Describe its appearance using vivid imagery and sensory details. Consider the following elements:*** **Color:** What shade of brown is it? Is it deep and rich, or lighter and more translucent? * **Texture:** Is it thick and syrupy, or more watery and runny? Does it have any visible particles?* **Aroma:** What scent does it give off? Is it strong and bold, or subtle and sweet?* **Light:** How does the liquid reflect light? Does it shimmer or have a dull finish? **Bonus:** Include a comparison to a familiar drink or object to help readers visualize the Homemade Kahlua. **Example:** The homemade Kahlua, poured into a chilled shot glass, resembled molten chocolate, its rich brown hue tinged with a hint of amber. The thick syrupy liquid seemed to move slowly, clinging to the sides of the glass, while a subtle aroma of coffee and vanilla wafted upwards, promising a luxurious taste. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

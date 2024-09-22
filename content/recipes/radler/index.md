@@ -18,6 +18,6 @@ has_alcohol: true
 base_spirit:
 family: "other"
 visual: "##  LLM Prompt: Describe the appearance of a Radler cocktail.**Imagine a tall glass filled with a refreshing, effervescent beverage. Describe the following aspects:*** **Color:** What is the overall color of the drink? Is it a pale yellow, a light amber, or something else? * **Clarity:** Is the drink crystal clear, slightly hazy, or cloudy? * **Head:** Is there a head of foam on top? What is its color and texture? How much of the glass does it take up?* **Texture:** Does the drink appear thick or thin? Does it have a lot of bubbles or just a few?* **Garnish:** Is there a garnish on top? If so, describe it. **Please provide a detailed and evocative description of the Radler cocktail, as if you were looking at it through a glass.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

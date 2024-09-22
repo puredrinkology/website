@@ -21,6 +21,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "sour"
 visual: "## LLM Prompt: Describe the appearance of a Caipirinha.**Imagine a tall, clear glass filled with ice.  The ice is partially submerged in a vibrant, cloudy, light green liquid.  This liquid is a mixture of muddled lime wedges and their juice, along with the clear, colorless spirit of Cachaça.  Atop the ice and liquid, a thin layer of sugar crystals rests, creating a delicate, sparkling sheen.  The overall effect is refreshing and invigorating, with the vibrant green color hinting at the tangy lime flavor within.****Optional details to include in your description:*** Mention the frosted rim of the glass.* Describe the small, bruised lime wedges at the bottom of the glass.* Add a detail about the texture of the drink, highlighting the crushed ice and the smooth, slightly syrupy liquid.* Include a sensory detail like the scent of fresh lime and sugarcane. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

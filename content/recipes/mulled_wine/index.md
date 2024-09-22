@@ -29,6 +29,6 @@ has_alcohol: true
 base_spirit: "brandy"
 family: "sour"
 visual: "## LLM Prompt: Describe the appearance of a Mulled Wine cocktail. Imagine a steaming mug filled with the drink. Focus on the color, clarity, and any visible ingredients. Mention the presence of steam and any floating spices or fruit peels. **Consider these aspects:*** **Color:** Is it a deep red, a lighter ruby, or something else?* **Clarity:** Is it clear, or does it have a slightly cloudy appearance?* **Steam:** Is there a plume of steam rising from the mug, and what color is it?* **Floating Ingredients:** Are there any visible cloves, cinnamon sticks, or lemon peel floating in the wine? How do they appear?**Example Output:**A steaming mug of mulled wine reveals a deep ruby red liquid, slightly clouded by the swirling spices. A plume of warm, fragrant steam rises from the surface, carrying with it the scent of cloves and cinnamon. A few plump cloves and a cinnamon stick, both softened by the heat, bob gently in the depths, while a piece of lemon peel clings to the edge of the mug, adding a touch of citrusy brightness. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

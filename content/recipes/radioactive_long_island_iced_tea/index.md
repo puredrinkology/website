@@ -31,6 +31,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "other"
 visual: "## LLM Prompt:**Imagine a Radioactive Long Island Iced Tea. It's a potent blend of rum, vodka, tequila, gin, triple sec, Chambord raspberry liqueur, Midori melon liqueur, and Malibu rum. Describe the appearance of this cocktail, focusing on its color, texture, and any visual elements that stand out.****Consider:*** **Color:** Does it lean towards green, pink, or a more vibrant, multi-hued appearance?* **Texture:** Is it clear, cloudy, layered? Are there any visible particles or swirls?* **Visual elements:** Does the cocktail have a distinct frothy head, a delicate rim, or any garnish that adds to its visual appeal? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

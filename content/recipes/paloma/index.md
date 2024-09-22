@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "tequila"
 family: "margarita"
 visual: "## LLM Prompt:Describe the appearance of a Paloma cocktail, made with **grape soda and tequila**. Focus on the following aspects:* **Color:** What is the overall color of the drink? Is it vibrant, pastel, or something else? Does it have any interesting color gradients?* **Clarity:** Is the drink clear, cloudy, or have any visible particles?* **Texture:** How does the drink look in terms of its texture? Is it bubbly, frothy, or still?* **Garnish:** What kind of garnish would you typically use for a Paloma? How does it visually enhance the drink?* **Glassware:** What type of glass is typically used to serve a Paloma? How does the shape and size affect the overall appearance? **Bonus:** Include any unique visual characteristics specific to the Paloma, such as the way the grape soda and tequila might interact or the way the garnish might sit on top of the drink. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

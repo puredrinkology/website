@@ -19,6 +19,6 @@ has_alcohol: true
 base_spirit: "tequila"
 family: ""
 visual: "## LLM Prompt: Describe the appearance of Tequila Surprise**Context:**Tequila Surprise is a cocktail made with tequila and Tabasco sauce. **Prompt:**Imagine a cocktail glass filled with a golden liquid, reminiscent of aged tequila, but with a subtle hint of fiery red along the edges.  The drink itself is clear, allowing you to see through it to the bottom of the glass, but the faint reddish hue gives it a sense of depth and intrigue.  As you gaze at it, you notice tiny droplets of oil from the Tabasco sauce clinging to the side of the glass, shimmering like tiny, fiery rubies.  What else do you see in this Tequila Surprise? Describe its appearance in detail, focusing on color, texture, and any other visual elements that contribute to its unique character. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

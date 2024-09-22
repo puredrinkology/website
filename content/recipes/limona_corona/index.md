@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit:
 family: "highball"
 visual: "## LLM Prompt: Describe the appearance of a Limona Corona cocktail.Imagine a tall, frosted glass filled with **icy cold Corona beer**. The golden hue of the beer is illuminated by the **sunlight reflecting off the condensation** on the glass.  **Atop the beer rests a generous pour of Bacardi Limon**, its **vibrant yellow color creating a distinct layer** that contrasts with the beer below.  **The Bacardi Limon is slightly cloudy**, with tiny **bits of lime zest swirling within**.  **A thin slice of lime** decorates the rim of the glass, adding a **fresh, green accent** to the overall composition.  **The cocktail is garnished with a lime wedge** nestled on the rim, its **bright green color** contrasting beautifully with the yellow Bacardi Limon.  **Small bubbles rise from the depths of the beer**, creating a **dynamic and refreshing** visual. **Focus on the following details:*** **The layering of the Corona and Bacardi Limon*** **The color contrast between the two ingredients*** **The condensation on the glass and its effect on the lighting*** **The texture of the Bacardi Limon (slightly cloudy with zest particles)*** **The freshness of the lime garnish** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

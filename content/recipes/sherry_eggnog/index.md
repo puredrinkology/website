@@ -26,6 +26,6 @@ has_alcohol: true
 base_spirit:
 family: "other"
 visual: "## LLM Prompt:Imagine a **Sherry Eggnog** in a chilled coupe glass. Describe its appearance, focusing on the following aspects:* **Color:** Is it pale, creamy, or golden? Does it have any depth or layers?* **Texture:** Is it smooth and velvety, or slightly frothy? Are there any visible particles?* **Garnish:** What is the most appropriate garnish for this cocktail? How does it enhance the visual appeal?* **Overall Impression:** What is the first thing that comes to mind when you see this cocktail? Is it elegant, festive, or comforting? **Bonus:** If you could capture the essence of Sherry Eggnog in a single word, what would it be? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

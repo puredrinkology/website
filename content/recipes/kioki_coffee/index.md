@@ -21,6 +21,6 @@ has_alcohol: true
 base_spirit: "brandy"
 family: ""
 visual: "## LLM Prompt for Kioki Coffee Description:**Prompt:**Imagine a cocktail called Kioki Coffee that combines Kahlua, Brandy, and Coffee.  Describe its appearance in detail, focusing on its color, texture, and any visual elements.  Consider the following:* **Color:**  Is it a deep, rich brown, like coffee itself? Does the brandy add a subtle amber hue?  Are there any layers or gradients present?* **Texture:**  Is it smooth and velvety, perhaps with a hint of creaminess? Does it have a frothy top? Is there any visible ice?* **Visual elements:**  Are there any garnishes?  Perhaps a coffee bean or a cinnamon stick?  How does the light play on the surface of the drink?**Output:**Your response should be a vivid and descriptive paragraph about the appearance of the Kioki Coffee cocktail.  Please ensure it appeals to the reader's senses, helping them to visualize this drink. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

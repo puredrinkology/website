@@ -26,6 +26,6 @@ has_alcohol: false
 base_spirit:
 family: ""
 visual: "## LLM Prompt: Describe the appearance of a cocktail called Melya made with Espresso, Honey, and Cocoa Powder. **Consider the following factors when describing the cocktail:*** **Color:**  Is it a dark brown, almost black, or does the honey add a touch of amber?* **Texture:** Is it smooth and creamy, or does the cocoa powder give it a slightly grainy texture?* **Presentation:** How is the cocktail served?  In a coupe glass, a martini glass, or something else?  Is there any garnish, like a dusting of cocoa powder or a drizzle of honey?* **Light:** How does the light interact with the cocktail?  Does it reflect off the surface in a shimmering way?**Example response:** The Melya is an alluring cocktail, boasting a deep, dark brown hue that resembles molten chocolate. The honey adds a subtle, warm amber glow, creating layers of color that shift in the light. It's served in a chilled coupe glass, the rim dusted with cocoa powder, adding a touch of earthy elegance. The surface is smooth, almost velvet-like, but with a hint of texture from the finely ground cocoa. The light dances on the surface, creating a shimmering effect that promises a richly indulgent experience. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

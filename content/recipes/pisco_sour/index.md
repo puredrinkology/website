@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit:
 family: "sour"
 visual: "## LLM Prompt: Describe the Appearance of a Pisco Sour**Please provide a detailed description of the appearance of a Pisco Sour cocktail. Consider the following aspects:*** **Color:** What color is the cocktail? Is it uniform or does it have layers? What are the shades and nuances of the color?* **Texture:** Is the cocktail clear, cloudy, or foamy? Does it have any visible ingredients, like ice or egg white?* **Glassware:** What type of glass is the cocktail served in? How does the glass affect the appearance of the cocktail?* **Garnish:** What garnish is typically used for a Pisco Sour? How does it enhance the visual appeal of the cocktail?**Example:**Imagine a cocktail in a chilled coupe glass, its pale yellow hue resembling the setting sun. A thick, fluffy layer of egg white foam sits atop, dusted with a delicate dusting of cinnamon. Tiny ice shards peek through the frothy surface, adding a touch of sparkle. A single maraschino cherry rests on the rim, its crimson color a vibrant contrast against the pale yellow of the drink. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

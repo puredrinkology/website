@@ -21,6 +21,6 @@ has_alcohol: false
 base_spirit:
 family: ""
 visual: "## LLM Prompt: Describe the Appearance of an Egg Cream**Imagine a classic Egg Cream. Focus on the following details:*** **Color:** What is the dominant color of the drink? Does it have any layers or gradients? * **Texture:** How does the drink appear to be textured? Is it smooth, bubbly, foamy, or layered? * **Appearance:**  Describe the overall appearance of the drink. What are the most striking visual elements? **Example:** Imagine a tall glass filled with a rich, dark brown liquid. The surface is topped with a thick, white layer of foam, creating a beautiful contrast. Tiny bubbles dance throughout the liquid, adding to the sense of lightness and airiness.  **Please describe the Egg Cream in a way that captures its essence, using descriptive language and imagery.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

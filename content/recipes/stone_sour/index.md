@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "brandy"
 family: "sour"
 visual: "## LLM Prompt:**Describe the appearance of a Stone Sour cocktail, considering the following elements:*** **Color:**  The drink is a blend of apricot brandy, orange juice, and sweet and sour mix. What color does this combination create? Is it vibrant, muted, or somewhere in between? * **Transparency:** Is the drink clear, cloudy, or somewhere in between? * **Texture:** Does the drink have a smooth, frothy, or layered appearance? * **Garnish:**  The Stone Sour is often garnished with an orange slice or cherry. How does the garnish contribute to the overall visual appeal of the cocktail?**Example:**A Stone Sour is a vibrant, amber-hued cocktail. The orange juice contributes a slight cloudiness to the drink, making it appear slightly opaque. It is typically served in a rocks glass with a smooth texture and a gentle layer of foam on top. An orange slice perched on the rim adds a splash of color and a refreshing aroma. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

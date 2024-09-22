@@ -26,6 +26,6 @@ has_alcohol: false
 base_spirit:
 family: "other"
 visual: ""
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

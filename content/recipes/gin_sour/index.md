@@ -26,6 +26,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "sour"
 visual: "## LLM Prompt:Imagine a **Gin Sour** in a **chilled coupe glass**. Describe the visual details of this cocktail, focusing on:* **Color:** What is the overall hue of the drink? Is it a vibrant yellow, a pale lemon, or something in between? Does it have any layers or gradients? * **Texture:** Is it cloudy or clear? Are there any bubbles or foam?* **Garnish:**  How is the orange slice positioned? How does the maraschino cherry add to the visual appeal?  * **Lighting:** How does the light play on the drink? Does it create a sparkle or a frosted appearance?Remember, your description should evoke a sense of visual delight and make the reader crave a sip of this classic cocktail. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

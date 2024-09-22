@@ -18,6 +18,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "other"
 visual: "## LLM Prompt:Describe the appearance of a Poppy Cocktail, a drink made with gin and crème de cacao, in vivid detail. Consider the following:* **Color:** Is it clear, cloudy, or opaque? What color is the dominant hue, and are there any subtle shades or variations?* **Texture:** Is it smooth, viscous, or layered? Does it have any noticeable bubbles or foam?* **Garnish:** How is the drink presented in a glass? What kind of garnish is used, and how does it enhance the visual appeal?**Bonus:*** **Light:** How does the drink look in different lighting conditions? Does it appear different under natural light versus artificial light?* **Movement:** How does the drink look when it is stirred or swirled in the glass? **Example Output:**The Poppy Cocktail is a mesmerizing blend of amber and deep brown, with subtle streaks of white where the gin and crème de cacao meet. The texture is velvety smooth, with a faint shimmer that catches the light.  The drink is served in a chilled coupe glass, garnished with a single, dark chocolate-covered coffee bean perched delicately on the rim. The bean adds a touch of playful elegance and contrasts beautifully with the rich, complex hues of the cocktail. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

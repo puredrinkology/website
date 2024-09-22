@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "sour"
 visual: "## Aviation Cocktail - Describe its Appearance:Imagine a **crystal-clear glass** filled with a beautiful **pale pink hue**, almost like a **sunset over the ocean**. The drink is **garnished with a delicate cherry** perched on the rim, adding a touch of **vibrant red** to the scene. **Tiny bubbles** rise from the depths of the glass, gently **shimmering** in the light. The **sweet aroma** of **maraschino cherry** mingles with the **tangy scent** of **lemon juice** and the **subtle, juniper-forward notes** of **gin**.**Describe the following aspects of the Aviation in detail:*** **Color:** What is the exact shade of pink? Does it lean towards a pale blush or a deeper, richer hue?* **Clarity:** Is it crystal clear or slightly cloudy? Are there any visible particles?* **Texture:**  Are there any layers or separation?  How does the drink look when it's swirled?* **Garnish:** Describe the cherry in detail. Is it a whole cherry or a slice?  How does it sit on the rim?* **Glass:** Is it a coupe, martini, or other type of glass? What is its shape and material?**Remember to evoke the senses and create a vivid image of this classic cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

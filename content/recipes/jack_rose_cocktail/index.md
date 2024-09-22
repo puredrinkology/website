@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "brandy"
 family: "sour"
 visual: "## LLM Prompt:**Imagine a classic Jack Rose cocktail, made with apple brandy, grenadine, and lime. Describe its appearance in detail, focusing on: *** **Color:** What is the overall color of the cocktail? Does it have any layers or gradients? * **Clarity:** Is it clear, cloudy, or opaque?* **Texture:** Is it smooth, oily, or foamy?* **Garnish:** What kind of garnish is typically used? Does it enhance the visual appeal? * **Presentation:** How is the cocktail typically served? In a specific glass? With ice? **For example, you might describe it as:**The Jack Rose is a visually stunning drink. It's a vibrant ruby red color, with a slight gradient towards a darker hue at the bottom. The clarity is crystal clear, highlighting the intricate swirls of the grenadine.  A thin slice of lime, lightly dusted with sugar, is carefully perched on the rim of a chilled coupe glass, adding a touch of freshness and elegance. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -21,6 +21,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: ""
 visual: "## LLM Prompt for Kool-Aid Slammer Description:**Imagine a tall, frosty glass filled with a vibrant, [COLOR] Kool-Aid. The liquid is swirling slightly, a testament to the recent addition of a healthy pour of [BRAND] Vodka. Tiny ice crystals cling to the glass, forming a shimmering halo around the drink. The surface is adorned with a [DESCRIPTION OF GARNISH], adding a touch of playful whimsy to this classic childhood treat turned adult delight.****To make the prompt more specific, replace the bracketed information with:*** **COLOR:**  Choose a color that matches your imagined Kool-Aid flavor (e.g., red for cherry, purple for grape).* **BRAND:**  Choose a vodka brand (e.g., Smirnoff, Absolut). * **DESCRIPTION OF GARNISH:**  Think of a simple garnish that complements the Kool-Aid flavor (e.g., a cherry for cherry Kool-Aid, a lime wedge for lemon-lime). **This prompt will help the LLM generate a vivid and engaging description of the Kool-Aid Slammer cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

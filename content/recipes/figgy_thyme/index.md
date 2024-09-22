@@ -31,6 +31,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "highball"
 visual: "## LLM Prompt:**Describe the appearance of a cocktail called Figgy Thyme using the following ingredients:*** **Vodka:** Clear, colorless spirit.* **Honey:** Golden to amber in color, slightly viscous.* **Figs:** Deep purple or green, depending on variety, with a soft, fleshy interior.* **Thyme:** Green, aromatic herb with small leaves.* **Angostura Bitters:** Dark brown, slightly viscous liquid.* **Tonic Water:** Clear, bubbly beverage with a slight yellow hue.**Consider the following aspects:*** **Color:** What is the overall color of the cocktail? Is it clear, cloudy, or layered?* **Clarity:** Is the cocktail clear or hazy? Are there any visible particles?* **Texture:** Is the cocktail smooth and silky, or does it have a frothy or bubbly texture?* **Garnish:** What garnish would be suitable for this cocktail? How would it enhance the visual appeal?**Example:**The Figgy Thyme is a beautiful cocktail with a deep purple hue, reminiscent of ripe figs.  The drink has a subtle haze from the honey and fig purée, with tiny specks of thyme visible throughout.  A small sprig of fresh thyme, adorned with a single, plump fig, adds a touch of rustic elegance to the presentation. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

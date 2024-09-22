@@ -27,6 +27,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "highball"
 visual: "## LLM Prompt:Describe the appearance of a **Munich Mule** cocktail. It is a refreshing, bright drink made with **Gin, Lime Juice, Ginger Beer, Cucumber, and Lemon**. Focus on the color, texture, and any garnishes that might be used. Imagine a **Munich Mule** served in a **copper mug** and consider the effects of the ingredients on the visual presentation. **For example, describe:*** **Color:** Is it clear, cloudy, or layered? What shades of color are present?* **Texture:** Is it bubbly, smooth, or have a distinct texture?* **Garnishes:** What garnishes are used? Are they fresh, dried, or edible? * **Copper Mug:** How does the copper mug affect the overall appearance?**Please provide a detailed and vivid description of the Munich Mule's visual appeal.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

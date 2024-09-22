@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "highball"
 visual: "## LLM Prompt:Imagine a tall, clear glass filled with ice. The glass is brimming with a refreshing, pale-yellow liquid, shimmering with tiny bubbles. A thin sliver of lime wedges rests on the rim, adding a touch of vibrant green.  A single dash of Angostura Bitters paints a thin, dark line on the surface of the drink, creating a visual contrast against the clear tonic water.  The entire scene exudes a crisp, cool, and invigorating aura.  What would you call this drink? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "sour"
 visual: "## Gimlet Visual Description PromptImagine a classic Gimlet in a chilled coupe glass. Describe the following:* **Appearance:**  Is the drink clear or slightly cloudy?  What is the color of the drink?  Are there any layers or gradients? * **Texture:** Is the drink smooth or does it have a slight viscosity? * **Garnish:**  How is the lime garnish presented? Is it a simple lime wedge, a wheel, a twist, or something more elaborate?  Does the garnish touch the drink or sit on the rim? * **Ice:** Is there ice in the glass? If so, what type of ice is it (cubes, crushed, etc.)? How much ice is present? * **Overall impression:** How does the appearance of the Gimlet make you feel? Does it seem refreshing, elegant, or perhaps even potent? Please provide a detailed description of the Gimlet's appearance, drawing on your knowledge of cocktails and their visual appeal. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

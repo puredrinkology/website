@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "martini"
 visual: "## LLM Prompt:Describe the appearance of a **French Martini** cocktail.  Consider these elements:* **Color:** Is it a vibrant pink, a soft blush, or somewhere in between?* **Clarity:** Is it crystal clear, slightly cloudy, or more opaque?* **Texture:** Is it smooth and silky, or slightly viscous?* **Garnish:** What kind of garnish is typically used, and how does it enhance the visual appeal? * **Glassware:** What type of glass is it usually served in, and how does it contribute to the overall presentation?**Please provide a descriptive and evocative response that captures the visual essence of this popular cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

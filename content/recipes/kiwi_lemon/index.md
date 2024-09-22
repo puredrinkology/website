@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit:
 family: "highball"
 visual: "## LLM Prompt:Describe the appearance of a cocktail called Kiwi Lemon made with Kiwi Liqueur, Bitter Lemon, and ice.  Consider the following aspects:* **Color:** What are the dominant colors of the drink?  Is it clear, cloudy, or layered?* **Texture:** Is it smooth, frothy, or have any noticeable texture? * **Glassware:** What kind of glass is the cocktail served in? * **Garnish:**  What garnish, if any, would complement the drink?**Bonus:** Provide a short, descriptive sentence capturing the overall visual impression of the cocktail. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

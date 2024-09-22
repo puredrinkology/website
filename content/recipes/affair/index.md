@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit:
 family: "highball"
 visual: "##  LLM Prompt:Imagine a cocktail called Affair that embodies a playful, seductive charm.  It is layered with: * **Strawberry Schnapps:**  A vibrant pink liquid, almost translucent, with a hint of red berry shimmer.* **Orange Juice:**  A golden hue, bright and refreshing, reminiscent of a summer sunset.* **Cranberry Juice:**  A deep crimson, slightly darker than the Strawberry Schnapps, adding a touch of tartness.* **Club Soda:**  A clear, bubbly elixir, adding lightness and fizziness to the composition.**Describe the Affair cocktail visually.  Consider the following:*** How do the colors interact and blend? * Does the cocktail have a distinct layered effect, or is it more blended?* Are there any interesting visual details like bubbles, condensation, or a garnish? * What kind of glassware would best showcase the Affair's appearance? **Remember, the cocktail should convey a sense of playful flirtation and irresistible appeal.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

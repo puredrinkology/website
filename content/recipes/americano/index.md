@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "wine"
 family: "negroni"
 visual: "## LLM Prompt for Describing an Americano Cocktail:**Imagine an Americano cocktail, freshly made and resting in a chilled coupe glass. Describe its appearance in detail, focusing on the following aspects:*** **Color:** What shades and hues are present in the drink? How does the light play on the surface? * **Texture:** How does the liquid appear? Is it still, bubbly, or layered? Are there any visible ingredients?* **Garnish:** Describe the lemon and orange peel garnish. Are they twisted, flamed, or simply floating? How do they complement the overall visual appeal?* **Overall Impression:** What is the overall feeling you get from the appearance of this cocktail?  Is it refreshing, elegant, or bold?  **Bonus:*** Mention the contrasting colors and textures of the Campari and sweet vermouth.* Describe the aroma that might emanate from the glass. * Use evocative language to capture the beauty and appeal of this classic cocktail. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

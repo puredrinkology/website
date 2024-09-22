@@ -21,6 +21,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "highball"
 visual: "## LLM Prompt:Imagine a tall glass filled with ice, its surface glistening with condensation. Inside, a vibrant amber liquid, the **light rum**, swirls with the **bright, effervescent fizz** of Coca-Cola.  A **thin slice of lime**, perched on the rim, releases its citrusy aroma, while a **splash of lime juice** creates subtle, yet delightful, swirls within the drink. The **overall color** is a rich, deep brown, with **hints of gold** reflecting the light from the ice. The **fizz of the cola** rises in delicate bubbles, creating a mesmerizing visual effect.  **How would you describe the visual appeal of this Cuba Libre?** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

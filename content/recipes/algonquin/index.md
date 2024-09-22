@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: "sour"
 visual: "## LLM Prompt:Imagine a classic cocktail, the Algonquin, with its rich history. It's a harmonious blend of **blended whiskey**, **dry vermouth**, and **pineapple juice**, a unique combination that results in a visually appealing drink. **Describe the appearance of the Algonquin cocktail, paying attention to the following:*** **Color:** Is it golden, amber, or a deeper hue? How does the pineapple juice affect the overall color? * **Texture:** Is it clear and bright, or does it have a cloudy, almost milky appearance? * **Presentation:** Imagine it in a classic cocktail glass. How would you describe the layering of the ingredients? Are there any garnishes that would enhance the visual appeal?**Remember to use vivid language and imagery to create a compelling description of this unique cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

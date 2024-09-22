@@ -28,6 +28,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "highball"
 visual: "##  LLM Prompt: **Imagine a tall, icy glass filled with a deep amber liquid.  The color is reminiscent of a sunset, with hints of golden orange and a touch of ruby red.  The drink is topped with a generous amount of crushed ice, creating a cloudy, frosted appearance. A thin, lemon wedge clings to the rim of the glass, its pale yellow contrasting with the dark drink.  Tiny bubbles of carbonation rise from the depths, creating a gentle fizz that  entices the senses. Describe this cocktail in detail, using vivid imagery and sensory details.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

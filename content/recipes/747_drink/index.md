@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "sour"
 visual: "## LLM Prompt: **Imagine a cocktail called the 747 Drink made with vodka, roses sweetened lime juice, cranberry juice, and Sprite. Describe the drink's appearance in detail. Consider the following:*** **Color:** Is it vibrant and pink, a muted red, or something else entirely? * **Clarity:** Is it clear and sparkling, or cloudy and slightly opaque?* **Texture:** Does it have a smooth, silky texture or is it slightly bubbly?* **Garnish:** What kind of garnish, if any, would enhance the visual appeal? Think of things like a lime wedge, a sprig of rosemary, or edible rose petals.* **Glassware:** What type of glass would be most suitable? A tall, slender glass, a coupe, or a martini glass? **Focus on creating a vivid and detailed description that captures the essence of this unique cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

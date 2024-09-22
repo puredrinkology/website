@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit:
 family: ""
 visual: "## LLM Prompt for Chocolate Milk Cocktail Description:**Imagine a glass filled with a rich, velvety liquid. The color is reminiscent of dark chocolate, with subtle hints of caramel peeking through. The surface is smooth, almost silky, with a faint layer of froth that catches the light, making it shimmer slightly. Tiny bubbles rise slowly from the bottom, creating a delicate, swirling effect. The aroma is intoxicating, a blend of sweet chocolate, toasted almonds, and a touch of vanilla.** **Describe this cocktail in detail, paying special attention to its color, texture, and the way light interacts with it.  Include details about the aroma and any visible signs of its ingredients.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

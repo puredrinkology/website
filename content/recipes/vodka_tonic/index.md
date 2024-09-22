@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "highball"
 visual: "## LLM Prompt:**Describe the visual appearance of a Vodka Tonic cocktail. Imagine a tall, clear glass filled with the drink. Focus on the following aspects:*** **Color:** What is the overall color of the drink? Is it transparent, slightly cloudy, or has a distinct hue?* **Clarity:** Is the drink crystal clear, or does it have any subtle haze or bubbles?* **Layers:** Are there distinct layers within the drink, or is it homogeneous? * **Garnish:**  How does the lemon peel garnish affect the visual appeal? Consider its color, shape, and placement. * **Ice:** How does the ice in the glass contribute to the visual experience? Is it crushed, cubed, or a combination? * **Glassware:** What kind of glass does the Vodka Tonic typically reside in? How does the shape of the glass enhance its appearance? **Be descriptive and evocative in your language, painting a picture of this classic cocktail's visual charm.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

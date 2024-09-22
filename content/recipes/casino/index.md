@@ -28,6 +28,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "sour"
 visual: "##  LLM Prompt: **Imagine a classic Casino cocktail. Describe its appearance in detail. Consider the following:*** **Color:**  What shade of orange does the cocktail have? Is it bright and vibrant, or more muted and mellow?  * **Clarity:** Is the Casino crystal clear, or does it have a slight haze or cloudiness? * **Texture:** Does the cocktail have any visible layers? Does it have a smooth, silky texture, or something more viscous?* **Garnish:**  Describe the cherry on top. Is it a maraschino cherry, a fresh cherry, or something else entirely? Is it perched on the rim, floating in the drink, or nestled inside?* **Glassware:**  What type of glass is the Casino served in? A coupe glass, a martini glass, or something else? How does the shape of the glass enhance its appearance?* **Overall Impression:**  What is the first impression you get when you see a Casino cocktail?  Elegant? Refreshing? Classic?**Please describe the Casino cocktail in a vivid and detailed way, capturing its visual appeal.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

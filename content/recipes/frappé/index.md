@@ -26,6 +26,6 @@ has_alcohol: false
 base_spirit:
 family: ""
 visual: "## LLM Prompt: Describe the appearance of a Frappé, a coffee-based beverage made with coffee, milk, and sugar. Consider its color, texture, and any visual details that might be present. Focus on creating a vivid image for the reader, highlighting the drink's unique characteristics.  "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

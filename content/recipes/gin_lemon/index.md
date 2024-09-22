@@ -26,6 +26,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "sour"
 visual: "## LLM Prompt: Imagine a classic Gin Lemon cocktail, crafted with care. Describe its appearance in detail, focusing on the following:* **The glass:** What type of glass is it served in? What is its shape and size?* **The color:** What shade of yellow is the drink? Is it clear, or does it have a slight haze? * **The texture:** Is it icy and refreshing, or does it have a smooth, silky texture?* **The garnishes:** How is the lemon peel used as a garnish? Is it a spiral, a twist, or a wedge? Does it float on top of the drink, or is it placed on the rim of the glass?* **The overall impression:** How does the drink look overall? Does it look refreshing and light, or sophisticated and elegant? **Bonus:** Include any other details that contribute to the visual appeal of the cocktail, such as condensation on the glass or the appearance of ice cubes. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

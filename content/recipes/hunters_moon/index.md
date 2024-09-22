@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "wine"
 family: "sour"
 visual: "## LLM Prompt:**Imagine a cocktail called Hunter's Moon and describe its visual appearance. It's made with:*** **Vermouth:** A dry, herbal, and slightly bitter spirit. * **Maraschino Cherry:**  A bright red, slightly candied cherry.* **Sugar Syrup:** A clear, sweet syrup.* **Lemonade:**  A refreshing, bright yellow citrus drink.* **Blackberries:**  Dark purple, juicy berries.**Consider these factors:*** **Color:** What colors are present in the drink? Is it layered or mixed? * **Clarity:** Is it clear, cloudy, or layered with different textures? * **Texture:** Are there any garnishes or floating ingredients? * **Overall Impression:**  How does the visual appearance evoke the name Hunter's Moon?**Write a detailed description of the Hunter's Moon cocktail's visual appearance.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "martini"
 visual: "## LLM Prompt:**Describe the visual appearance of a Kiwi Martini cocktail.  Consider the following elements in your description:*** **Color:**  Is it vibrant green, pale green, or something else entirely?  Does the color have any depth or opacity?* **Texture:** Is it smooth and silky, or does it have any visible chunks of kiwi?  How about the ice?* **Garnish:** Does it have a slice of kiwi, a sprig of mint, or something else?  How is the garnish positioned?* **Glass:**  What type of glass is it served in?  Is it a classic martini glass, a coupe, or something else?  Does the glass enhance or contrast the overall appearance of the cocktail?* **Overall impression:**  What is the overall visual appeal of the Kiwi Martini? Is it refreshing and vibrant, or elegant and sophisticated?**Please use descriptive language and vivid imagery to create a compelling and realistic picture of the cocktail in the reader's mind.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

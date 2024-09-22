@@ -28,6 +28,6 @@ has_alcohol: true
 base_spirit: "tequila"
 family: "margarita"
 visual: "## LLM Prompt:Describe the appearance of a Winter Rita cocktail. Imagine a glass filled with a vibrant, layered drink. The bottom layer is a deep, ruby red, reminiscent of a winter sunset. This layer gradually transitions to a lighter, golden orange, resembling the setting sun's reflection on snow. Tiny flecks of rosemary float throughout the drink, giving it a touch of festive greenery. Finally, a thin rim of salt on the glass adds a subtle, textural element, hinting at the cocktail's refreshing and invigorating nature. **Bonus:**  Include the following details in your description: * How the light reflects off the drink's surface* The overall impression the cocktail gives off (e.g., festive, sophisticated, refreshing) * Any potential garnishes that could enhance its visual appeal "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -19,6 +19,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "highball"
 visual: "## LLM Prompt: Describe the Appearance of a Dark and Stormy Cocktail**Describe the appearance of a Dark and Stormy cocktail, focusing on the following details:*** **Glass type:** What kind of glass is it typically served in? (e.g., highball, Collins, etc.)* **Color:** What is the dominant color of the drink? Are there any variations or gradients?* **Clarity:** Is the drink clear, cloudy, or opaque? Are there any visible layers?* **Head:** What kind of head does the drink have, if any? (e.g., foam, bubbles, etc.)* **Garnish:** Are there any garnishes? If so, what are they and how do they look? * **Overall Impression:** Describe the overall aesthetic of the cocktail, using evocative language to convey its character.**Example:**A Dark and Stormy is a visually striking cocktail, served in a highball glass filled with a deep, rich, mahogany-colored liquid. The drink is opaque, with a thick, creamy head of ginger beer bubbles that slowly dissipates. A single lime wedge, sliced into quarters, adds a touch of bright green to the composition. Overall, the drink has a rugged, adventurous look, evoking images of stormy seas and tropical islands. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

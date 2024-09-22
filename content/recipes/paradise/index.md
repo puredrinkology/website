@@ -21,6 +21,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "sour"
 visual: "## LLM Prompt for Describing Paradise Cocktail:**Prompt:**Imagine a cocktail named Paradise crafted with gin, apricot brandy, and orange juice.  Using vivid imagery and sensory details, describe the appearance of this cocktail. Consider:* **Color:** What shades of orange and yellow blend together? Is the color vibrant and bright, or muted and mellow?* **Texture:** Does the cocktail appear smooth and silky, or slightly cloudy with a subtle haze?* **Garnish:** What simple yet elegant garnish would complement the colors and flavors of the cocktail?* **Glassware:** In what type of glass would this cocktail be best served, and how does the shape enhance its aesthetic appeal?**Bonus:** * Describe the effect of sunlight or candlelight on the cocktail's appearance.* Imagine the cocktail being served at a tropical paradise setting. How would its appearance be enhanced by the surrounding environment? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

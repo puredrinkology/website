@@ -26,6 +26,6 @@ has_alcohol: true
 base_spirit: "bourbon"
 family: "spirit-forward"
 visual: "## LLM Prompt: Imagine a classic Manhattan cocktail. Describe the appearance of the drink in detail, paying attention to:* **Color:** What is the dominant color of the Manhattan?  Is it a single color, or does it have subtle shades? * **Clarity:** Is the drink transparent, or does it have a cloudy appearance?* **Texture:**  Is the surface of the drink smooth, or does it have any texture? * **Garnish:** Describe the maraschino cherry and orange peel garnish. Consider their colors, sizes, and how they are arranged in the drink. * **Glass:**  What kind of glass is the Manhattan served in?  How does the glass shape enhance the appearance of the drink?Please write a short but descriptive paragraph capturing the visual appeal of a Manhattan. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: "fizz"
 visual: "## LLM Prompt:Imagine a tall, frosty glass filled with a shimmering, pale yellow liquid. **Describe the appearance of this cocktail:*** **Texture:** Is it bubbly? Still? How does the light play on the surface?* **Color:**  Is the yellow light, dark, or a vibrant hue? Are there any subtle shifts in color?* **Garnish:** Consider a simple lemon twist or a sprig of fresh mint. How does it add to the overall visual appeal?* **Overall impression:** Does the cocktail look refreshing and inviting? Does it evoke a sense of history and elegance? **Remember to be descriptive and use imagery that brings the cocktail to life!** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

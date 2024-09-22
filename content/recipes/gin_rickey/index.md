@@ -27,6 +27,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "highball"
 visual: "## LLM Prompt: Describe the Gin RickeyImagine a tall, frosted glass filled with a clear, sparkling liquid.  The liquid is a pale, almost translucent, shade of pink, with tiny bubbles dancing on the surface.  A single lime wedge, sliced thin and gently twisted, rests on the rim of the glass, adding a touch of vibrant green.  The gin, clear and strong, provides a subtle backbone to the refreshing drink, while the grenadine, a delicate red syrup, imparts a subtle sweetness and a rosy hue.  The soda water, effervescent and lively, adds a touch of fizziness and lightness to the final product.  Describe this visual scene in detail, focusing on the interplay of colors, textures, and the overall impression of the Gin Rickey.  What emotions does this drink evoke in you?  Is it elegant, playful, refreshing, or all of the above? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

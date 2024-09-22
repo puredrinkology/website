@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "brandy"
 family: "sour"
 visual: "## LLM Prompt: Describe the Appearance of the City Slicker CocktailImagine a **City Slicker cocktail**, made with **Brandy, Triple Sec, and Lemon Juice**.  Describe its appearance in detail. Consider:* **Color:** What is the overall hue? Does it have any interesting tints or shades? * **Clarity:** Is it clear, slightly cloudy, or opaque? * **Texture:** Is it smooth and silky, or does it have any noticeable layers or textures?* **Garnish:** What kind of garnish would complement this cocktail visually?  How does it interact with the drink's appearance? * **Glassware:** What type of glass is it served in?  How does the glass shape influence the overall visual presentation?**Bonus:**  You can also mention any other details that add to the drink's visual appeal, such as the way light plays on the surface, or the presence of any interesting bubbles or swirls. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

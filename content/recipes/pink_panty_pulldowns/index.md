@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "highball"
 visual: "## LLM Prompt: Describe the Appearance of the Pink Panty Pulldowns Cocktail**Please describe the appearance of a cocktail called Pink Panty Pulldowns made with Sprite, Pink Lemonade, and Vodka. Consider the following elements in your description:*** **Color:** What is the overall color of the drink? Is it a solid hue or a gradient? * **Clarity:** Is the drink clear, cloudy, or layered? * **Texture:** Is there any foam or ice visible? * **Garnish:** If any, describe the type and placement of the garnish.* **Glassware:** What type of glass would be most appropriate to serve this cocktail in? **Remember to be descriptive and evocative in your language, painting a picture with your words. You want the reader to be able to imagine the drink in their mind's eye.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

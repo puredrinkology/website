@@ -18,6 +18,6 @@ has_alcohol: true
 base_spirit:
 family: "other"
 visual: "## LLM Prompt: Describe the appearance of a cocktail called Flander's Flake-Out**Context:**This cocktail is made with Sambuca and Sarsaparilla. **Prompt:**Imagine a cocktail glass filled with a deep, alluring shade of licorice black. The liquid shimmers slightly, revealing a subtle, almost ethereal, blue hue when held to the light. Tiny bubbles rise from the depths, like whispers of the anise-infused spirit.  Atop this captivating base sits a layer of sarsaparilla, its amber color like a sunset over a forgotten woodland. The two layers are distinct yet beautifully intertwined, creating a mesmerizing visual experience. **Additional Details:*** Consider mentioning any garnishes used. * Describe the texture of the drink - is it smooth and creamy, or slightly viscous? * If there are any other visual details, such as ice or condensation on the glass, include them. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

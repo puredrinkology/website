@@ -26,6 +26,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "other"
 visual: ""
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

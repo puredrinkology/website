@@ -30,6 +30,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "highball"
 visual: "##  LLM Prompt: **Imagine a tall, elegant glass filled with ice and a shimmering, effervescent liquid. The drink is a pale, crystalline shade of yellow, almost like a lemon sorbet, with tiny bubbles dancing on the surface. A bright, juicy lemon slice rests on the rim, alongside a plump, ruby red maraschino cherry, suspended on a decorative toothpick. The aroma is invigorating, with a crisp, citrusy note that blends beautifully with the subtle sweetness of the sugar and the refreshing essence of gin. Describe this cocktail, capturing its visual appeal and the sensory experience it evokes.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

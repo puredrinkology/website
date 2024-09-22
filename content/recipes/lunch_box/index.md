@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit:
 family: "highball"
 visual: "## LLM Prompt for Describing the Lunch Box Cocktail:Imagine a **Lunch Box** cocktail. It's made with **beer, amaretto, and orange juice**.  **Describe the appearance of this drink in detail, using vivid imagery and sensory details. Consider:*** **Color:** What is the overall color of the drink? Is it clear, cloudy, layered, or a specific shade?* **Texture:** Is it smooth, bubbly, or foamy? * **Presentation:** Is it served in a tall glass, a short glass, with a garnish?  * **Light:** How does the light interact with the drink? Does it shimmer, reflect, or create interesting shadows? * **Smell:**  What aromas are present? Is it sweet, citrusy, boozy? **Example:**  The Lunch Box is a symphony of color in a tall glass. The bottom layer, a vibrant amber from the amaretto, shimmers beneath a frothy white head of beer.  A bright orange hue, courtesy of the juice, cuts through the center, creating a layered effect that reminds one of a sunset. The aroma is a delightful mix of sweet almond, crisp citrus, and a hint of malty beer. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

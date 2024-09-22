@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "sour"
 visual: "## LLM Prompt for Gin Toddy Description**Imagine a classic Gin Toddy, a comforting warm drink perfect for a chilly evening.****Describe its appearance, focusing on the following aspects:*** **Color:** Is it a clear, pale yellow, or a slightly cloudy hue? Does it have any shimmering or iridescent qualities? * **Clarity:** Is it crystal clear, slightly cloudy, or a bit hazy?* **Texture:** How does the drink appear? Is it smooth, slightly viscous, or does it have any noticeable texture?* **Garnish:** Describe the lemon peel. Is it a spiral, a twist, or a thin slice? What color is it, and how does it add to the visual appeal of the drink?* **Steaming:** Is there a delicate wisp of steam rising from the drink? What effect does this have on the overall visual appeal?**Bonus:** Include any other visual details that contribute to the overall impression of the Gin Toddy, such as the glass it's served in, the presence of ice, or any other garnishes. **Output:** A vivid and detailed description of the Gin Toddy's appearance, capturing its comforting and inviting qualities. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

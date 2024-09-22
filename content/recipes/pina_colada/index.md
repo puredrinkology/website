@@ -21,6 +21,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "other"
 visual: "## LLM Prompt:**Describe the appearance of a Pina Colada, crafted with light rum, coconut milk, and pineapple.** **Focus on:*** **Color:**  What shades of color are present? Is it a solid color or does it have any variations?* **Texture:** Is it creamy, smooth, or have any noticeable bits?* **Presentation:** How is it typically served? In a glass, a mug, or another vessel? What type of garnishes are used?**Remember:** This should be a descriptive, vivid portrayal that captures the essence of the Pina Colada's visual appeal. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

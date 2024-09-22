@@ -18,6 +18,6 @@ has_alcohol: true
 base_spirit:
 family: ""
 visual: "## LLM Prompt:**Describe the appearance of a cocktail called Sweet Tooth made with Godiva Liqueur and milk. Focus on the following aspects:*** **Color:** Is it a vibrant hue or a more subtle shade? Does it have a milky white appearance or is there a hint of color from the Godiva liqueur?* **Texture:**  Is it creamy and smooth? Are there any visible layers? Is it frothy or does it have a silky texture?* **Garnish:**  Imagine a simple garnish that would complement the taste and appearance of the cocktail. How does the garnish add to the overall visual appeal? **Example:**The Sweet Tooth is a creamy, milky white cocktail with a subtle golden hue from the Godiva liqueur. Its texture is smooth and velvety, almost like a thick milkshake. A single, delicate chocolate shavings garnish adds a touch of elegance and visual interest. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

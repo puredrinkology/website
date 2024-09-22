@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "brandy"
 family: "sour"
 visual: "## LLM Prompt for Describing the Valencia Cocktail:**Imagine a classic cocktail glass, filled to the brim with a vibrant, sunny orange hue. The liquid shimmers with a gentle, almost imperceptible sparkle, hinting at the subtle sweetness of the apricot brandy within. A thin, pale orange peel curls gracefully along the rim, adding a touch of elegance and releasing a fragrant aroma of citrus and spice. The cocktail itself appears incredibly smooth and inviting, with a hint of froth at the top that suggests a delicate sweetness balanced by a subtle bitter note.** **Bonus Prompt:*** **For a more nuanced description, consider the age and quality of the apricot brandy. A younger brandy might have a lighter color, while an older one could have a richer, amber tone.  * **Mention the texture of the ice used.  Is it crushed, cubed, or a combination? How does this influence the overall appearance and mouthfeel?** * **Describe the glass itself. Is it a traditional coupe, a martini glass, or something else entirely?** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

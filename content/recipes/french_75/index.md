@@ -29,6 +29,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "sour"
 visual: "## LLM Prompt:Imagine a tall, elegant champagne flute filled with a pale, shimmering liquid that captures the essence of a Parisian sunset. The base is a delicate blush of pink, hinting at the sweetness of the sugar and the tangy allure of the lemon juice. As the liquid climbs, it gradually transitions to a crystal clear, almost ethereal hue, mirroring the sparkling effervescence of the champagne. Atop this liquid cascade, a vibrant orange slice and a bright red maraschino cherry add playful pops of color, completing the scene with a flourish. The gin, though not visible, lingers in the air, its subtle botanical aroma adding a sophisticated complexity to the visual symphony. Describe this exquisite visual experience, capturing the essence of the French 75. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "martini"
 visual: "##  Describe the visual appeal of a Dry Martini, crafted with gin, dry vermouth, and olives. **Consider these elements:*** **Glass:** A classic chilled martini glass, with its iconic V-shape and stem.* **Liquid:** The clear, almost transparent gin, possibly with a slight hint of ice-cold chill. * **Vermouth:**  The subtle whisper of dry vermouth, adding a faint, pale-yellow hue to the gin. * **Olive:** A single, plump green olive, resting elegantly on a cocktail stick or skewer, or perhaps submerged in the gin.  * **Presentation:**  The overall look of the drink.  Is it minimalist, with just the olive as a garnish? Or are there other embellishments, like a twist of lemon peel?  How does the condensation from the chilled glass contribute to the visual appeal? **Please provide a detailed description that evokes the visual beauty of this classic cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

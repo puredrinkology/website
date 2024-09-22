@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "fizz"
 visual: "## LLM Prompt: Describe the appearance of a Royal Gin Fizz**Imagine a tall, elegant glass filled with a refreshing, effervescent beverage. The drink is a pale, shimmering yellow, reminiscent of a sunny summer day. Tiny bubbles rise playfully from the bottom, creating a delicate fizz that dances on the surface. A wisp of frothy foam, like a delicate cloud, crowns the top of the drink. Nestled within the foam, you can faintly see a hint of pale yellow, likely from a thin layer of egg white.****The glass itself is a classic highball, its rim frosted with condensation, further accentuating the icy coolness of the drink. Perhaps a sprig of fresh mint or a lemon twist graces the rim, adding a touch of vibrant green or sunny yellow to the composition.****The overall appearance of the Royal Gin Fizz exudes a sense of sophistication and lightness. It's a cocktail that invites you to take a sip and savor its refreshing taste.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

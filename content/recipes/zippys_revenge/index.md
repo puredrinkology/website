@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "punch"
 visual: "## LLM Prompt: Describe the appearance of Zippy's Revenge, a cocktail made with Amaretto, Rum, and Kool-Aid. **Consider the following:*** **Color:**  What is the dominant color? Does it have any shades or variations?  * **Transparency:** Is it clear, cloudy, or opaque?* **Texture:** Is it smooth, layered, or does it have any visible ingredients? * **Garnish:**  What kind of garnish, if any, is typically used? * **Glassware:**  What type of glass would be most appropriate for this cocktail? * **Overall Impression:** What kind of mood does the appearance of this cocktail evoke? **Example:**Zippy's Revenge is a vibrant cocktail that bursts with color.  It's a deep red, almost burgundy, and has a slight cloudiness from the Kool-Aid. The drink is smooth and layered, with a hint of the Amaretto's golden hue peeking through the red.  A sugared rim and a maraschino cherry on a skewer add a touch of sweetness and whimsy.  Served in a classic cocktail glass, Zippy's Revenge evokes a playful and festive mood. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -27,6 +27,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "margarita"
 visual: "## LLM Prompt:Imagine a **Acapulco cocktail**.  It's a vibrant, layered drink with a touch of tropical flair. Describe the appearance of the drink in detail, focusing on:* **Color:** What shades are present? Is it a single color or multiple? How does the light play on the drink?* **Texture:**  Is it smooth, frothy, or icy? What kind of foam or bubbles are present?* **Garnish:**  What type of mint is used? Is it fresh and green, or bruised and slightly darker? How is it arranged? * **Glassware:**  What type of glass is it served in? How does the shape of the glass affect the presentation?* **Overall Impression:**  What is the overall aesthetic of the cocktail? Does it look refreshing, elegant, or playful? Please describe the Acapulco cocktail in vivid language, using sensory details to bring the image to life. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

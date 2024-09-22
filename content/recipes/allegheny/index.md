@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "bourbon"
 family: "sour"
 visual: "## LLM Prompt:**Describe the visual appeal of a cocktail called Allegheny based on the following ingredients:*** Dry Vermouth* Bourbon* Blackberry Brandy* Lemon Juice* Lemon Peel**Consider these aspects:*** **Color:** What overall hue does the cocktail have? Is it clear, cloudy, or layered? Are there any color gradients or variations?* **Texture:** Is the drink still, fizzy, or have any visible ingredients? * **Glassware:** What type of glass would best showcase the cocktail's appearance? * **Garnish:** How does the lemon peel affect the visual presentation? **Write your description as if you are a seasoned mixologist, emphasizing the subtle beauty of the cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

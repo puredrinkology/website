@@ -19,6 +19,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "highball"
 visual: "## LLM Prompt:Describe the appearance of a Cream Soda cocktail, made with spiced rum and ginger ale. Consider these aspects:* **Color:** What is the overall color of the drink? Is it a single, uniform color, or does it have variations or layers?* **Transparency:** Is the drink clear, cloudy, or opaque? * **Texture:**  Is the drink smooth, bubbly, or have any visible ingredients?* **Garnish:**  What garnishes, if any, are added to the cocktail? How do they affect the visual appeal? Please be descriptive and imaginative, capturing the essence of this unique cocktail. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

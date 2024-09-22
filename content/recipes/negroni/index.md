@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "negroni"
 visual: ""
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

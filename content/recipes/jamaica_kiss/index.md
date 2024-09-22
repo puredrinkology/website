@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: ""
 visual: "## LLM Prompt:**Imagine a cocktail called Jamaica Kiss made with coffee liqueur, light rum, ice, and milk. Describe its appearance in detail, focusing on its color, texture, and any visual elements. Consider the interplay of ingredients and how they contribute to the overall aesthetic.****For example, describe:*** **Color:** Is it a creamy brown, a milky white, or a layered drink with distinct hues? * **Texture:** Is it smooth and velvety, frothy and airy, or layered with distinct textures? * **Visual Elements:** Does it have a distinct head of foam, ice cubes floating in the glass, or a delicate drizzle of coffee liqueur?**Bonus:**  * If there are any garnishes, mention them and how they enhance the visual appeal.* Consider the type of glass used and how it affects the appearance. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

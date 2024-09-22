@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "sour"
 visual: "## LLM Prompt:Imagine a **Hawaiian Cocktail**, a vibrant blend of **gin**, **triple sec**, and **pineapple juice**. Describe the appearance of this drink, focusing on:* **Color:** What color is the drink? Does it have a hue or a shade, or does it have a specific color gradient? * **Texture:** Is the drink clear, cloudy, or frothy? Are there any visible elements like ice cubes or fruit pieces? * **Presentation:**  What kind of glass is it served in? Is it garnished with anything? Your description should evoke the tropical flavors and bright colors associated with Hawaii. Use descriptive language and vivid imagery to bring the cocktail to life. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

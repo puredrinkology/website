@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit:
 family: ""
 visual: "## LLM Prompt:**Imagine a cocktail called Jam Donut made with Baileys Irish Cream, Chambord Raspberry Liqueur, sugar syrup, and a sugar rim. Describe its appearance in detail, focusing on its color, texture, and any visual elements that contribute to its overall aesthetic.****Here are some hints to consider:*** **Color:** How does the combination of Baileys and Chambord affect the overall color? Is it a deep, rich hue or a more delicate shade? Does the sugar syrup add any dimension?* **Texture:** Is the drink smooth and creamy or more viscous? Does the sugar rim add any textural contrast?* **Visual Elements:** Does the drink have any interesting layers or swirls? How does the sugar rim enhance the visual appeal?**Your description should evoke a clear picture of the Jam Donut cocktail in the reader's mind.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

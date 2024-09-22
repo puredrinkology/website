@@ -34,6 +34,6 @@ has_alcohol: false
 base_spirit:
 family: "other"
 visual: "## LLM Prompt:Describe the visual appeal of a Drinking Chocolate cocktail. Consider the following ingredients:* **Heavy Cream:** Rich, creamy, and slightly opaque.* **Milk:** White and opaque.* **Cinnamon:** A light dusting, potentially with a hint of brown.* **Vanilla:** Not directly visible, but adding a subtle richness.* **Chocolate:** Depending on the type, it could be dark, milk, or white, adding depth and color.* **Whipped Cream:**  Fluffy and white, adding a delicate touch.**Focus on the following aspects:*** **Color:** What is the overall color of the drink? Is it a deep brown, a creamy white, or something in between?* **Texture:**  Is it smooth and velvety? Are there any visible layers or swirls? * **Garnish:** How does the whipped cream enhance the visual appeal? Are there any other garnish options that could be added?**Example:**The Drinking Chocolate is a decadent delight for the eyes. Its rich, dark brown hue, reminiscent of melted chocolate, is made even more inviting by the creamy white layer of whipped cream that sits atop. The cinnamon dusting adds a touch of warmth and complexity, while the subtle swirl of vanilla promises a lingering sweetness. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

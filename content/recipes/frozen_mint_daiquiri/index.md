@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "sour"
 visual: "## LLM Prompt:**Describe the appearance of a Frozen Mint Daiquiri. Imagine you are holding a chilled glass filled with this cocktail. What colors, textures, and details do you observe?****Consider:*** **Color:**  What shade of green is the drink? Is it a vibrant, almost neon green, or a more muted, grassy green? Is there any hint of white from the ice or froth?* **Texture:** Is the drink smooth and icy, or does it have a slightly chunky texture from the mint? Is there any condensation on the outside of the glass?* **Details:** Are there any visible flecks of mint leaves, or is it a completely blended, smooth drink? Does the glass have any frost clinging to it, or does it have a clear appearance? Are there any decorative elements, like a lime wedge or a sprig of mint, enhancing the visual appeal? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

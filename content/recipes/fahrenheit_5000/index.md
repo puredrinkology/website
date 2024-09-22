@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit:
 family: ""
 visual: "## LLM Prompt:Imagine a cocktail named Fahrenheit 5000, a fiery concoction born of the following ingredients: **Firewater**, a high-proof spirit with a smoky, almost charred aroma, **Absolut Peppar**, a vodka infused with black peppercorns, and a dash of **Tabasco Sauce**. **Describe the appearance of this cocktail in detail.** Consider the following aspects:* **Color:** What shades does the mixture take on, from the depths to the rim? Does it have any hints of shimmer or opacity? * **Texture:** Is it smooth and clear, or does it have a cloudy appearance? Are there any visible particles?* **Presentation:** How is the cocktail served? In a chilled glass? A stemmed martini glass? Does it have any garnishes?**Bonus:** Imagine the cocktail is sitting on a bar countertop in a dimly lit environment. How would the lighting and atmosphere impact its visual appeal? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

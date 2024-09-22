@@ -18,6 +18,6 @@ has_alcohol: true
 base_spirit:
 family: ""
 visual: "## LLM Prompt:**Describe the appearance of an Iced Coffee Fillip cocktail. It is made with Kahlua, coffee, and ice. Be specific about the color, texture, and any embellishments. Consider the light conditions and how they impact the visual appeal.****Here are some guiding questions to consider:*** Is the drink served in a tall glass or a short glass?* What is the ratio of Kahlua to coffee, and how does this affect the overall color? * How does the ice melt and interact with the drink's appearance?* Are there any layers or gradients within the drink?* Is there any garnish or embellishment, and how does it affect the visual appeal? * What kind of lighting would enhance the drink's appearance?**Please provide a detailed and descriptive response, focusing on the drink's visual appeal.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

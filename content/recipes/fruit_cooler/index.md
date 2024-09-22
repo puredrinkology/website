@@ -34,6 +34,6 @@ has_alcohol: false
 base_spirit:
 family: "punch"
 visual: "## LLM Prompt:Imagine a tall, frosty glass filled with a vibrant **pink-hued concoction**. The base is a **deep, ruby red** from the strawberries, **brightened** by the **sparkling, almost transparent** soda water. Tiny **red strawberry slices** and **apple chunks** bob playfully amongst the ice, adding a touch of **rustic charm**. A **thin, glistening lemon wedge** hangs from the rim, offering a subtle hint of **tartness** against the sweet, fruity backdrop. The **cloud of condensation** on the glass speaks to the **refreshing chill** within, making it a **perfect summer drink**. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "wine"
 family: "highball"
 visual: "## LLM Prompt: Describe the appearance of a cocktail called Smut**Context:** Smut is a cocktail made with Red Wine, Peach Schnapps, Pepsi Cola, and Orange Juice. **Prompt:** Imagine a glass filled with a cocktail called Smut.  Describe the visual appearance of this drink. Consider factors like:* **Color:** What are the dominant colors in the drink? Are there layers or gradients? * **Clarity:** Is the drink clear, cloudy, or opaque?* **Texture:**  Are there any bubbles, foam, or layers? * **Garnish:** What garnish, if any, is used to enhance the visual appeal of the drink?**Example Output:** The Smut is a vibrant cocktail with a rich, reddish-brown hue, layered with darker shades of brown and hints of orange peeking through. The drink is slightly cloudy with fine bubbles rising from the bottom. A thin slice of orange peel curls gracefully on the rim, adding a touch of citrusy elegance. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

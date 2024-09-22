@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "martini"
 visual: "## LLM Prompt:**Describe the appearance of the Queen Elizabeth cocktail, considering the following ingredients: Dry Vermouth, Gin, Benedictine.****Focus on the following aspects:*** **Color:** Is it clear, pale yellow, golden, amber? What kind of hue does it have?* **Clarity:** Is it completely transparent or slightly cloudy? Are there any visible particles?* **Texture:** Is it smooth, oily, or slightly viscous? * **Garnish:** What kind of garnish would complement the flavors and visually appeal? (Consider classic garnishes or something unique) * **Overall Impression:** What is the overall visual appeal of the cocktail? Is it elegant, sophisticated, classic, or modern?**Remember:** * Use descriptive language that evokes imagery.* Consider the specific flavors of the ingredients and how they might translate visually.* Be creative and imaginative in your description. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

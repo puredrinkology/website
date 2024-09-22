@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: "sour"
 visual: "## LLM Prompt for Tipperary Cocktail Description:**Imagine a classic Tipperary cocktail.  Describe its appearance using vivid language, focusing on the following aspects:*** **Color:** What shade of green does the cocktail exhibit? Is it a vibrant emerald, a muted moss green, or something in between?* **Clarity:** Is the cocktail clear, or does it have any cloudiness or sediment?* **Texture:** Is it smooth and viscous, or does it have a more watery consistency?* **Garnish:**  What garnish is typically used with a Tipperary, and how does it enhance the overall visual appeal?* **Glassware:**  What type of glass is the cocktail served in? How does the shape and size of the glass contribute to its visual presentation?**Bonus:** Can you capture the overall mood and feel of the cocktail in your description? Is it sophisticated, rustic, or perhaps both? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

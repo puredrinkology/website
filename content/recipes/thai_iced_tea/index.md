@@ -29,6 +29,6 @@ has_alcohol: false
 base_spirit:
 family: ""
 visual: "## LLM Prompt:Imagine a tall glass filled with a vibrant orange liquid, the color of a fiery sunset. Tiny ice cubes clink gently against the glass, creating a mesmerizing symphony of sound. The surface of the liquid is adorned with a delicate layer of foamy cream, reminiscent of a fluffy cloud. A few sprigs of fresh mint, their green leaves contrasting beautifully with the orange backdrop, add a touch of elegance and a hint of their refreshing aroma. This is **Thai Iced Tea**, a visually stunning cocktail that embodies the essence of Thailand's vibrant culture and flavors. Describe this scene in vivid detail, capturing the nuances of color, texture, and aroma. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

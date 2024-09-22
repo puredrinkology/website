@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "spirit-forward"
 visual: "## LLM Prompt:**Describe the appearance of a Martinez 2 cocktail, considering its ingredients:*** **Gin:** Clear, colorless spirit.* **Sweet Vermouth:** Amber-colored, slightly viscous.* **Maraschino Liqueur:** Transparent, light cherry red.* **Angostura Bitters:** Dark brown, slightly viscous.**Consider the following aspects:*** **Color:** What is the overall color of the cocktail? Is it clear, amber, or reddish?* **Clarity:** Is the cocktail clear or slightly cloudy?* **Texture:** Is the cocktail oily, syrupy, or watery?* **Garnish:** Describe the garnish (if any) and how it interacts with the cocktail visually.**Example:**The Martinez 2 is a cocktail that displays a beautiful, rich amber hue.  Its clarity is slightly hazy due to the Maraschino Liqueur, creating a subtle depth to its appearance. The texture is smooth and slightly syrupy, with a thin layer of oily richness on top. A single cherry, perched on the rim of the glass, adds a vibrant crimson contrast to the warm amber of the cocktail. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -26,6 +26,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "sour"
 visual: "## LLM Prompt:**Describe the appearance of a Casino Royale cocktail. Focus on the following aspects:*** **Color:** What is the overall color of the drink? Is it clear, cloudy, or layered? What are the shades of color present?* **Texture:** Is the drink smooth, frothy, or layered? Does it have any visible bits of egg white?* **Garnish:** Is there a garnish on the drink? If so, what is it and how is it presented?* **Glass:** What type of glass is the cocktail served in?  Is it a traditional cocktail glass, a coupe, or something else? **Consider the following when crafting your description:*** The Casino Royale is a stirred cocktail, so it should have a smooth and elegant appearance. * The egg yolk adds richness and a slight cloudiness to the drink. * The lemon juice provides a bright and tangy flavor, while the Maraschino Liqueur adds a hint of sweetness.* The orange bitters add a complex and slightly bitter flavor, but their color is not as prominent.**Write your description in a way that is both descriptive and evocative, capturing the essence of a classic and sophisticated cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

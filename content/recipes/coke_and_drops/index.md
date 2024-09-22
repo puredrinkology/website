@@ -19,6 +19,6 @@ has_alcohol: false
 base_spirit:
 family: "highball"
 visual: "## LLM Prompt for Coke and Drops Cocktail Description:**Prompt:** Imagine a tall glass filled with **classic Coca-Cola**, its dark amber hue shimmering under the light.  The surface is punctuated by **tiny, sparkling bubbles** rising to the top, creating a delicate effervescence.  A **splash of vibrant lemon juice** sits at the bottom of the glass, its pale yellow color contrasting sharply with the cola. The **two liquids remain separate**, creating a layered effect, with the lemon juice acting as a bright, citrusy base for the dark, sweet cola.  **Describe this visual scene in detail, using sensory language to capture the appearance, texture, and overall feeling of this Coke and Drops cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

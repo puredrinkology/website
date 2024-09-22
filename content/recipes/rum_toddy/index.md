@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "sour"
 visual: "## LLM Prompt for Rum Toddy Description:**Please describe the appearance of a Rum Toddy, considering the following:*** **Base:** A warm, amber-colored liquid, likely with a slight cloudiness from the sugar.* **Glass:** Typically served in a heat-resistant mug or glass.* **Garnish:** A thin lemon peel, possibly twisted or curled, floating on the surface. * **Other details:** Mention if there is any condensation on the outside of the glass, or any steam rising from the warm drink. **Example:**Imagine a steaming mug filled with a rich, amber-hued liquid. The warm, inviting glow is slightly muted by a gentle cloudiness from the dissolved sugar. A delicate lemon peel, twisted and curled, sits atop the surface, releasing a subtle citrus aroma. Condensation forms on the outside of the mug, hinting at the comforting heat within. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

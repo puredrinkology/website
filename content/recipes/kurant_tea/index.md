@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit:
 family: ""
 visual: "## LLM Prompt for Kurant Tea Cocktail Description**Imagine a cocktail called Kurant Tea made with Absolut Kurant, tea, and sugar. Describe the cocktail's appearance in detail. Consider the following aspects:*** **Color:**  Is the drink light and refreshing, or dark and bold? Does the color evoke the flavors of the ingredients? * **Texture:** Is it clear, cloudy, or layered? Does it have any visible elements, like fruit slices or ice?* **Appearance of the glass:**  What type of glass does it best suit? Does it have a rim, a garnish, or any specific presentation? * **Overall Impression:** What is the overall aesthetic of the cocktail? Does it feel sophisticated, casual, or something else entirely? **Please provide a vivid and detailed description of the Kurant Tea cocktail's appearance based on these factors.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

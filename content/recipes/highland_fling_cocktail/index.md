@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: "spirit-forward"
 visual: "##  LLM Prompt:Imagine a classic cocktail glass filled with a deep amber liquid, the color of a sun-kissed Highland glen. The surface is adorned with a delicate film of orange oil, reminiscent of the citrus groves of the Mediterranean. Nestled within the depths of the drink rests a single, plump olive, its briny green hue a sharp contrast to the warm tones of the cocktail. **Describe this image in detail, focusing on:*** The **color** of the liquid and the **texture** of the surface.* The **shape** of the glass and the **placement** of the olive.* The **overall impression** the cocktail gives, evoking feelings of sophistication, warmth, and tradition. **Bonus:** Include a line or two about the **aroma** of the cocktail, hinting at the smoky notes of the Scotch, the herbal sweetness of the Vermouth, and the bitter citrus of the orange bitters. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

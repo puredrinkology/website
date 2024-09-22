@@ -27,6 +27,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "highball"
 visual: "##  LLM Prompt for a Mojito Description:Imagine a tall glass filled with crushed ice, the surface glistening with condensation.  The glass is adorned with a vibrant green hue, created by a lush cluster of fresh mint leaves delicately muddled with lime wedges.  A clear, light rum rests beneath, creating a subtle golden shimmer.  The entire concoction is topped with sparkling soda water, forming a hazy, effervescent crown.  A sprig of fresh mint and a slice of lime garnish the rim, adding a final touch of freshness and elegance.  **Describe the Mojito, capturing its refreshing color, vibrant texture, and the interplay of its ingredients.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

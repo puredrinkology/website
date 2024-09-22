@@ -19,6 +19,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "other"
 visual: "## LLM Prompt: Describe the Rum Screwdriver**Imagine a tall glass filled with a vibrant orange liquid. The color is reminiscent of a sunrise, with a subtle hint of gold shimmering through. The drink is topped with a generous amount of ice, creating a mesmerizing cascade of condensation down the glass. The edges of the ice cubes are frosted with a delicate layer of frozen orange juice, giving the drink a textural element. The glass is adorned with a thin slice of orange, its vibrant orange peel adding a touch of citrusy elegance. What is the name of this cocktail?** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

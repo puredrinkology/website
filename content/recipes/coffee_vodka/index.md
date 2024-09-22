@@ -33,6 +33,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: ""
 visual: "## LLM Prompt: **Describe the appearance of a Coffee-Vodka cocktail made with water, sugar, coffee, vanilla, vodka, and caramel coloring. Focus on the following:*** **Color:** What is the overall color of the cocktail? Is it a deep, rich brown? A lighter, amber hue? Does it have any specific shades or highlights?* **Clarity:** Is the cocktail clear, cloudy, or layered? Are there any visible particles or sediments?* **Texture:** Is the cocktail viscous or watery? Does it have a creamy texture? Is there a distinct head or foam?* **Garnish:** What, if any, garnish is used to enhance the visual appeal of the drink? **Please provide a descriptive and evocative response, capturing the essence of this cocktail's visual appeal.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

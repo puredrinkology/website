@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: ""
 visual: "## LLM Prompt for Describing Jamaican Coffee Cocktail:**Imagine a tall, elegant glass filled with a rich, dark brown liquid. The surface shimmers with a thick layer of velvety whipped cream, its pristine white a stark contrast to the coffee depths below. The aroma is intoxicating, a blend of sweet rum, robust coffee, and the hint of a tropical breeze. The whipped cream is adorned with a delicate sprinkle of cinnamon, adding a touch of warmth and spice to the visual feast. What would you say about the appearance of this Jamaican Coffee cocktail?** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

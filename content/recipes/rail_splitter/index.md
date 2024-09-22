@@ -21,6 +21,6 @@ has_alcohol: false
 base_spirit:
 family: "highball"
 visual: "##  LLM Prompt: **Describe the appearance of a Rail Splitter cocktail, a refreshing drink made with sugar syrup, lemon juice, and ginger ale. Consider the following aspects:*** **Color:** What is the overall hue of the drink? Is it light or dark? Does it have any specific shades or tints?* **Clarity:** Is the drink clear or cloudy? Does it have any visible particles?* **Texture:**  Is the drink smooth or bubbly? Are there any layers or gradients?* **Garnish:** Does the drink have any garnishes? If so, describe them and their placement.* **Glassware:** What type of glass is the drink typically served in?**Example:**The Rail Splitter presents a vibrant, effervescent yellow hue.  Its clarity is pristine, showcasing the gentle bubbles that rise from its depths. The drink is topped with a sprig of fresh mint, its emerald green leaves adding a touch of color and aroma. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -29,6 +29,6 @@ has_alcohol: false
 base_spirit:
 family: ""
 visual: "## LLM Prompt:**Imagine a glass filled with a thick, creamy concoction, the color of a soft, sun-kissed cloud. Its surface shimmers with tiny ice crystals, like a dusting of snow. The drink is subtly layered, with a pale, almost translucent liquid at the bottom, hinting at the tangy lime and the cool, refreshing salt.  A light sprinkle of sugar crystals adds a touch of sparkle, suggesting the sweet undertones of this unique beverage. Describe this Lassi Raita in detail, capturing its visual appeal and texture.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

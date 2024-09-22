@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "bourbon"
 family: "other"
 visual: "## LLM Prompt:Imagine a **Kentucky Colonel** cocktail, a vibrant blend of golden **Bourbon** and rich, amber **Benedictine**, kissed with the subtle essence of **lemon peel**.  **Describe the visual appeal of this cocktail.** * What is the **overall color** of the drink? * Is it **clear, cloudy, or layered**? * What is the **texture** like? * Are there any **visible elements** like ice cubes, fruit garnishes, or a lemon twist? * How does the **light play** off the drink? Focus on using **vivid and descriptive language** to paint a picture of the Kentucky Colonel's visual allure. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

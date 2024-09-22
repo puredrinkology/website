@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "highball"
 visual: "## LLM Prompt:**Describe the visual appeal of a Happy Skipper cocktail. Imagine a tall glass filled with ice, a vibrant amber-colored Spiced Rum, topped with bubbly Ginger Ale, and a wedge of Lime. Focus on the following aspects:*** **The color and clarity of the drink:** How does the amber rum blend with the clear ginger ale? Is it layered or does it create a single, mixed hue? * **The texture and movement:**  Does the ginger ale create a bubbly head? What happens when the lime wedge is squeezed? * **The interplay of light:** Does the ice sparkle in the glass? How does the light refract through the rum and ginger ale? * **The overall impression:**  Does the cocktail evoke a sense of refreshing lightness or a festive warmth? **Remember to use evocative language and sensory details to paint a vivid picture of this tropical cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "highball"
 visual: "## Prompt:Describe the appearance of a classic Gin Tonic. Imagine a tall, slender glass filled with ice. The gin, clear and crisp, sits nestled among the ice cubes. What does the tonic water look like as it is poured in?  Is it clear, or does it have a subtle hint of color? How does the lemon peel garnish affect the overall appearance?  Consider the light reflecting off the ice and the condensation forming on the glass. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

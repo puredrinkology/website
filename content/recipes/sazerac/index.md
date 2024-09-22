@@ -29,6 +29,6 @@ has_alcohol: true
 base_spirit: "bourbon"
 family: "sour"
 visual: "## LLM Prompt: Describe the Appearance of a SazeracImagine a classic cocktail glass, chilled and gleaming. Inside, nestled in a bed of ice, sits a deep amber liquid, its color reminiscent of polished mahogany.  A fine, almost imperceptible haze hangs above the surface, hinting at the absinthe's presence. Tiny, shimmering bubbles rise from the depths, their movement mimicking the rhythmic swirl of a starlit sky. The rim of the glass, coated in a delicate layer of sugar, glistens with a frosted elegance. The overall impression is one of sophistication and complexity, a visual representation of the rich history and bold flavors within. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

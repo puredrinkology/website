@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "highball"
 visual: "## LLM Prompt for AT&T Cocktail Description:**Imagine a tall, slender glass filled with a sparkling, light blue liquid. The liquid is effervescent, with tiny bubbles rising to the surface and bursting with a soft fizz.  The glass is adorned with a thin slice of lime, its green hue contrasting beautifully with the vibrant blue.  The ice cubes, clear and pristine, clink softly as they gently jostle against the glass.  **What does the aroma of this drink evoke?**  Is it fresh and citrusy, with a hint of juniper?  Or does it carry a subtle floral note, perhaps from the tonic water?  **Finally, describe the taste.  Is it crisp and refreshing, with a subtle hint of sweetness balanced by a smooth, vodka-forward finish?  Or does the gin leave its mark, imparting a more pronounced juniper flavor?** Please provide a detailed and evocative description of the AT&T cocktail, focusing on its visual, olfactory, and taste aspects.  "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

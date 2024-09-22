@@ -26,6 +26,6 @@ has_alcohol: true
 base_spirit:
 family: "other"
 visual: "## LLM Prompt:Imagine a tall, slender glass filled with a vibrant symphony of colors. At the bottom, a deep ruby red pool of **Cherry Heering** shimmers, reflecting the light like a polished gemstone. Above, a cascade of sparkling **soda water** dances with the red, creating a playful gradient of crimson and white. A touch of sunshine arrives in the form of **orange juice**, adding a golden glow to the top of the drink,  creating a beautiful layering effect. The whole concoction is crowned with a halo of **ice**, reflecting the light and adding a touch of cool, crispness. **Describe this scene as a cocktail named Darkwood Sling.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

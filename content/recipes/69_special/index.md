@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "highball"
 visual: "## LLM Prompt:**Describe the appearance of a cocktail called 69 Special using the following information:*** **Ingredients:** Gin, 7-Up, Lemon Juice* **Assume:** The cocktail is served in a highball glass with ice.* **Focus on:**    * The color and clarity of the drink.    * The presence of any layers or separation.    * The texture and appearance of the ice.    * Any garnishes that might be included.    * The overall aesthetic appeal of the drink.**Example:**The 69 Special is a refreshing and visually appealing cocktail. It presents a vibrant, pale yellow hue due to the combination of gin and 7-Up, with a slight cloudiness from the lemon juice.  The drink is clear and free of any layers or separation, indicating that the ingredients have blended well.  A few large, clear ice cubes gently clink against the side of the glass, creating a soothing auditory experience. The glass is garnished with a twist of lemon peel, adding a subtle citrus aroma to the visual and olfactory senses.  Overall, the 69 Special presents a light and inviting appearance, promising a refreshing and enjoyable cocktail experience. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

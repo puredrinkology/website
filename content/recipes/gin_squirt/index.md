@@ -28,6 +28,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "fizz"
 visual: "## LLM Prompt:**Imagine a cocktail called Gin Squirt made with gin, grenadine, powdered sugar, pineapple, strawberries, and carbonated water. Describe the appearance of this cocktail, focusing on its color, texture, and any visible elements.****Here are some prompts to consider:*** **Color:** Is the cocktail primarily red, pink, orange, or a blend of these? Does it have a cloudy or clear appearance? * **Texture:** Is it a smooth, silky liquid, or does it have a foamy or bubbly head? Are there any visible chunks or particles from the fruit?* **Visible elements:** Are there slices of pineapple or strawberry floating in the drink? Is the powdered sugar dissolved or visible as a dusting on top? **Example output:**The Gin Squirt is a vibrant, blush-pink cocktail with a delicate, almost milky texture. A layer of froth sits atop the drink, faintly tinged with a coral hue.  Tiny flecks of strawberry pulp dance in the light, while a slice of pineapple rests on the rim, adding a touch of tropical flair.  A fine dusting of powdered sugar rests upon the surface, like a delicate snowfall. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

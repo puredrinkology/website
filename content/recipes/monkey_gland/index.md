@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "sour"
 visual: "## LLM Prompt for Describing the Appearance of a Monkey Gland Cocktail:**Imagine a Monkey Gland cocktail, crafted with gin, Benedictine, orange juice, and grenadine. Describe its appearance in detail, focusing on:*** **Color:** What is the overall hue of the drink? Is it a single color, or does it have layers or gradients? * **Clarity:** Is the drink clear, cloudy, or layered with different textures? * **Texture:** Does the drink have any visible bubbles, froth, or ice? How does the light interact with the surface? * **Garnish:** Does the drink have a garnish, and if so, what is it and how does it contribute to the overall visual appeal? **For example, you might describe the drink as:*** A deep amber color with a distinct reddish-orange hue at the top, created by the layered grenadine.* Slightly cloudy due to the addition of orange juice, but with a smooth, almost silky texture.* Decorated with a small orange peel twist, which adds a vibrant touch of color and a subtle citrus aroma. **Bonus:** * Describe the drink's visual appeal using metaphors and similes.*  How does the appearance of the Monkey Gland cocktail suggest its flavor profile? By focusing on these details, you'll create a vivid and engaging description of this classic cocktail. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit:
 family: "other"
 visual: "## LLM Prompt: Describe the visual appeal of the Mauresque cocktail, crafted with Ricard, Orgeat Syrup, and water. **Consider these aspects in your description:*** **Color:** How does the combination of Ricard's anise-tinged yellow and Orgeat syrup's milky white play out? Is the drink a vibrant yellow, a hazy pale yellow, or something else entirely?* **Texture:** How does the water affect the overall texture? Is the drink clear and refreshing, or does it have a slight cloudiness?* **Presentation:** Would you serve this drink in a tall glass with ice, or a coupe glass for a more elegant presentation? Does the ice melt and create a dilution effect, or is it best enjoyed neat?* **Other visual elements:** Does the drink have a distinct aroma that contributes to its overall appeal? Does it evoke any particular imagery, like a sunset over the Mediterranean or a fragrant blossom?**Overall, aim for a description that captures the Mauresque's visual essence, enticing readers to imagine its appearance and taste.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

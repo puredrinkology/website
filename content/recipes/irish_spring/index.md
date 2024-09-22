@@ -27,6 +27,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: "sour"
 visual: "## LLM Prompt:**Describe the appearance of an Irish Spring cocktail. This drink is made with Irish whiskey, peach brandy, orange juice, sweet and sour mix, an orange slice, and a maraschino cherry.****Focus on:*** **Color:** What is the overall color of the drink? Is it vibrant, muted, or something in between? * **Clarity:** Is the drink clear, cloudy, or layered? * **Texture:** Does the drink have any visible foam, bubbles, or ice?* **Garnish:** Describe the orange slice and cherry in detail. What are their sizes and positions?* **Overall impression:** How would you describe the overall visual appeal of the cocktail? Is it elegant, festive, refreshing, or something else? **Example:**The Irish Spring is a vibrant orange cocktail with a light cloud of foam resting atop. The color is reminiscent of a summer sunset, with a hint of golden amber peeking through the frothy top.  A thick orange slice, with its peel curled inwards, rests on the edge of the glass, while a plump maraschino cherry clings to the rim, its red hue a delightful contrast to the orange. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

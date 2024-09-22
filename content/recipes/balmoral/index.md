@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: "spirit-forward"
 visual: ""
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

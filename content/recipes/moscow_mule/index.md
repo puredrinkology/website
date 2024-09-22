@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "highball"
 visual: "## LLM Prompt: Describe the appearance of a Moscow Mule.**Imagine a tall, copper mug filled with a refreshing cocktail. The drink is a light, pale amber color with a subtle effervescence, giving it a hazy, sparkling quality.  A thin slice of lime rests on the rim, its green color contrasting beautifully with the copper.  The drink is topped with a generous amount of ice, which creates condensation on the outside of the mug, making it appear even colder and more inviting.****Bonus:**  * **Describe the texture of the drink:**  Is it smooth, bubbly, or slightly icy?* **Include details about the aroma:**  Does it have a strong ginger scent, a hint of lime, or a subtle vodka note? * **Mention any specific details you can see, like condensation, the type of ice, or the clarity of the drink.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

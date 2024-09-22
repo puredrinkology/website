@@ -21,6 +21,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "spirit-forward"
 visual: ""
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

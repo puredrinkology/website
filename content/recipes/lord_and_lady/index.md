@@ -19,6 +19,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "other"
 visual: "## LLM Prompt: **Describe the appearance of a Lord and Lady cocktail, made with dark rum and Tia Maria. Consider:*** **Color:** What is the overall color of the drink? Is it deep and rich, or lighter and more translucent? Are there any layers or gradients in the color?* **Texture:** Is the drink clear and smooth, or does it have a thicker, more syrupy texture? Are there any visible particles or sediment? * **Presentation:**  Is the drink served in a specific type of glass? What kind of garnishes might be added? How does the presentation enhance the overall visual appeal of the drink? **Be descriptive and use vivid language to paint a picture of this cocktail's visual appeal.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

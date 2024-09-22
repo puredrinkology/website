@@ -29,6 +29,6 @@ has_alcohol: true
 base_spirit:
 family: "highball"
 visual: "## Zoksel Cocktail Description Prompt:Imagine a Zoksel, a cocktail blending **[Beer, Root Beer, Lemonade, Coca-Cola, 7-Up, Creme De Cassis, Lemon]**.  Describe the **color**, **clarity**, and **texture** of this concoction.  Is it vibrant and layered, or a homogenous murky mix? Does it have a frothy head, or a smooth, velvety finish?  Are there any visible ingredients like fruit chunks or ice? Focus on evoking the **sensory experience** of seeing this cocktail for the first time. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

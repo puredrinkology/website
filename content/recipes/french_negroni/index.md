@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "spirit-forward"
 visual: "## LLM Prompt for Describing the French Negroni**Prompt:**Imagine a classic Negroni, but with a softer, more approachable character.  **Describe the appearance of a French Negroni cocktail, focusing on these details:*** **Color:**  What is the overall color of the cocktail? Is it clear, cloudy, or layered? What kind of hue does it have? * **Texture:**  Is it smooth, thick, or have a slight sheen?* **Garnish:** The cocktail is garnished with an orange peel.  How does the orange peel add to the visual appeal? * **Glassware:**  The French Negroni is usually served in a classic rocks glass. How does the shape of the glass influence the overall appearance of the cocktail?**Bonus:**  Can you incorporate the names of the ingredients (Gin, Lillet, Sweet Vermouth) into the description to add further detail and depth? **Example:***The French Negroni appears as a captivating amber hue, kissed with the subtle warmth of the sweet vermouth. Its smooth, silky texture is reminiscent of the gin's botanicals, while the orange peel garnish adds a splash of vibrant orange to the otherwise sophisticated presentation.* "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

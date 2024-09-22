@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: ""
 visual: "## LLM Prompt:**Context:** Imagine you are a seasoned mixologist, renowned for your ability to create beautiful and delicious cocktails.  You've just finished crafting a Texas Sling – a cocktail made with Kahlua, Irish Cream, Amaretto, 151 Proof Rum, and cream. **Prompt:** Describe the appearance of the Texas Sling in detail. Consider the following aspects:* **Color:** What is the overall color of the drink? Does it have any distinct layers? * **Texture:** Is it smooth and creamy? Does it have any visible pieces of ice? * **Presentation:** Is the drink served in a specific glass? How is it garnished? * **Overall Impression:** What is the overall visual appeal of this cocktail? Does it look inviting and delicious?**Bonus:** Include specific details that evoke the Texas Sling name, such as elements that might remind you of the state of Texas. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

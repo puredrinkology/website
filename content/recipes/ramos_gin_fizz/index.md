@@ -34,6 +34,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "fizz"
 visual: "## LLM Prompt: Describe the Ramos Gin Fizz**Imagine a tall, frosted glass filled with a frothy, cloudy concoction. The drink is a pale, almost milky white, with delicate bubbles rising to the surface. Hints of lemon zest and a subtle shimmer of the gin's reflection can be seen through the haze.****Focus on the following details:*** **Texture:** Is the foam light and airy, or dense and creamy? How does it contrast with the liquid underneath?* **Color:**  Is the white a pure, bright white, or does it have a slight yellow or pink hue?* **Clarity:** How much of the liquid can be seen through the foam? Are there any visible ingredients, like lemon zest or ice?* **Overall impression:** Does the drink look refreshing and summery, or rich and decadent? What kind of mood does it evoke?**Please provide a descriptive paragraph that captures the visual essence of a Ramos Gin Fizz.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

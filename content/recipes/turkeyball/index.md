@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit:
 family: ""
 visual: "## LLM Prompt: Imagine a **Turkeyball** cocktail. It's a blend of **Wild Turkey bourbon**, **Amaretto**, and **pineapple juice**. **Describe the visual appearance of this cocktail in detail:*** **Color:** What shade of brown, amber, or yellow does it have? Is it translucent or opaque?* **Texture:** Is it smooth and silky, or does it have a more cloudy or frothy texture? Are there any visible layers?* **Garnish:** If any, what garnish is used? Is it a simple cherry, a pineapple wedge, or something more creative? How does the garnish enhance the visual appeal?* **Overall impression:**  Does the cocktail appear inviting and refreshing, or rich and decadent? What kind of mood or atmosphere does it evoke? **Please be specific and descriptive in your response, using vivid language to paint a picture of the Turkeyball cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

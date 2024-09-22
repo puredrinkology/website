@@ -27,6 +27,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "fizz"
 visual: "## LLM Prompt:**Describe the appearance of a Chicago Fizz cocktail. Consider the following components and their interactions:*** **Light Rum:** What color does it contribute to the overall drink? Does it affect the clarity or create any layers?* **Port:** How does the color of the Port affect the cocktail's overall hue? Does it add depth or complexity?* **Lemon:** What role does lemon juice play in the appearance? Does it contribute to a cloudy or clear texture?* **Powdered Sugar:** Does the sugar dissolve fully or create any visual effect?  Does it contribute to any texture?* **Egg White:** How does the egg white foam affect the appearance? Is it a consistent foam or does it have any interesting patterns?* **Carbonated Water:** What effect does the carbonation have on the overall texture and appearance? Does it create any bubbles or fizzing?**Finally, describe the overall look of the Chicago Fizz. Is it vibrant, elegant, refreshing, or something else?** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

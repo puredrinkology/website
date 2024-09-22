@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "fizz"
 visual: "## LLM Prompt:**Imagine a Royal Fizz cocktail, a vibrant concoction made with gin, sweet and sour mix, egg white, and Coca-Cola. Describe its appearance in detail, paying attention to:*** **Color:**  Is it a bright, bubbly orange? A hazy, creamy beige? Does the Coca-Cola create a dark, almost black layer at the bottom?* **Texture:** Is it a smooth, silky foam? Does the egg white create a fluffy, airy head? Are there any visible bubbles from the Coca-Cola? * **Clarity:** Is it crystal clear or does it have a slightly cloudy appearance? * **Garnish:**  Is it adorned with a citrus twist, a cherry, or a sprig of mint? What color and shape does the garnish have?**Write your description in a way that evokes the sense of a delicious, refreshing drink. Consider using sensory language and metaphors to bring the cocktail to life.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

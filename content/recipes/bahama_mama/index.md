@@ -30,6 +30,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "punch"
 visual: ""
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

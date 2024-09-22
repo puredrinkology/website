@@ -21,6 +21,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "highball"
 visual: "## LLM Prompt:**Imagine a refreshing summer cocktail named Ice Pick. It's a visually appealing blend of:*** **Vodka:** Clear and crisp, shimmering with a slight icy sheen.* **Iced Tea:**  A deep, amber hue, with subtle hints of gold depending on the tea used.* **Lemon Juice:**  A vibrant yellow, adding a touch of acidity and freshness.**Describe the appearance of the Ice Pick cocktail. Consider the following:*** **Color:**  Is it a uniform blend, or does it have layers?* **Clarity:**  Is it crystal clear, or slightly cloudy?* **Texture:**  Is it smooth or does it have a slight fizz?* **Garnish:**  What could enhance its visual appeal? (e.g., lemon wedge, sprig of mint)**Please provide a detailed description of the cocktail's appearance, incorporating sensory details and evocative language. For example, The Ice Pick shimmers with a pale gold hue, its clarity mirroring the glistening ice cubes, while a delicate lemon twist adds a touch of vibrancy.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

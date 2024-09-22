@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "other"
 visual: "## LLM Prompt: Describe the appearance of the Queen Bee cocktail**The Queen Bee cocktail is a vibrant, layered drink with a distinct and elegant appearance. It is made with the following ingredients:*** **Coffee Brandy:**  A rich, brown spirit with notes of coffee and caramel.* **Lime Vodka:** A clear vodka infused with the bright, citrusy flavor of lime.* **Sherry:**  A fortified wine, which can range from light and dry to dark and nutty.**Please describe the following:*** **Color:** What are the different layers of color in the drink? Are they distinct or do they blend together? What is the overall impression of the color?* **Texture:** Is the drink clear or cloudy? Are there any visible particles? * **Garnish:** How does the garnish contribute to the overall visual appeal? Does it add color, texture, or scent? * **Glassware:** What type of glass is the cocktail served in? How does the shape and size of the glass enhance the visual presentation?**Example:**Imagine a Queen Bee cocktail served in a classic coupe glass. The bottom layer, a deep brown coffee brandy, forms a rich base. Above it rests a translucent layer of lime vodka, its light green hue creating a distinct contrast. The top layer, a pale gold sherry, provides a final touch of elegance, subtly blending with the lime vodka.  A delicate lime twist, its green rind curling gracefully, adds a final flourish to the drink, providing a burst of citrus aroma. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

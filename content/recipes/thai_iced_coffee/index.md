@@ -26,6 +26,6 @@ has_alcohol: false
 base_spirit:
 family: ""
 visual: "## LLM Prompt: Describe the visual appeal of a Thai Iced Coffee. Imagine a tall glass filled with the beverage. Consider the following elements:* **Color:** What shades of brown and cream are present? How does the color gradient look?* **Texture:** Is the surface smooth or frothy? Are there any visible layers or swirls? * **Clarity:** Is the coffee clear or opaque? Does it have any visible particles? * **Garnish:** Is there any garnish on top? How does it affect the overall visual impression? **Example:** The Thai Iced Coffee sits in a tall glass, showcasing a deep, rich brown hue at the bottom, gradually transitioning to a lighter, milky cream at the top. The surface is topped with a delicate layer of froth, subtly swirling with the coffee underneath. The coffee itself is slightly opaque, hinting at the cardamom spice within. A sprig of mint adds a touch of freshness and vibrant green to the composition. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

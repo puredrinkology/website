@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "highball"
 visual: "## LLM Prompt: Describe the Gin and SodaImagine a tall, elegant glass filled with ice. The crystal clarity of the ice is slightly obscured by a pale, shimmering liquid - gin, its subtle juniper notes just visible in the light. Above the gin, a cascade of effervescent soda water rises, creating a playful, bubbly texture. A thin sliver of lime, expertly squeezed, floats on the surface, its vibrant green contrasting beautifully with the clear drink. The rim of the glass is lightly frosted, hinting at the refreshing coolness within. Describe the overall appearance of this Gin and Soda, paying close attention to the color, texture, and any visual details that evoke its refreshing nature. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

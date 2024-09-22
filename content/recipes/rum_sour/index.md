@@ -26,6 +26,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "sour"
 visual: "## LLM Prompt: Describe the appearance of a Rum Sour cocktail.Imagine a classic, elegant cocktail glass filled with a refreshing, golden amber liquid.  The **Rum Sour** is a vibrant blend of:* **Light rum:** Its subtle sweetness and mellow notes add a warm, inviting hue to the drink.* **Lemon juice:** The lemon's bright acidity brings a zesty, almost translucent yellow to the mix.* **Sugar:** The simple syrup adds a touch of sparkle and contributes to the drink's overall brightness.* **Orange:** A thin, aromatic slice of orange rests on the rim of the glass, adding a touch of citrusy color and a fragrant aroma.* **Maraschino cherry:** A plump, cherry-red maraschino cherry, suspended in the drink, provides a sweet, festive pop of color.**Describe the drink's appearance in detail:*** What is the texture of the drink?  Is it smooth, frothy, or layered?* What is the dominant color?  Are there any subtle color variations within the drink?* Describe the shape and size of the cocktail glass.* How does the orange slice and maraschino cherry enhance the visual appeal of the cocktail? **Bonus:**  Can you describe the mood and feeling evoked by the appearance of the Rum Sour?  Is it refreshing, sophisticated, playful, or something else entirely? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

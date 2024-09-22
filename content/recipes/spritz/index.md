@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "wine"
 family: "other"
 visual: "## LLM Prompt: Describe the Appearance of a Spritz CocktailImagine a tall, elegant wine glass filled with a vibrant symphony of colors. **Describe the appearance of a Spritz cocktail, focusing on the following:*** **The base:** The Prosecco forms the foundation, a pale, shimmering gold that bubbles playfully at the surface.* **The splash of color:** A vibrant layer of Campari floats atop the Prosecco, its crimson hue adding a striking contrast to the gold. * **The refreshing touch:**  The soda water, light and airy, gently mingles with the Prosecco and Campari, creating a delicate haze that softens the edges of the colors.* **The final touch:**  A thin slice of orange peel, nestled on the rim of the glass, adds a touch of citrusy elegance and releases a subtle aroma of zest.**Remember to focus on the interplay of colors, textures, and the overall visual appeal of the drink.**  This should evoke a sense of the Spritz's refreshing, yet sophisticated, nature. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

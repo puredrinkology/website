@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "martini"
 visual: "## LLM Prompt:**Describe the visual appearance of a classic Vodka Martini, made with Vodka, Dry Vermouth, and a single olive garnish. Consider the following aspects:*** **Glass:**  Describe the type of glass used (e.g., chilled martini glass, coupe glass) and its shape.* **Liquid:**  What is the color and clarity of the drink?  Is it still or does it have any movement?* **Garnish:** How does the olive sit in the drink? Is it a single olive, a skewer with multiple olives, or a different garnish?  What is the color of the olive? * **Overall impression:**  Describe the overall aesthetic of the cocktail.  Is it simple and elegant, or does it have a more dramatic feel?**Bonus:** * If you can, describe the texture of the drink based on its ingredients and appearance.  For example, is it expected to be smooth or have a slight oiliness? **Output:**Please provide a detailed and evocative description of the Vodka Martini's visual appearance, capturing its essence in words. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

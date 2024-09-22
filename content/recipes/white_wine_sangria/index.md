@@ -30,6 +30,6 @@ has_alcohol: true
 base_spirit: "brandy"
 family: "highball"
 visual: "## LLM Prompt:Imagine a pitcher brimming with a **vibrant, ruby-red sangria**.  The **sparkling, chilled white wine** dances with **perfectly ripe, halved strawberries**, their vibrant crimson contrasting with the **pale green of sliced limes and lemons**. **Thinly sliced apples**, their flesh slightly tinged with pink from the soaking, add a refreshing touch.  The **light, aromatic mist of apple brandy** lingers above, creating a tantalizing scent. **Tiny bubbles** from the soda water rise to the surface, creating a **playful, effervescent texture**. The entire composition is an **inviting spectacle**, radiating summery warmth and promising a delightful taste experience. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

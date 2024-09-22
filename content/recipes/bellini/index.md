@@ -19,6 +19,6 @@ has_alcohol: true
 base_spirit: "wine"
 family: "fizz"
 visual: ""
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

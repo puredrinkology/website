@@ -19,6 +19,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "martini"
 visual: "## LLM Prompt:Describe the appearance of the Zorbatini, a cocktail made with Vodka and Ouzo. Consider:* **Color:** Is it clear, cloudy, or a specific color? What shade of that color?* **Clarity:** Is it crystal clear, slightly hazy, or completely opaque?* **Texture:** Is it smooth, oily, or have any visible elements?* **Garnish:** What garnish is traditionally used? How does it enhance the visual appeal? * **Glass:** What type of glass is it served in? How does the shape and material affect the overall look? Remember to paint a picture with your words, emphasizing the visual appeal of this unique cocktail.  "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

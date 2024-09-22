@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "tequila"
 family: "sour"
 visual: "Imagine a cocktail that embodies the serenity of a white-capped wave crashing on a sandy beach.  **Describe the Whitecap Margarita in detail, focusing on its appearance. Consider the following:*** **Color:** Is it a vibrant, tropical hue, or more of a creamy white with subtle hints of color?* **Texture:** Is it smooth and velvety, or does it have a layered, distinct appearance?* **Garnish:** What type of garnish would enhance the visual appeal and complement the flavors of the cocktail?* **Glassware:** Does it sit elegantly in a classic margarita glass, or does it demand a more rustic vessel? Remember to evoke a sense of the beach and the coolness of the whitecap waves in your description. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

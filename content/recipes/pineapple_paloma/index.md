@@ -29,6 +29,6 @@ has_alcohol: true
 base_spirit: "tequila"
 family: "sour"
 visual: "## LLM Prompt: **Describe the visual appearance of a Pineapple Paloma cocktail, considering the following ingredients:*** **Tequila:** Clear, slightly amber-colored liquid.* **Grapefruit Juice:**  Pinkish-red, slightly opaque liquid.* **Fresh Lime Juice:** Clear, slightly yellow liquid.* **Pineapple Juice:**  Golden yellow, slightly opaque liquid.* **Lime:** Green, wedge-shaped citrus fruit.* **Pepper:**  Black peppercorns (optional). **Consider the following factors in your description:*** **Color:** What is the overall color of the cocktail?* **Clarity:** Is it clear, cloudy, or somewhere in between?* **Texture:** Is it smooth, layered, or have any visible components?* **Garnish:** How does the lime wedge and pepper (if used) affect the appearance?* **Glassware:**  Imagine it served in a tall glass with a wide base.**Example:** The Pineapple Paloma is a beautiful, vibrant cocktail with a deep orange-pink hue. Its clarity is slightly cloudy, creating a slight haze over the golden liquid. Tiny black peppercorns float at the surface, adding a subtle spiciness to the visual experience. A fresh lime wedge, resting on the rim of the glass, adds a pop of green to the overall composition. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

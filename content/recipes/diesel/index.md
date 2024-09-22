@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit:
 family: "highball"
 visual: "## LLM Prompt for Diesel Cocktail Description:**Imagine a tall glass filled with a dark, almost black liquid, swirling with hints of amber. The liquid is topped with a frothy head, reminiscent of a dark beer, but with a subtle blush of purple at the edges.  Tiny bubbles rise from the depths, like wisps of smoke. This is the Diesel cocktail. Describe the visual appeal of this cocktail, using imagery that evokes its dark, brooding, but subtly sweet and complex nature.** **Bonus:** Include sensory details like the scent of the cocktail, the feeling of the glass in your hand, and the sound of the ice clinking as you sip. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

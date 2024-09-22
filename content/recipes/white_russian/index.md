@@ -21,6 +21,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: ""
 visual: "## LLM Prompt:**Describe the visual appearance of a classic White Russian cocktail. Consider the following aspects:*** **Color:** What is the overall color of the drink? Is it a uniform color, or does it have layers? * **Texture:** Is it smooth, layered, or does it have any visible texture? * **Clarity:** Is the drink clear, opaque, or somewhere in between? * **Glassware:** What kind of glass is the cocktail served in? * **Garnish:** Does it have any garnishes? If so, describe them. * **Overall Impression:**  What is the first impression you get when you see a White Russian? Does it look inviting? Rich? Creamy? **Please write a detailed description of a White Russian based on these aspects.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

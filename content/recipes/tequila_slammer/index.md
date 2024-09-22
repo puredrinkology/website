@@ -18,6 +18,6 @@ has_alcohol: true
 base_spirit: "tequila"
 family: ""
 visual: "## LLM Prompt:Imagine a tall glass filled with sparkling, crystal-clear **7-Up**, the bubbles dancing and reflecting the light.  At the bottom, a layer of **golden tequila** rests, its amber hue contrasting beautifully with the fizzy soda above.  The line between the two liquids is crisp and defined, like a miniature sunset, with a hint of lime green at the interface.  The entire drink is crowned with a delicate, frosted rim, promising a refreshing chill.  The **Tequila Slammer** is both simple and visually striking, its vibrant colors and refreshing appearance inviting you to take a sip. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

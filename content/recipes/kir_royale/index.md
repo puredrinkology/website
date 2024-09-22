@@ -18,6 +18,6 @@ has_alcohol: true
 base_spirit: "wine"
 family: "other"
 visual: "## LLM Prompt:**Describe the appearance of a Kir Royale cocktail. Consider these aspects:*** **Color:** What shade of color does the cocktail appear? Is it vibrant, subtle, or somewhere in between? * **Clarity:** Is the cocktail clear, cloudy, or somewhere in between? How does the creme de cassis blend with the champagne?* **Texture:** What is the overall texture of the cocktail? Is it light and bubbly, or does it have a more viscous quality? * **Presentation:**  How is the cocktail typically served? In a flute, coupe, or other glass? Are there any garnishes or decorations?**Output:**Provide a detailed description of the Kir Royale's appearance, using vivid imagery and evocative language. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "sour"
 visual: "## LLM Prompt:Describe the visual appearance of a San Francisco cocktail. This cocktail is made with Vodka, Creme de Banane, Grenadine, and Orange Juice. Pay attention to the layering, color, and texture of the drink.  **For example:*** How many distinct layers are visible?* What are the colors of each layer?* Does the drink have a creamy or smooth texture?* Are there any garnishes present? If so, describe them. **Your description should evoke the visual imagery of the cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -22,6 +22,6 @@ has_alcohol: false
 base_spirit:
 family: ""
 visual: "##  Yoghurt Cooler Visual Description Prompt:**Imagine a Yoghurt Cooler. Describe its appearance in detail. Consider:*** **Color:**  What colors are present in the drink? Is it vibrant and colorful, or muted and refreshing? How does the fruit affect the color?* **Texture:** Is it smooth and creamy, or does it have a thicker texture? How does the ice affect the overall consistency?* **Garnish:** What garnishes are used to enhance the visual appeal? Are they simple or elaborate? What colors do they add to the drink? * **Glassware:** What kind of glass is the Yoghurt Cooler served in? Does it enhance the visual experience? * **Overall Impression:**  What is the overall feeling the drink evokes? Is it light and refreshing, or rich and decadent? **Please provide a descriptive text that brings the Yoghurt Cooler to life, using vivid language and imagery.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

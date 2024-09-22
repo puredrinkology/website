@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "sour"
 visual: "##  LLM Prompt for Describing the Pegu Club Cocktail:**Imagine a classic cocktail glass, chilled and glistening. Inside, a beautiful amber liquid swirls, tinged with a subtle orange hue.  Tiny bubbles rise to the surface, creating a delicate effervescence.  A thin, fragrant layer of oil rests atop the drink, reflecting the warm glow of a nearby lamp.  The aroma is a captivating blend of citrus, spice, and botanicals.  What details would you add to make this description of the Pegu Club cocktail even more evocative and enticing?** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

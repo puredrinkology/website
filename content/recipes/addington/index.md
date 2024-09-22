@@ -21,6 +21,6 @@ has_alcohol: true
 base_spirit: "wine"
 family: "spirit-forward"
 visual: "## LLM Prompt:Imagine a tall, elegant glass filled with a beautiful blend of colors. The base is a deep, amber hue, reminiscent of aged oak, from the sweet vermouth. It's layered with a paler, straw-like shade of the dry vermouth, creating a subtle gradient. Finally, the soda water adds a light, effervescent touch, creating delicate bubbles that rise to the surface, resembling tiny, shimmering stars. The overall effect is a harmonious symphony of colors, hinting at the complex and refreshing flavors waiting to be enjoyed. **Bonus:** Can you also describe the *texture* of the drink, focusing on how the soda water interacts with the vermouths? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

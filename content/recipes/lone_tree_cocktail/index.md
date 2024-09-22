@@ -18,6 +18,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "spirit-forward"
 visual: "## LLM Prompt for Describing the Lone Tree Cocktail**Prompt:**Imagine a single, elegant cocktail glass filled with a beautiful amber liquid. The color is a rich, deep hue, reminiscent of the warm glow of a setting sun. Tiny, shimmering bubbles rise slowly from the depths, creating a delicate, ethereal aura. The aroma is complex and intriguing, with hints of bittersweet vermouth and a subtle, earthy note of juniper from the gin. As you lift the glass to your lips, you notice a faint, almost imperceptible, oily film clinging to the rim, hinting at the smooth, velvety texture that awaits. **Describe the appearance of this cocktail in detail, focusing on its color, texture, and any visible elements like bubbles or a rim. Use evocative language and imagery to paint a picture in the reader's mind.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

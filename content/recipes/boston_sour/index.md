@@ -27,6 +27,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: "sour"
 visual: ""
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

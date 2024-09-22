@@ -21,6 +21,6 @@ has_alcohol: true
 base_spirit: "wine"
 family: "fizz"
 visual: "## LLM Prompt for Vermouth Cassis Description:**Imagine a tall, elegant glass filled with a beautiful ombre effect. The bottom third is a deep, rich crimson hue, like a ruby held up to the light. This vibrant color gradually fades upwards, blending into a pale, straw-like yellow, reminiscent of the golden sunset. The drink is topped with a delicate layer of fine, pearlescent bubbles, resembling a soft, ethereal mist. How would you describe the visual appeal of this layered cocktail, highlighting its colors, textures, and overall aesthetic?** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

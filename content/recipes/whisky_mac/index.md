@@ -18,6 +18,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: "other"
 visual: "## LLM Prompt:**Imagine a Whisky Mac, a classic cocktail made with Scotch whisky and sweet vermouth. Describe the drink's appearance in vivid detail. Consider:*** **Color:** Is it a deep amber, a reddish hue, or something in between?* **Clarity:** Is it clear, or does it have a slight cloudiness?* **Texture:** Is it smooth and silky, or does it have a slight oily sheen?* **Ice:** What type of ice is used, and how does it affect the drink's appearance?* **Garnish:** What, if any, garnish is used, and how does it contribute to the overall aesthetic?**Example:** The Whisky Mac, a captivating blend of amber Scotch and ruby vermouth, boasts a deep, rich hue reminiscent of polished mahogany. Its clarity is pristine, with a subtle, almost imperceptible shimmer from the ice.  A large, clear ice cube sits nestled within the chilled glass, melting slowly and releasing a gentle mist.  A twist of orange peel rests elegantly on the rim, offering a fragrant aroma that complements the complex notes of the drink. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

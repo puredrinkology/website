@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "sour"
 visual: "## Honey Bee Cocktail Visual Description Prompt:**Imagine a classic cocktail glass filled with a golden elixir, radiating a warm, inviting glow. The Honey Bee, a concoction of white rum, honey, and lemon juice, presents itself as a harmonious blend of colors and textures.****Describe the following:*** **Color:** Is it a deep amber, a lighter straw hue, or something in between? How does the light play off the liquid?* **Clarity:** Is the cocktail crystal clear, or does it have a slight haze or cloudiness? * **Texture:** Is it smooth and silky, or does it have a bit of a viscous, syrupy texture?  * **Garnish:** What might enhance the visual appeal of this cocktail?  Think of classic garnishes like lemon twists, mint sprigs, or perhaps something more unique and unexpected.* **Overall Impression:** Does the Honey Bee exude elegance and sophistication, or is it a vibrant, playful drink? **Remember to use descriptive language that evokes the senses and captures the essence of the Honey Bee's unique visual identity.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

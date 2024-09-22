@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "spirit-forward"
 visual: "## LLM Prompt: Describe the visual appearance of a Dubonnet Cocktail.**Imagine a classic cocktail glass filled with a vibrant, reddish-brown liquid. The drink has a slightly cloudy appearance, hinting at its bittersweet complexity.  A thin, elegant sliver of lemon peel rests on the surface, adding a touch of citrusy freshness to the otherwise dark hues. The ice cubes within the glass are just visible, adding a subtle sparkle to the overall presentation.  The aroma is intoxicating, with hints of  winey sweetness, bitter herbs, and a subtle citrus note. Describe the visual experience of this cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

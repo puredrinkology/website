@@ -36,6 +36,6 @@ has_alcohol: true
 base_spirit: "wine"
 family: "sour"
 visual: "## LLM Prompt:Describe the appearance of a Frosé cocktail, a frozen rosé drink made with:* **Rose:** Dry rosé wine, giving a light pink hue.* **Sugar:** Granulated sugar, contributing to a slightly opaque appearance.* **Strawberries:** Fresh or frozen strawberries, adding a vibrant red color and tiny specks of fruit throughout.* **Lemon Juice:** A small amount, lending a hint of brightness to the overall color.**Consider the following aspects:*** **Color:** What is the dominant shade of pink? Does it lean towards coral, salmon, or a lighter blush?* **Texture:** Is the frosé smooth and icy, or are there visible ice crystals? Does it have a creamy consistency?* **Clarity:** Is it translucent, opaque, or somewhere in between? Are there visible strawberry pieces or specks?* **Garnish:**  How might a garnish enhance the visual appeal? (e.g., a strawberry slice, a sprig of mint, etc.)**Goal:**  Create a vivid and detailed description of the Frosé's appearance, capturing its visual appeal and making it seem delicious and refreshing. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -31,6 +31,6 @@ has_alcohol: false
 base_spirit:
 family: ""
 visual: "## LLM Prompt: Describe the visual appearance of a Thai Coffee cocktail, made with coffee, coriander, cardamom, sugar, whipping cream, and ice.  **Consider the following aspects:*** **Color:** What is the overall color of the cocktail? Does it have layers or gradients?* **Texture:** Is the drink smooth or frothy? Are there any visible ingredients like ice or cream? * **Presentation:** Imagine the cocktail served in a traditional glass. How would the ingredients be arranged? Are there any garnishes?**Example:**Imagine a tall glass filled with a rich, dark brown liquid, reminiscent of coffee. A layer of fluffy, white whipping cream sits atop, possibly dusted with a touch of cinnamon or cocoa powder.  The aroma hints at the warm spices of coriander and cardamom. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

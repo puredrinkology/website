@@ -18,6 +18,6 @@ has_alcohol: true
 base_spirit:
 family: ""
 visual: ""
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -26,6 +26,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: "other"
 visual: "## LLM Prompt:**Imagine a cocktail called Irish Cream made with Scotch, Half-And-Half, Condensed Milk, Coconut Syrup, and Chocolate Syrup. Describe its appearance in detail, focusing on the color, texture, and any visual elements.****Consider the following:*** **Color:**  Is it a creamy brown, a deep amber, or something else?* **Texture:** Is it smooth and velvety, slightly thick, or with visible layers?* **Visual Elements:** Are there any swirls or patterns in the drink? Does it have a creamy head or a thin layer of foam? Are there any garnishes used?**Output:**Please describe the Irish Cream cocktail's appearance in a captivating and descriptive manner, making it feel as if the reader can almost taste it. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

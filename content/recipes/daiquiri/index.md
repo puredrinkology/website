@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "sour"
 visual: "## LLM Prompt:Imagine a **Daiquiri** in a classic coupe glass. Describe its appearance in detail, focusing on:* **Color:** Is it a vibrant, almost translucent lime green? Or a more muted, pale yellow? * **Clarity:** Is it crystal clear or slightly cloudy? * **Texture:** Does the surface shimmer with tiny bubbles from the shaken ice? * **Garnish:** What kind of garnish would enhance the visual appeal? A lime wedge, a spiral of lime zest, or something else entirely?Consider how the light plays on the surface of the drink and the overall visual impact it creates. Be sure to use descriptive language that brings the cocktail to life! "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

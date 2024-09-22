@@ -27,6 +27,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "highball"
 visual: "## LLM Prompt: Describe the appearance of a Cuba Libre cocktail. **Imagine a tall, frosted glass filled with ice. The amber glow of dark rum shines through the chilled Coca-Cola, creating a layered effect. Tiny bubbles rise from the depths, bringing a refreshing fizz to the surface. A wedge of lime rests on the rim, its vibrant green color contrasting beautifully with the dark depths of the drink. The overall effect is a refreshing, vibrant, and slightly mischievous cocktail, perfect for a hot summer day.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

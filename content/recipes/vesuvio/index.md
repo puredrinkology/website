@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "sour"
 visual: "## LLM Prompt:Imagine a cocktail called Vesuvio that's made with light rum, sweet vermouth, lemon juice, powdered sugar, and egg white. Describe its visual appearance in detail, focusing on:* **Color:**  What is the overall color of the drink? Is it a solid color or does it have layers or gradients? How does the color change as the ice melts?* **Texture:**  Is the drink clear, cloudy, or foamy? How does the egg white affect the texture? Does it have any visible particulates?* **Presentation:** What kind of glass would this cocktail be served in? Is there any garnish? How does the garnish complement the drink's appearance? Please describe the Vesuvio in a way that appeals to a person's sense of sight and makes them want to try it. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -32,6 +32,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "sour"
 visual: "## LLM Prompt: Imagine a **Zombie** cocktail, a legendary drink with a potent punch. Describe its appearance, focusing on the following details:**Color:**  What is the overall color of the drink? Is it a vibrant hue or a more subdued shade? How does the color change as you look through the drink? **Texture:** Is the drink clear, cloudy, or layered? Are there any visible elements like fruit or ice? **Glassware:**  What kind of glass is the Zombie typically served in? Does the shape of the glass enhance its visual appeal? **Garnish:** How is the drink garnished? Are there any specific fruits, herbs, or other decorations that contribute to the visual impact? **Overall Impression:** How would you describe the visual appeal of a Zombie cocktail? Does it appear inviting, dangerous, or both? **Remember:**  The Zombie is known for its potent combination of rums, liqueurs, and juices. Your description should capture the essence of this iconic cocktail, highlighting both its beauty and its power. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

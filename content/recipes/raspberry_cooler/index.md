@@ -21,6 +21,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: ""
 visual: "## LLM Prompt:Describe the appearance of a Raspberry Cooler cocktail, focusing on its color, texture, and any visual elements. The cocktail is made with Raspberry Vodka, Lemon-Lime Soda, and ice. Consider the following aspects:* **Color:** Is it a vibrant pink, a deep red, or a lighter blush? Is there any variation in color, like a gradient or layering?* **Texture:** Is it clear or cloudy? Does it have any visible ice chunks or bubbles? Is it thick or thin?* **Visual elements:** Are there any garnishes? How does the light interact with the drink (e.g., does it shimmer)? **Example:**  Imagine a tall glass filled with a vibrant pink beverage, slightly cloudy from the ice and soda. The color fades from a bright pink at the top to a more subtle blush at the bottom, creating a beautiful gradient. Tiny bubbles dance in the liquid, adding to the lively appearance. A sprig of fresh mint, resting on the rim, provides a touch of green and adds a refreshing aroma.  "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

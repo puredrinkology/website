@@ -27,6 +27,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "sour"
 visual: "## LLM Prompt:**Describe the appearance of a cocktail called Rose made with the following ingredients:*** Dry Vermouth* Gin* Apricot Brandy* Lemon Juice* Grenadine* Powdered Sugar**Consider these aspects:*** **Color:** What is the overall color of the drink? Is it vibrant or muted? Does it have any depth or layering?* **Clarity:** Is the cocktail clear, cloudy, or somewhere in between?* **Texture:** Does the drink appear smooth or viscous? Are there any visible layers or elements?* **Garnish:** Is there a garnish? If so, what is it, and how does it enhance the visual appeal?**Write your description as if you were a seasoned mixologist, using vivid language and imagery to convey the drink's visual appeal.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "spirit-forward"
 visual: "## LLM Prompt:Imagine a **Victor** cocktail, a sophisticated concoction that blends **gin**, **sweet vermouth**, **brandy**, **orange curacao**, and **orange bitters**. Describe the visual appeal of this drink.  Consider:* **Color:** What shades are dominant? Does it have layers or a uniform color?* **Clarity:** Is it crystal clear, slightly hazy, or murky?* **Texture:** Does it have a silky smoothness or a subtle oiliness?* **Garnish:** What type of garnish is used? How does it complement the color and overall aesthetic? * **Presentation:** Is it served in a stemmed glass, an old fashioned glass, or something else? How does the glass shape enhance the visual appeal?**Example:** The Victor boasts a warm, inviting amber hue, slightly darkened by the brandy. Its clarity is crystal clear, with a gentle sheen reflecting the light. A delicate layer of orange oil swirls on top, creating a mesmerizing texture. A thin orange peel, carefully twisted over the glass, adds a splash of vibrant color and releases a tantalizing aroma. It rests elegantly in a coupe glass, the smooth curves highlighting its beauty. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

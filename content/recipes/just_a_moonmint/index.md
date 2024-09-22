@@ -21,6 +21,6 @@ has_alcohol: false
 base_spirit:
 family: ""
 visual: "## LLM Prompt: Imagine a cocktail called Just a Moonmint made with milk, chocolate syrup, and mint syrup. Describe its appearance in detail, focusing on:* **Color:** Is it a creamy white with hints of green, a deep brown with mint highlights, or something else entirely?* **Texture:** Is it smooth and velvety, or does it have a slight rippling effect from the mint syrup?* **Presentation:**  How is the drink served? In a tall glass, a coupe, or a rocks glass? Is there any garnish? Does the ice play a role in the visual appeal?* **Overall Impression:** What does the drink evoke? Does it seem refreshing and light, or rich and decadent? Please provide a vivid and detailed description of the Just a Moonmint based on these prompts. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

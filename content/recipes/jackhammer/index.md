@@ -18,6 +18,6 @@ has_alcohol: true
 base_spirit: "bourbon"
 family: "sour"
 visual: "## LLM Prompt:**Imagine a Jackhammer cocktail, a blend of Jack Daniels whiskey and Amaretto liqueur. Describe the visual appearance of this drink, considering factors such as:*** **Color:** What shade of brown does the drink take on? Does it have any hints of amber or gold?* **Clarity:** Is the drink transparent or opaque? Are there any visible layers or sediment?* **Texture:** Does the drink appear thick or thin? Are there any visible ice chips or condensation?* **Garnish:** If there is a garnish, what is it? Does it contribute to the overall visual appeal?* **Glassware:** What type of glass would best showcase the cocktail? Does the glass shape affect the visual presentation?**Focus on specific details and use evocative language to paint a vivid picture of the Jackhammer's appearance.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: ""
 visual: "## LLM Prompt: Describe the appearance of an Irish CoffeeImagine a tall glass filled with a dark, rich liquid that resembles a freshly brewed cup of coffee. The surface of the liquid is crowned with a generous dollop of fluffy, snow-white whipped cream, forming a perfect, pillowy cap. The cream is tinged with a subtle golden hue, hinting at the whiskey hidden beneath.  A gentle swirl of the liquid reveals hints of caramel brown, a testament to the sweetness of the sugar that balances the bitterness of the coffee. The glass itself is often a classic Irish coffee mug, made of sturdy glass and designed to keep the warmth of the drink. Describe the visual appeal of this iconic cocktail, focusing on the color, texture, and overall appearance. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

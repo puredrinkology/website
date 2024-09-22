@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "bourbon"
 family: ""
 visual: "## LLM Prompt:Describe the appearance of a Tennessee Mud cocktail. This cocktail is made with coffee, Jack Daniels whiskey, Amaretto, and topped with whipped cream. Focus on the colors, textures, and layering, if any.  **Bonus:** Describe the aroma that might emanate from the drink. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

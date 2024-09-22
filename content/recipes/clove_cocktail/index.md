@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "spirit-forward"
 visual: "## LLM Prompt: Describe the appearance of a Clove CocktailImagine a **Clove Cocktail**, a sophisticated concoction made with **sweet vermouth, sloe gin, and wine**.  **Describe its visual attributes:*** **Color:** Is it a deep ruby red, a warm amber, or something more subtle and nuanced?* **Clarity:** Is it crystal clear, or does it have a gentle haze?* **Texture:** Is it silky smooth, or does it have a slight viscosity?* **Garnish:** Does it feature a simple twist of citrus, a sprig of herbs, or a more elaborate design?**Focus on the details that convey its complexity and elegance.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

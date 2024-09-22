@@ -31,6 +31,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "highball"
 visual: "## LLM Prompt:**Describe the appearance of a Jitterbug cocktail, considering these ingredients:*** Gin* Vodka* Grenadine* Lime Juice* Sugar* Sugar Syrup* Soda Water**Consider these aspects in your description:*** **Color:** What is the overall color of the cocktail? Is it a single color or a layered effect?* **Transparency:** Is the cocktail clear, cloudy, or opaque?* **Texture:** Is it smooth, bubbly, or layered? * **Garnish:** What kind of garnish, if any, would be typical for this cocktail? * **Glassware:** What type of glass is the cocktail typically served in?**Example:**The Jitterbug is a vibrant, [color] cocktail with [transparency description]. It is [texture description] and often garnished with a [garnish description] served in a [glassware description]. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "sour"
 visual: "## LLM Prompt:Imagine a cocktail called A1 with the following ingredients:* **Gin:** Clear and crisp, offering a subtle juniper aroma.* **Grand Marnier:** Rich and orangey, adding a touch of sweetness and complexity.* **Lemon Juice:** Tart and bright, balancing the sweetness and adding a fresh zest.* **Grenadine:** Deep red and syrupy, adding a hint of sweetness and a touch of color.**Describe the appearance of the A1 cocktail in detail, focusing on:*** **Color:** What is the overall color of the drink? Is it layered, or does the color blend seamlessly? * **Clarity:** Is the cocktail clear, or does it have any cloudiness? * **Texture:** Is the drink smooth, or does it have any visible elements like ice chips, fruit chunks, or a garnish?* **Garnish:** What type of garnish would enhance the appearance and taste of the A1?**Please provide a vivid and descriptive response, painting a picture of this cocktail in my mind.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

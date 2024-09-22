@@ -27,6 +27,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "margarita"
 visual: "## Frozen Daiquiri Description Prompt:**Imagine a frosty, opaque drink in a chilled glass. The color should be a vibrant, almost fluorescent, shade of lime green, reflecting the light with a subtle shimmer.  Tiny ice crystals cling to the sides of the glass, creating a delicate frost. A single, bright red maraschino cherry sits nestled at the bottom of the glass, adding a splash of color.  The texture is dense and smooth, like a creamy sorbet, with a gentle chill that lingers on the tongue.** **Bonus Prompt:****For added detail, describe the condensation forming on the outside of the glass, making it appear slightly blurry and adding to the overall chilled aesthetic.  Mention how the drink appears to be slightly translucent in certain areas, revealing the faint outline of the cherry at the bottom.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "martini"
 visual: "## LLM Prompt:**Describe the appearance of a Vesper cocktail, focusing on its color, clarity, and any potential garnish. Pay attention to the subtle details and textures of the drink, and use evocative language to paint a picture of its visual appeal.****Here's some additional information to help you:*** **Ingredients:** Gin, Vodka, Lillet Blanc* **Typical Ratio:** 3:1:1 (Gin:Vodka:Lillet Blanc)* **Garnish:** Typically a lemon twist, sometimes an olive* **Appearance:** The Vesper has a pale, almost translucent, golden hue with a slight shimmer. **Possible descriptive elements:*** **Color:**  Pale golden, straw-like, almost champagne-like* **Clarity:**  Translucent, slightly hazy, shimmering* **Texture:**  Smooth, silky, slightly oily* **Garnish:**  The lemon twist provides a bright, contrasting element, while the olive adds a briny counterpoint.**Remember to focus on the visual appeal of the drink and use evocative language to create a vivid image in the reader's mind.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -21,6 +21,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "martini"
 visual: "## LLM Prompt:Imagine a **Passion Fruit Martini**. Describe its appearance in detail, focusing on:* **Color:** What is the dominant color of the cocktail? Does it have any hues or shades? How does the light reflect off it? * **Clarity:** Is it clear, cloudy, or layered? Are there any visible ingredients?* **Texture:** Is it smooth, creamy, or icy? Does it have any visible bubbles or foam? * **Garnish:**  What, if any, garnish is used? How does it complement the overall appearance?* **Glassware:**  What type of glass is used? How does the shape and material affect the visual appeal? **Bonus:** * **Describe the visual experience:** How does the cocktail appear when you first see it? What emotions or sensations does it evoke?* **Compare it to other objects:** What other colors, textures, or objects does it resemble? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

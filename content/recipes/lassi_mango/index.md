@@ -23,6 +23,6 @@ has_alcohol: false
 base_spirit:
 family: ""
 visual: "## LLM Prompt:**Describe the appearance of a Lassi - Mango cocktail. Consider the following:*** **Color:** What shade of yellow or orange does the mango lend to the lassi? Is it a vibrant, bright color or a more muted, pastel hue?* **Texture:** Is the lassi smooth and creamy, or does it have a thicker, almost milkshake-like consistency? Are there any visible bits of mango pulp?* **Presentation:** How is the lassi typically served? In a tall glass, a short glass, or perhaps a traditional clay cup? Is there any garnish, like a sprig of mint or a slice of mango? **Please provide a detailed and evocative description, capturing the essence of this refreshing and flavorful drink.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

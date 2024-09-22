@@ -19,6 +19,6 @@ has_alcohol: true
 base_spirit: "wine"
 family: "fizz"
 visual: "## LLM Prompt for Mimosa Description:**Imagine a tall, elegant champagne flute filled to the brim with a vibrant, effervescent concoction.  Describe the visual elements of this classic cocktail:*** **What color is the drink?**  Is it a pale, golden yellow, or a more vibrant, almost orange hue?* **How does the light interact with the drink?**  Does it sparkle and shimmer, reflecting the light in a myriad of tiny bubbles?* **What about the bubbles themselves?**  Are they fine and delicate, creating a constant stream of upward movement, or are they larger and more pronounced?* **Are there any layers or gradients in the drink?**  Does the orange juice blend seamlessly with the champagne, or are there distinct layers of color?* **What about the rim of the glass?**  Is it adorned with a sugared rim, or is it plain?* **What other visual details contribute to the overall impression of this drink?**  Is it a refreshing, summery delight, or does it exude a sophisticated, celebratory vibe?**Your goal is to paint a vivid picture of the Mimosa through words, capturing its essence and inviting the reader to imagine its delightful appearance.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -28,6 +28,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "sour"
 visual: "## LLM Prompt:**Describe the appearance of a cocktail called Snowday that is made with the following ingredients:*** **Vodka:** Clear, neutral spirit* **Amaro Montenegro:** Dark, bitter liqueur with a reddish hue* **Ruby Port:** Deep ruby red, fortified wine with sweetness and fruit notes* **Blood Orange:** Bright, vibrant orange juice with a slightly reddish tint* **Angostura Bitters:** Dark brown, aromatic bitters with a hint of orange* **Orange Peel:** Thin, bright orange rind for garnish**Consider the following aspects in your description:*** **Color:** What overall color does the cocktail have, and how do the individual ingredients contribute to it?* **Clarity:** Is the drink clear, cloudy, or layered? * **Texture:** Are there any visual elements that suggest texture, like a foam or a garnish? * **Garnish:** Describe the orange peel garnish - its size, shape, and how it is placed in the glass.**Focus on creating a vivid and evocative description that captures the visual appeal of this cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

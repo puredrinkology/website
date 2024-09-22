@@ -27,6 +27,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "martini"
 visual: "##  LLM Prompt: Describe the visual appeal of a Dirty Martini**Imagine a classic martini glass, chilled and sweating with condensation. Inside, a vibrant, almost ethereal, clear liquid swirls, its surface shimmering with a delicate layer of olive brine. Tiny, translucent ice cubes clink together softly as the glass is tilted.  A plump, green olive, glistening with brine, rests languidly on the rim, its plumpness contrasting with the sleekness of the glass.  A sliver of lemon peel, twisted into a graceful spiral, adds a touch of citrusy color and aromatic complexity. **In a few sentences, describe the visual appeal of this Dirty Martini. Focus on the interplay of textures, colors, and shapes to capture its essence.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "highball"
 visual: "## LLM Prompt:**Describe the visual appearance of an Irish Russian cocktail. It is made with Vodka, Kahlua, Coca-Cola, and Guinness Stout. Be sure to describe:*** **Color:** Is it dark, light, layered? What are the dominant colors?* **Texture:** Is it creamy, frothy, or clear?* **Clarity:** Is it transparent, cloudy, or opaque? * **Layers:** Are there any distinct layers, or is it well-mixed? * **Garnish:**  What type of garnish might be used, and how would it affect the visual appeal?* **Overall impression:** What is the overall feeling the drink evokes - bold, sophisticated, refreshing?**Remember to provide a detailed and imaginative description, drawing on your knowledge of the ingredients and their likely interactions.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

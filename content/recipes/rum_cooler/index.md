@@ -21,6 +21,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "highball"
 visual: "## LLM Prompt:**Describe the appearance of a Rum Cooler cocktail.  Consider the following elements:*** **Glass:**  A tall glass, likely a Collins or highball glass. * **Color:** The drink should be a pale yellow or light amber, depending on the rum used.* **Clarity:**  It should be translucent, with no visible sediment or cloudiness. * **Texture:** The drink will have a slight fizz due to the lemon-lime soda.  * **Garnish:** A lemon wedge or a lemon twist would be common garnishes.  Mention the appearance of these garnishes.* **Additional details:** Consider any other details that contribute to the overall visual appeal, such as condensation on the glass, or a straw.**Example output:**The Rum Cooler is a refreshing sight, served in a tall Collins glass.  The drink itself is a pale yellow, with a slight amber hue from the rum.  It's clear and translucent, with a gentle fizz from the lemon-lime soda.  A bright lemon wedge rests on the rim of the glass, adding a vibrant splash of color. Condensation forms on the outside of the glass, giving it a cool and inviting look. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

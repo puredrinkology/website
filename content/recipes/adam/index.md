@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "sour"
 visual: "## LLM Prompt: Describe the appearance of the cocktail Adam, made with Dark Rum, Lemon Juice, and Grenadine. **Focus on the following details:*** **Color:** Is it a single, uniform color, or layered?  If layered, describe the colors and their order from top to bottom.* **Texture:** Is it clear or cloudy?  Does it have any visible particles, like ice?* **Garnish:** Does it have a garnish? If so, describe its appearance and how it is placed in the drink.* **Glassware:** What kind of glass is it served in?  Describe its shape and size. **Example Response:**The Adam is a layered cocktail, with a vibrant, almost fluorescent red layer of grenadine at the bottom, topped by a darker amber layer of the rum, and a thin, opaque white layer of lemon juice on top. The drink is cloudy due to the ice, which is visible in small, fractured pieces at the bottom. It is served in a chilled coupe glass, its rounded shape showcasing the beautiful layering effect. A single lemon twist is gently placed on the rim of the glass, adding a touch of freshness to the visually appealing cocktail. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

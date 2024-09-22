@@ -30,6 +30,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "highball"
 visual: "## LLM Prompt:**Describe the appearance of a Rum Cobbler cocktail. Imagine you are looking at a glass filled with this drink on a sunny afternoon. ****Focus on the following elements:*** **Color:** What is the dominant color of the drink? Are there any layers or gradients?* **Clarity:** Is the drink clear, cloudy, or opaque?* **Texture:** Does the drink appear thick, thin, or frothy? * **Garnish:** How is the cherry and orange slice positioned in the glass? What effect does it have on the overall appearance? * **Ice:** Is there ice in the glass? If so, what kind?* **Glassware:** What type of glass is the drink served in? How does the glass shape affect the overall look?* **Overall impression:** What is the overall feeling you get when looking at this drink? Is it refreshing, inviting, elegant, or something else? **Use vivid and descriptive language to capture the visual appeal of the Rum Cobbler.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

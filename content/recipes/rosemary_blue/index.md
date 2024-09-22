@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "highball"
 visual: "##  LLM Prompt:Imagine a cocktail called Rosemary Blue. It's a visually stunning drink with a delicate balance of flavors. Describe the appearance of this cocktail in detail, focusing on the following:* **Color:** The drink has a vibrant, electric blue hue thanks to the Blue Curacao.* **Clarity:** The tonic water adds a gentle fizz and makes the drink appear slightly cloudy.* **Garnish:**  A sprig of fresh rosemary is the main garnish, its vibrant green contrasting beautifully with the blue hue. * **Glassware:** The drink is served in a tall, slender highball glass, allowing the vibrant color to shine.* **Other details:** Any other interesting visual details, like the presence of tiny bubbles or the way the light dances on the surface of the drink. Focus on creating a vivid and evocative description that captures the visual appeal of the Rosemary Blue cocktail.  "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

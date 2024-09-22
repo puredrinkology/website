@@ -32,6 +32,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: ""
 visual: "Imagine a thick, creamy, milkshake-like concoction.  The color is a rich, tropical brown, almost the color of a sunset over a palm-lined beach.  Tiny specks of vanilla ice cream swirl throughout the drink, adding an almost frosted quality to the surface.  A light dusting of cocoa powder crowns the top, like a whisper of chocolate in the tropical paradise. The whole thing is topped with a maraschino cherry, its bright red color contrasting with the brown hues below. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -19,6 +19,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "highball"
 visual: "## LLM Prompt:**Imagine a Screwdriver cocktail. Describe its appearance in detail. Consider:*** **Color:** Is it a bright orange, a more muted shade, or perhaps slightly cloudy? * **Clarity:** Is it crystal clear, slightly hazy, or does it have any visible particles?* **Texture:** Is it smooth and silky, or does it have a noticeable pulp from the orange juice?* **Garnish:** Is there a simple orange slice, a wedge, or perhaps a more elaborate twist?* **Glass:** Is it served in a tall glass, a rocks glass, or something else entirely?* **Overall Impression:** Does it look refreshing and light, or perhaps more substantial?**Bonus:** Can you provide any additional details that would help a person visualize the drink? For example, how does the light play on the surface? Are there any bubbles or ice visible? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

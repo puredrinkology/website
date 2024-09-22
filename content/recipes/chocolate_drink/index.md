@@ -23,6 +23,6 @@ has_alcohol: false
 base_spirit:
 family: "other"
 visual: "## LLM Prompt:Imagine a **chocolate drink** made with **chocolate, milk, and water**.  Describe its appearance in detail, considering:* **Color:** What shade of brown does the drink take on? Is it a rich, dark brown, or a lighter, milk chocolate hue? Are there any hints of other colors, like a creamy white from the milk or a hint of red from the chocolate?* **Texture:** Is the drink smooth and velvety, or does it have a thicker, more chocolatey texture? Are there any visible swirls or patterns?* **Clarity:** Is the drink opaque or does it have a slight translucency? Are there any visible particles or layers? * **Presentation:** Imagine the drink in a glass. What kind of glass is it? How does the drink look against the glass? Are there any garnishes or decorations that enhance its appearance? **Example:** The chocolate drink is a deep, rich brown, almost the color of dark chocolate itself.  Its surface is smooth and velvety, with a slight sheen.  It is opaque, hiding any visible layers or particles within.  The drink is served in a tall, clear glass, allowing the rich color to shine through.  A sprig of fresh mint rests on the rim, adding a touch of green to the otherwise brown palette. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

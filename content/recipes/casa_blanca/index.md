@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "sour"
 visual: "Imagine a cocktail that evokes the vibrancy of a sun-drenched Caribbean beach. **Casa Blanca**, a harmonious blend of **light rum**, **triple sec**, **lime juice**, and **maraschino liqueur**, shimmers in a frosted glass. The base is a pale golden hue, hinting at the sweetness of the rum and triple sec. A vibrant, lime-green rim, achieved with a touch of sugar and lime juice, contrasts beautifully with the golden center.  The surface is crowned with a delicate, fluffy cloud of maraschino cherry foam, adding a touch of playful pink to the composition.  The entire cocktail is an ode to the tropics, promising a sweet and tart taste experience that leaves a lingering memory of sunshine and island breezes. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

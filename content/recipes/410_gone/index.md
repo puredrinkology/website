@@ -17,6 +17,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "highball"
 visual: ""
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: "highball"
 visual: "## LLM Prompt: **Describe the appearance of a cocktail named Thriller made with Scotch, Wine, and Orange Juice.  Consider:*** **Color:** What is the overall hue of the drink? Is it a deep amber, a vibrant orange, or something more muted?* **Clarity:** Is the drink clear, or does it have a hazy or cloudy appearance? * **Texture:** Is the drink smooth and silky, or does it have a more viscous or layered texture? * **Garnish:** Does the drink feature any garnishes? If so, describe their color, shape, and placement in the glass.* **Glassware:** What type of glass is the Thriller served in? Is it a classic cocktail glass, a rocks glass, or something else?**Bonus:** * **Imagery:** Use evocative language to describe the appearance of the drink, drawing on sensory details to make it come alive for the reader. * **Mood:** How does the appearance of the Thriller contribute to its overall mood or feeling? Is it sophisticated, playful, or something else? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

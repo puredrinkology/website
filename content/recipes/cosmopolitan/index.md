@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "sour"
 visual: "## LLM Prompt:Describe the appearance of a Cosmopolitan cocktail, focusing on the following aspects:**Color:*** What is the dominant color of the drink? * Are there any subtle color variations within the drink?* How does the color change depending on the lighting?**Clarity:*** Is the Cosmopolitan clear, cloudy, or hazy?* Does the drink have any visible particles or sediments?**Texture:*** How does the drink appear on the surface? * Are there any visible layers or gradients?* Does the drink have any noticeable mouthfeel from the ingredients?**Garnish:*** What kind of garnish is typically used with a Cosmopolitan?* How does the garnish enhance the visual appeal of the drink? **Overall Impression:*** Describe the overall aesthetic appeal of the Cosmopolitan. * Does it appear elegant, refreshing, festive, or something else? * How would you describe the drink to someone who has never seen it before? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

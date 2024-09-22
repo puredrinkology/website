@@ -26,6 +26,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: "highball"
 visual: ""
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

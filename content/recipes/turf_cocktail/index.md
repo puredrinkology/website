@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "spirit-forward"
 visual: "## LLM Prompt:Imagine a **Turf Cocktail**, a classic concoction made with **dry vermouth, gin, anis, bitters, and an orange peel**. Describe its appearance in detail, focusing on:* **Color:** Is it clear, cloudy, or a vibrant hue?  What shades are present?* **Texture:** Is it smooth, oily, or layered?  Does it have any visible ingredients?* **Glassware:** What type of glass is it served in?  What does the glass look like?* **Garnish:** How is the orange peel presented?  Is it twisted, flamed, or simply floating?* **Overall impression:** What kind of mood or atmosphere does the visual appearance evoke?  Is it elegant, refreshing, or intriguing? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

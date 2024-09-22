@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "tequila"
 family: "highball"
 visual: "## LLM Prompt:**Imagine a tall glass filled with a beautiful, layered cocktail called a Tequila Sunrise. Describe its appearance in detail, focusing on the colors, textures, and gradients. Consider the following aspects:*** **The base:** What does the orange juice look like? Is it clear, slightly cloudy, or pulpy? How does the light play on it?* **The sunrise:** How does the grenadine sink through the orange juice? Does it create a distinct line, or does it bleed into the orange, creating a gradient? * **The tequila:** Is the tequila noticeable in the drink, or does it blend seamlessly with the other ingredients? Does it add any color or texture?* **The garnish:** Imagine a slice of orange or a cherry adorning the rim of the glass. How does it enhance the visual appeal of the cocktail? * **The overall impression:** What is the overall feeling evoked by the appearance of the Tequila Sunrise? Is it refreshing, vibrant, celebratory? **Please provide a descriptive, vivid, and evocative response.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

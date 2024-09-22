@@ -21,6 +21,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "other"
 visual: "## LLM Prompt:Imagine a **Monkey Wrench** cocktail. It's crafted with **light rum**, **grapefruit juice**, and a dash of **bitters**.  **Describe the appearance of this cocktail:*** **Color:** What hues does the cocktail exhibit? Is it a vibrant pink, a more muted coral, or something else entirely?* **Clarity:** Is the cocktail clear, cloudy, or somewhere in between? * **Texture:** Is it smooth and silky, or does it have a slightly cloudy appearance due to the bitters? * **Garnish:** What, if any, garnish is used to elevate the visual appeal of the cocktail? Consider common garnishes like a grapefruit twist, a sprig of mint, or a maraschino cherry.* **Overall Impression:** What is the overall visual impression of the Monkey Wrench? Is it refreshing and bright, bold and vibrant, or something else entirely? Please provide a detailed description of the Monkey Wrench's appearance, capturing its essence with words. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

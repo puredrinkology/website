@@ -25,6 +25,6 @@ has_alcohol: false
 base_spirit:
 family: "other"
 visual: "## LLM Prompt:Describe the visual appeal of a cocktail called Hot Chocolate to Die For, made with the following ingredients:* **Chocolate:**  A rich, dark brown liquid with a smooth, velvety texture.* **Butter:**  Adds a slight sheen and contributes to the overall richness.* **Vanilla Extract:**  Provides a subtle hint of amber in the liquid.* **Half-And-Half:**  Lightens the color of the chocolate and creates a creamy, luxurious appearance.* **Marshmallows:**  Fluffy, white marshmallows floating on top, some partially submerged in the liquid.Focus on the following aspects:* **Color:**  Describe the overall color and how it changes based on the ingredients and lighting.* **Texture:**  Mention the smoothness, creaminess, and the contrast between the liquid and the fluffy marshmallows.* **Steam:**  Describe the delicate wisps of steam rising from the drink, adding a sense of warmth and inviting aroma.* **Presentation:**  Suggest an appropriate vessel for serving the cocktail, such as a mug or a glass with a handle.**Bonus:**  Consider adding a descriptive detail about the marshmallows, such as their size, shape, and how they interact with the liquid. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

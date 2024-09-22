@@ -26,6 +26,6 @@ has_alcohol: false
 base_spirit:
 family: "highball"
 visual: "## LLM Prompt:**Describe the visual appearance of a Limeade cocktail. Use vivid language and imagery to capture its refreshing, vibrant nature. Consider the following elements:*** **Color:** What shades of green and yellow dominate the drink? Are there any hints of other colors from the lime peel?* **Texture:** Is the drink clear and sparkling, or does it have a more cloudy consistency? How does the ice affect the appearance?* **Garnish:**  Describe the lime peel garnish. Is it a simple twist, a wheel, or something more elaborate? How does it interact with the drink?* **Overall impression:** Convey the refreshing and summery vibe of the Limeade through your description. **Example:** Imagine a tall glass filled with a vibrant, sun-kissed green liquid, shimmering with tiny bubbles from the soda water. It's a symphony of citrus hues, ranging from the palest yellow to a verdant emerald. A delicate, almost translucent lime peel curls gracefully at the rim, its fragrant oil mingling with the sweet aroma of the drink.  The ice cubes clink gently against the glass, their frosted edges reflecting the light like miniature diamonds. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

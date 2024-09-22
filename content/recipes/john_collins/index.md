@@ -29,6 +29,6 @@ has_alcohol: true
 base_spirit: "bourbon"
 family: "highball"
 visual: "## LLM Prompt:**Describe the appearance of a classic John Collins cocktail. Focus on the following aspects:*** **Glassware:** What type of glass is the cocktail served in? Is it a tall glass, a lowball, or something else? * **Color:** What is the overall color of the drink? Is it clear, cloudy, or a specific shade of color? * **Texture:** Is the drink bubbly, still, or layered? * **Garnish:** What does the garnish look like? What is its position in the drink?* **Ice:** What type of ice is used? Are there ice cubes or crushed ice? **Please provide a detailed and visually evocative description of the John Collins cocktail, using sensory language to help the reader imagine the experience.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

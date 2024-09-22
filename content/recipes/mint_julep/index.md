@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "bourbon"
 family: "sour"
 visual: "## LLM Prompt for Mint Julep Description:Imagine a frosted silver cup, rimmed with delicate sugar crystals. Inside, a vibrant green sea of crushed mint and ice swirls, crowned with a beautiful, crystal-clear layer of bourbon. Tiny bubbles dance on the surface, reflecting the soft light, while a sprig of fresh mint, adorned with a subtle dew, rests elegantly on the rim. The aroma, a captivating blend of cool mint and warm bourbon, wafts into the air, promising a refreshing and invigorating experience. **Describe this scene in detail, focusing on the following aspects:*** **Colors:** Use vivid adjectives to describe the shades of green, silver, white, and clear.* **Textures:** Emphasize the smooth, frosted surface of the cup, the refreshing crunch of the ice, and the softness of the mint.* **Light:** Describe how the light interacts with the various elements, creating highlights and shadows.* **Aroma:** Use evocative language to capture the scent of the mint and bourbon. **Remember to maintain a tone that is both elegant and inviting, as if you were describing a masterpiece.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

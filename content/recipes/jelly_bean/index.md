@@ -18,6 +18,6 @@ has_alcohol: true
 base_spirit: "brandy"
 family: ""
 visual: "## LLM Prompt for Jelly Bean Cocktail Description:**Imagine a cocktail called Jelly Bean made with Blackberry Brandy and Anis. Describe its appearance in detail, including:*** **Color:** Is it deep and rich, or light and vibrant? Does it have any particular hue or shade?* **Clarity:** Is it crystal clear, slightly cloudy, or opaque? Does it have any interesting shimmer or sparkle?* **Texture:** Is it smooth and silky, or thick and viscous? Are there any visible ingredients, like ice or fruit, that contribute to its texture?* **Garnish:** What kind of garnish, if any, is used to enhance the visual appeal of the cocktail? How does the garnish interact with the color and texture of the drink?**Remember to consider the characteristics of Blackberry Brandy and Anis to inform your description. For example, Blackberry Brandy is known for its deep purple color and fruity aroma, while Anis has a distinctive licorice flavor and can create a cloudy effect in a cocktail.****Bonus:** If you can, include a few words about the overall impression the Jelly Bean cocktail gives you - is it elegant, playful, mysterious, or something else entirely? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

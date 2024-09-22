@@ -34,6 +34,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "highball"
 visual: "## LLM Prompt: Describe the appearance of a 3-Mile Long Island Iced TeaImagine a tall, clear glass brimming with a **deep amber liquid**. The drink is **richly layered**, with the **darker hues of cola** at the bottom, gradually transitioning to **lighter shades of amber** towards the top, hinting at the presence of citrus and spirits.  **Tiny bubbles** rise slowly from the depths, reflecting light in a **sparkling dance**. A **thin slice of lemon** rests elegantly on the rim, its vibrant yellow contrasting sharply with the dark liquid.  **Tiny droplets of condensation** cling to the glass, giving the drink a **shimmering, almost ethereal** quality. Focus on the **visual details** of this layered cocktail, highlighting the **colors, textures, and interplay of light** to capture its seductive and complex appearance. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

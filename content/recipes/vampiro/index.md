@@ -31,6 +31,6 @@ has_alcohol: true
 base_spirit: "tequila"
 family: "margarita"
 visual: "## LLM Prompt:Imagine a tall glass, filled with a vibrant, almost blood-red liquid. The color is not uniform, but rather marbled with streaks of bright orange and a hint of green. The top of the drink is adorned with a delicate layer of foam, almost like a fluffy cloud, tinged with a faint orange hue.  The glass is chilled, condensation clinging to the sides and creating a shimmering effect. Tiny specks of salt cling to the rim, a salty counterpoint to the sweet and tart flavors within.  Describe the visual appeal of this cocktail, focusing on its colors, textures, and overall presentation. What kind of glass would it be served in? How would you describe the overall mood of the drink? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

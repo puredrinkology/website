@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "highball"
 visual: "## LLM Prompt:Imagine a tall, elegant glass filled with a pale amber liquid, like a sunset over a sandy beach.  The top is crowned with a mountain of ice, its edges sparkling like tiny diamonds in the dim light.  A single, curled lemon peel, its edges tinged with a hint of green, peeks out from the ice, adding a touch of citrusy elegance.  The drink itself is alive with tiny bubbles, a testament to the ginger ale that gives it its effervescence.  The air around it is subtly infused with a hint of spice, the whisper of bitters adding complexity to the sweetness of the brandy.  **Describe this cocktail in detail, focusing on its visual appeal, color, and textures.  Pay special attention to the presence of the lemon peel, the ice, and the bubbling ginger ale.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -28,6 +28,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "highball"
 visual: "## LLM Prompt:Imagine a **classic highball glass** filled with a symphony of colors and textures. Describe the appearance of a **English Highball** cocktail, taking into account the following components:* **Brandy:** A rich, amber hue that creates a warm base.* **Gin:** Its subtle botanical notes might add a slight shimmer to the brandy's color.* **Sweet Vermouth:** A hint of reddish-brown, adding complexity to the amber base.* **Carbonated Water:** Adds a sparkling effervescence, creating tiny bubbles that dance within the cocktail.* **Lemon Peel:** A thin, elegant twist of lemon peel adorns the rim of the glass, adding a splash of bright yellow and a citrusy aroma.**Focus on the overall impression:** Is the drink clear or opaque? Are there layers or is it uniformly mixed? How does the light interact with the liquid? What visual elements make it stand out? **Remember to keep the description engaging and evocative.** Your goal is to paint a picture in the reader's mind, inviting them to imagine the beauty and elegance of this classic cocktail. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

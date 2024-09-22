@@ -26,6 +26,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "other"
 visual: "## LLM Prompt: Describe the appearance of a Tia-Maria cocktail.**Imagine a cocktail glass filled with a rich, dark liquid. The color is a deep, almost black brown, like the finest coffee beans, with hints of amber shimmering through. The surface is smooth and inviting, with a slight oily sheen that reflects the light.  A thin layer of foam sits atop the liquid, adding a creamy texture and catching the light with a subtle sheen.  **Describe the visual elements of the Tia-Maria:*** **Color:** How deep is the brown? Are there any lighter shades or highlights?* **Clarity:** Is it transparent or slightly cloudy?* **Texture:** How does the foam look? Is it dense or airy?* **Shine:** Does it shimmer or have a specific type of sheen?* **Any garnish?** Does it have a cherry, orange peel, or any other adornment? **Use vivid language and create an evocative description of this iconic cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

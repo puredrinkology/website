@@ -31,6 +31,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "sour"
 visual: "## LLM Prompt:Describe the appearance of a Spice 75 cocktail. Consider the following ingredients and their visual attributes:* **Sugar:** Dissolved, clear. * **Allspice:**  Ground, likely contributing to a warm brown hue.* **Rum:**  Golden amber color, potentially adding some depth and richness. * **Lime Juice:**  Pale green, adding a refreshing brightness.* **Champagne:**  Sparkling and bubbly, with a light yellow color.* **Orange Spiral:**  A vibrant orange peel, curled and delicately placed on the rim of the glass. **Focus on:*** The overall color and clarity of the drink.* The presence of any bubbles or fizziness.* The texture and appearance of the orange spiral garnish.* How the ingredients interact visually to create a harmonious presentation. **Example response:**The Spice 75 is a vibrant spectacle. The champagne's effervescence dances with a light golden hue, subtly warmed by the rum's amber tint. A hint of pale green from the lime juice adds a refreshing touch. The orange spiral, a bold burst of color, curls gracefully around the glass rim, promising both olfactory and visual delight. The drink's overall appearance is one of elegant simplicity, radiating a warmth and vibrancy that invites a celebratory sip. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

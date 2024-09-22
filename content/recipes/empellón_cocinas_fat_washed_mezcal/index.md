@@ -45,6 +45,6 @@ has_alcohol: true
 base_spirit: "tequila"
 family: "other"
 visual: "## LLM Prompt: **Imagine a cocktail called Empellón Cocina's Fat-Washed Mezcal. It's made with Mezcal, Chocolate Liqueur, and Coffee Liqueur. Describe its appearance in detail, focusing on the color, texture, and any garnishes.** **Consider these elements:*** **Mezcal's smoky character:** How might this affect the color and aroma? * **Chocolate liqueur's richness:**  Does the color lean towards brown or black? Is there any sheen or viscosity?* **Coffee liqueur's depth:** Does it contribute to the overall darkness or create layers of color?* **Garnish options:** What would be the best way to enhance the visual appeal? **Example:**The Empellón Cocina's Fat-Washed Mezcal is a captivating cocktail with a deep amber hue, reminiscent of aged oak. The smooth, almost oily texture suggests the presence of fat-washing, while tiny, shimmering bubbles rise from the depths, hinting at the smoky character of the Mezcal. A thin layer of chocolate foam crowns the drink, its rich brown tones reflecting the subtle sweetness of the chocolate liqueur. A sprig of rosemary, its aromatic needles piercing the foam, adds a touch of elegance and complexity. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

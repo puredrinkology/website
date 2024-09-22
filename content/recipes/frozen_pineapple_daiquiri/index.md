@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "sour"
 visual: "## LLM Prompt:Imagine a **Frozen Pineapple Daiquiri**. Describe its appearance, focusing on these aspects:* **Color:** What shade of yellow or orange does the drink exhibit? Is it a vibrant, tropical color or a more muted, creamy hue?* **Texture:** Is the drink smooth and creamy or icy and chunky? Does it have any visible ice crystals?* **Garnish:** What type of garnish is typically used? Is it a pineapple wedge, a lime wheel, a maraschino cherry, or something else entirely?* **Glassware:** What kind of glass is the drink served in? Is it a hurricane glass, a coupe glass, or something else?* **Overall Impression:** How would you describe the drink's overall appearance? Is it refreshing and inviting, or elegant and sophisticated? **Bonus:**  Can you also describe how the light would refract through the drink, creating a shimmering effect? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

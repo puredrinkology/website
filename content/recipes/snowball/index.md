@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit:
 family: "other"
 visual: "## LLM Prompt:Imagine a **Snowball** cocktail, a classic winter warmer. Describe its appearance in vivid detail, capturing the following aspects:* **Color:**  What is the overall color of the drink? Is it a creamy white, a pale yellow, or something in between? Does it have any subtle hints of color? * **Texture:**  Is it smooth and silky, or does it have a frothy head? Does it have any visible ice crystals or chunks? * **Glassware:** What kind of glass is it served in? Is it a classic coupe, a rocks glass, or something else entirely? * **Garnish:**  Does the cocktail have any garnish? If so, what is it and how does it enhance the visual appeal? Focus on creating an evocative and detailed description that allows the reader to visualize the Snowball perfectly. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

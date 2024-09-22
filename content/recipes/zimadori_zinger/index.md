@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit:
 family: "highball"
 visual: "## LLM Prompt: Describe the Appearance of the Zimadori Zinger Cocktail**Imagine a cocktail named Zimadori Zinger made with Midori Melon Liqueur and Zima.  Describe its appearance in detail, focusing on:*** **Color:** What is the overall color of the cocktail? Is it vibrant or muted? * **Transparency:** Is the drink clear, cloudy, or opaque? * **Layers:** Are there distinct layers of color or texture?* **Head/Foam:** Does it have a head or foam on top? What is its color and consistency?* **Garnish:** If any, what garnish is used and how does it affect the visual appeal?**Remember to consider the specific properties of Midori Melon Liqueur and Zima in your description.**  For example, Midori is a vibrant green liqueur, while Zima has a slightly cloudy appearance. How do these elements combine visually in the final cocktail? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

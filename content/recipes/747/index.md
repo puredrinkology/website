@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit:
 family: ""
 visual: "## LLM Prompt: Describe the appearance of a 747 cocktail.**Context:** The 747 cocktail is made with Kahlua, Baileys Irish Cream, and Frangelico. **Prompt:**Imagine a cocktail glass filled with a beautiful blend of three distinct layers. * **The bottom layer:** Rich, dark brown, almost black, like a smooth, velvety chocolate sauce. * **The middle layer:** A creamy, off-white hue, reminiscent of fresh Irish cream.* **The top layer:** A delicate, amber-gold color, hinting at the nutty sweetness of Frangelico. The layers are distinct yet seamlessly blend together, creating a visually captivating experience. **Focus on:*** The specific colors of each layer.* How the layers interact with each other (e.g., sharp lines, gradual transitions).* The overall impression of the cocktail's appearance (e.g., decadent, sophisticated, elegant).**Example response:**The 747 presents a striking visual spectacle. Its deep, dark base, reminiscent of molten chocolate, is crowned by a smooth, off-white layer of Irish cream. A thin, golden band of Frangelico delicately tops the composition, creating a stunning contrast of color. The layers are crisp and distinct, yet they subtly blend together, revealing the cocktail's rich and layered complexity. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

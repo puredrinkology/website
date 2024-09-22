@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "sour"
 visual: "## LLM Prompt: Describe the Hemingway SpecialImagine a **tall, slender glass**, filled with a **bright, pale pink liquid** that shimmers slightly. The **ice cubes** nestled within are clear and pristine, slowly melting into the drink.  The **rim of the glass** is **frosted with a thin layer of sugar** creating a subtle sweetness that contrasts the **tart grapefruit juice** which forms the foundation of the cocktail.  A **single maraschino cherry** sits perched on the rim, adding a touch of vibrant red to the otherwise subdued palette.  The **subtle scent** of rum and lime wafts from the glass, hinting at the refreshing and slightly bitter flavour that awaits.  **Describe the overall visual appeal of the Hemingway Special. Is it elegant? Simple? Refreshing?  How does the color and clarity of the drink contribute to its overall aesthetic?** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

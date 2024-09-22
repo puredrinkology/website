@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "sour"
 visual: "## LLM Prompt:**Imagine a Popped Cherry cocktail. It's made with vodka, cherry liqueur, cranberry juice, and orange juice. Describe its appearance in detail, focusing on the colors, clarity, and any potential garnishes.****Example Output:**The Popped Cherry is a vibrant and alluring cocktail. It's a deep ruby red hue, almost like a polished cherry, with subtle hints of orange peeking through. The liquid itself is crystal clear, with no cloudiness or sediment. A single, plump maraschino cherry sits on the rim of the glass, its bright red contrasting beautifully with the dark red drink. Optionally, a thin orange twist might be added for a touch of citrusy elegance, its green stem peeking out above the rim. The overall effect is a playful and festive cocktail, perfect for any celebration. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

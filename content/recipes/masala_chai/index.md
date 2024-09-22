@@ -38,6 +38,6 @@ has_alcohol: false
 base_spirit:
 family: ""
 visual: "## LLM Prompt:**Describe the appearance of a Masala Chai cocktail, considering the following ingredients: water, tea, ginger, cardamom, cloves, cinnamon, black pepper, sugar, and milk. Focus on the following aspects:*** **Color:** What is the overall hue of the drink? Is it a deep brown, a warm amber, or something else?* **Clarity:** Is the cocktail translucent, slightly cloudy, or opaque?* **Texture:** Does the drink appear smooth and velvety, or slightly frothy with a hint of spice particles?* **Garnish:** How would the use of specific ingredients like cinnamon sticks or cardamom pods affect the visual presentation of the cocktail?* **Overall impression:**  Describe the overall impression the cocktail gives, highlighting the visual elements that evoke the taste and aroma of the drink. **For example, you might describe it as a warm, amber-hued drink, gently simmered with a light froth atop, hinting at the cinnamon stick and star anise nestled within.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

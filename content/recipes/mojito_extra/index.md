@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "highball"
 visual: "##  LLM Prompt:**Imagine a tall, clear glass filled with ice. The glass is rimmed with sugar, and the ice is partially submerged in a vibrant, emerald green liquid. Tiny bubbles rise from the depths of the glass, creating a playful, swirling effect.  A sprig of fresh mint, with delicate leaves still clinging to the stem, rests on the edge of the glass, its aroma mingling with the sweet, citrusy scent of the drink.  A single, ruby-red dash of Angostura Bitters adorns the surface, creating a beautiful contrast against the green and white of the drink.  Describe this scene in vivid detail, highlighting the colors, textures, and aromas that contribute to the visual appeal of the Mojito Extra.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

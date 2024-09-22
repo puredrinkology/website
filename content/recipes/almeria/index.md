@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "other"
 visual: "## LLM Prompt:Imagine a **Almeria cocktail** sitting in a chilled coupe glass. Describe its appearance in detail, focusing on the following aspects:* **Color:**  What is the overall color of the cocktail? Is it a deep, rich brown, or does it have a lighter, creamier hue? * **Texture:** Is the surface smooth and silky, or does it have a frothy, airy head?  * **Clarity:** Is the drink completely opaque, or are there subtle swirls and layers of color?* **Embellishments:** Is there any garnish on the drink? If so, what is it and how does it enhance the visual appeal?**Example:** The Almeria presents a captivating appearance. Its base is a deep, mahogany brown, reminiscent of dark rum. Atop this sits a thick, pillowy white head, formed by the frothed egg white. The surface shimmers faintly, reflecting the light in subtle, mesmerizing swirls. A delicate sprig of mint adds a touch of freshness and a vibrant splash of green to the overall composition. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

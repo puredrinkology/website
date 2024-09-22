@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "brandy"
 family: ""
 visual: "## LLM Prompt:**Describe the appearance of a cocktail called ABC made with Amaretto, Baileys Irish Cream, and Cognac. Consider the following factors:*** **Color:** How does the combination of these liquors affect the overall color of the drink?  Is it a deep brown, a lighter cream color, or something in between?  Does it have any distinct hues or shades?* **Texture:**  Is the drink smooth and creamy?  Is it thick or thin?  Does it have any layers or separation?* **Presentation:**  Is there anything about the way the drink is served (e.g., in a chilled glass, with ice, garnished) that affects its appearance? * **Overall Impression:**  How would you describe the visual appeal of this cocktail?  Is it elegant, inviting, or something else?**Please provide a detailed and evocative description of the ABC cocktail's appearance, capturing the visual essence of the drink.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

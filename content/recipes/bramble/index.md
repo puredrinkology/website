@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "sour"
 visual: ""
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

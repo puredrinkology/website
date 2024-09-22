@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: "spirit-forward"
 visual: "## LLM Prompt: Describe the Appearance of the Affinity Cocktail**Context:**The Affinity cocktail is a sophisticated, complex drink made with:* Scotch Whisky (2 oz)* Sweet Vermouth (1 oz)* Dry Vermouth (1/2 oz)* Orange Bitters (2 dashes)**Prompt:**Imagine a glass filled with a deep amber liquid, reminiscent of a warm sunset. The liquid itself shimmers with subtle hints of gold, reflecting the light in a mesmerizing way.  The surface of the drink is undisturbed, smooth and inviting, with a single, elegant orange peel curled delicately on top.  A wisp of steam rises from the glass, carrying with it the aroma of rich spices and citrus.  **Please describe the appearance of the Affinity cocktail in detail, focusing on the following aspects:*** **Color and texture of the liquid:** Is it clear, cloudy, oily, or viscous? What kind of light does it reflect?* **Appearance of the garnish:** How does the orange peel complement the drink's overall look?  Does it add a touch of vibrancy or elegance?* **Overall impression:** What emotions or thoughts does the drink evoke?  Is it inviting, mysterious, or sophisticated?**Note:** The LLM should strive to evoke a sense of luxury and sophistication, reflecting the cocktail's complexity and the quality of its ingredients. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

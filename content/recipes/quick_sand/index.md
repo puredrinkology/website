@@ -19,6 +19,6 @@ has_alcohol: true
 base_spirit:
 family: "highball"
 visual: "## LLM Prompt:**Describe the appearance of a cocktail called Quick-sand made with Black Sambuca and Orange Juice. Consider the following factors:*** **Color:**  The color of Black Sambuca is dark, almost black, while orange juice is, of course, orange. How would these colors blend together? Would the result be a cloudy orange, a dark amber, or something else entirely?* **Transparency:** Would the cocktail be clear, cloudy, or opaque? Consider the potential for the Black Sambuca to create a layering effect or mix fully with the orange juice.* **Texture:**  Is the cocktail smooth, or does it have any visible texture? Would the Black Sambuca create any swirling or marbling effects? * **Garnish:**  What kind of garnish, if any, would complement the appearance of the cocktail? Could it be a simple orange peel or something more elaborate?**Write a short, descriptive paragraph that captures the visual essence of this cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

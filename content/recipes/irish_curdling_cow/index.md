@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "bourbon"
 family: "other"
 visual: "## LLM Prompt:Imagine a cocktail called Irish Curdling Cow made with Baileys Irish Cream, Bourbon, Vodka, and Orange Juice. Describe the visual aspects of this cocktail. **Consider the following:*** **Color:** What hues are present? Is it layered, or does it blend together? How opaque or transparent is it?* **Texture:** Is it smooth and creamy, or does it have an interesting texture? Are there any visible bubbles or foam?* **Garnish:**  What garnishes might complement the cocktail and enhance its appearance? * **Glassware:** What type of glass would best showcase the cocktail's unique characteristics? **Please provide a detailed and descriptive answer that paints a vivid picture of the Irish Curdling Cow for a reader who has never seen it before.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

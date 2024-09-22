@@ -28,6 +28,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "highball"
 visual: "## LLM Prompt:Imagine a **Gin Swizzle** in a tall, **iced** glass. The drink is **light and refreshing**, with a **pale green hue** from the lime juice.  **Tiny bubbles** from the club soda rise slowly, creating a **delicate fizz** at the surface.  A **thin slice of lime** rests elegantly on the rim, its bright green contrasting beautifully with the **pale, almost translucent** drink.  The **aroma** is **invigorating**, with **citrus** and **gin** notes dancing alongside a hint of **spice** from the bitters.  **Describe the Gin Swizzle in detail, focusing on its visual appeal and the sensory experience it evokes.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

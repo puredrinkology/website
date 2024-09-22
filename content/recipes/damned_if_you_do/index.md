@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: ""
 visual: "## LLM Prompt:**Describe the visual appeal of a cocktail called Damned if you do.****The cocktail is made with:*** **Whiskey:** Use a descriptor that evokes the color and clarity of the whiskey used (e.g., amber, golden, smoky, deep brown).* **Hot Damn:** This is a cinnamon schnapps liqueur. Describe its vibrant color and how it contrasts with the whiskey.  **Consider these aspects in your description:*** **Color:**  What is the overall color of the cocktail? Is it layered, or do the colors blend seamlessly?* **Texture:** Is the cocktail clear or cloudy? Are there any visible elements like ice or spices?* **Presentation:**  Imagine the cocktail is served in a classic rocks glass.  What does the glass look like? How is the drink garnished?**Example:**The 'Damned if you do' is a visual delight, presenting a captivating blend of amber whiskey and fiery red Hot Damn schnapps. The whiskey, deep and smoky, forms the base, while the schnapps swirls through it in a vibrant, spicy contrast. Served in a frosted rocks glass with a cinnamon stick garnish, the cocktail evokes a warm and inviting atmosphere, promising a fiery kick with each sip. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -18,6 +18,6 @@ has_alcohol: false
 base_spirit:
 family: ""
 visual: "## LLM Prompt: Describe the appearance of a Kiwi Papaya Smoothie. **Consider these aspects:*** **Color:** What is the dominant color? Are there any variations or swirls?* **Texture:** Is it smooth and creamy, or does it have chunks? * **Consistency:** How thick is it? Does it pour easily, or is it more like a milkshake?* **Garnish:** Are there any garnishes used, such as fresh fruit, mint, or seeds?* **Glassware:** What type of glass is the smoothie served in?  **Imagine you are looking at this smoothie in a bar or restaurant.  Provide a vivid and detailed description.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

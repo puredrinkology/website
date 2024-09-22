@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "martini"
 visual: "##  Describe the visual appeal of an Espresso Martini:**Prompt:** Imagine a cocktail glass, chilled and beaded with condensation. Inside, a rich, dark brown liquid rests, the color of freshly brewed coffee.  A thick, velvety layer of creamy foam crowns the drink, creating a smooth, inviting surface.  The foam is the color of light brown sugar, with subtle hints of espresso peeking through.  Perhaps a dusting of cocoa powder adorns the top, adding a touch of visual intrigue.  What else can you see in this drink?  Describe the texture and the way the light reflects off the surface.  What emotions does this image evoke? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -22,6 +22,6 @@ has_alcohol: false
 base_spirit:
 family: "highball"
 visual: "## LLM Prompt:**Imagine a glass filled with ice, topped with a bright golden liquid that shimmers with subtle green hues. The drink is effervescent, with tiny bubbles dancing on the surface, and has a distinct aroma of warm spices and citrus. What does this cocktail, called GG, look like?****Please describe the following:*** **Color:**  What shades and hues are present in the drink? How does the light reflect off the liquid?* **Texture:** Is the drink clear or cloudy? How does it look when it's stirred or poured? * **Bubbles:** How many bubbles are present? What size and shape are they? * **Garnish:**  Would this cocktail be enhanced with a garnish? If so, what kind and how would it be presented? **Your response should be vivid and evocative, painting a picture of the GG cocktail for the reader.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

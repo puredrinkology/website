@@ -33,6 +33,6 @@ has_alcohol: false
 base_spirit:
 family: "other"
 visual: "## LLM Prompt:Imagine a glass filled with a **creamy, pale yellow liquid**.  The surface is **smooth and slightly glossy**, with a faint **whitish sheen**.  The **light catches the liquid**, making it appear **slightly opaque** and **almost luminous**.  Beneath the surface, you can see **tiny bubbles** that rise slowly, creating a gentle **sparkling effect**.  The **aroma is rich and comforting**, with notes of **sweet vanilla**, **nutmeg**, and a **subtle hint of cinnamon**.  **Describe the visual appearance of this classic Egg-Nog, capturing its creamy texture, pale color, and delicate bubbles.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

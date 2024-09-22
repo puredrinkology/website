@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "punch"
 visual: "## LLM Prompt:Imagine a **155 Belmont** cocktail, made with a base of **dark and light rum**, further amplified by the smooth presence of **vodka**, and a refreshing burst of **orange juice**. Describe the cocktail's **appearance**:* **Color:** What shade of amber or orange does it appear? Is it vibrant and clear, or slightly cloudy?* **Texture:** Is it smooth and silky, or slightly frothy? Are there any visible layers?* **Garnish:** What garnish would complement the flavors of the cocktail and enhance its visual appeal? (Think citrus peel, cherry, etc.)* **Glassware:** What kind of glass best showcases the cocktail's color and texture? (Think highball, coupe, etc.)Please describe the **155 Belmont** as if you were a seasoned mixologist, using vivid and descriptive language to capture its visual appeal. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

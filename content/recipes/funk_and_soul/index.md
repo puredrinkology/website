@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "highball"
 visual: "## LLM Prompt:**Describe the appearance of a cocktail named Funk and Soul with the following ingredients:*** **Rum:** Light or dark, your choice.* **Apricot Nectar:**  Think of the color and consistency of this.* **Pomegranate Juice:** Consider the deep red hue. * **Lemon:**  Focus on the color and clarity of the juice.* **Soda Water:**  Describe how it interacts with the other ingredients.**Consider these factors:*** **Color:** What is the overall color of the cocktail?* **Clarity:** Is it clear, cloudy, layered, or layered with a gradient?* **Texture:** Is it smooth, frothy, or layered?* **Garnish:** Imagine a fitting garnish for this cocktail and describe it. **Write your description in a way that evokes the cocktail's name, Funk and Soul.  Consider using vivid language to capture the essence of the drink.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

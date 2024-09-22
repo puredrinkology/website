@@ -19,6 +19,6 @@ has_alcohol: false
 base_spirit:
 family: ""
 visual: "## LLM Prompt for Fruit Flip-Flop Description:**Imagine a refreshing cocktail named Fruit Flip-Flop made with creamy yoghurt and tangy fruit juice. Describe the appearance of this drink, considering:*** **Color:** What vibrant shades of color does the fruit juice bring to the cocktail? Does the yoghurt add a creamy white layer or blend seamlessly? * **Texture:** Is the drink smooth and creamy, or does it have a thicker, layered texture? Are there any visible bits of fruit pulp or yogurt?* **Garnish:**  What type of garnish would best compliment the flavors of the drink? Think of fruit slices, herbs, or edible flowers. * **Glassware:** Would this cocktail best be served in a tall glass, a coupe, or something else entirely? How does the glassware influence the presentation?**Provide a detailed and descriptive answer that paints a picture of this refreshing drink.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

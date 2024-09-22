@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit:
 family: "highball"
 visual: "## LLM Prompt for Citrus Coke Description:**Imagine a classic Coca-Cola with a vibrant twist. Describe the appearance of a Citrus Coke cocktail, considering the following aspects:*** **Color:** What is the overall hue of the drink?  Is it a deep brown, a lighter amber, or something else entirely? Does it have any interesting layers or gradients?* **Clarity:** Is the drink clear, cloudy, or somewhere in between? Are there any visible particles or ice chunks?* **Glassware:** What type of glass would best showcase the cocktail? A highball glass? A Collins glass? A rocks glass?* **Garnish:** What kind of garnish would enhance the visual appeal of the drink? A lime wedge? A lemon twist? A cherry? * **Texture:** Is the drink smooth and refreshing, or does it have a more complex texture? Are there any visible bubbles or foam? **Write a descriptive paragraph that captures the essence of the Citrus Coke cocktail's appearance.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

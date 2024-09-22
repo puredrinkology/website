@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "fizz"
 visual: "##  LLM Prompt: Imagine a **Tequila Fizz**, a sophisticated cocktail with a vibrant personality. **Describe the following in detail:*** **Color:**  What hues dominate the drink?  Is it a clear, bright yellow? Or does it possess a deeper, amber glow?* **Texture:**  Is the drink smooth and creamy from the egg white, or does it have a more effervescent, bubbly texture from the ginger ale? * **Appearance:**  Does it have a distinct layer separation, like a layered dessert? Are there any interesting patterns or swirls in the drink? * **Garnish:**  What would be a suitable garnish to enhance its visual appeal? A lime wedge? A sprig of mint? A cherry?  **Remember:** The description should paint a vivid picture of the Tequila Fizz, using descriptive language that appeals to all the senses.  "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

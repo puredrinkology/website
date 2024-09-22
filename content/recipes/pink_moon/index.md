@@ -27,6 +27,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "sour"
 visual: "## LLM Prompt:**Describe the appearance of a cocktail called Pink Moon using the following ingredients:*** Gin (clear, slightly oily)* Coconut Liqueur (creamy white)* Elderflower Cordial (pale yellow, slightly viscous)* Lime Juice (clear, slightly tart)* Blackberries (deep purple/black, slightly bruised)**The drink should have a vibrant pink hue.  Focus on the following elements:*** **Color:** Describe the overall color of the drink, including its intensity and any variations or gradients.* **Texture:**  Is the drink clear, cloudy, or layered?  What about the presence of bubbles or foam? * **Garnish:** Describe any garnishes used, including color, texture, and shape. Consider whether they float or sink.* **Overall Impression:** What is the overall feeling or mood evoked by the drink's appearance? Is it elegant, playful, refreshing, or inviting? **Example response:**The Pink Moon shimmers like a sunset in a glass. Its vibrant, almost fuchsia pink hue is punctuated by tiny bubbles rising from the depths, creating a soft, effervescent texture. A single blackberry, its dark skin glistening with dew, rests on the rim, adding a touch of rustic charm. The overall impression is one of playful elegance, a sophisticated yet whimsical cocktail perfect for a summer evening. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

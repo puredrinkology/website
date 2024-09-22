@@ -1,7 +1,7 @@
 ---
-title: "The Halloween  Punch"
-fullname: "The Halloween  Punch"
-shortname: "Halloween "
+title: "The Halloween Punch"
+fullname: "The Halloween Punch"
+shortname: "Halloween"
 description: "This Halloween Punch is a spiced, fruit-forward cocktail, akin to a spiced sangria. It draws inspiration from the centuries-old tradition of using spices and fruit in warming winter drinks, but with a modern twist using vodka for a chillingly smooth finish. "
 flavor_description: "This Halloween Punch packs a spicy, tart punch! The cherry juice provides a sweet base, balanced by the tartness of the orange peel and the fiery kick of red chili flakes.  Ginger and cloves add warm, complex notes, while the vodka provides a smooth, clean finish. It's a unique and surprisingly refreshing cocktail that's perfect for a spooky celebration. "
 bartender_tips: "To make your Halloween Punch a hit, use fresh ginger and orange peel for the best flavor.  Muddle the ginger and cloves gently to release their essence, but avoid pulverizing them.  A few chili flakes add a subtle kick, but be careful not to overdo it.  Chill your vodka beforehand, as it'll keep the punch icy cold and refreshing.  Strain the punch after infusing to avoid any stray chili flakes or ginger bits in your drink.  Enjoy! "
@@ -33,6 +33,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "punch"
 visual: "## LLM Prompt:**Imagine a cauldron bubbling with a vibrant, crimson elixir.  Describe the appearance of this Halloween Punch using the following ingredients: Cherry Juice, Orange Peel, Red Chili Flakes, Cloves, Ginger, and Vodka.  Focus on the color, texture, and any visible elements that contribute to its spooky aesthetic.****Specifically, consider:*** **Color:** What shade of red is the punch?  Is it a deep, almost black crimson or a lighter, almost translucent cherry red?* **Texture:** Is it a clear, smooth liquid or does it have a cloudy, almost viscous appearance? Are there any floating elements?* **Visual Elements:** Are there any visible orange peel slivers, chili flakes, or clove buds? Does the ginger add a hint of cloudy sediment? * **Overall Impression:**  Does it evoke a sense of warmth and spice, or something darker and more mysterious? **Use vivid language to create an image in the reader's mind.  Don't be afraid to be descriptive and evocative.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

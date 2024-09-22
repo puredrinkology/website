@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "sour"
 visual: "## Describe the visual appeal of a Clover Club cocktail.Imagine a classic cocktail glass, filled with a beautiful, pale pink liquid. The color is reminiscent of a blushing sunset, with delicate hints of citrus and a subtle, pearly shimmer. **The egg white, expertly shaken into a frothy cloud, creates a light, airy head that rests atop the drink like a fluffy cap.**  Tiny bubbles rise from the depths, adding a touch of effervescence to the scene.  **The glass itself is immaculately chilled, frosted with condensation**, adding a touch of ethereal coolness to the overall presentation.  A single, vibrant **lemon twist**, nestled gracefully on the rim,  releases a burst of fresh citrus aroma, completing the sensory experience.  **The Clover Club is a cocktail that is as visually appealing as it is delicious.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

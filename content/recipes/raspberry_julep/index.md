@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "bourbon"
 family: "other"
 visual: "## LLM Prompt:Describe the appearance of a Raspberry Julep cocktail, focusing on the following aspects:* **Color:**  What is the overall color of the drink? Is it a single, solid color, or does it have variations? * **Clarity:** Is the cocktail clear, cloudy, or opaque?* **Texture:** Does it have any noticeable texture, like bubbles or a foam layer?* **Garnish:** What type of garnish is typically used, and how does it enhance the visual appeal? * **Glassware:** What kind of glass is the cocktail served in? How does the shape of the glass contribute to the overall presentation? **Bonus:** Include any specific details that make the Raspberry Julep visually unique, such as the appearance of the mint leaves or the way the raspberry syrup swirls within the drink. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

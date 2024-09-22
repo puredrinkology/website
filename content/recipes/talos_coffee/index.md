@@ -18,6 +18,6 @@ has_alcohol: true
 base_spirit:
 family: ""
 visual: "## LLM Prompt: Describe the Appearance of Talos CoffeeImagine a cocktail called Talos Coffee that features **Grand Marnier** and **coffee**. **Describe the appearance of this cocktail in detail, considering:*** **Color:**  What is the overall color of the drink? Is it a deep brown, a rich amber, or something else?  Are there any layers or gradients of color?* **Texture:** Is it a smooth, silky drink? Are there any visible particles or sediments? * **Garnish:** Is there a garnish on top of the drink? If so, what kind and how does it add to the visual appeal?* **Glassware:** What type of glass is the Talos Coffee served in?  Does the glass shape enhance the presentation?**Remember to use descriptive language to evoke the visual experience of the cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -21,6 +21,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "highball"
 visual: "## LLM Prompt: Describe the appearance of a Harvey Wallbanger**Context:** The Harvey Wallbanger is a classic cocktail made with Vodka, Galliano, and Orange Juice.  **Instructions:**  Describe the visual characteristics of this cocktail in detail. Consider factors like:* **Color:** What is the overall color of the drink? Is it a vibrant orange, a pale yellow, or something else? * **Clarity:** Is it clear, cloudy, or layered?* **Texture:** Is it smooth, frothy, or have a distinct texture?* **Garnish:** Is there a garnish? If so, describe the garnish and how it adds to the drink's visual appeal.* **Glassware:** What type of glass is the Harvey Wallbanger typically served in? How does the glass shape enhance the visual appeal?**Output:** Please provide a detailed description of the Harvey Wallbanger's visual appearance, using vivid language to evoke the image in the reader's mind. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

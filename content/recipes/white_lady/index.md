@@ -21,6 +21,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "sour"
 visual: "## LLM Prompt:Imagine a classic White Lady cocktail. Describe its appearance in detail, focusing on:* **Color:** What shade of white is the cocktail? Does it have any hints of yellow or transparency?* **Texture:** Is it clear, cloudy, or slightly hazy? How about the foam or froth on top, if any?* **Garnish:**  What kind of garnish is commonly used with a White Lady? How does it complement the color and texture of the drink? * **Glassware:** What type of glass is the cocktail typically served in? How does the shape of the glass enhance the visual appeal? Remember to use vivid and descriptive language to paint a picture of the White Lady's appearance in the reader's mind. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

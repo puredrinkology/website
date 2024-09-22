@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "fizz"
 visual: "## LLM Prompt:Imagine a tall, slender glass, filled with a refreshing, light-yellow cocktail. The base is a vibrant, almost neon yellow, hinting at the sweet and floral notes of the elderflower cordial. A thin slice of lemon, carefully placed on the rim, adds a touch of vibrant green, contrasting beautifully with the yellow base. Tiny bubbles from the soda water dance on the surface, creating a subtle effervescence. The glass is frosted on the outside, catching the light and creating a cool, inviting aura. This is the Lemon Elderflower Spritzer, a perfect combination of floral sweetness and citrus acidity, ready to quench your thirst on a warm summer day. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

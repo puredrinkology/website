@@ -19,6 +19,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "highball"
 visual: "## LLM Prompt for Describing a Greyhound Cocktail:**Describe the visual appearance of a Greyhound cocktail. Consider the following aspects:*** **Color:** What shade of pink or orange does the grapefruit juice impart? Is it a vibrant hue or more muted? * **Clarity:** Is the drink clear or does it have a slight cloudiness from the grapefruit juice? * **Texture:** Is the surface of the drink smooth or does it have any bubbles or foam?* **Glassware:** What type of glass is the cocktail typically served in? Is it tall and slender, or short and wide? * **Garnish:** Are there any garnishes added, like a grapefruit wedge, a sprig of rosemary, or an orange peel? If so, describe their placement and how they enhance the visual appeal. * **Overall Impression:** What is the overall aesthetic of the drink? Does it appear refreshing, sophisticated, or playful? **Remember to use vivid language and sensory details to bring the description to life.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

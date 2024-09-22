@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "punch"
 visual: "## LLM Prompt: **Describe the appearance of a Mary Pickford cocktail. Imagine you are holding a glass of this drink in your hand. Focus on the following aspects:*** **Color:** What is the overall color of the drink? Is it vibrant or muted? Does it have any layers or gradients?* **Clarity:** Is the drink clear, cloudy, or have any visible particles? * **Texture:**  Is the drink smooth or do you notice any foam or bubbles?* **Garnish:**  How does the maraschino cherry affect the visual appeal of the drink? **Please use vivid language and descriptive details to paint a picture of this classic cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

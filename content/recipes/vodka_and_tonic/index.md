@@ -19,6 +19,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "highball"
 visual: "## LLM Prompt: Describe the visual appeal of a Vodka and Tonic cocktail. Consider the following:* **Glass:**  The drink is served in a highball glass, typically filled with ice.  What does the ice look like?  * **Liquids:** Describe the clarity of the vodka and the color and fizziness of the tonic water. How do they interact visually? * **Garnish:** A typical garnish for this drink is a lime wedge. How does the lime's color and texture contrast with the rest of the drink? * **Overall Appearance:**  What is the overall impression of the cocktail? Is it refreshing, classic, simple?**Example Answer:**The Vodka and Tonic is a crisp and refreshing cocktail.  It's served in a tall glass, filled with clear, glistening ice cubes.  The vodka itself is crystal clear, while the tonic water creates a pale, effervescent layer, with tiny bubbles rising to the surface.  A vibrant lime wedge, with its glossy green skin and juicy pulp, adds a burst of color to the drink. The combination of clear, bubbly, and bright green creates a simple yet visually appealing cocktail, perfect for a hot summer day. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

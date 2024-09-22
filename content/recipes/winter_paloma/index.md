@@ -28,6 +28,6 @@ has_alcohol: true
 base_spirit: "tequila"
 family: "sour"
 visual: "## LLM Prompt:Describe the appearance of a Winter Paloma cocktail. It is made with tequila, grapefruit juice, lime juice, agave syrup, and a touch of black pepper. Imagine the drink sitting in a rocks glass with ice. Focus on the colors, clarity, and any potential garnishes. **Bonus:** Consider how the addition of black pepper might affect the visual appeal of the drink. Does it create a layered effect, or add subtle hints of color? "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

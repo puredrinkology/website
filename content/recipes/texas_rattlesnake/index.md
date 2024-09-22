@@ -23,6 +23,6 @@ has_alcohol: true
 base_spirit: "brandy"
 family: ""
 visual: "## LLM Prompt for Visual Description of Texas Rattlesnake Cocktail**Please describe the appearance of a Texas Rattlesnake cocktail, a concoction made with Yukon Jack Canadian Whiskey, Cherry Brandy, Southern Comfort, and Sweet & Sour mix.  Focus on the following:*** **Color:** What is the overall color of the drink? Is it vibrant or muted? Does it have any specific shades or hues?* **Texture:** Is the drink clear, cloudy, or layered? Are there any visible ingredients or pieces of fruit?* **Glass:** What type of glass is the cocktail served in? Is it an old fashioned glass, a highball, or something else entirely? * **Garnish:** Does the drink have a garnish? If so, what is it and how is it presented?* **Overall Impression:** How would you describe the drink's visual appeal? Is it inviting, intriguing, or perhaps a bit intimidating? **Be as descriptive as possible and use vivid language to paint a picture of this unique cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

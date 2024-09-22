@@ -30,6 +30,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "fizz"
 visual: "## LLM Prompt: **Imagine a tall, frosted glass filled with a light, bubbly concoction. Describe the appearance of this drink, focusing on the following elements:*** **Color:**  Is the drink crystal clear, a pale straw yellow, or something more vibrant?* **Bubbles:**  Are the bubbles delicate and ephemeral, or large and boisterous? * **Texture:**  Does the drink appear viscous, thin, or somewhere in between? * **Garnish:**  A delicate orange spiral graces the rim of the glass, adding a touch of citrusy color.  A small, elegant twist of lemon peel rests on the surface, adding a subtle touch of green. * **Overall Impression:**  Does the drink appear refreshing and light, or complex and sophisticated? **Please use descriptive language and imagery to create a vivid picture of the Lone Tree Cooler in your mind.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

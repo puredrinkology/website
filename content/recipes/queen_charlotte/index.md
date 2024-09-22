@@ -21,6 +21,6 @@ has_alcohol: true
 base_spirit: "wine"
 family: "highball"
 visual: "## LLM Prompt:**Describe the appearance of a cocktail called Queen Charlotte, which is made with red wine, grenadine, and lemon-lime soda.  Be sure to include details about:*** **Color:** Is it a single, uniform color, or does it have layers? What is the overall tone of the color - light, dark, vibrant, muted? * **Clarity:** Is it clear, cloudy, or opaque? * **Texture:**  Is it smooth, bubbly, or layered with different densities? * **Garnish:**  If any, describe the garnish and how it is placed in the drink. **Example:** Imagine a Queen Charlotte served in a tall glass with ice. The drink is a beautiful, layered masterpiece. The bottom layer is a vibrant ruby red, showcasing the rich color of the red wine. Above it, a layer of vibrant, almost fluorescent red grenadine sits, creating a distinct boundary between the two. Finally, a crown of refreshing lemon-lime soda adds a delicate, pale yellow hue and a gentle effervescence. A delicate sprig of mint, perched on the edge of the glass, adds a touch of green and freshness. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

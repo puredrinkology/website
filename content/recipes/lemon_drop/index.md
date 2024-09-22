@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "vodka"
 family: "sour"
 visual: "## LLM Prompt:Describe the visual appearance of a classic Lemon Drop cocktail. Focus on the following aspects:* **Color:** What is the overall hue of the cocktail?  Is it a vibrant yellow, a pale lemon, or something else entirely? * **Clarity:** Is the drink clear and translucent, or does it have a slight haze?* **Texture:** Is there any foam or head on top? Does the drink appear thick or watery?* **Garnish:**  What kind of garnish is typically used for a Lemon Drop?  How does it enhance the visual appeal? * **Glass:**  What type of glass is the cocktail served in?  How does the shape of the glass contribute to the overall appearance?**Bonus:**  Describe the subtle variations in color that might appear as the ice melts in the drink. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

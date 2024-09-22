@@ -20,6 +20,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: ""
 visual: "## LLM Prompt:**Describe the appearance of a Hot Creamy Bush cocktail, made with Irish whiskey, Baileys Irish Cream, and coffee. Focus on the following aspects:*** **Color:** What shades dominate the drink? Is it a uniform color or layered? Does it have any interesting hues or gradients?* **Texture:** Is it smooth and creamy? Are there any visible swirls or layers? * **Presentation:** How is the drink typically served? In a glass, mug, or other vessel?  Is there any garnish or additional element that adds visual interest?**Example response:**The Hot Creamy Bush presents a rich, inviting spectacle. Its core color is a deep, mahogany brown, the result of the Irish whiskey and coffee blending.  A layer of velvety, pale ivory Baileys Irish Cream crowns the top, adding a contrasting element and creating a subtle, two-toned effect. The cream might feature delicate swirls or patterns depending on the mixing technique. The cocktail is typically served in a warm, ceramic mug, adding a touch of rustic charm and enhancing the warmth of the beverage. A sprinkle of cocoa powder or a cinnamon stick garnish can further accentuate the drink's inviting aroma and appearance. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

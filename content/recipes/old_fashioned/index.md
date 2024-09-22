@@ -25,6 +25,6 @@ has_alcohol: true
 base_spirit: "bourbon"
 family: "ancestral"
 visual: "## LLM Prompt:**Imagine a classic Old Fashioned cocktail. Describe its appearance in vivid detail, focusing on the following:*** **The color:** Is it a deep amber hue, or does it have a reddish tint? How does the light play on the surface?* **The texture:** Is it clear and still, or does it have a slight haze? How does the ice affect its appearance?* **The garnish:** What kind of orange peel is used? How is it twisted and placed on the rim of the glass? Are there any other garnishes present?* **The glassware:** What kind of glass is used? Is it chilled, and does it have any embellishments? * **The overall impression:** Does it look sophisticated and timeless, or bold and robust? **Provide your answer in a descriptive and engaging way, as if you were describing the cocktail to someone who has never seen it before.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

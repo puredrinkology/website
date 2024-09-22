@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "highball"
 visual: "## LLM Prompt: Describe the Dragonfly CocktailImagine a tall, slender glass filled with a vibrant, effervescent liquid.  The base is a clear, crisp gin, its juniper notes faintly discernible.  Above it, a cascade of pale golden ginger ale bubbles delicately, creating a mesmerizing, constantly shifting pattern.  A thin, crescent-shaped slice of lime rests on the rim of the glass, its green hue providing a refreshing contrast to the golden liquid.  The cocktail is garnished with a sprig of fresh mint, its verdant leaves adding a touch of aromatic freshness. **Describe the Dragonfly cocktail using the following elements:*** **Visuals:** How does the cocktail look in the glass? What are the colors and textures?* **Sensory details:** Describe the scent and the sound of the cocktail. * **Overall impression:** What emotions does the cocktail evoke?  Is it refreshing, invigorating, sophisticated? Please provide a detailed description of the Dragonfly cocktail, capturing its beauty and allure. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit:
 family: "sour"
 visual: "## LLM Prompt:Imagine a classic cocktail, Zizi Coin-coin, served in a chilled coupe glass.  **Describe the visual elements of this cocktail:*** **Color:** What is the dominant color of the drink? Are there any layers or gradients? * **Texture:** Is the drink clear, cloudy, or frothy? Are there any visible ice chips or other elements?* **Garnish:** What kind of garnish is used, and how is it presented?  * **Overall Impression:** What is the overall aesthetic of the cocktail? Is it elegant, refreshing, playful, or something else?**Be as detailed as possible and use vivid language to capture the visual experience of this cocktail.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

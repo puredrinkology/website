@@ -27,6 +27,6 @@ has_alcohol: true
 base_spirit: "whiskey"
 family: "sour"
 visual: "## LLM Prompt:Imagine a cocktail called Penicillin. Describe its appearance in detail, focusing on the following aspects:* **Color:** What is the overall color of the drink? Does it have any layers or shades?* **Clarity:** Is the drink clear, cloudy, or opaque?* **Texture:** Is it smooth, viscous, or bubbly?* **Garnish:** What kind of garnish is typically used, and how does it enhance the visual appeal?* **Glassware:** What type of glass is it served in, and how does the shape contribute to the overall presentation?**Consider the ingredients used in the Penicillin:*** **Blended Scotch:** Offers a rich, amber hue.* **Lemon Juice:** Adds a touch of brightness and acidity.* **Honey Syrup:** Contributes a sweet, golden color.* **Ginger Syrup:** Provides a subtle warmth and a hint of spice.* **Islay Single Malt Scotch:** Introduces a smoky, peaty note. **Use evocative language and sensory details to paint a vivid picture of the Penicillin.** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

@@ -24,6 +24,6 @@ has_alcohol: true
 base_spirit: "gin"
 family: "fizz"
 visual: "## LLM Prompt: Describe the appearance of a Gin Fizz cocktail. **Imagine a tall, frosted glass filled with a refreshing, effervescent drink. The color should be pale, almost translucent, with a subtle hint of yellow. The drink is topped with a delicate layer of froth, almost like a cloud, which is created by the carbonated water mixing with the powdered sugar. A thin slice of lemon, with its bright yellow peel and a hint of green, rests gracefully on the rim of the glass, adding a touch of vibrancy to the overall composition. The glass itself is likely chilled and beaded with condensation, further emphasizing the drink's refreshing nature.  What details can you add to this description to make it more vivid and captivating?** "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 

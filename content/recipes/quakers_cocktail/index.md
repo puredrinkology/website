@@ -22,6 +22,6 @@ has_alcohol: true
 base_spirit: "rum"
 family: "sour"
 visual: "## LLM Prompt for Describing the Quaker's Cocktail Imagine a **Quaker's Cocktail**, a vibrant concoction of **light rum**, **brandy**, **lemon juice**, and **raspberry syrup**.  **Describe the cocktail's appearance:*** **Color:** Is it a deep ruby red, or a lighter blush pink? * **Texture:** Is it smooth and silky, or slightly cloudy with a hint of fizz?* **Garnish:** Does it feature a delicate lemon twist or a plump raspberry resting on the rim? * **Overall aesthetic:** Does it exude a sense of classic elegance, or a playful, fruity charm? **Bonus:** Describe the visual effect of the ingredients blending together in the glass. **Note:** The goal is to create a vivid and enticing description of the Quaker's Cocktail, appealing to both sight and imagination. "
-source: "personal_collection"
+source: "thecocktaildb"
 ---
 
