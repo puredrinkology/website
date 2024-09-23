@@ -1,6 +1,6 @@
 ---
 title: The Cocktail Families
-description: An organization of cocktails into their respective family groups
+description: An organization of cocktails into their respective cocktail family groups such as ancestral old fashioned's, spirit forward cocktails, martini's and negroni's, sour's and highball's.
 layout: family
 url: "/recipes/family/"
 

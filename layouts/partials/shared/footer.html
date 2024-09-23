@@ -1,9 +1,9 @@
 
 
-<footer class="shared footer bg-dark text-white-50 p-5 {{ if .Page.Params.isAppMode }}d-none d-lg-block{{ end }}">
+<footer class="shared footer bg-dark text-white-50 px-5 py-3 {{ if .Page.Params.isAppMode }}d-none d-lg-block{{ end }}">
   <div class="container-fluid ">
-    <div class="row pb-5">
-      <div class="col-12 col-xl-6 text-center text-xl-start pb-4">
+    <div class="row">
+      <div class="col-12 col-xl-12 text-center">
         <h4 class="fs-4 fw-semibold text-uppercase text-white-50">{{ .Site.Title }}</h4>
 
         {{ with .Site.Params.social }}
@@ -15,33 +15,6 @@
         {{ end }}
 
         
-      </div>
-      <div class="col-12 col-xl-2 text-center text-xl-start pb-4">
-        <ul class="list-unstyled">
-          {{ range first 3 .Site.Menus.footer }}
-            <li class="">
-              <a class="small text-muted text-decoration-none" href="{{ .URL }}">{{ .Name }}</a>
-            </li>
-          {{ end }}
-        </ul>
-      </div>
-      <div class="col-12 col-xl-2 text-center text-xl-start pb-4">
-        <ul class="list-unstyled">
-          {{ range first 3 (after 3 .Site.Menus.footer) }}
-            <li class="">
-              <a class="small text-muted text-decoration-none" href="{{ .URL }}">{{ .Name }}</a>
-            </li>
-          {{ end }}
-        </ul>
-      </div>
-      <div class="col-12 col-xl-2 text-center text-xl-start pb-4">
-        <ul class="list-unstyled">
-          {{ range first 3 (after 6 .Site.Menus.footer) }}
-            <li class="">
-              <a class="small text-muted text-decoration-none" href="{{ .URL }}">{{ .Name }}</a>
-            </li>
-          {{ end }}
-        </ul>
       </div>
     </div>
     <div class="row">

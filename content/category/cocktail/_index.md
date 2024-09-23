@@ -1,6 +1,6 @@
 ---
 title: Cocktails Collection
-description: A collection of cocktail recipes featuring Bourbon
+description: A collection of all our cocktail recipes
 layout: taxonomy
 url: "/recipes/category/cocktail/"
 weight: 1
