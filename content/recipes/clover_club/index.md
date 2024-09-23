@@ -8,10 +8,10 @@ bartender_tips: "For a perfect Clover Club, remember these tips:* **Shake hard:*
 ingredients:
   - item: "Gin"
     measure: "1.5 oz"
-  - item: "Grenadine"
-    measure: "2 Tsp"
+  - item: "Raspberry Syrup"
+    measure: "0.5 oz"
   - item: "Lemon"
-    measure: "Juice Of 0.5"
+    measure: "0.5 oz"
   - item: "Egg White"
     measure: "1"
 instructions:
