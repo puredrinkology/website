@@ -2,6 +2,17 @@
 {{ partial "head/twitter_cards.html" . }}
 {{ partial "head/opengraph.html" . }}
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1JD40H2EFW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1JD40H2EFW');
+</script>
+<!-- end google tag -->
+
 <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/rss-parser@3.13.0/dist/rss-parser.min.js"></script>
 
