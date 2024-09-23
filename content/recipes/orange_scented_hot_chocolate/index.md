@@ -34,7 +34,7 @@ glass: "Coffee mug"
 category: "cocoa"
 has_alcohol: false
 base_spirit:
-family: "other"
+family: ""
 visual: ""
 source: "thecocktaildb"
 ---

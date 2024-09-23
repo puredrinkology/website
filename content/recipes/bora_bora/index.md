@@ -21,7 +21,7 @@ glass: "Highball glass"
 category: "cocktail"
 has_alcohol: false
 base_spirit:
-family: "sour"
+family: ""
 visual: ""
 source: "thecocktaildb"
 ---

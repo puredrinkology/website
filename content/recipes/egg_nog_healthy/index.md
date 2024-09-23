@@ -30,7 +30,7 @@ glass: "Collins Glass"
 category: "punch"
 has_alcohol: false
 base_spirit:
-family: "other"
+family: ""
 visual: "## LLM Prompt:**Describe the appearance of a Healthy Egg Nog cocktail, made with the following ingredients: Egg, Sugar, Condensed Milk, Milk, Vanilla Extract, Rum, and Nutmeg.****Focus on the following aspects:*** **Color:** Is it predominantly white, yellow, or a creamy, off-white? Does it have any hints of other colors, like brown from the nutmeg?* **Texture:** Is it smooth and velvety? Does it have any visible particles, like bits of egg white or nutmeg?* **Appearance:** Is it layered or uniform? Are there any interesting swirls or patterns on the surface? Does it have any foam or froth?* **Garnish:** How is the cocktail typically garnished? Are there any embellishments to consider?**Example:**Imagine a creamy, off-white liquid with a hint of golden yellow from the condensed milk. The surface is smooth and velvety, with a delicate layer of foam that is faintly flecked with brown nutmeg. The glass might be garnished with a cinnamon stick or a sprinkle of nutmeg. "
 source: "thecocktaildb"
 ---

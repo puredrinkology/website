@@ -25,7 +25,7 @@ glass: "Wine Glass"
 category: "cocktail"
 has_alcohol: false
 base_spirit:
-family: "highball"
+family: ""
 visual: "## LLM Prompt:Imagine a tall, frosted glass filled with a vibrant, layered cocktail named Ipamena. Describe its appearance, focusing on the following:* **Color:**  What shades and hues are present? Is it a single color or a gradient? How does the light play off the layers? * **Texture:** Is it smooth or bubbly? Are there any visible elements like seeds or ice?  How does the texture contribute to the overall visual appeal? * **Layers:**  How many distinct layers are there?  Are they clearly defined or do they blend? What colors and textures define each layer?* **Garnish:** What garnish, if any, is used to accentuate the drink? How does it enhance the visual presentation? * **Overall Impression:**  What is the overall feeling evoked by the visual presentation of the Ipamena? Is it refreshing, exotic, or playful? **Bonus:**  Include sensory details. What sounds are created when the ice clinking against the glass?  What does the drink smell like? "
 source: "thecocktaildb"
 ---

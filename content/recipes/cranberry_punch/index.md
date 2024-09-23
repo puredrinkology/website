@@ -25,7 +25,7 @@ glass: "Punch Bowl"
 category: "punch"
 has_alcohol: false
 base_spirit:
-family: "punch"
+family: ""
 visual: "## LLM Prompt:Imagine a **vibrant red punch bowl** filled with a **sparkling, crimson liquid**. The **cranberry juice** dominates, creating a rich, jewel-toned base. Tiny bubbles from the **ginger ale** dance on the surface, adding a playful, effervescent quality. Hints of **golden pineapple juice** peek through, adding a touch of sunshine and brightness.  The **almond flavoring** lends a subtle, aromatic note, hinting at a complex depth beneath the fruity sweetness. This punch is both **inviting and visually captivating**, promising a refreshing and flavorful experience. "
 source: "thecocktaildb"
 ---

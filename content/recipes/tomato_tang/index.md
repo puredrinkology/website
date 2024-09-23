@@ -19,7 +19,7 @@ glass: "Highball glass"
 category: "cocktail"
 has_alcohol: false
 base_spirit:
-family: "other"
+family: ""
 visual: "## LLM Prompt:**Describe the visual appearance of a Tomato Tang cocktail, made with tomato juice, lemon juice, and celery salt. Consider the following:*** **Color:** What is the overall color of the drink? Is it a vibrant red, a deep orange, or something in between? Are there any variations in color, like streaks or layers?* **Clarity:** Is the drink clear or cloudy? Does it have any particles suspended in it, like pulp from the tomato juice?* **Texture:** Is the drink thick or thin? Are there any visible bubbles or foam? * **Garnish:**  While not part of the recipe, imagine a garnish that would complement the drink visually. What kind of garnish could you use, and how would it look in the glass?* **Glassware:** What kind of glass would you serve this cocktail in? Does the glass affect the visual appearance of the drink?**Please provide a descriptive paragraph that captures the visual appeal of the Tomato Tang cocktail.** "
 source: "thecocktaildb"
 ---

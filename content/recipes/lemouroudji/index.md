@@ -27,7 +27,7 @@ glass: "Highball Glass"
 category: "nonalcoholic"
 has_alcohol: false
 base_spirit:
-family: "sour"
+family: ""
 visual: "## LLM Prompt:Imagine a cocktail called Lemouroudji made with **ginger, water, lemon, sugar, and cayenne pepper**.  Describe its appearance in detail. **Consider:*** **Color:** Is it a bright, vibrant yellow or a more muted, honey-like hue? Does the cayenne pepper add any red tints?* **Clarity:** Is it crystal clear, or does it have a slight cloudiness from the ginger? Are there any visible particles, like bits of ginger or lemon zest?* **Texture:** Is it thin and watery, or does it have a syrupy consistency? Are there any layers or gradients?* **Garnish:** What kind of garnish would complement this cocktail?  Does it add any visual interest or texture? **Example:**The Lemouroudji appears as a **vibrant, golden yellow** beverage.  It has a **slight cloudiness** from the ginger, but it's **otherwise clear**,  allowing you to see the **small flecks of ginger** suspended within. The **texture is thick and syrupy** with a **smooth, almost velvety finish**.  A **thin slice of candied ginger** sits perched on the rim of the glass, adding a splash of **bright red** to the overall presentation. "
 source: "thecocktaildb"
 ---

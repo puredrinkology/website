@@ -24,7 +24,7 @@ glass: "Punch bowl"
 category: "punch"
 has_alcohol: false
 base_spirit:
-family: "punch"
+family: ""
 visual: "## LLM Prompt:**Imagine a large punch bowl filled with a vibrant, jewel-toned purple liquid. It's bubbly and effervescent, with tiny, swirling clouds of white floating throughout. The light from the punch bowl reflects off the sides, creating a shimmering, almost magical effect.  Describe the visual impact of this punch, focusing on its colors, textures, and the way it catches the light.** **Bonus points for incorporating details like:*** **How the texture of the sherbet impacts the overall appearance.*** **The effect of the carbonated soft drink on the visual appeal.*** **Whether the punch appears inviting or intimidating.** "
 source: "thecocktaildb"
 ---

@@ -20,7 +20,7 @@ glass: "Collins Glass"
 category: "punch"
 has_alcohol: false
 base_spirit:
-family: "highball"
+family: ""
 visual: "## LLM Prompt:Describe the appearance of a Wine Cooler cocktail, made with red wine, lemon-lime soda, and ice. Consider the following aspects:* **Color:** What color is the drink? Is it a vibrant hue or more subdued? Does the color change depending on the type of red wine used? * **Transparency:**  Is the drink clear, cloudy, or somewhere in between? How does the ice affect the transparency?* **Texture:**  How does the drink look in the glass? Is it smooth or bubbly? Does it have a frothy top or a distinct layer separation? * **Garnish:**  What garnish, if any, would be traditionally used with this cocktail? How does it visually enhance the drink?**Output:** Provide a detailed description of the Wine Cooler's appearance, focusing on sensory details that paint a vivid picture for the reader. "
 source: "thecocktaildb"
 ---

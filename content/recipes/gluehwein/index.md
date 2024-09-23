@@ -29,7 +29,7 @@ glass: "Irish coffee cup"
 category: "punch"
 has_alcohol: false
 base_spirit:
-family: "sour"
+family: ""
 visual: "## LLM Prompt for Describing Gluehwein:**Imagine a steaming mug filled with a rich, ruby-red liquid. The color is vibrant, almost as if the wine itself is blushing from the warmth. Tiny, dark specks of cinnamon and cloves float languidly, like little jewels scattered across the surface. A thin, golden film of oil from the lemon peel shimmers, adding a touch of elegance to the scene. The steam rising from the mug dances and swirls, carrying with it the intoxicating aromas of cinnamon, clove, and citrus.  Describe the visual appeal of this drink, highlighting its color, the floating spices, and the shimmering oil.** "
 source: "thecocktaildb"
 ---

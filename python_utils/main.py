@@ -262,6 +262,13 @@ def create_hugo_content(drink, source, get_ai_content):
     
     
     [drink_name, short_name] = generate_title(drink["strDrink"], category)
+    family = ""
+    if not has_alcohol:
+        family = ""
+    elif "strFamily" in drink:
+        family = drink["strFamily"]
+    else:
+        family = identify_cocktail_family(ingredients, drink["strDrink"], history, category) 
 
     frontmatter = {
         "title": drink_name,
@@ -276,7 +283,7 @@ def create_hugo_content(drink, source, get_ai_content):
         "category": category,
         "has_alcohol": has_alcohol,
         "base_spirit": identify_base_spirit(ingredients) or [] if has_alcohol else [],
-        "family": identify_cocktail_family(ingredients, drink["strDrink"], history, category) if not "strFamily" in drink else drink["strFamily"],
+        "family": family,
         "visual": visuals.replace("\n", "").replace('"', ''),
         "source": source
     }
