@@ -25,10 +25,10 @@ instructions:
   - item: "Fill the Pitcher with the white wine and mix in the Apple Brandy."
   - item: "Top to taste with soda water."
 glass: "Pitcher"
-category: "punch"
+category: "cocktail"
 has_alcohol: true
 base_spirit: "brandy"
-family: "highball"
+family: "punch"
 visual: "## LLM Prompt:Imagine a pitcher brimming with a **vibrant, ruby-red sangria**.  The **sparkling, chilled white wine** dances with **perfectly ripe, halved strawberries**, their vibrant crimson contrasting with the **pale green of sliced limes and lemons**. **Thinly sliced apples**, their flesh slightly tinged with pink from the soaking, add a refreshing touch.  The **light, aromatic mist of apple brandy** lingers above, creating a tantalizing scent. **Tiny bubbles** from the soda water rise to the surface, creating a **playful, effervescent texture**. The entire composition is an **inviting spectacle**, radiating summery warmth and promising a delightful taste experience. "
 source: "thecocktaildb"
 ---

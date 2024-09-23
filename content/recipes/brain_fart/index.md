@@ -23,7 +23,7 @@ instructions:
   - item: "Slowly and gently."
   - item: "Works best if ice is added to punch bowl and soda\'s are very cold."
 glass: "Punch bowl"
-category: "punch"
+category: "cocktail"
 has_alcohol: true
 base_spirit: "vodka"
 family: "punch"

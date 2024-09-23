@@ -28,7 +28,7 @@ instructions:
   - item: "If you\'re adding vodka, do so at this stage."
   - item: "Dangle a fangs sweet from each glass."
 glass: "Punch bowl"
-category: "punch"
+category: "cocktail"
 has_alcohol: true
 base_spirit: "gin"
 family: "punch"

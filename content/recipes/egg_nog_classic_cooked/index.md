@@ -28,7 +28,7 @@ instructions:
   - item: "Choose 1 or several of: Chocolate curls, cinnamon sticks, extracts of flavorings, flavored brandy or liqueur, fruit juice or nectar, ground nutmeg, maraschino cherries, orange slices, peppermint sticks or candy canes, plain brandy, run or whiskey, sherbet or ice-cream, whipping cream, whipped."
   - item: "Serve immediately."
 glass: "Pitcher"
-category: "punch"
+category: "cocktail"
 has_alcohol: false
 base_spirit:
 family: ""

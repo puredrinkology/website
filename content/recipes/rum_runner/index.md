@@ -19,7 +19,7 @@ ingredients:
 instructions:
   - item: "Mix all ingredients in glass & add ice."
 glass: "Cocktail glass"
-category: "punch"
+category: "cocktail"
 has_alcohol: true
 base_spirit: "rum"
 family: "punch"

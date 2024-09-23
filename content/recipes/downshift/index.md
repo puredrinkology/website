@@ -20,10 +20,10 @@ instructions:
   - item: "After that, add the Minute Maid Fruit Punch, then float the 151."
   - item: "Rocks optional."
 glass: "Hurricane glass"
-category: "punch"
+category: "cocktail"
 has_alcohol: true
 base_spirit: "rum"
-family: "highball"
+family: "punch"
 visual: "## Prompt:Imagine a cocktail called Downshift. It's a vibrant, layered drink combining the sweet, fruity essence of **Fruit Punch** with the crisp, bubbly zing of **Sprite**. This base is then layered with the smooth, herbal notes of **Tequila**, adding a subtle complexity. Finally, a splash of **151 Proof Rum** sits on top, adding a fiery, burnished warmth. **Describe the appearance of this cocktail. Consider:*** **Color:** What is the overall color of the drink? Does it have layers? Does the rum create a distinct color shift?* **Texture:** Is it clear, cloudy, or have any visible particles? Does the rum float or mix in?* **Garnish:** What garnish would complement this combination of flavors and enhance the visual appeal?**The goal is to create a vivid description of this cocktail that captures its taste and personality through its appearance.** "
 source: "thecocktaildb"
 ---

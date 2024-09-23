@@ -19,7 +19,7 @@ ingredients:
 instructions:
   - item: "Mix all ingredients in a punch bowl and serve."
 glass: "Punch bowl"
-category: "punch"
+category: "cocktail"
 has_alcohol: true
 base_spirit: "gin"
 family: "punch"

@@ -23,7 +23,7 @@ instructions:
   - item: "Add cloves and cinnamon sticks to taste."
   - item: "Serve in wine glasses."
 glass: "Pitcher"
-category: "punch"
+category: "cocktail"
 has_alcohol: true
 base_spirit: "wine"
 family: "punch"

@@ -28,10 +28,10 @@ instructions:
   - item: "Mix the wine, sugar syrup, fruit, and Fresca in a pitcher and put in the fridge for a few hours."
   - item: "Serve in tall glasses with a straw."
 glass: "Pitcher"
-category: "punch"
+category: "cocktail"
 has_alcohol: true
 base_spirit: "wine"
-family: "sour"
+family: "punch"
 visual: "## LLM Prompt for Sweet Sangria Description:Imagine a pitcher filled with **vibrant ruby red sangria**, its surface shimmering with tiny bubbles. **Sliced apples** with their crisp white flesh peek through the liquid, their edges tinged with a rosy hue from the wine. **Juicy orange** and **lime** slices bob playfully, adding bursts of citrusy color. **Lemon wedges** and **a few ice cubes** complete the picture, creating a refreshing and visually appealing scene. The aroma of **sweet, fruity wine** mingles with the tangy scent of citrus, making your mouth water for a sip. **Describe this image in detail, focusing on the color, texture, and overall aesthetic appeal of the Sweet Sangria.**  "
 source: "thecocktaildb"
 ---

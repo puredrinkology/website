@@ -21,7 +21,7 @@ instructions:
   - item: "Scoop out scoops and float them in the punch, let them melt a little so that a nasty film spreads all over the top of the punch but there are still \"bubbles\" in it in the form of sherbet scoops."
   - item: "Looks horrible, tastes just fine."
 glass: "Punch bowl"
-category: "punch"
+category: "cocktail"
 has_alcohol: false
 base_spirit:
 family: ""

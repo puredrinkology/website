@@ -19,7 +19,7 @@ ingredients:
 instructions:
   - item: "Combine all of the ingredients and pour over a block of ice."
 glass: "Collins Glass"
-category: "punch"
+category: "cocktail"
 has_alcohol: true
 base_spirit: "wine"
 family: "punch"

@@ -19,7 +19,7 @@ ingredients:
 instructions:
   - item: "mix all ingredients into bowl keep iced stir frequently."
 glass: "Punch bowl"
-category: "punch"
+category: "cocktail"
 has_alcohol: true
 base_spirit: "vodka"
 family: "punch"

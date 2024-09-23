@@ -29,7 +29,7 @@ instructions:
   - item: "In glasses, put ice cubes, and a slice of apple."
   - item: "Pour drink in, and serve."
 glass: "Highball Glass"
-category: "punch"
+category: "cocktail"
 has_alcohol: false
 base_spirit:
 family: ""

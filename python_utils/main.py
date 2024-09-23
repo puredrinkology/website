@@ -25,7 +25,7 @@ def generate_title(name, category):
     
 def identify_base_spirit(ingredients):
     base_spirits = {
-        'Bourbon': ['bourbon', 'jack daniels', 'jim beam'],
+        'Bourbon': ['bourbon', 'jack daniels', 'jim beam', 'southern comfort'],
         'Rye': ['rye'],
         'Whiskey': ['whiskey', 'whisky', 'scotch', 'johnnie walker'],
         'Gin': ['gin'],
@@ -57,8 +57,11 @@ def identify_cocktail_family(ingredients, drink_name, history, category):
     }
     
     for family, ingredient_groups in families.items():
+        if 'punch' in drink_name.lower() or category.lower() == "punch":
+            return "punch"
+        
         # Check if all groups of ingredients are represented in some form
-        if all(any(any(ingredient_variant in ingredient['item'].lower() for ingredient_variant in group) for ingredient in ingredients) for group in ingredient_groups):
+        elif all(any(any(ingredient_variant in ingredient['item'].lower() for ingredient_variant in group) for ingredient in ingredients) for group in ingredient_groups):
             return family
         
         # Special cases to determine from other fields
@@ -70,9 +73,6 @@ def identify_cocktail_family(ingredients, drink_name, history, category):
         
         elif 'fizz' in drink_name.lower():
             return "fizz"
-        
-        elif 'punch' in drink_name.lower():
-            return "punch"
         
         elif "sour family" in history.lower():
             return "sour"
@@ -269,6 +269,9 @@ def create_hugo_content(drink, source, get_ai_content):
         family = drink["strFamily"]
     else:
         family = identify_cocktail_family(ingredients, drink["strDrink"], history, category) 
+
+    if category == "punch": 
+        category = "cocktail"
 
     frontmatter = {
         "title": drink_name,

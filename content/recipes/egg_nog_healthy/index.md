@@ -27,7 +27,7 @@ instructions:
   - item: "Sprinkle with nutmeg."
   - item: "Makes 6 servings."
 glass: "Collins Glass"
-category: "punch"
+category: "cocktail"
 has_alcohol: false
 base_spirit:
 family: ""

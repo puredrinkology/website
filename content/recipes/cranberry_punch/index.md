@@ -22,7 +22,7 @@ instructions:
   - item: "Then add ginger ale just before serving."
   - item: "Add ice ring to keep punch cold."
 glass: "Punch Bowl"
-category: "punch"
+category: "cocktail"
 has_alcohol: false
 base_spirit:
 family: ""

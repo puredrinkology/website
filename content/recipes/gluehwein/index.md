@@ -26,7 +26,7 @@ instructions:
   - item: ") You may add lemon or orange juice to taste."
   - item: "Serve in irish coffee cup."
 glass: "Irish coffee cup"
-category: "punch"
+category: "cocktail"
 has_alcohol: false
 base_spirit:
 family: ""

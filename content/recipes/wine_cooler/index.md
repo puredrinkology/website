@@ -17,7 +17,7 @@ instructions:
   - item: "Pour into glass."
   - item: "Add ice."
 glass: "Collins Glass"
-category: "punch"
+category: "cocktail"
 has_alcohol: false
 base_spirit:
 family: ""
