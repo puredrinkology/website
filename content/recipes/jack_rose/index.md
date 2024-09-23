@@ -1,7 +1,7 @@
 ---
-title: "The Jacks Rose Cocktail"
-fullname: "The Jacks Rose Cocktail"
-shortname: "Jacks Rose"
+title: "The Jack Rose Cocktail"
+fullname: "The Jack Rose Cocktail"
+shortname: "Jack Rose"
 description: "Jack's Rose is a riff on the classic Sour family, with a twist of brandy and grenadine. Though its exact origin is murky, it likely emerged in the late 19th or early 20th century, mirroring the growing popularity of cocktails during that era. "
 flavor_description: "Jack's Rose is a complex and intriguing cocktail. The sweetness of grenadine dances with the bold, oaky notes of bourbon and the smooth, fruity richness of brandy. A bright, tart lime juice cuts through the sweetness, creating a refreshing balance. The interplay of flavors delivers a captivating experience, highlighting the best of each spirit with a hint of floral complexity. "
 bartender_tips: "**Jack's Rose Tips:**- Use fresh lime juice for optimal flavor.- Shake with ice until the shaker is frosty cold.- Strain into a chilled coupe glass.- Garnish with a lime wheel or a sprig of fresh rosemary.- Taste and adjust sweetness to preference with more grenadine. "

@@ -176,7 +176,7 @@
     "white_wine_sangria": {
         "description": "This refreshing White Wine Sangria belongs to the **Sangria family**, a Spanish tradition dating back centuries.  This specific version, with its fruity additions and brandy, is a modern twist on the classic, offering a delightful blend of sweet and tart flavors. "
     },
-    "jacks_rose": {
+    "jack_rose": {
         "description": "Jack's Rose is a riff on the classic Sour family, with a twist of brandy and grenadine. Though its exact origin is murky, it likely emerged in the late 19th or early 20th century, mirroring the growing popularity of cocktails during that era. "
     },
     "paradise": {
@@ -334,9 +334,6 @@
     },
     "lexington": {
         "description": "The Lexington, a sophisticated blend of bourbon, kola syrup, sweet vermouth, and bitters, belongs to the **Manhattan family**. This twist on the classic, born in the 1970s, embraces the boldness of bourbon with the sweetness of kola syrup, creating a unique and refreshing experience. "
-    },
-    "jack_rose_cocktail": {
-        "description": "The Jack Rose, a vibrant pink concoction, is a classic sour, a family of cocktails typically made with a spirit, citrus juice, and a sweetener.  Originating in the early 20th century, its exact birthplace is debated, but it's linked to New York City's bar scene. "
     },
     "fros\u00e9": {
         "description": "Fros\u00e9, a modern twist on a classic, belongs to the **Frozen Cocktail** family.  Though its exact origin is murky, it likely emerged in the 2010s as a refreshing summer beverage, borrowing inspiration from the French **ros\u00e9 wine** and the Italian **granita**. "

@@ -176,7 +176,7 @@
     "white_wine_sangria": {
         "description": "The White Wine Sangria is a delightful blend of sweet and tart.  The crisp white wine is balanced by the citrusy punch of lime and lemon.  Ripe strawberries and juicy apple add a natural sweetness, while a touch of apple brandy brings warm, spiced notes.  The soda water provides a refreshing fizz, making this sangria a perfect summer sipper. "
     },
-    "jacks_rose": {
+    "jack_rose": {
         "description": "Jack's Rose is a complex and intriguing cocktail. The sweetness of grenadine dances with the bold, oaky notes of bourbon and the smooth, fruity richness of brandy. A bright, tart lime juice cuts through the sweetness, creating a refreshing balance. The interplay of flavors delivers a captivating experience, highlighting the best of each spirit with a hint of floral complexity. "
     },
     "paradise": {
@@ -331,9 +331,6 @@
     },
     "lexington": {
         "description": "The Lexington is a balanced and complex cocktail. The sweetness of the kola syrup intertwines with the rich notes of bourbon, while the sweet vermouth adds a touch of complexity and the aromatic bitters contribute a subtle warmth and depth. The result is a smooth, slightly spicy, and undeniably delicious cocktail that's perfect for a sophisticated nightcap. "
-    },
-    "jack_rose_cocktail": {
-        "description": "The Jack Rose is a sweet and tart delight. The apple brandy delivers a warm, fruity base with notes of apple and spice. Grenadine adds a vibrant sweetness, while the lime juice provides a refreshing acidity. The combination creates a harmonious balance between sweet, tart, and warm, leaving a lingering apple and spice finish. "
     },
     "fros\u00e9": {
         "description": "Fros\u00e9 is a refreshingly sweet and tart cocktail. The rose adds a delicate floral aroma, while the strawberries provide a bright and juicy fruitiness.  The lemon juice balances the sweetness, adding a touch of acidity.  The overall effect is a light and refreshing drink, perfect for warm weather.  Its smooth and creamy texture makes it incredibly easy to sip. "
