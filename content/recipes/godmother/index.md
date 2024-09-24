@@ -17,7 +17,7 @@ glass: "Old-fashioned glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "vodka"
-family: "other"
+family: "spirit-forward"
 visual: "## LLM Prompt: Imagine a **Godmother cocktail**, a classic blend of **Vodka and Amaretto**. Describe its appearance in detail, considering:* **Color:**  What shade is the cocktail? Is it a deep, amber hue or more of a pale, golden color? * **Clarity:** Is the drink clear or slightly cloudy? Does it have any visible particles or sediments?* **Texture:** How does the drink feel in the mouth? Is it smooth, viscous, or slightly oily?* **Garnish:** Does it typically have a garnish? What does it look like? How does it affect the overall appearance of the drink?Please use vivid language and sensory details to paint a picture of this classic cocktail in the reader's mind. "
 source: "thecocktaildb"
 ---

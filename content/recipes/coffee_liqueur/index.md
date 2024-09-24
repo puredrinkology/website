@@ -1,6 +1,6 @@
 ---
-title: "The Coffee Liqueur Liqueur"
-fullname: "The Coffee Liqueur Liqueur"
+title: "The Coffee Liqueur Homemade"
+fullname: "The Coffee Liqueur Homemade"
 shortname: "Coffee Liqueur"
 author: "Pure Drinkology"
 description: "This Coffee Liqueur is a member of the **liqueur family**, a category of sweet, flavored spirits.  Its origin likely traces back to the 18th century, as coffee and vanilla were already popular ingredients in European cuisine.  "
@@ -23,10 +23,10 @@ instructions:
   - item: "Add vanilla and vodka."
   - item: "Age in sealed jar 2 to 3 weeks."
 glass: "Collins Glass"
-category: "liqueur"
+category: "homemade"
 has_alcohol: true
 base_spirit: "vodka"
-family: "other"
+family: ""
 visual: "## LLM Prompt:Imagine a cocktail called Coffee Liqueur made with coffee, vanilla extract, sugar, vodka, and water. Describe its appearance in detail, considering the following:* **Color:**  What is the overall hue of the cocktail? Is it a deep, rich brown? Does it have a hint of amber or caramel?* **Clarity:** Is the cocktail clear, or does it have a slight haze or cloudiness? * **Texture:** Is the cocktail smooth and silky, or does it have any visible particles or sediment?* **Garnish:** Is there a garnish, and if so, what does it look like and how does it complement the overall visual appeal?Remember to use vivid language and evocative imagery to paint a picture of the Coffee Liqueur in your mind.  "
 source: "thecocktaildb"
 ---

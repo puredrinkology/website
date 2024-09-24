@@ -913,6 +913,7 @@
             "strIBA": null,
             "strAlcoholic": "Alcoholic",
             "strGlass": "Margarita glass",
+            "strFamily": "fizz",
             "strInstructions": "Easy as you like, pour the absinthe into a chilled glass, top with champagne. Must be drunk mid afternoon for the optimum effect.",
             "strInstructionsES": null,
             "strInstructionsDE": null,

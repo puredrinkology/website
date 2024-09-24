@@ -62,6 +62,8 @@ def identify_cocktail_family(ingredients, drink_name, history, category):
        
         elif category.lower() == "nonalcoholic":
             return ""
+        elif category.lower() == "homemade":
+            return ""
         
         # Check if all groups of ingredients are represented in some form
         elif all(any(any(ingredient_variant in ingredient['item'].lower() for ingredient_variant in group) for ingredient in ingredients) for group in ingredient_groups):
@@ -246,7 +248,7 @@ def create_hugo_content(drink, source, get_ai_content):
 
     category = clean_path(drink["strCategory"])
     if category == "coffee_tea": category = "cafe"
-    elif category == "homemade_liqueur": category = "liqueur"
+    elif category == "homemade_liqueur": category = "homemade"
     elif category == "ordinary_drink": category = "cocktail"
     elif category == "ordinary_drink": category = "cocktail"
     elif category == "punch_party_drink": category = "punch"

@@ -18,7 +18,7 @@ glass: "Old-fashioned glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "brandy"
-family: "other"
+family: "spirit-forward"
 visual: "##  LLM Prompt: Describe the French Connection CocktailImagine a glass filled with a rich, amber liquid, reminiscent of polished mahogany. Tiny, shimmering bubbles rise slowly from the bottom, like whispers of a forgotten secret. The aroma, a captivating blend of sweet almond and dried fruit, hangs delicately in the air. Hints of caramel and oak emerge, revealing the complexity of the Cognac base.  **Describe the following:*** **Color:** How would you describe the color of the drink? What shades are present?* **Texture:** What does the drink look like in terms of texture? Is it smooth, oily, or bubbly? * **Clarity:** Is the drink clear, cloudy, or layered? * **Presentation:** How is the drink usually served? In a chilled glass? With a garnish? Please provide a detailed and evocative description of the **French Connection** cocktail, using your knowledge of how the ingredients interact and the visual cues they create. "
 source: "thecocktaildb"
 ---

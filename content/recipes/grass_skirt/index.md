@@ -25,7 +25,7 @@ glass: "Old-fashioned glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "gin"
-family: "other"
+family: "highball"
 visual: "## LLM Prompt: **Imagine a cocktail called Grass Skirt made with Gin, Triple Sec, Pineapple Juice, Grenadine, and Pineapple. Describe its appearance in detail, focusing on: *** **Color:** What is the overall hue of the drink? Is it clear, cloudy, layered? * **Texture:**  Is it smooth, bubbly, icy? Does it have any garnishes or inclusions that add texture?* **Shape:**  What does the glass look like? Is it a tall glass, a martini glass, a rocks glass? * **Garnishes:** What kind of garnish might be used? Are there any decorative elements that enhance the Grass Skirt theme?**Bonus:** * **Is there a specific type of pineapple used?** Does it affect the visual aspect of the drink?* **How do the different ingredients contribute to the visual appeal?** **Your response should be a vivid and descriptive paragraph, painting a picture of the Grass Skirt cocktail in the reader's mind.** "
 source: "thecocktaildb"
 ---

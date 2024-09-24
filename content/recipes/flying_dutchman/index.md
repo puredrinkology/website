@@ -18,7 +18,7 @@ glass: "Old-fashioned glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "gin"
-family: "other"
+family: "sour"
 visual: "## Flying Dutchman: Describe This CocktailImagine a glass, clear and tall, filled with a vibrant liquid. Its color is a deep orange, reminiscent of a setting sun, with hints of amber peeking through. The drink is perfectly still, its surface undisturbed, creating a mirror-like reflection of the surroundings.  **Here's what I need you to describe:*** **Texture:** Is it smooth and silky, or does it have a slight oiliness to it? * **Aromas:** What scents waft from the glass?  Floral, citrusy, herbal? * **Clarity:** Is the drink perfectly clear, or does it have any subtle haze or shimmer?* **Garnish:** If there's a garnish, describe it in detail. Its shape, color, how it sits in the glass. * **Overall Impression:** Capture the essence of this cocktail - is it sophisticated, vibrant, mysterious?**Important Note:** This cocktail is called the Flying Dutchman, so think about how you can weave in those nautical vibes into your description. "
 source: "thecocktaildb"
 ---

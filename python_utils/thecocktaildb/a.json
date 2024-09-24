@@ -594,6 +594,7 @@
             "strIBA": null,
             "strAlcoholic": "Alcoholic",
             "strGlass": "Highball glass",
+            "strFamily": "highball",
             "strInstructions": "Pour all of the ingredients into a highball glass almost filled with ice cubes. Stir well.",
             "strInstructionsES": "Coloque todos los ingredientes en un vaso alto casi lleno de cubitos de hielo. Sacudir bien.",
             "strInstructionsDE": null,

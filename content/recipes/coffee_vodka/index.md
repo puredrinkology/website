@@ -1,6 +1,6 @@
 ---
-title: "The Coffee-Vodka Liqueur"
-fullname: "The Coffee-Vodka Liqueur"
+title: "The Coffee-Vodka Homemade"
+fullname: "The Coffee-Vodka Homemade"
 shortname: "Coffee-Vodka"
 author: "Pure Drinkology"
 description: "This Coffee-Vodka falls into the Coffee Cocktail family, a category with roots dating back to the 19th century. Its origins are likely a fusion of the classic Vodka Martini and the popularity of coffee-based drinks, creating a modern, caffeinated twist. "
@@ -29,7 +29,7 @@ instructions:
   - item: "Its also best to let the sugar mixture cool completely so the vodka won\'t evaporate when its added."
   - item: "If you like a smoother feel to the liqueur you can add about 1 teaspoon of glycerine to the finished product."
 glass: "Collins Glass"
-category: "liqueur"
+category: "homemade"
 has_alcohol: true
 base_spirit: "vodka"
 family: ""

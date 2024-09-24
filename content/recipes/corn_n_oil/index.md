@@ -30,7 +30,7 @@ glass: "Old-fashioned glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "rum"
-family: "other"
+family: "sour"
 visual: "## LLM Prompt:Describe the visual appeal of a cocktail called Corn n Oil made with the following ingredients:* **Lime:** Freshly squeezed lime juice, adding a vibrant, almost translucent green hue.* **Falernum:** A sweet, aromatic liqueur, contributing a light golden color.* **Angostura Bitters:** A dash for complexity, adding a hint of deep brown.* **Añejo Rum:** Rich and aged, lending a deep amber color with golden highlights.* **Blackstrap Rum:** Dark and molasses-like, adding a hint of deep brown and perhaps a slight oily sheen.**Consider the following:*** **Color:** How do the different colors of the ingredients blend? Is it a single unified color, or does it have layers or depth?* **Texture:** Is the cocktail clear, cloudy, or oily? Are there any visible sediments or layers?* **Glassware:**  Would this be served in a coupe, rocks glass, or something else? How does the glassware affect the overall visual impression?* **Garnish:** Would there be a garnish? If so, what kind and how does it contribute to the visual appeal?**Example:** The 'Corn n Oil' is a captivating cocktail that showcases a deep amber hue, reminiscent of sun-soaked cornfields. The Añejo Rum provides the base color, with the Blackstrap Rum adding a subtle layer of darker depth. Hints of golden Falernum peek through, while a dash of Angostura Bitters creates an alluring, almost oily sheen. The cocktail is served in a chilled coupe glass, with a thin lime peel twist adding a vibrant green accent to the otherwise warm palette. "
 source: "thecocktaildb"
 ---

@@ -18,7 +18,7 @@ glass: "Margarita glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "wine"
-family: "other"
+family: "fizz"
 visual: "## LLM Prompt: Describe the appearance of a Death in the Afternoon cocktail. **Imagine a tall, slender champagne flute filled with a pale, ethereal liquid. The top layer is a shimmering, almost translucent pale gold, reminiscent of moonlight on water. As you look deeper, the golden hue gradually fades into a deeper, more mysterious green, like a secret hidden beneath the surface.  This green, the color of Absinthe, swirls and dances in the bottom of the glass, creating an alluring contrast with the sparkling champagne above.  Tiny bubbles rise from the depths, shimmering like diamonds in the green, creating a delicate, almost hypnotic effect.  The overall impression is one of elegance and mystery, a captivating mix of lightness and darkness.** **Bonus:*** Describe the visual impact of the cocktail on the table or bar, especially in low-light conditions.* How does the appearance change as the ice melts and the cocktail chills?*  What are the visual effects of the Absinthe and Champagne mixing together? "
 source: "thecocktaildb"
 ---

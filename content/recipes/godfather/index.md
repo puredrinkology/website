@@ -18,7 +18,7 @@ glass: "Old-fashioned glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "whiskey"
-family: "other"
+family: "spirit-forward"
 visual: "## LLM Prompt for Godfather Cocktail Description:**Imagine you are describing the Godfather cocktail to someone who has never seen it before. Focus on its appearance, using evocative language and sensory details. Consider these elements:*** **Color:** Is it a deep amber, a rich mahogany, or something else?* **Texture:** Is it smooth and silky, or does it have a slight oily sheen?* **Glassware:** What kind of glass does it typically go in? A rocks glass, a coupe, or something else?* **Garnish:** Are there any garnishes, like a cherry or a twist of lemon?* **Overall impression:** What kind of mood or feeling does the cocktail evoke? Does it feel elegant, sophisticated, mysterious? **Example:**The Godfather is a cocktail that embodies the spirit of its namesake. It rests in a chilled rocks glass, its amber hue like the glow of a distant fireplace. The liquid itself is smooth and velvety, like a rich, dark chocolate. A single, perfectly chilled maraschino cherry sits atop the drink, a vibrant splash of crimson against the warm amber. Its aroma is a subtle blend of smoky Scotch and sweet amaretto, inviting you to take a sip and savor the moment. "
 source: "thecocktaildb"
 ---

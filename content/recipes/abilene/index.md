@@ -20,7 +20,7 @@ glass: "Highball glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "rum"
-family: "other"
+family: "highball"
 visual: "## LLM Prompt: Imagine you're looking at a glass of Abilene. It's made with dark rum, peach nectar, and orange juice. Describe the cocktail's appearance in detail. Include information about:* **Color:** Is it a deep amber, a bright orange, or something in between?* **Clarity:** Is it clear, cloudy, or layered?* **Texture:** Is it smooth, bubbly, or does it have any bits of fruit?* **Garnish:** What kind of garnish would complement the flavors and enhance the visual appeal?**Remember to use evocative language and vivid imagery to make your description come alive.** "
 source: "thecocktaildb"
 ---
