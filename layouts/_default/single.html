@@ -9,7 +9,7 @@
         <div class="col-md-6 col-12 d-flex">
             {{ with .Resources.GetMatch (printf "**/%s" "{cover.*}") }}
                 {{ with .Resize "1000x" }}
-                    <img class="flex-grow-1" src="{{ .RelPermalink }}" alt="{{ $.Title }}, {{ $.Params.category }}, {{ $.Params.family }}, {{ $.Params.base_spirit}}" style="width:100%; height: 100%; object-fit: cover;" />
+                    <img class="flex-grow-1" src="{{ .RelPermalink }}" alt="{{ $.Title }}, {{ $.Params.category }}, {{ $.Params.family }}, {{ $.Params.base_spirit}}. {{ $.Description }}" style="width:100%; height: 100%; object-fit: cover;" />
                 {{ end }} 
             {{ end }}
         </div>
