@@ -48,7 +48,7 @@
                 <a class="aspect-ratio-full" href="{{ $recipe.Permalink }}">
                   {{ with $recipe.Resources.GetMatch (printf "**/%s" "{cover.*}") }}
                     {{ with .Resize "1000x" }}
-                      <img class="rounded-10" src="{{ .RelPermalink }}" alt="{{ $recipe.Title }}" width="{{ .Width }}" height="{{ .Height }}" />
+                      <img class="rounded-10" src="{{ .RelPermalink }}" alt="{{ $recipe.Title }}" title="{{ $recipe.Title }}" width="{{ .Width }}" height="{{ .Height }}" />
                     {{ end }} 
                   {{ end }}
                 </a>
