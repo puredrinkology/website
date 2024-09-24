@@ -280,6 +280,7 @@ def create_hugo_content(drink, source, get_ai_content):
         "title": drink_name,
         "fullname": drink_name,
         "shortname": short_name,
+        "author": "Pure Drinkology",
         "description": history.replace("\n", "").replace('"', ''),
         "flavor_description": flavor_description.replace("\n", "").replace('"', ''),
         "bartender_tips": bartender_tips.replace("\n", "").replace('"', ''),

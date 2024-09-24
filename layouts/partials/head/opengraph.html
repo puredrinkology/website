@@ -1,7 +1,37 @@
-<meta property="og:title" content="{{ .Title }}" />
-<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
-<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
-<meta property="og:url" content="{{ .Permalink }}" />
+{{ if eq .Type "recipes" }}
+  <!-- RECIPE META DATA -->
+  <meta property="og:type" content="recipe" />
+  <meta property="og:site_name" content="puredrinkology.com" />
+  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:description" content="{{ with .Description }}{{ . }}{{ end }}" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+
+    {{ with $.Resources }}
+      {{ with .GetMatch (printf "**/%s" "{cover.*}") }}
+          {{ $cover := .Resize "1000x" }}
+          {{ with $cover }}
+            <meta property="og:image" content="{{ .Permalink }}"/>
+            <meta property="og:image:width" content="1000" />
+            <meta property="og:image:height" content="1000" />
+          {{ end }}
+      {{ end }}
+    {{ end }}
+
+    <!-- Recipe-Specific Metadata -->
+    {{ with .Params.author }}
+      <meta property="og:recipe:author" content="{{ . }}" />
+    {{ end }}
+
+    <meta property="og:recipe:ingredients" content="{{ range .Params.ingredients }}{{ .measure }} {{ .item }}, {{ end }}" />
+    <meta property="og:recipe:instructions" content="{{ range .Params.instructions }}{{ .item }} {{ end }}" />
+
+{{ else }}
+   <!-- CATEGORY PAGE META DATA -->
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="puredrinkology.com" />
+  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:description" content="{{ .Description }}" />
+  <meta property="og:url" content="{{ .Permalink }}" />
 
   {{ with $.Resources }}
     {{ with .GetMatch (printf "**/%s" "{cover.*}") }}
@@ -12,36 +42,7 @@
     {{ end }}
   {{ end }}
 
-  {{- if not .IsPage }}
-    {{ $defaultImage := "/images/cover.png" }}
-    <meta name="og:image" content="{{ $defaultImage | absURL }}">
-  {{ end -}}
 
-{{- if .IsPage }}
-{{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
-<meta property="article:section" content="{{ .Section }}" />
-{{ with .PublishDate }}<meta property="article:published_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end }}
-{{ with .Lastmod }}<meta property="article:modified_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end }}
-{{- end -}}
+{{ end }}
 
-{{- with .Params.audio }}<meta property="og:audio" content="{{ . }}" />{{ end }}
-{{- with .Params.locale }}<meta property="og:locale" content="{{ . }}" />{{ end }}
-{{- with .Site.Params.title }}<meta property="og:site_name" content="{{ . }}" />{{ end }}
-{{- with .Params.videos }}{{- range . }}
-<meta property="og:video" content="{{ . | absURL }}" />
-{{ end }}{{ end }}
 
-{{- /* If it is part of a series, link to related articles */}}
-{{- $permalink := .Permalink }}
-{{- $siteSeries := .Site.Taxonomies.series }}
-{{- if $siteSeries }}
-{{ with .Params.series }}{{- range $name := . }}
-  {{- $series := index $siteSeries ($name | urlize) }}
-  {{- range $page := first 6 $series.Pages }}
-    {{- if ne $page.Permalink $permalink }}<meta property="og:see_also" content="{{ $page.Permalink }}" />{{ end }}
-  {{- end }}
-{{ end }}{{ end }}
-{{- end }}
-
-{{- /* Facebook Page Admin ID for Domain Insights */}}
-{{- with .Site.Social.facebook_admin }}<meta property="fb:admins" content="{{ . }}" />{{ end }}
