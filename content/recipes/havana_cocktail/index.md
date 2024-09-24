@@ -21,7 +21,7 @@ glass: "Cocktail glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "rum"
-family: "punch"
+family: "sour"
 visual: "## LLM Prompt:**Describe the appearance of a Havana Cocktail, made with light rum, pineapple juice, and lemon juice. Consider the following in your description:*** **Color:** Is it a vibrant, clear, or cloudy hue? What color does it resemble (e.g., sunshine, straw, amber)? * **Texture:** Is it smooth, frothy, layered, or contain any visible bits? * **Glassware:** What kind of glass would it be served in (e.g., highball, coupe, rocks glass)? * **Garnish:** What type of garnish would enhance the visual appeal of the cocktail (e.g., a pineapple wedge, a lemon twist, a sprig of mint)? * **Overall Impression:**  How would you describe the visual appeal of the cocktail?  Is it refreshing, elegant, tropical, or something else entirely? "
 source: "thecocktaildb"
 ---

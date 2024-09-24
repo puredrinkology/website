@@ -27,7 +27,7 @@ glass: "Old-fashioned glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "gin"
-family: "punch"
+family: "highball"
 visual: "## LLM Prompt for Describing the Visuals of a Gin Smash:Imagine a tall, clear glass filled with ice. The drink itself is a vibrant emerald green, thanks to a generous amount of muddled fresh mint leaves. Tiny bubbles from the carbonated water rise to the surface, creating a shimmering effect. A thin slice of juicy orange rests on the rim of the glass, adding a touch of bright orange to the composition. A plump, dark cherry sits at the bottom of the drink, nestled amidst the mint. The overall effect is refreshing and inviting, with a delicate balance of vibrant green and refreshing orange hues. "
 source: "thecocktaildb"
 ---

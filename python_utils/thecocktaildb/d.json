@@ -700,6 +700,7 @@
             "strIBA": null,
             "strAlcoholic": "Alcoholic",
             "strGlass": "Old-fashioned glass",
+            "strFamily": "sour",
             "strInstructions": "Shake all ingredients.\r\nDouble strain in a chilled double old fashioned glass with abig ice cube.\r\nGarnish with a couple of lavender sprigs",
             "strInstructionsES": null,
             "strInstructionsDE": "Alle Zutaten mischen.",

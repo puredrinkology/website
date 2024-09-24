@@ -1,6 +1,6 @@
 ---
-title: "The Mudslinger Punch"
-fullname: "The Mudslinger Punch"
+title: "The Mudslinger Cocktail"
+fullname: "The Mudslinger Cocktail"
 shortname: "Mudslinger"
 author: "Pure Drinkology"
 description: "The Mudslinger is a highball cocktail, a refreshing mix of spirits, juices, and soda. Its origin is likely a Southern US invention, drawing inspiration from the region's love for sweet, easy-drinking drinks.  The combination of Southern Comfort's whiskey base with citrus and cola is a classic example of this style. "
@@ -20,7 +20,7 @@ glass: "Punch bowl"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "bourbon"
-family: "punch"
+family: "highball"
 visual: "## LLM Prompt:Imagine a **Mudslinger** cocktail. It's a vibrant, layered concoction with a **rich orange hue** at the bottom, gradually transitioning to a **deep brown** towards the top. Describe the **texture** of the cocktail. Is it **smooth and silky** or **fizzy and bubbly**? Are there **distinct layers** visible, or does it blend into a **uniform color**? Finally, mention any **decorative elements** that could enhance the visual appeal. Would it be garnished with a **citrus wedge**, a **maraschino cherry**, or something more **unexpected**? Remember to capture the **essence** of the Mudslinger's **visual charm**, using descriptive language that evokes its **flavorful appearance**. "
 source: "thecocktaildb"
 ---

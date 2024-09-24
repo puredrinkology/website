@@ -593,6 +593,7 @@
             "strIBA": null,
             "strAlcoholic": "Alcoholic",
             "strGlass": "Old-fashioned glass",
+            "strFamily": "highball",
             "strInstructions": "Muddle sugar with carbonated water and mint sprigs in an old-fashioned glass. Add gin and 1 ice cube. Stir, add the orange slice and the cherry, and serve.",
             "strInstructionsES": null,
             "strInstructionsDE": "Den Zucker mit kohlens\u00e4urehaltigem Wasser und Minzzweigen in einem old-fashioned Glas vermengen. Gin und 1 Eisw\u00fcrfel dazugeben. Umr\u00fchren, die Orangenscheibe und die Kirsche dazugeben und servieren.",
