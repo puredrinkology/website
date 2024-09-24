@@ -16,7 +16,7 @@
         <div class="col-md-6 col-12 recipe d-flex align-items-center justify-content-center">
             <div class="recipe-content d-flex flex-column px-lg-5 px-2">
                 <div class="ingredients_header">
-                    <h1 class="fs-1 text-primary pb-3 text-uppercase">{{ .Params.fullname }}</h1>
+                    <h1 class="fs-1 text-primary pb-3 text-uppercase" itemprop="name">{{ .Params.fullname }}</h1>
                 </div>
                 <div class="ingredients">
                     {{ range $index, $ingredient := .Params.ingredients }}
@@ -30,7 +30,7 @@
     
                 <div class="instructions_header"></div>
                 {{ range $index, $instr := .Params.instructions }}
-                    <div itemprop="recipeIngredient" class="ingredient">
+                    <div itemprop="ingredients" class="ingredient">
                         <span>{{ $instr.item }}</span>
                     </div>
                 {{ end }}
@@ -58,7 +58,7 @@
             <a href="/recipes/spirit/{{lower .Params.base_spirit}}/" class="badge text-bg-secondary text-decoration-none">{{lower .Params.base_spirit }}</a>
             <a href="/recipes/family/{{lower .Params.family}}/" class="badge text-bg-info text-decoration-none">{{ lower .Params.family }}</a> 
           </p>
-          <p>
+          <p itemprop="description">
             {{ .Params.Description | markdownify }}
           </p>
         </div>
