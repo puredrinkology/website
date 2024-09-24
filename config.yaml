@@ -33,6 +33,8 @@ params:
     faviconColor: "#000000"
 
   social:
+    pinterest: "https://www.pinterest.com/puredrinkology/"
+    twitter: "https://www.x.com/puredrinkology/"
     
     
   shareButtons:

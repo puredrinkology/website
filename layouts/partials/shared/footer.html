@@ -7,7 +7,7 @@
         <h4 class="fs-4 fw-semibold text-uppercase text-white-50">{{ .Site.Title }}</h4>
 
         {{ with .Site.Params.social }}
-        <ul class="d-flex justify-content-center justify-content-xl-start list-unstyled">
+        <ul class="d-flex justify-content-center list-unstyled">
           {{ with .twitter }}<li class="rounded-circle bg-dark me-2 p-2"><a class="d-flex align-items-center justify-content-center size-16 text-muted" href="{{ . }}" title="Twitter" target="_blank">{{ partial "icons/x.html" }}</a></li>{{ end }}
           {{ with .pinterest }}<li class="rounded-circle bg-dark me-2 p-2"><a class="d-flex align-items-center justify-content-center size-16 text-muted" href="{{ . }}" title="Pinterest" target="_blank">{{ partial "icons/pinterest.html" }}</a></li>{{ end }}
           {{ with .instagram }}<li class="rounded-circle bg-dark me-2 p-2"><a class="d-flex align-items-center justify-content-center size-16 text-muted" href="{{ . }}" title="Instagram" target="_blank">{{ partial "icons/instagram.html" }}</a></li>{{ end }}

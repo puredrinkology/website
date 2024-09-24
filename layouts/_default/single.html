@@ -29,8 +29,9 @@
                 </div>
     
                 <div class="instructions_header"></div>
+                
                 {{ range $index, $instr := .Params.instructions }}
-                    <div itemprop="ingredients" class="ingredient">
+                    <div itemprop="recipeInstructions" class="ingredient">
                         <span>{{ $instr.item }}</span>
                     </div>
                 {{ end }}
@@ -42,6 +43,26 @@
                     <div itemprop="recipeInstructions" class="instruction">{{ .Params.serve }}</div>
                     <div itemprop="recipeInstructions" class="instruction">{{ .Params.garnish }}</div>
                 {{ end }}
+
+                <div class="ingredient">
+                  {{ with .Resources.GetMatch (printf "**/%s" "{cover.*}") }}
+                    {{ with .Resize "1000x" }}
+                      <a 
+                        href="https://www.pinterest.com/pin/create/button/" 
+                        data-pin-url="{{ $.Page.Permalink }}"
+                        data-pin-media="{{ .Permalink }}"
+                        data-pin-description="{{ $.Page.Description }}"
+                        data-pin-do="buttonPin" 
+                        data-pin-tall="true" 
+                        data-pin-save="true" 
+                        data-pin-height="28">
+                        <img src="https://assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_28.png" alt="Pin it"/>
+                      </a>
+                    {{ end }} 
+                  {{ end }}
+                </div>
+                
+
             </div>
         </div>
     </div>
