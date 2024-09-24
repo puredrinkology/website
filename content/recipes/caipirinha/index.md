@@ -7,14 +7,17 @@ flavor_description: "The Caipirinha is a refreshing, tart, and slightly sweet co
 bartender_tips: "For a perfect Caipirinha, muddle the sugar and lime wedges *thoroughly*, until the lime is fully broken down and the sugar is dissolved. This releases the lime's essential oils and creates a delicious base. Use a good quality cachaça, ideally aged for a smoother taste. Finally, add ice and top with cachaça, stirring gently to chill. Don't over-stir, as this will dilute the cocktail. "
 ingredients:
   - item: "Sugar"
-    measure: "2 Tsp"
+    measure: "1 Tsp"
   - item: "Lime"
     measure: "1"
   - item: "Cachaca"
-    measure: "2.5 oz"
+    measure: "2 oz"
+  - item: "Lemon Lime Soda"
+    measure: "2 oz"
 instructions:
-  - item: "Place lime and sugar into old fashioned glass and muddle (mash the two ingredients together using a muddler or a wooden spoon)."
+  - item: "Place quartered limes and sugar into old fashioned glass and muddle (mash the two ingredients together using a muddler or a wooden spoon)."
   - item: "Fill the glass with ice and add the Cachaça."
+  - item: "Top up with sprite or soda water."
 glass: "Old-fashioned glass"
 category: "cocktail"
 has_alcohol: true

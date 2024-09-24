@@ -753,6 +753,7 @@
             "strIBA": null,
             "strAlcoholic": "Alcoholic",
             "strGlass": "Highball glass",
+            "strFamily": "ancestral",
             "strInstructions": "Half fill the glass with ice cubes. Crush the wormwood and add to ice. Pour rum, scotch and butters, then serve!",
             "strInstructionsES": null,
             "strInstructionsDE": null,

@@ -17,7 +17,7 @@ genai.configure(api_key=os.environ['GOOGLE_GENAI_APIKEY'])
 
 
 def generate_title(name, category):
-    clean_name = name.lower().replace("cocktail", "").replace("the ", "").replace(" punch", "").replace("'", "").replace("’", "").replace(" shot", "").replace(" shake", "")
+    clean_name = name.lower().replace("cocktail", "").replace("the ", "").replace(" punch", "").replace("'", "").replace("’", "").replace(" shot", "").replace(" shake", "").replace(" beer", "")
     long_name = f"the {clean_name} {category}"
     short_name = f"{clean_name}"
 
@@ -32,7 +32,7 @@ def identify_base_spirit(ingredients):
         'Vodka': ['vodka'],
         'Rum': ['rum', 'rhum', 'cachaca'],
         'Tequila': ['tequila', 'mezcal'],
-        'Brandy': ['brandy', 'cognac', 'armagnac'],
+        'Brandy': ['brandy', 'cognac', 'armagnac', 'applejack'],
         'Wine': ['rose', 'red wine', 'white wine', 'champagne', 'cabernet', 'merlot', 'sauvignon blanc', 'reisling', 'vermouth'],
         # Add more as needed
     }
@@ -59,6 +59,9 @@ def identify_cocktail_family(ingredients, drink_name, history, category):
     for family, ingredient_groups in families.items():
         if 'punch' in drink_name.lower() or category.lower() == "punch":
             return "punch"
+       
+        elif category.lower() == "nonalcoholic":
+            return ""
         
         # Check if all groups of ingredients are represented in some form
         elif all(any(any(ingredient_variant in ingredient['item'].lower() for ingredient_variant in group) for ingredient in ingredients) for group in ingredient_groups):

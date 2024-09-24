@@ -17,6 +17,7 @@ coverImage: "/base_spirit/bourbon/images/cover.jpeg"
 <a href="/recipes/family/margarita/" class="badge text-bg-info text-decoration-none">margarita</a>
 <a href="/recipes/family/highball/" class="badge text-bg-info text-decoration-none">highball</a>
 <a href="/recipes/family/fizz/" class="badge text-bg-info text-decoration-none">fizz</a>
+<a href="/recipes/family/punch/" class="badge text-bg-info text-decoration-none">punch</a>
 
 Welcome to our Cocktail Haven, a vibrant collection where every recipe tells a story of flavor, heritage, and innovation. 
 

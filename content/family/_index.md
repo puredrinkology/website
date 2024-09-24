@@ -28,6 +28,7 @@ recipe: "Each family builds on the last, either by simplifying or complicating t
 <a href="/recipes/family/margarita/" class="badge text-bg-info text-decoration-none">margarita</a>
 <a href="/recipes/family/highball/" class="badge text-bg-info text-decoration-none">highball</a>
 <a href="/recipes/family/fizz/" class="badge text-bg-info text-decoration-none">fizz</a>
+<a href="/recipes/family/punch/" class="badge text-bg-info text-decoration-none">punch</a>
 
 Cocktail families are like branches of a tree, each with unique characteristics yet interconnected through common roots in mixology. 
 

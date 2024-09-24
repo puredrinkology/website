@@ -24,7 +24,7 @@ glass: "Highball glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "whiskey"
-family: "highball"
+family: "ancestral"
 visual: ""
 source: "thecocktaildb"
 ---

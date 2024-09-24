@@ -15,8 +15,8 @@ instructions:
 glass: "Cocktail glass"
 category: "cocktail"
 has_alcohol: true
-base_spirit:
-family: "highball"
+base_spirit: "brandy"
+family: "sour"
 visual: "##  LLM Prompt for Describing the Appearance of an A.J. Cocktail**Please describe the appearance of an A.J. cocktail, a drink made with Applejack and Grapefruit Juice.  Consider the following details:*** **Color:** What is the dominant color of the drink? Does it have any layers or gradients?* **Clarity:** Is the drink clear, cloudy, or opaque?* **Texture:** Is the drink smooth, frothy, or have any visible ingredients?* **Garnish:**  What kind of garnish might be used to enhance the visual appeal? How does the garnish interact with the drink itself?**Example Output:**The A.J. cocktail is a vibrant, sunset-colored drink with layers of pale orange grapefruit juice resting on a base of deep amber Applejack. The drink is clear and inviting, with the smooth, slightly oily texture of the Applejack visible through the grapefruit juice. It is typically garnished with a grapefruit wedge, which adds a pop of color and a hint of citrusy aroma. "
 source: "thecocktaildb"
 ---

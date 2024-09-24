@@ -1,7 +1,7 @@
 ---
-title: "The Campari Beer Beer"
-fullname: "The Campari Beer Beer"
-shortname: "Campari Beer"
+title: "The Campari Beer"
+fullname: "The Campari Beer"
+shortname: "Campari"
 description: "Campari Beer is a refreshing member of the **Highball** family, characterized by its simple yet bold flavor profile. Its origin is debated, likely emerging from the Italian aperitivo scene in the late 20th century, combining the bitterness of Campari with the crispness of lager. "
 flavor_description: "Campari Beer is a bittersweet symphony. The lager's crisp maltiness provides a base for Campari's vibrant bitterness and herbal notes.  A hint of orange peel adds a subtle citrus complexity, while the overall effect is refreshingly dry and pleasantly bitter, with a lingering orange aftertaste. "
 bartender_tips: "Use a high-quality lager for a clean base. Chill everything well before mixing. Start with a 1:1 ratio of Campari to beer, but adjust to taste. For a more intense Campari flavor, use a slightly higher ratio.  Garnish with an orange peel for a classic touch. "

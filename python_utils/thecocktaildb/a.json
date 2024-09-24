@@ -328,6 +328,7 @@
             "strIBA": null,
             "strAlcoholic": "Alcoholic",
             "strGlass": "Cocktail glass",
+            "strFamily": "sour",
             "strInstructions": "Shake ingredients with ice, strain into a cocktail glass, and serve.",
             "strInstructionsES": "Agite bien los ingredientes con hielo, cu\u00e9lelos en una copa de c\u00f3ctel y sirva.",
             "strInstructionsDE": null,

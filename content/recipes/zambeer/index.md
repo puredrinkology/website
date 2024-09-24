@@ -19,7 +19,7 @@ glass: "Collins Glass"
 category: "nonalcoholic"
 has_alcohol: true
 base_spirit:
-family: "highball"
+family: ""
 visual: "## LLM Prompt: Describe the appearance of a cocktail called Zambeer made with Sambuca, Root Beer, and ice. **Focus on the following details:*** **Color:** What is the overall color of the drink? Is it uniform or layered? * **Clarity:** Is the drink clear, cloudy, or opaque? * **Texture:** Is the drink smooth, bubbly, or icy?* **Garnish:** Does the drink have any garnish? If so, describe its color and texture.* **Glassware:** What kind of glass is the drink served in? What does the drink look like in the glass? **Use descriptive language to evoke a vivid image of the Zambeer cocktail.** "
 source: "thecocktaildb"
 ---
