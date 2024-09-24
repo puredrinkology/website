@@ -2,6 +2,7 @@
 title: "The Quick-Sand Cocktail"
 fullname: "The Quick-Sand Cocktail"
 shortname: "Quick-Sand"
+author: "Pure Drinkology"
 description: "The Quick-Sand is a highball, a classic cocktail family characterized by its simple combination of spirits and mixers. This particular variation, likely originating in the late 20th century, offers a playful contrast of Sambuca's anise-driven sweetness and orange juice's bright acidity. "
 flavor_description: "Quick-sand is a surprisingly balanced cocktail. The black sambuca's licorice and anise flavors are mellowed by the sweetness of the orange juice, creating a unique, almost earthy taste. The orange juice adds a refreshing citrusy brightness, cutting through the licorice and leaving a lingering sweetness on the palate. It's a complex and enjoyable drink with a touch of unexpected depth. "
 bartender_tips: "Start with a chilled glass to keep the Quick-Sand refreshing. Use a good quality black sambuca for a richer flavor. When layering the sambuca and orange juice, pour the sambuca slowly down the side of the glass to avoid mixing them immediately. A slight tilt will help create a visually appealing gradient.  Garnish with a twist of orange peel for a fragrant touch. "

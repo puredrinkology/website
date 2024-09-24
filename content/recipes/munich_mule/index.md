@@ -2,6 +2,7 @@
 title: "The Munich Mule Cocktail"
 fullname: "The Munich Mule Cocktail"
 shortname: "Munich Mule"
+author: "Pure Drinkology"
 description: "The Munich Mule is a twist on the classic Moscow Mule, a copper mug cocktail family born in the 1940s. This refreshing variation uses gin, a nod to Germany's gin history, while still embracing the ginger beer and citrus notes that define the mule. "
 flavor_description: "The Munich Mule is a refreshing and invigorating cocktail. The gin provides a crisp juniper backbone, while the lime juice adds a zesty tartness. Ginger beer contributes a spicy kick, and the cucumber lends a cool, vegetal note. A touch of lemon adds a subtle brightness, creating a harmonious blend of flavors that is both complex and satisfying. "
 bartender_tips: "Muddle cucumber and lime juice in a copper mug to release their oils and flavors.  Don't over-muddle!  Use a high-quality gin for a brighter, more botanical flavor.  Top with chilled ginger beer, not ice, and a squeeze of lemon for a touch of acidity. Garnish with a cucumber ribbon for a beautiful presentation. "

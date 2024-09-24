@@ -2,6 +2,7 @@
 title: "The Grass Skirt Cocktail"
 fullname: "The Grass Skirt Cocktail"
 shortname: "Grass Skirt"
+author: "Pure Drinkology"
 description: "The Grass Skirt, a vibrant blend of gin, triple sec, pineapple juice, grenadine, and pineapple, belongs to the **tropical cocktail family**.  Its origins are uncertain, but it likely emerged in the mid-20th century, reflecting the growing popularity of tropical cocktails during that era. "
 flavor_description: "The Grass Skirt is a tropical delight with a balance of sweet and tart.  The gin provides a subtle juniper backbone, while triple sec adds a bright citrus note. Pineapple juice and fresh pineapple offer a juicy sweetness, tempered by the tartness of grenadine. The result is a refreshing, easy-drinking cocktail that evokes images of swaying palm trees and warm beaches. "
 bartender_tips: "For a vibrant Grass Skirt, chill your ingredients, especially the pineapple juice.  Use fresh pineapple chunks, not canned, for optimal flavor.  Shake vigorously with ice to ensure a frosty, well-chilled cocktail.  Layer the grenadine carefully for a striking visual.  A splash of lime juice adds brightness and balance, while a pineapple wedge garnish adds tropical charm. "

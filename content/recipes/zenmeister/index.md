@@ -2,6 +2,7 @@
 title: "The Zenmeister Cocktail"
 fullname: "The Zenmeister Cocktail"
 shortname: "Zenmeister"
+author: "Pure Drinkology"
 description: "The Zenmeister is a unique twist on the classic Jäger Bomb, a highball cocktail. This combination of Jägermeister, a German herbal liqueur, with the sweetness of root beer originated in the early 2000s, likely emerging from the college party scene. "
 flavor_description: "The Zenmeister is a surprising blend of herbal bitterness and sweet, bubbly refreshment. Jägermeister's potent, spiced notes mingle with the creamy sweetness of root beer, creating a unique complexity. The result is a surprisingly balanced cocktail, with a hint of spice that lingers on the palate. It's a perfect drink for those seeking a bold, yet unexpectedly approachable, experience. "
 bartender_tips: "Chill your Jägermeister and root beer thoroughly. Use a highball glass filled with ice. Pour 1.5 oz Jägermeister and top with chilled root beer. Stir gently to blend. Garnish with a lime wedge or orange peel for a refreshing twist. "

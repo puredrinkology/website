@@ -2,6 +2,7 @@
 title: "The Lord And Lady Cocktail"
 fullname: "The Lord And Lady Cocktail"
 shortname: "Lord And Lady"
+author: "Pure Drinkology"
 description: "The Lord and Lady is a classic **coffee cocktail**, likely originating in the Caribbean where dark rum and Tia Maria, a coffee liqueur, are readily available.  This simple combination delivers a rich, complex flavor profile that's both sweet and boozy. "
 flavor_description: "The Lord and Lady is a complex and decadent cocktail. The dark rum provides a rich, molasses-forward base, while the Tia Maria adds a luxurious coffee and chocolate sweetness. The combination is both smooth and robust, offering a delightful balance between bitter and sweet. The finish lingers with hints of vanilla and spice, creating a sophisticated and memorable experience. "
 bartender_tips: "The Lord and Lady is a classic, easy-to-make cocktail.  To ensure a smooth and balanced flavor, use high-quality dark rum and Tia Maria.  Start with a well-chilled glass for a refreshing drink.  Don't over-shake; you want a velvety texture, not a frothy one.  Finally, garnish with a coffee bean or chocolate curl for an elegant touch. "

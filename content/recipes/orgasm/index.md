@@ -2,6 +2,7 @@
 title: "The Orgasm Cocktail"
 fullname: "The Orgasm Cocktail"
 shortname: "Orgasm"
+author: "Pure Drinkology"
 description: ""
 flavor_description: ""
 bartender_tips: ""

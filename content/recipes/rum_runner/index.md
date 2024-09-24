@@ -2,6 +2,7 @@
 title: "The Rum Runner Punch"
 fullname: "The Rum Runner Punch"
 shortname: "Rum Runner"
+author: "Pure Drinkology"
 description: "The Rum Runner is a vibrant tropical cocktail, a descendant of the classic Rum Punch family. Originating in the 1950s, it hails from the Caribbean, where its mix of rum, fruit juices, and brandy perfectly captures the island's spirit. "
 flavor_description: "The Rum Runner is a tropical delight with a sweet and tart balance. Malibu rum brings a smooth, coconutty sweetness, while blackberry brandy adds a touch of tartness and complexity. The blend of orange, pineapple, and cranberry juices creates a refreshing and fruity base, with notes of citrus, tropical fruit, and tart berries. The overall taste profile is vibrant and balanced, with a lingering sweetness and a hint of tartness. "
 bartender_tips: "Start by chilling your glass. This keeps the drink cold and refreshing. Use fresh juices for the best flavor.  To avoid over-diluting, build the drink in the glass with ice.  If using pre-mixed juices, adjust the amount of cranberry juice to your preference - less for a sweeter drink. Garnish with a fresh blackberry or orange peel. "

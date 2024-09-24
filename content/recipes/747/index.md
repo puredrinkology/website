@@ -2,6 +2,7 @@
 title: "The 747 Shot"
 fullname: "The 747 Shot"
 shortname: "747"
+author: "Pure Drinkology"
 description: "The 747 is a creamy, sweet cocktail belonging to the **liqueur-based cocktail family**. Its origin is unknown, but its simple combination of Kahlua, Baileys, and Frangelico suggests a likely American invention, popularized in the 1980s and 90s. "
 flavor_description: "The 747 is a smooth and decadent cocktail with a rich, creamy texture.  The Kahlua provides a deep coffee flavor, balanced by the sweet, nutty notes of Frangelico. Baileys Irish Cream adds a velvety smoothness and hints of vanilla and chocolate, creating a harmonious blend of sweet and indulgent flavors. "
 bartender_tips: "The 747 is a layered drink, so technique is key. Chill your glasses beforehand.  Pour the Kahlua in first, followed by Baileys slowly, aiming for the side of the glass to keep it separate.  Top with Frangelico gently, as it's the lightest and floats.  A bar spoon can help guide the heavier liqueurs down. "

@@ -2,6 +2,7 @@
 title: "The Radioactive Long Island Iced Tea Cocktail"
 fullname: "The Radioactive Long Island Iced Tea Cocktail"
 shortname: "Radioactive Long Island Iced Tea"
+author: "Pure Drinkology"
 description: "The Radioactive Long Island Iced Tea belongs to the Long Island Iced Tea family, a potent mix of multiple spirits. While the exact origins are debated, the Long Island Iced Tea emerged in the 1970s, likely as a bar creation to quickly serve large groups. "
 flavor_description: "The Radioactive Long Island Iced Tea explodes with a vibrant, fruity punch.  Sweet melon and raspberry notes from Midori and Chambord dance with the tropical essence of Malibu.  Underlying this sweet symphony is a potent kick from the combined spirits - a mix of rum, vodka, tequila, and gin.  A hint of citrus from the Triple Sec adds a refreshing complexity, leaving you with a powerful and dangerously delicious cocktail. "
 bartender_tips: "This cocktail is a monster!  Start with a strong base of your preferred liquor (rum, vodka, tequila, gin) and add the others in order of strength. Measure carefully!  The Triple Sec adds a citrusy note, Chambord and Midori are the sweet elements, and Malibu adds a hint of coconut.  Always use high-quality ingredients for the best flavor. This drink is best enjoyed with a friend (and a designated driver!). "

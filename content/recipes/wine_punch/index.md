@@ -2,6 +2,7 @@
 title: "The Wine Punch"
 fullname: "The Wine Punch"
 shortname: "Wine"
+author: "Pure Drinkology"
 description: "Wine Punch falls into the **punch** family, a historical category of large-batch cocktails often served at social gatherings.  Its origins are likely rooted in the 17th century, where punches were popular in both Europe and the Caribbean, evolving over time to incorporate various fruit juices and spirits. "
 flavor_description: "Wine Punch is a vibrant, refreshing cocktail that balances the boldness of red wine with citrusy sweetness.  The tartness of lemon and orange juice cuts through the wine's tannins, creating a bright, lively flavor.  The addition of orange slices adds a hint of bitterness, while pineapple juice contributes a touch of tropical sweetness. The overall effect is a delicious and easy-drinking punch that's perfect for any occasion. "
 bartender_tips: "To elevate your Wine Punch, use a good quality red wine with bright fruit notes.  Don't be afraid to muddle your orange slices for a more intense citrus aroma. Freshly squeezed orange juice is a must, and balance the sweetness with a splash of pineapple juice. Chill the punch thoroughly for a crisp, refreshing taste.  Serve over ice with a garnish of orange and pineapple wedges. "

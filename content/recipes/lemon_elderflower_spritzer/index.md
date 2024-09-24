@@ -2,6 +2,7 @@
 title: "The Lemon Elderflower Spritzer Cocktail"
 fullname: "The Lemon Elderflower Spritzer Cocktail"
 shortname: "Lemon Elderflower Spritzer"
+author: "Pure Drinkology"
 description: "The Lemon Elderflower Spritzer is a refreshing, modern twist on the classic Fizz family.  Its origins are likely rooted in the popularity of elderflower cordial, a European staple, and the growing trend of light, sophisticated cocktails. "
 flavor_description: "The Lemon Elderflower Spritzer is a delightful fusion of sweet, tart, and floral notes. The elderflower cordial brings a delicate, floral sweetness, balanced by the sharp acidity of fresh lemon juice. Vodka adds a subtle burn, while the soda water creates a refreshing effervescence. The overall taste is light, crisp, and incredibly refreshing, perfect for a warm day or a celebratory occasion. "
 bartender_tips: "Use a good quality elderflower cordial for best flavor.  Chill all ingredients, including the glass, for optimal refreshment.  Start with a light hand on the vodka, you can always add more! Gently stir the ingredients to avoid diluting the soda water too quickly. Garnish with a lemon wheel or sprig of fresh mint for a touch of elegance.  "

@@ -2,6 +2,7 @@
 title: "The Elderflower Caipirinha Cocktail"
 fullname: "The Elderflower Caipirinha Cocktail"
 shortname: "Elderflower Caipirinha"
+author: "Pure Drinkology"
 description: "The Elderflower Caipirinha is a modern twist on the classic Caipirinha, hailing from Brazil.  It belongs to the Sour family, characterized by a base spirit, citrus juice, and a sweetener. The elderflower cordial adds a floral complexity, elevating the traditional rum-based sour. "
 flavor_description: "The Elderflower Caipirinha is a delightful dance of sweet and tart. The cachaça's earthy, sugarcane spirit mingles with the bright acidity of lime, creating a vibrant base. Elderflower cordial adds a delicate floral sweetness, balancing the sharpness and bringing an ethereal touch. It's a refreshing, complex cocktail that's both elegant and invigorating. "
 bartender_tips: "Muddle the lime aggressively to release the oils, don't be shy!  A good muddle is key to a balanced Caipirinha.  Use a high-quality cachaça for best results.  A little bit of elderflower cordial goes a long way, so start with a small amount and adjust to your liking.  Serve it chilled and garnish with a lime wedge.  Cheers! "

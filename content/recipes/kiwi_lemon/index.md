@@ -2,6 +2,7 @@
 title: "The Kiwi Lemon Cocktail"
 fullname: "The Kiwi Lemon Cocktail"
 shortname: "Kiwi Lemon"
+author: "Pure Drinkology"
 description: "The Kiwi Lemon belongs to the **Highball** family, a simple yet refreshing mix of spirits and soda. Its origin likely draws inspiration from the classic Gin and Tonic, substituting the gin with Kiwi liqueur and the tonic with Bitter Lemon for a uniquely fruity and tangy twist. "
 flavor_description: "The Kiwi Lemon is a refreshing and vibrant cocktail.  The kiwi liqueur provides a sweet, tangy, and tropical fruit flavor, while the bitter lemon adds a touch of dryness and citrusy zest.  The ice chills the drink, creating a smooth and balanced finish.  Overall, it's a light and fruity cocktail that's perfect for warm weather or a summery occasion. "
 bartender_tips: "For a refreshing Kiwi Lemon, use a good quality Kiwi Liqueur for optimal flavor.  Start with a chilled glass to maintain the drink's coolness.  Muddle a few fresh kiwi slices with the ice for extra fruitiness, but be careful not to over-muddle.  Use a good quality Bitter Lemon for a clean, crisp finish. "

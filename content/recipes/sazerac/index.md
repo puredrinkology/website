@@ -2,6 +2,7 @@
 title: "The Sazerac Cocktail"
 fullname: "The Sazerac Cocktail"
 shortname: "Sazerac"
+author: "Pure Drinkology"
 description: "The Sazerac, a New Orleans classic, is a member of the **Old Fashioned** family.  Its history dates back to the 1800s, with its roots in a French-American apothecary in New Orleans.  The recipe evolved over time, with the addition of rye whiskey and absinthe. "
 flavor_description: "The Sazerac is a bold and complex cocktail with a strong, spicy rye whiskey foundation.  A touch of brandy adds depth, while Demerara gum syrup provides sweetness. The Peychaud's Bitters introduce a slightly medicinal and herbal note, and the absinthe adds a lingering anise and licorice finish, creating a truly unique and unforgettable experience. "
 bartender_tips: "Chill your glass! A pre-chilled glass enhances the experience. Use a good quality rye whiskey and absinthe. Stir your Sazerac with ice, not shake, to avoid dilution.  Don't be afraid to adjust the bitters to your preference.  Rinse your glass with absinthe, but not too much, you want the flavor, not a mouthful of it.  Garnish with a lemon twist. Enjoy! "

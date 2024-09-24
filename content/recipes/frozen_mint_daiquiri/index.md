@@ -2,6 +2,7 @@
 title: "The Frozen Mint Daiquiri Cocktail"
 fullname: "The Frozen Mint Daiquiri Cocktail"
 shortname: "Frozen Mint Daiquiri"
+author: "Pure Drinkology"
 description: "The Frozen Mint Daiquiri is a refreshing twist on the classic Daiquiri family, born in the vibrant rum-soaked bars of Cuba. This frozen delight blends the traditional rum, lime, and sugar with the invigorating coolness of fresh mint, creating a perfect summer sipper. "
 flavor_description: "The Frozen Mint Daiquiri is a refreshing and vibrant cocktail. It's a perfect blend of tart lime juice, sweet sugar, and the cool, invigorating flavor of mint. The light rum adds a subtle sweetness and a touch of warmth. The texture is smooth and icy, making it a perfect summer drink. The overall taste profile is a refreshing balance of tangy, sweet, and minty notes, best enjoyed on a hot day. "
 bartender_tips: "For a killer Frozen Mint Daiquiri, muddle the mint gently to release its oils, not pulverize it. Use a good quality light rum, and adjust sugar to your taste.  Don't over-blend, as it can become icy. A fine ice consistency is key. Garnish with a sprig of mint and a lime wheel. "

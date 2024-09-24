@@ -2,6 +2,7 @@
 title: "The Greyhound Cocktail"
 fullname: "The Greyhound Cocktail"
 shortname: "Greyhound"
+author: "Pure Drinkology"
 description: "The Greyhound, a simple yet refreshing blend of vodka and grapefruit juice, is a classic example of a **Highball**.  Its origins are debated, but it likely emerged in the 1930s, a testament to the rise of vodka cocktails during that era. "
 flavor_description: "The Greyhound is a crisp and refreshing cocktail with a vibrant citrus character. The vodka provides a clean, smooth base, while the grapefruit juice delivers a tart, slightly bitter tang. The combination creates a balanced and invigorating drink with a slightly sweet finish.  It's a perfect choice for a warm day or a light, pre-dinner cocktail. "
 bartender_tips: "For a perfect Greyhound, use fresh grapefruit juice, not bottled.  Chill both the vodka and juice before mixing for a refreshing drink.  Rim the glass with sugar for a sweet twist, or salt for a savory kick.  Don't over-shake, as it can bruise the grapefruit juice and create bitterness.  Serve it tall and icy, garnished with a grapefruit wedge. "

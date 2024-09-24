@@ -2,6 +2,7 @@
 title: "The Manhattan Cocktail"
 fullname: "The Manhattan Cocktail"
 shortname: "Manhattan"
+author: "Pure Drinkology"
 description: "The Manhattan is a classic member of the Whiskey Cocktail family, born in the late 19th century.  It's said to have originated in New York City at the Manhattan Club, hence its name.  The combination of bourbon, sweet vermouth, and bitters creates a rich, balanced, and sophisticated drink. "
 flavor_description: "The Manhattan is a complex and sophisticated cocktail. Its base of bourbon offers a warm, robust character, tempered by the sweetness and herbal notes of sweet vermouth. A touch of Angostura bitters adds a hint of spice and complexity, while the cherry and orange peel provide contrasting sweet and citrusy accents. The overall taste profile is balanced and elegant, with a smooth and satisfying finish. "
 bartender_tips: "Chill your glass beforehand for a perfect chill. Use a good quality bourbon and sweet vermouth.  Don't be afraid to experiment with the ratio of vermouth to bourbon to find your perfect balance. A dash of Angostura bitters is key, but don't overdo it!  Garnish with a cherry and a twist of orange peel for a beautiful presentation. "

@@ -2,6 +2,7 @@
 title: "The White Wine Sangria Punch"
 fullname: "The White Wine Sangria Punch"
 shortname: "White Wine Sangria"
+author: "Pure Drinkology"
 description: "This refreshing White Wine Sangria belongs to the **Sangria family**, a Spanish tradition dating back centuries.  This specific version, with its fruity additions and brandy, is a modern twist on the classic, offering a delightful blend of sweet and tart flavors. "
 flavor_description: "The White Wine Sangria is a delightful blend of sweet and tart.  The crisp white wine is balanced by the citrusy punch of lime and lemon.  Ripe strawberries and juicy apple add a natural sweetness, while a touch of apple brandy brings warm, spiced notes.  The soda water provides a refreshing fizz, making this sangria a perfect summer sipper. "
 bartender_tips: "For a vibrant White Wine Sangria, use ripe, juicy fruit and muddle gently to release their aromas without making the drink bitter.  Add the apple brandy for a warm, complex flavor.  Chill the sangria thoroughly before serving.  When assembling, layer the ingredients to create a visually appealing presentation.  Top with soda water just before serving to retain fizziness. "

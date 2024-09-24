@@ -2,6 +2,7 @@
 title: "The Queen Bee Cocktail"
 fullname: "The Queen Bee Cocktail"
 shortname: "Queen Bee"
+author: "Pure Drinkology"
 description: "The Queen Bee blends the warmth of coffee brandy, the tang of lime vodka, and the nutty complexity of sherry. This cocktail draws inspiration from the classic Brandy Alexander family, featuring a layered sweetness and a smooth finish. Its origin likely lies in the modern era, a creative fusion of classic and contemporary flavors. "
 flavor_description: "The Queen Bee is a complex and alluring cocktail. The coffee brandy provides a rich, roasted base with hints of chocolate and caramel.  Lime vodka adds a bright, citrusy zing, while the sherry offers a dry, nutty complexity with notes of dried fruit. These elements intertwine to create a harmonious blend that is both sophisticated and refreshing. "
 bartender_tips: "To make your Queen Bee sing, remember these tips: * **Chill everything**:  Cold ingredients are key for a refreshing drink.* **Use good quality ingredients**: The brandy and sherry really make a difference.* **Shake hard**: Don't be shy with the shaker!  A good hard shake will create a beautiful frothy head.* **Strain carefully**:  Avoid any bits of lime from making it into the glass.* **Garnish thoughtfully**: A lime wheel or a sprig of rosemary adds a nice touch. "

@@ -2,6 +2,7 @@
 title: "The Imperial  Cocktail"
 fullname: "The Imperial  Cocktail"
 shortname: "Imperial "
+author: "Pure Drinkology"
 description: "The Imperial Cocktail, a refreshing blend of lime juice, gin, and Aperol, belongs to the **Gin Sour family**. Its origins are debated, but likely emerged in the **1920s**, during the American Prohibition era, as a twist on the classic Gin Sour. "
 flavor_description: "The Imperial Cocktail is a refreshing and bittersweet delight. The gin provides a crisp, juniper-forward base, while the Aperol brings a vibrant orange bitterness and a touch of sweetness. The lime juice adds a bright acidity that cuts through the sweetness and balances the overall flavor profile. The result is a complex and well-rounded cocktail that's both invigorating and approachable. "
 bartender_tips: "The Imperial Cocktail is a delightful balance of tart, bitter, and boozy. To ensure a perfect pour: * Use freshly squeezed lime juice for optimal flavor.* Chill your gin and Aperol beforehand to maintain a cool, refreshing drink. * Shake vigorously with ice to thoroughly chill and blend the ingredients.* Strain into a chilled coupe glass for a sophisticated presentation. "

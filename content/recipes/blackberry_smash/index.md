@@ -2,6 +2,7 @@
 title: "The Blackberry Smash Cocktail"
 fullname: "The Blackberry Smash Cocktail"
 shortname: "Blackberry Smash"
+author: "Pure Drinkology"
 description: "The Blackberry Smash is a refreshing take on the classic Smash family of cocktails, known for their muddled fruit and herbaceous notes.  Its origins likely trace back to the early 20th century, when similar fruit-forward cocktails were popularized in American bars. "
 flavor_description: "The Blackberry Smash is a vibrant and refreshing cocktail. Sweet blackberry and minty notes dance on the palate, balanced by the tartness of lemon juice. The whiskey adds a warm, smoky complexity, while the gum syrup provides a subtle sweetness. The combination creates a harmonious blend of fruity, herbal, and boozy flavors, with a smooth and satisfying finish. "
 bartender_tips: "Muddle the blackberries and mint gently to release their flavors, but avoid crushing the seeds.  Use a good quality bourbon or rye whiskey for a more robust flavor.  Adjust the gum syrup to your liking - it can be used to balance the tartness of the lemon and sweetness of the berries.  Don't over-shake, a light shake will keep the drink refreshing. Garnish with a fresh blackberry and a sprig of mint. "

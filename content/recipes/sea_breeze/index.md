@@ -2,6 +2,7 @@
 title: "The Sea Breeze Cocktail"
 fullname: "The Sea Breeze Cocktail"
 shortname: "Sea Breeze"
+author: "Pure Drinkology"
 description: "The Sea Breeze is a classic highball, a refreshing blend of vodka, cranberry, and grapefruit juices.  Originating in the 1940s, this pink and tart cocktail likely emerged as a sweeter take on the traditional Vodka and Grapefruit juice cocktail.  "
 flavor_description: "The Sea Breeze is a refreshing and tart cocktail. The vodka provides a clean, neutral base, while the cranberry juice delivers a sweet and tart punch. Grapefruit juice adds a subtle bitterness and a touch of citrus, balancing the sweetness and creating a complex flavor profile that is both invigorating and thirst-quenching. "
 bartender_tips: "For a perfect Sea Breeze, use high-quality vodka and fresh-squeezed grapefruit juice for a brighter flavor. Don't over-shake, just a gentle swirl to chill and combine. For a sweeter drink, use less grapefruit juice. Garnish with a lime wedge, grapefruit slice, or a sprig of rosemary for a fresh touch. "

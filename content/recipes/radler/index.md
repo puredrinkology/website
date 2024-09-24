@@ -2,6 +2,7 @@
 title: "The Radler Cocktail"
 fullname: "The Radler Cocktail"
 shortname: "Radler"
+author: "Pure Drinkology"
 description: "The Radler, a refreshing blend of beer and lemon-lime soda, belongs to the **Shandy** family.  Originating in Germany, the Radler was invented in the 1920s by a Bavarian innkeeper who diluted his beer with lemonade to serve the influx of cyclists. "
 flavor_description: "The Radler offers a refreshing, citrusy sweetness balanced by the subtle bitterness of beer. The 7-Up's lemon-lime notes create a light and bubbly sensation, while the beer adds a subtle malt character. The overall effect is a thirst-quenching, low-alcohol beverage perfect for warm days or casual gatherings. "
 bartender_tips: "The Radler is a simple, refreshing drink, but here's a pro tip: **Start with chilled ingredients**. This ensures the perfect balance of temperature and flavor. Use a good quality beer, ideally a wheat beer or Hefeweizen. Don't over-pour the 7-Up – a little goes a long way.  Gently stir to combine, not shake, to avoid creating too much foam. "

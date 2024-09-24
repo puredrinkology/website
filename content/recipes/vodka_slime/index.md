@@ -2,6 +2,7 @@
 title: "The Vodka Slime Cocktail"
 fullname: "The Vodka Slime Cocktail"
 shortname: "Vodka Slime"
+author: "Pure Drinkology"
 description: "Vodka Slime is a refreshing highball, a cocktail family known for their simple, tall structure and use of soda or a mixer. Though its specific origin is unknown, it's likely a modern creation, a playful twist on classic vodka highballs like the Vodka Tonic or Vodka Soda. "
 flavor_description: "Vodka Slime is a refreshing and tangy cocktail. The Sprite provides a crisp, citrusy sweetness, while the lime juice adds a tart and zesty bite. The vodka adds a smooth, clean alcohol base, balancing out the sweetness and acidity. Overall, it's a light and easy-drinking cocktail perfect for hot days. "
 bartender_tips: "For a truly refreshing Vodka Slime, use fresh lime juice, not bottled.  It makes all the difference!  Shake hard with ice to ensure proper chilling and dilution.  Don't over-pour the vodka, as it should be a subtle presence.  And most importantly, rim your glass with sugar for that extra touch of sweetness! "

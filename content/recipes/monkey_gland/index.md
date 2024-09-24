@@ -2,6 +2,7 @@
 title: "The Monkey Gland Cocktail"
 fullname: "The Monkey Gland Cocktail"
 shortname: "Monkey Gland"
+author: "Pure Drinkology"
 description: "The Monkey Gland, a gin-based concoction, belongs to the Sour family, characterized by its tart, citrusy flavor. Originating in the 1920s, it was likely named after the then-popular monkey gland injections, a fad that promised rejuvenation. "
 flavor_description: "The Monkey Gland is a complex and refreshing cocktail.  Gin's juniper and citrus notes dance with Benedictine's herbal sweetness, while orange juice adds a vibrant acidity and grenadine rounds it out with a touch of tart sweetness.  The result is a balanced and intriguing drink with a lingering herbal finish. "
 bartender_tips: "For a killer Monkey Gland, use a high-quality gin with botanicals that complement the orange and grenadine. Chill your ingredients, especially the orange juice, for a refreshing drink.  Shake vigorously with ice to ensure proper dilution and a smooth texture. Don't overdo the grenadine; a touch of red is all you need for color and sweetness. Finish with a playful orange twist garnish. "

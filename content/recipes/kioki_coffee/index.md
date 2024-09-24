@@ -2,6 +2,7 @@
 title: "The Kioki Coffee Cafe"
 fullname: "The Kioki Coffee Cafe"
 shortname: "Kioki Coffee"
+author: "Pure Drinkology"
 description: "The Kioki Coffee belongs to the Coffee Cocktail family, a group of drinks featuring coffee liqueur as a key ingredient.  While its exact origin is unknown, it likely emerged in the early 20th century, a time when coffee liqueurs like Kahlua were gaining popularity. "
 flavor_description: "The Kioki Coffee is a robust and decadent cocktail. The Kahlua brings a rich, chocolatey sweetness, while the brandy adds warmth and a touch of spice. The coffee provides a bold, earthy base that complements the sweetness and spice, creating a harmonious balance of flavors. It's a luxurious and satisfying drink, perfect for a cozy night in or a sophisticated gathering. "
 bartender_tips: "For a Kioki Coffee, start by chilling your glass. Use a good quality Kahlua and brandy. To avoid a muddy texture, build the drink over ice, pouring the brandy first, followed by the Kahlua, and then top with strong, freshly brewed coffee. Stir gently and garnish with a coffee bean or cinnamon stick. "

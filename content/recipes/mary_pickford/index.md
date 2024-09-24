@@ -2,6 +2,7 @@
 title: "The Mary Pickford Cocktail"
 fullname: "The Mary Pickford Cocktail"
 shortname: "Mary Pickford"
+author: "Pure Drinkology"
 description: "The Mary Pickford is a classic **rum punch** cocktail, named after the silent film actress. It originated in the early 20th century, likely at the Hotel Nacional de Cuba in Havana. Its sweet, fruity profile makes it a refreshing and approachable choice. "
 flavor_description: "The Mary Pickford is a sweet, tropical delight. Light rum provides a subtle warmth, balanced by the juicy sweetness of pineapple juice.  Maraschino liqueur adds a delicate cherry flavor, while grenadine contributes a touch of tartness and a vibrant red hue. The maraschino cherry garnish adds a final burst of sweetness and a playful touch. It's a playful, easy-drinking cocktail perfect for a warm afternoon. "
 bartender_tips: "Use fresh pineapple juice for the best flavor. Don't overshake the cocktail, as it will become cloudy. A gentle shake with ice is ideal. Use a good quality maraschino liqueur, as it adds a key element of sweetness and complexity. A dash of grenadine creates a beautiful color gradient. "

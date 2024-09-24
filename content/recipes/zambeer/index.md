@@ -2,6 +2,7 @@
 title: "The Zambeer Nonalcoholic"
 fullname: "The Zambeer Nonalcoholic"
 shortname: "Zambeer"
+author: "Pure Drinkology"
 description: "The Zambeer is a refreshing, unique twist on a classic highball cocktail.  Its origins are likely modern, merging the anise-flavored liqueur of Sambuca with the sweetness of root beer for a playful, fizzy experience. "
 flavor_description: "Zambeer is a playful, unexpected twist on a classic. The licorice and anise flavors of Sambuca dance with the creamy sweetness of root beer, creating a surprisingly harmonious blend.  The coolness of the ice accentuates the sweetness, while the subtle bitterness of the root beer adds complexity. This is a refreshing cocktail that's both sweet and intriguing. "
 bartender_tips: "The key to a great Zambeer is balance. Use high-quality Sambuca for its anise flavor. Start with a 1:2 ratio of Sambuca to Root Beer, but adjust to taste. Don't over-ice; you want the Sambuca to shine through. For a visual touch, layer the Sambuca on the bottom, then gently add the Root Beer over it. "

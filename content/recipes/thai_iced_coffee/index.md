@@ -2,6 +2,7 @@
 title: "The Thai Iced Coffee Cafe"
 fullname: "The Thai Iced Coffee Cafe"
 shortname: "Thai Iced Coffee"
+author: "Pure Drinkology"
 description: "Thai Iced Coffee, a refreshing blend of coffee, sugar, cream, and cardamom, is a delightful member of the *Coffee Cocktail* family. Originating in Thailand, this beloved beverage reflects the country's rich culinary history and love for strong coffee, sweetened with condensed milk and often spiced with aromatic cardamom. "
 flavor_description: "This Thai Iced Coffee is a symphony of sweet and spiced flavors. The strong, robust coffee is tempered by the creamy sweetness of condensed milk and sugar. A subtle warmth from the cardamom adds an exotic touch, rounding out the profile with an almost floral note. This drink is a delightful blend of classic coffee flavors and a touch of the exotic. "
 bartender_tips: "For a killer Thai Iced Coffee, use strong, freshly brewed coffee. Don't skimp on the sugar – it should be sweet!  Dissolve the sugar in hot coffee for a silky texture.  Use heavy cream, not milk, for richness.  Toast the cardamom pods before grinding – it releases the aroma and adds a warm complexity.  Serve over ice with a splash of cream on top for an extra touch. "

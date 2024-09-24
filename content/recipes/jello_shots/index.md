@@ -2,6 +2,7 @@
 title: "The Jellos Shot"
 fullname: "The Jellos Shot"
 shortname: "Jellos"
+author: "Pure Drinkology"
 description: "Jello shots, though not a traditional cocktail, belong to the family of **Party Shots**, a modern, informal category.  Their origins are likely rooted in the 1980s, arising from the desire for a fun, portable, and easily consumed way to enjoy alcohol. "
 flavor_description: "Jello shots offer a surprisingly complex taste profile. The vodka provides a clean, sharp alcohol burn, while the Jello contributes a sweet, fruity flavor, often enhanced by the chosen flavoring. The water balances out the sweetness and alcohol, creating a smooth, refreshing finish. The texture, of course, is the defining element – wobbly, jiggly, and uniquely satisfying. "
 bartender_tips: "Use high-quality vodka for a cleaner taste.  Don't overcook the Jello, it should be just slightly thickened.  Let the Jello mixture cool completely before pouring into molds.  Use a piping bag for even distribution and a professional look.  For a fun twist, add fruit purée or edible glitter! "

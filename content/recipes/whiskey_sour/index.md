@@ -2,6 +2,7 @@
 title: "The Whiskey Sour Cocktail"
 fullname: "The Whiskey Sour Cocktail"
 shortname: "Whiskey Sour"
+author: "Pure Drinkology"
 description: "The Whiskey Sour is a classic member of the Sour family, characterized by its blend of whiskey, citrus juice, and sweetener.  Born in the 1800s, likely in America, it remains a staple, with countless variations but always retaining its refreshing, tart appeal. "
 flavor_description: "The Whiskey Sour is a classic for a reason. It's a harmonious blend of tart and sweet. The blended whiskey provides a smooth, slightly smoky base. The lemon juice cuts through with a vibrant acidity, balanced by the sweetness of the powdered sugar. The cherry adds a touch of fruitiness, while the lemon wedge provides a refreshing aroma.  It's a drink that's both invigorating and comforting. "
 bartender_tips: "For a perfect Whiskey Sour, use fresh lemon juice - bottled juice won't cut it!  Shake hard with ice to chill and dilute the cocktail, and make sure to use good quality blended whiskey.  A dash of egg white adds a creamy texture if desired.  Don't skimp on the powdered sugar, it balances the sourness perfectly. Garnish with a cherry and a lemon twist, and enjoy! "

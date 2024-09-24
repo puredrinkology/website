@@ -2,6 +2,7 @@
 title: "The Zima Blaster Cocktail"
 fullname: "The Zima Blaster Cocktail"
 shortname: "Zima Blaster"
+author: "Pure Drinkology"
 description: "The Zima Blaster, a playful twist on the classic Kir Royale, blends the citrusy fizz of Zima with the sweet raspberry notes of Chambord.  This contemporary concoction borrows from the tradition of French aperitifs, offering a light and refreshing drink perfect for any occasion. "
 flavor_description: "The Zima Blaster delivers a playful yet sophisticated sip. Zima's crisp, citrusy base is lifted by Chambord's sweet, tart raspberry notes, creating a refreshing and slightly fruity punch. The combination is surprisingly harmonious, offering a unique twist on classic cocktails.  "
 bartender_tips: "To make a Zima Blaster, it's all about keeping the Chambord cool.  Chill both Zima and the Chambord in the freezer for at least 30 minutes before making the cocktail.  This ensures a crisp, refreshing flavor that's not overly sweet.  When pouring the Chambord, go slow and steady to avoid over-sweetening the drink.  Finish with a splash of soda water for a bubbly finish. "

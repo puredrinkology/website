@@ -2,6 +2,7 @@
 title: "The Americano Cocktail"
 fullname: "The Americano Cocktail"
 shortname: "Americano"
+author: "Pure Drinkology"
 description: "The Americano belongs to the **Aperitivo** family, a category of Italian cocktails designed to stimulate the appetite before a meal. It originated in **Milan, Italy**, in the late 19th century, and its name is a nod to the popularity of American tourists who frequented its birthplace, the Café Campari. "
 flavor_description: "The Americano is a bittersweet symphony. Campari's bitter orange and herbal notes clash with the sweet, herbal complexity of the vermouth, creating a surprisingly balanced and refreshing drink. The citrus peels add a touch of zest and a hint of floral aroma, rounding out the profile with a subtle elegance. It's like a crisp autumn day bottled – complex, invigorating, and ultimately satisfying. "
 bartender_tips: "Chill your glass and ingredients beforehand.  Use good quality Campari and Vermouth, and be precise with measurements.  Express the peels over the drink before discarding them, and ensure your ice is fresh.  Stir gently to combine, avoiding dilution.  A simple garnish of a lemon twist adds a touch of elegance.  Enjoy! "

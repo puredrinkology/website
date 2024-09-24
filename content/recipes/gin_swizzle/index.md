@@ -2,6 +2,7 @@
 title: "The Gin Swizzle Cocktail"
 fullname: "The Gin Swizzle Cocktail"
 shortname: "Gin Swizzle"
+author: "Pure Drinkology"
 description: "The Gin Swizzle is a classic highball, a refreshing combination of spirits, mixers, and ice.  Born in the 19th century, its roots lie in the Caribbean, where rum swizzles were popular, but gin eventually took its place in this invigorating, slightly bitter drink. "
 flavor_description: "The Gin Swizzle is a refreshing and invigorating cocktail. The tart lime juice balances the juniper-forward gin, while the sugar adds a touch of sweetness. A hint of bitterness from the bitters adds complexity, while the club soda provides a light and bubbly finish. This cocktail is best enjoyed on a hot summer day. "
 bartender_tips: "When making a Gin Swizzle, use a good quality gin for a bright flavor. Freshly squeezed lime juice is key. A bar spoon of simple syrup or agave nectar will balance the tartness, adjust to your preference.  A few dashes of Angostura bitters add complexity.  Swizzle vigorously to create a frosty, well-mixed drink. Top with club soda for a refreshing fizz. "

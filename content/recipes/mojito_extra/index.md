@@ -2,6 +2,7 @@
 title: "The Mojito Extra Cocktail"
 fullname: "The Mojito Extra Cocktail"
 shortname: "Mojito Extra"
+author: "Pure Drinkology"
 description: "The Mojito Extra belongs to the Highball family, known for their tall, refreshing nature.  It's a riff on the classic Cuban Mojito, featuring the same core ingredients - mint, lime, rum, and soda - but with the addition of Angostura Bitters for a complex, aromatic twist. "
 flavor_description: "The Mojito Extra is a refreshing and invigorating cocktail. Its taste profile features a vibrant mint and citrus burst, balanced by the smooth sweetness of dark rum. The addition of Angostura bitters adds a subtle complexity with notes of spice and herbs, while the club soda provides a crisp and effervescent finish.  "
 bartender_tips: "Muddle the mint gently, don't pulverize it. Use fresh lime juice, not bottled. A good quality dark rum is essential.  Add the club soda just before serving to keep the fizz.  A dash of bitters balances the sweetness and adds complexity.  Garnish with a mint sprig and a lime wheel. "

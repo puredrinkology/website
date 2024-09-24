@@ -2,6 +2,7 @@
 title: "The Opposites Attract Cocktail"
 fullname: "The Opposites Attract Cocktail"
 shortname: "Opposites Attract"
+author: "Pure Drinkology"
 description: "Opposites Attract is a contemporary take on the classic Sour family, blending sweet and savory notes.  Its unique profile is a nod to modern mixology, drawing inspiration from both classic whiskey cocktails and the emerging world of Mexican spirits. "
 flavor_description: "Opposites Attract is a complex and refreshing cocktail. The Irish whiskey's warmth and spice are balanced by the lime's tartness and the mint's coolness. Ancho Reyes Verde adds a smoky, chili-infused layer that plays nicely with the sweetness of the gum syrup. This is a cocktail that is both bright and savory, offering a surprising and enjoyable journey for your taste buds. "
 bartender_tips: "Muddle mint gently to release oils, not pulverize it.  Use a good quality Irish whiskey for a smoother base.  Ancho Reyes adds spice, so adjust to taste, starting with a dash.  Shake well with ice to chill and dilute, then strain for a refreshing finish.  Garnish with a lime wedge and sprig of mint, and enjoy! "

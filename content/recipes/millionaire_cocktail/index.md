@@ -2,6 +2,7 @@
 title: "The Millionaire  Cocktail"
 fullname: "The Millionaire  Cocktail"
 shortname: "Millionaire "
+author: "Pure Drinkology"
 description: "The Millionaire Cocktail is a vibrant, layered concoction, blending the sweet and tart with a touch of absinthe.  Though its origins are uncertain, it likely emerged in the 1920s, reminiscent of the era's flamboyant spirit.  Consider it a cousin to the classic Sour family, elevated with the unique complexity of absinthe. "
 flavor_description: "The Millionaire Cocktail is a complex and luxurious experience. The Bourbon provides a robust, oaky base, while the Orange Liqueur adds sweetness and citrus notes. The Absinthe lends a subtle anise and herbal touch, balanced by the tartness of Lemon Juice. Grenadine contributes a delicate sweetness and a hint of cherry, while the Egg White creates a velvety texture and adds a touch of richness.  "
 bartender_tips: "**For a velvety texture:**  Use a dry shake to emulsify the egg white before adding ice for a silky, frothy top.  **Don't skimp on the Absinthe:** A tiny splash is key for its aroma, but don't overdo it.  **Flavor balance:** Adjust the orange liqueur and lemon juice for your desired sweetness and tartness.  **Presentation:**  Use a coupe or martini glass for its elegant shape and showcase the frothy top. "

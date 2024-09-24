@@ -2,6 +2,7 @@
 title: "The Lunch Box Beer"
 fullname: "The Lunch Box Beer"
 shortname: "Lunch Box"
+author: "Pure Drinkology"
 description: "The Lunch Box is a unique blend from the **Highball** family, a group of cocktails typically served tall with ice. Its origin remains obscure, likely a modern invention combining the sweet, nutty notes of Amaretto with the refreshing tang of orange juice and a crisp beer base. "
 flavor_description: "The Lunch Box offers a playful contrast of flavors. The beer's malt sweetness and subtle bitterness intertwine with the Amaretto's almond-laced sweetness. A touch of orange juice brightens the palate, adding a citrusy zing that cuts through the richness. The result is a well-balanced cocktail that's both refreshing and easy-drinking, perfect for a casual lunch or afternoon gathering. "
 bartender_tips: "Start with a chilled glass to keep the drink cool. Pour the Amaretto first, then the beer (use a good quality lager or pale ale). Finish with the orange juice, layering it gently on top. Don't stir, as you want the flavors to remain separate. Garnish with an orange slice or wheel. "

@@ -2,6 +2,7 @@
 title: "The Old Pal Cocktail"
 fullname: "The Old Pal Cocktail"
 shortname: "Old Pal"
+author: "Pure Drinkology"
 description: "The Old Pal is a classic American variation of the Negroni, belonging to the esteemed family of bitter, spirit-forward cocktails. Its origins trace back to the 1930s, likely originating in the United States during the Prohibition era. "
 flavor_description: "The Old Pal is a complex, bittersweet symphony.  Rye whiskey provides a spicy backbone, while Campari adds a sharp, herbal bitterness. Dry vermouth contributes a dry, floral note that rounds out the flavor, creating a balanced and sophisticated cocktail with a lingering, slightly bitter finish. "
 bartender_tips: "For a perfect Old Pal, use a good quality rye whiskey and a dry vermouth with a hint of bitterness.  Chill all your ingredients beforehand, as this will help the drink stay cold and refreshing.  Use a barspoon to carefully stir the ingredients with ice, ensuring a well-balanced cocktail.  Strain into a chilled coupe glass, garnish with an orange peel, and enjoy! "

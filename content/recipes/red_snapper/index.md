@@ -2,6 +2,7 @@
 title: "The Red Snapper Shot"
 fullname: "The Red Snapper Shot"
 shortname: "Red Snapper"
+author: "Pure Drinkology"
 description: "The Red Snapper is a fruity, sweet cocktail belonging to the Sour family.  It's a modern invention, likely originating in the late 20th century, combining the sweet, nutty notes of Amaretto with the tartness of cranberry juice and the smooth character of Crown Royal whiskey. "
 flavor_description: "The Red Snapper offers a sweet and tart experience.  The smooth, slightly vanilla-infused sweetness of Crown Royal blends perfectly with the almondy richness of Amaretto.  A vibrant tartness from cranberry juice cuts through the sweetness, creating a refreshing and balanced cocktail.  The overall taste profile is reminiscent of a festive holiday drink, but with a sophisticated twist. "
 bartender_tips: "For a perfect Red Snapper, start by chilling your glass and ingredients. Use a good quality cranberry juice for a brighter flavor. When shaking, use a firm grip to ensure proper dilution. Don't over-shake; aim for a light, frothy texture. Garnish with a lime wedge or a Luxardo cherry for a vibrant touch. "

@@ -2,6 +2,7 @@
 title: "The Pineapple Paloma Cocktail"
 fullname: "The Pineapple Paloma Cocktail"
 shortname: "Pineapple Paloma"
+author: "Pure Drinkology"
 description: "The Pineapple Paloma is a twist on the classic Paloma, a tequila-based cocktail originating in Mexico. It builds upon the Paloma's grapefruit and lime base, adding a tropical twist with pineapple juice and a spicy kick from pepper. "
 flavor_description: "The Pineapple Paloma bursts with a vibrant, tropical sweetness.  Tequila's warmth meets the tart bite of grapefruit and lime, balanced by the smooth sweetness of pineapple.  A subtle hint of pepper adds complexity and a lingering warmth on the palate.  The drink is refreshing, tangy, and perfectly balanced, a delightful blend of sweet and savory notes. "
 bartender_tips: "For a perfect Pineapple Paloma, use high-quality tequila and fresh juices. Muddle the lime with a little sugar for a sweet and tangy base. Shake well with ice to ensure proper dilution and a chilled cocktail. Finish with a pinch of pepper for a spicy kick. Garnish with a lime wedge and pineapple spear for a vibrant presentation. "

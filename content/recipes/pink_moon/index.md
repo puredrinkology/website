@@ -2,6 +2,7 @@
 title: "The Pink Moon Cocktail"
 fullname: "The Pink Moon Cocktail"
 shortname: "Pink Moon"
+author: "Pure Drinkology"
 description: "The Pink Moon is a contemporary twist on the classic Gin Sour family.  Drawing inspiration from the floral and fruity notes of the Gin Sour, it incorporates modern flavors like coconut and elderflower, resulting in a light and refreshing cocktail perfect for warm weather sipping. "
 flavor_description: "The Pink Moon is a vibrant, refreshing cocktail. The gin provides a crisp, juniper-forward base, while the coconut liqueur adds a touch of tropical sweetness. Elderflower cordial contributes floral notes and a delicate sweetness, balanced by the tartness of lime juice. Blackberries offer a juicy, slightly tart counterpoint, creating a complex and delightful flavor profile. "
 bartender_tips: "Muddle the blackberries gently to release their juices, but avoid crushing the seeds. Use a good quality gin for a brighter flavor.  Chill all ingredients beforehand for a perfectly refreshing cocktail. Shake well with ice to ensure proper dilution and a silky texture. Garnish with a blackberry and a lime wheel."

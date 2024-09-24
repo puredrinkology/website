@@ -2,6 +2,7 @@
 title: "The Kurant Tea Cafe"
 fullname: "The Kurant Tea Cafe"
 shortname: "Kurant Tea"
+author: "Pure Drinkology"
 description: "Kurant Tea belongs to the **Highball** family, a refreshing combination of spirits, mixers, and ice served tall in a highball glass. While its exact origin is unknown, it's a modern twist on classic tea-based cocktails, likely inspired by the increasing popularity of flavored vodkas like Absolut Kurant. "
 flavor_description: "Kurant Tea offers a delightful balance of sweet and tart. The Absolut Kurant's blackcurrant liqueur provides a rich, fruity sweetness, while the tea adds a subtle floral and earthy complexity. A touch of sugar enhances the sweetness and rounds out the flavor profile, creating a harmonious and refreshing cocktail. "
 bartender_tips: "Use high-quality tea for best flavor.  Steep it strong, then let it cool completely before mixing.  Add sugar to taste, but a bit more sweetness than usual is good here.  Shake well with ice to chill and dilute the cocktail.  The key is balance - the tartness of the Kurant, the floral tea, and the sweetness should all come through.  Garnish with a lemon twist for a fresh touch. "

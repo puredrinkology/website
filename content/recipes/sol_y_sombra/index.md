@@ -2,6 +2,7 @@
 title: "The Sol Y Sombra Cocktail"
 fullname: "The Sol Y Sombra Cocktail"
 shortname: "Sol Y Sombra"
+author: "Pure Drinkology"
 description: "Sol Y Sombra belongs to the **Anisette family**, a group of cocktails traditionally enjoyed in Spain and Latin America.  Its origin is uncertain but likely dates back to the 19th century,  a time when brandy and anise liqueurs were popular throughout the region. "
 flavor_description: "Sol Y Sombra is a harmonious dance of sun and shade. The brandy's rich fruitiness takes the lead, offering a warm embrace with notes of dried plums and oak. Anisette joins the party, adding a subtle, licorice-kissed sweetness that lingers on the palate. The result is a complex yet balanced cocktail, perfect for sipping under a warm sun or amidst the dappled shade of a summer afternoon. "
 bartender_tips: "For the Sol Y Sombra, use a good quality brandy - it's the star of the show. Ensure your anisette is chilled, it'll add a crispness to the cocktail. Don't overshake, a gentle stir keeps the brandy's complexity intact.  A lemon twist, not a squeeze, gives a subtle citrus note without overwhelming the brandy and anisette."

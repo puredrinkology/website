@@ -2,6 +2,7 @@
 title: "The Limona Corona Beer"
 fullname: "The Limona Corona Beer"
 shortname: "Limona Corona"
+author: "Pure Drinkology"
 description: "The Limona Corona is a straightforward highball, a category popularized in the late 19th century. This simple combination of beer and flavored liqueur, likely originated in a casual setting, highlighting the refreshing and vibrant flavors of both ingredients. "
 flavor_description: "The Limona Corona is a light and refreshing cocktail.  The Corona beer provides a crisp, malty base, while the Bacardi Limon adds a vibrant citrus kick.  The combination creates a sweet and tangy flavor that is perfect for a hot day or a casual gathering.  The citrus notes are amplified by the addition of lime juice, creating a zesty and invigorating experience. "
 bartender_tips: "Chill your Corona and Bacardi Limon thoroughly.  Use a tall glass filled with ice. Pour Bacardi Limon first, followed by Corona.  Gently stir to mix, keeping the head of the Corona intact. Garnish with a lime wedge and a pinch of salt on the rim for a salty-sweet kick.  Enjoy responsibly! "

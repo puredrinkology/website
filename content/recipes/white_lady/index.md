@@ -2,6 +2,7 @@
 title: "The White Lady Cocktail"
 fullname: "The White Lady Cocktail"
 shortname: "White Lady"
+author: "Pure Drinkology"
 description: "The White Lady, a classic gin sour, belongs to the **sour family**, characterized by a base spirit, citrus juice, and sweetener. Originating in the 1920s at Harry's New York Bar in Paris, it's a refreshing and tart cocktail with a rich history. "
 flavor_description: "The White Lady is a classic for a reason. It's a beautifully balanced blend of citrus and gin, with a refreshing, tart sweetness. The lemon juice provides the acidity, the Triple Sec adds a subtle orange flavor and sweetness, and the gin rounds it all out with its botanical notes. It's light and crisp, making it a perfect cocktail for any occasion. "
 bartender_tips: "For a perfect White Lady, chill your glass and ingredients beforehand. Shake vigorously with ice to ensure proper dilution and a frosty texture. Use fresh lemon juice for optimal flavor. Strain into the chilled glass and garnish with a lemon twist.  Don't over-shake or you'll get a cloudy cocktail. "

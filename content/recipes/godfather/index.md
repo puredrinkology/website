@@ -2,6 +2,7 @@
 title: "The Godfather Cocktail"
 fullname: "The Godfather Cocktail"
 shortname: "Godfather"
+author: "Pure Drinkology"
 description: "The Godfather is a classic **liqueur-based cocktail**, similar to the Brandy Alexander or the White Russian.  Originating in the 1970s, it's said to have been named after the iconic movie character played by Marlon Brando, due to its rich, smooth, and powerful flavor. "
 flavor_description: "The Godfather is a bold and complex cocktail.  The smooth, smoky character of Scotch whisky is beautifully balanced by the rich, almondy sweetness of Amaretto. This creates a luxuriously smooth experience with a hint of dryness. The combination is both comforting and sophisticated, perfect for a special occasion or a relaxing evening. "
 bartender_tips: "Chill your glass beforehand for a truly frosty experience. Use a good quality Scotch, preferably a blended variety, to balance the sweetness of the Amaretto.  A dash of Angostura bitters adds complexity, but is optional. Stir gently with ice to avoid diluting the cocktail too much. Garnish with a lemon twist for a classic touch. "

@@ -2,6 +2,7 @@
 title: "The Royal Bitch Shot"
 fullname: "The Royal Bitch Shot"
 shortname: "Royal Bitch"
+author: "Pure Drinkology"
 description: "The Royal Bitch is a sweet, decadent liqueur cocktail. It falls into the dessert cocktail family, likely inspired by the popularity of creamy liqueurs like Frangelico in the late 20th century.  While its exact origin is unknown, it's likely a recent creation, combining readily available spirits for a simple, enjoyable drink. "
 flavor_description: ""
 bartender_tips: ""

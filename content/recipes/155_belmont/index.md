@@ -2,6 +2,7 @@
 title: "The 155 Belmont Cocktail"
 fullname: "The 155 Belmont Cocktail"
 shortname: "155 Belmont"
+author: "Pure Drinkology"
 description: "The 155 Belmont belongs to the **Rum Punch** family. It's a modern twist on classic Caribbean cocktails, incorporating vodka for a contemporary edge. Its precise origin is unknown, but the combination of rums and orange juice suggests a playful homage to the sun-drenched islands. "
 flavor_description: "The 155 Belmont is a complex and balanced blend. The dark rum provides a rich, molasses-forward sweetness, while the light rum adds a lighter, more fruity note. The vodka brings a clean, neutral base, and the orange juice contributes a refreshing citrus acidity. The result is a well-rounded cocktail with a smooth, approachable taste that finishes with a hint of spice. "
 bartender_tips: "For the 155 Belmont, balance is key. Use a high-quality dark rum for depth and a lighter rum for brightness.  Vodka adds a clean, neutral base.  Freshly squeezed orange juice is essential, and you can adjust the amount to your taste.  Shake well with ice to chill and dilute, and strain into a chilled glass.  Garnish with an orange peel for a touch of citrus. "

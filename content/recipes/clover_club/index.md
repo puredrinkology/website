@@ -2,6 +2,7 @@
 title: "The Clover Club Cocktail"
 fullname: "The Clover Club Cocktail"
 shortname: "Clover Club"
+author: "Pure Drinkology"
 description: "The Clover Club is a classic sour cocktail, a family known for their tart, refreshing flavors. It originated in the late 19th century at the Clover Club in Philadelphia, gaining popularity for its unique egg white foam and vibrant pink hue. "
 flavor_description: "The Clover Club is a delightful balance of tart and sweet.  The gin's botanicals provide a dry, juniper-forward backbone, while lemon juice adds a bright acidity. Grenadine contributes a touch of sweetness and a subtle raspberry note.  The egg white adds a silky, creamy texture, making for a luscious and complex cocktail. "
 bartender_tips: "For a perfect Clover Club, remember these tips:* **Shake hard:**  Really give it a good shake to emulsify the egg white and create a silky texture.* **Dry shake:**  Before adding ice, shake without ice for 15 seconds to froth the egg white.* **Lemon twist:**  Use a fresh lemon twist, not just juice, to add a vibrant aroma and a touch of visual appeal.* **Ice:**  Use plenty of ice for a well-chilled drink.* **Grenadine:**  Don't overpower the gin with too much grenadine; use it subtly for a hint of sweetness. "

@@ -2,6 +2,7 @@
 title: "The Camerons Kick Cocktail"
 fullname: "The Camerons Kick Cocktail"
 shortname: "Camerons Kick"
+author: "Pure Drinkology"
 description: "Cameron's Kick is a unique twist on the classic Whiskey Sour family, incorporating both Irish and Scotch whiskies for a complex and nuanced flavor profile. This hybrid creation likely emerged in the early 20th century, during the cocktail boom, when bartenders experimented with diverse spirits and ingredients. "
 flavor_description: "Cameron's Kick is a complex and intriguing cocktail. The sweetness of the Orgeat syrup, reminiscent of almond and apricot, is balanced by the peaty smoke of the Blended Scotch and the robust character of Irish Whiskey. A touch of tartness from the lemon juice adds a refreshing counterpoint, creating a layered and sophisticated flavor profile. "
 bartender_tips: "When making Cameron's Kick, use a good quality Irish whiskey and a robust blended scotch. The orgeat syrup adds sweetness and a subtle almond flavor, so don't overpower it with too much lemon juice. Shake vigorously with ice to chill and dilute the mixture.  Strain into a chilled coupe glass and garnish with a lemon twist. "

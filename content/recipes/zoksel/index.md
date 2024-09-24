@@ -2,6 +2,7 @@
 title: "The Zoksel Nonalcoholic"
 fullname: "The Zoksel Nonalcoholic"
 shortname: "Zoksel"
+author: "Pure Drinkology"
 description: "The Zoksel is a unique concoction that defies easy categorization.  Its base of beer, sodas, and fruit juices hints at a Boilermaker lineage, but the addition of Creme de Cassis and lemon evokes a more sophisticated, potentially European influence.  The exact origin remains shrouded in mystery. "
 flavor_description: "The Zoksel is a complex, layered cocktail. It starts with a sweet, creamy base from the root beer and creme de cassis, brightened by the citrus tang of lemonade and lemon. The beer and 7-Up add a subtle, effervescent complexity, while the Coca-Cola brings a hint of cola spice. The result is a refreshingly unique concoction that blends sweet, tart, and bubbly notes for a truly intriguing experience. "
 bartender_tips: "This sounds like a fun, layered cocktail!  Start with the heaviest ingredients at the bottom: Creme de Cassis, then lemonade, and root beer.  Use a bar spoon to carefully layer the beer, Coca-Cola, and 7-Up to avoid mixing.  Finish with a squeeze of lemon juice and a lemon twist for a bright touch. Remember to chill all ingredients beforehand for a perfectly refreshing experience. "

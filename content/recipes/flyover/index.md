@@ -2,6 +2,7 @@
 title: "The Flyover Cocktail"
 fullname: "The Flyover Cocktail"
 shortname: "Flyover"
+author: "Pure Drinkology"
 description: "The Flyover belongs to the **Sour** family, a classic cocktail style that originated in the 18th century. Its combination of citrus, sweet, and bitter elements, along with the addition of bourbon, creates a refreshing and complex flavor profile that has stood the test of time. "
 flavor_description: "The Flyover is a vibrant and complex cocktail. The Rio Red Grapefruit Cordial provides a bright, citrusy base with a hint of bitterness, balanced by the sweetness of the ginger syrup. Orange liqueur adds a touch of orange zest and warmth, while bourbon contributes depth and spice. A squeeze of lime juice brightens the profile and creates a refreshing finish.  Overall, the Flyover is a harmonious blend of sweet, tart, and spicy notes, making it a truly unique and memorable drink. "
 bartender_tips: "To make a flawless Flyover, focus on the balance.  Shake the grapefruit cordial, ginger syrup, and lime juice vigorously to ensure the flavors meld perfectly.  Add the bourbon and orange liqueur last for a smooth, layered effect.  Don't over-ice it; let the flavors shine! "

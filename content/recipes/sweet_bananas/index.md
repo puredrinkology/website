@@ -2,6 +2,7 @@
 title: "The Sweet Bananas Shake"
 fullname: "The Sweet Bananas Shake"
 shortname: "Sweet Bananas"
+author: "Pure Drinkology"
 description: "Sweet Bananas belongs to the **Milk Punch family**, a historical cocktail category featuring milk and spirits.  While its exact origin is unknown, milk punches have been enjoyed for centuries, likely originating in colonial America.  This simple yet delightful drink is a refreshing take on this classic style. "
 flavor_description: "Sweet Bananas is a creamy, comforting concoction with a distinct banana flavor. The sweetness of the honey balances the natural sweetness of the banana, creating a harmonious taste. The milk provides a smooth, velvety texture and adds a touch of dairy richness. This cocktail is a delightful and satisfying treat, reminiscent of a banana milkshake with a touch of honeyed sweetness. "
 bartender_tips: "For a velvety smooth Sweet Bananas, use ripe bananas for maximum sweetness and flavor. Blend them thoroughly with milk until completely smooth. A touch of honey adds depth, so start with a teaspoon and adjust to your taste.  Chill the mixture for optimal refreshment.  For a fancier presentation, rim the glass with crushed banana chips. "

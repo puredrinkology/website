@@ -2,6 +2,7 @@
 title: "The Talos Coffee Cafe"
 fullname: "The Talos Coffee Cafe"
 shortname: "Talos Coffee"
+author: "Pure Drinkology"
 description: "The Talos Coffee belongs to the classic Coffee Cocktail family, drawing inspiration from the timeless tradition of pairing coffee with liqueurs. This drink's origins remain shrouded in mystery, but it likely emerged in the 20th century, reflecting the rising popularity of coffee-based cocktails. "
 flavor_description: "The Talos Coffee offers a warm, inviting experience. The Grand Marnier's citrus notes intertwine with the rich, roasted coffee aroma, creating a complex and slightly bittersweet profile. The finish lingers with a subtle orange zest and a lingering coffee warmth, leaving you wanting more. "
 bartender_tips: "Use a strong, freshly brewed coffee for the best flavor.  Chill the Grand Marnier beforehand to ensure a balanced, refreshing cocktail.  Use a good quality ice and a cocktail shaker for optimal dilution and chilling.  Strain into a chilled coupe glass for a sophisticated presentation.  A splash of orange bitters can add complexity. "

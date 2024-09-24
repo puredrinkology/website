@@ -2,6 +2,7 @@
 title: "The Highland Fling  Cocktail"
 fullname: "The Highland Fling  Cocktail"
 shortname: "Highland Fling "
+author: "Pure Drinkology"
 description: "The Highland Fling is a classic Manhattan variation, likely born in the early 20th century. Its scotch base and orange bitters add a smoky, citrusy twist to the traditional sweet vermouth and bitters combination, perfect for a sophisticated yet approachable cocktail. "
 flavor_description: "The Highland Fling is a sophisticated and balanced cocktail. The Scotch provides a robust, smoky base, while the sweet vermouth adds a touch of richness and sweetness. The orange bitters contribute a subtle citrus note, and the olive offers a salty and briny counterpoint.  The result is a complex and intriguing drink that is both refreshing and satisfying. "
 bartender_tips: "This classic cocktail is all about balance. Chill your glass beforehand. Use good quality Scotch and vermouth.  A dash of orange bitters elevates the flavor, but don't overdo it. Stir with ice, not shake, to avoid dilution. Garnish with an olive or a twist of orange peel.  Remember, a good Highland Fling should be both refreshing and complex. "

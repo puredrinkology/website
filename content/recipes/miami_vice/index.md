@@ -2,6 +2,7 @@
 title: "The Miami Vice Cocktail"
 fullname: "The Miami Vice Cocktail"
 shortname: "Miami Vice"
+author: "Pure Drinkology"
 description: "Miami Vice, a colorful fusion of rum, pineapple, and coconut, belongs to the tropical cocktail family. This iconic 1980s concoction likely originated in Miami, Florida, gaining popularity thanks to the hit TV show of the same name. "
 flavor_description: "The Miami Vice is a sweet and tropical cocktail with a strong rum punch. The 151 proof rum provides a fiery, almost boozy kick, while the pina colada and daiquiri mixes contribute sweet, creamy coconut and tart pineapple flavors.  The overall taste is a fun, vibrant combination of tropical fruits and rum, best enjoyed on a hot day. "
 bartender_tips: "Use high-quality 151 rum for the best flavor.  Chill all ingredients beforehand, including the glass, for a refreshing drink.  Don't overshake, as this can cause the drink to become too diluted.  For a layered effect, pour the daiquiri mix first, then carefully top with the pina colada mix.  Garnish with a cherry and pineapple wedge for a classic Miami Vice look. "

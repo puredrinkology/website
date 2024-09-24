@@ -2,6 +2,7 @@
 title: "The Coffee Liqueur Liqueur"
 fullname: "The Coffee Liqueur Liqueur"
 shortname: "Coffee Liqueur"
+author: "Pure Drinkology"
 description: "This Coffee Liqueur is a member of the **liqueur family**, a category of sweet, flavored spirits.  Its origin likely traces back to the 18th century, as coffee and vanilla were already popular ingredients in European cuisine.  "
 flavor_description: "This cocktail is a harmonious blend of bold coffee and sweet vanilla, balanced by the smooth vodka and a hint of sugar.  The coffee flavor is robust and upfront, with a touch of bitterness that is softened by the warm vanilla notes.  The vodka provides a clean, crisp base, while the water ensures a smooth and well-rounded finish. "
 bartender_tips: "For a smooth coffee liqueur, use freshly brewed, strong coffee. Steep the coffee grounds for a slightly longer time than usual for a more concentrated flavor. A high-quality vodka will yield a cleaner taste. Vanilla extract enhances the coffee aroma, so use a good quality one. Finally, adjust sugar to your preference - a little goes a long way!  "

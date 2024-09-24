@@ -2,6 +2,7 @@
 title: "The Avenue Scotch Cocktail"
 fullname: "The Avenue Scotch Cocktail"
 shortname: "Avenue Scotch"
+author: "Pure Drinkology"
 description: "Avenue Scotch, with its tropical fruit and spice notes, falls squarely into the **Contemporary Cocktail** family.  It blends classic elements like blended scotch and lime juice with modern flavor profiles, showcasing the vibrant experimentation happening in the world of cocktails today. "
 flavor_description: "Avenue Scotch is a vibrant and complex cocktail. The passionfruit syrup brings a burst of tropical sweetness, balanced by the spicy heat of the ginger syrup. The blended Scotch adds depth and smokiness, while the lime juice provides a refreshing acidity. The interplay of these flavors creates a well-rounded and surprisingly harmonious experience, offering a unique twist on a classic Scotch cocktail. "
 bartender_tips: "For a balanced Avenue Scotch, prioritize fresh, high-quality ingredients. Use a good quality blended Scotch with a bit of peat for complexity.  Measure your syrups precisely – a little goes a long way.  Shake vigorously with ice to chill and emulsify, then double strain for a crystal-clear presentation. Garnish with a lime wheel and a sprig of fresh mint. "

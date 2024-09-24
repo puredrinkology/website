@@ -2,6 +2,7 @@
 title: "The Thai Iced Tea Cafe"
 fullname: "The Thai Iced Tea Cafe"
 shortname: "Thai Iced Tea"
+author: "Pure Drinkology"
 description: "This refreshing drink isn't technically a cocktail, but rather a popular Thai beverage.  It falls under the **Sweetened Tea** family,  originating in Thailand as a street food staple.  The use of condensed milk and ice makes it a cool and satisfying treat perfect for the hot climate. "
 flavor_description: "Thai Iced Tea is a vibrant, refreshing symphony of flavors. The tea base delivers a robust, black tea foundation with a hint of spice. This is tempered by the sweet, creamy richness of condensed milk, while a touch of mint adds a refreshing, cooling note. The ice chills everything, creating a smooth, satisfying drink perfect for hot days. "
 bartender_tips: "For a perfect Thai Iced Tea, brew strong black tea, let it cool completely, and sweeten with condensed milk to your liking.  Don't rush the chilling -  a long, slow chill brings out the best flavor.  Muddle fresh mint for a fragrant garnish, or add a sprig to the glass for a refreshing aroma.  A splash of lime juice adds a touch of tartness, but use sparingly!"

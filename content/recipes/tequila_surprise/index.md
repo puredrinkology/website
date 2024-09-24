@@ -2,6 +2,7 @@
 title: "The Tequila Surprise Shot"
 fullname: "The Tequila Surprise Shot"
 shortname: "Tequila Surprise"
+author: "Pure Drinkology"
 description: "The Tequila Surprise belongs to the spicy cocktail family, a category with roots in the early 20th century. Its origin is likely rooted in the American Southwest, where the combination of tequila and fiery flavors was a popular choice. "
 flavor_description: "The Tequila Surprise packs a fiery punch! The tequila's agave sweetness is immediately met with a bold, savory heat from the Tabasco.  Expect a lingering spice that warms the throat, balanced by the tequila's subtle herbal notes. It's a playful cocktail, ideal for those who enjoy a little kick and a surprise. "
 bartender_tips: "This cocktail is all about balance.  A little Tabasco goes a long way! Start with a single drop and taste. Add more if you like, but keep it subtle.  Use a good quality tequila for a better flavor profile.  A good garnish, like a lime wedge or a jalapeño slice, can enhance the taste and add a visual appeal.  Remember, this is a spicy cocktail, so enjoy it slowly. "

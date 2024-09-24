@@ -2,6 +2,7 @@
 title: "The Jamaica Kiss Shake"
 fullname: "The Jamaica Kiss Shake"
 shortname: "Jamaica Kiss"
+author: "Pure Drinkology"
 description: "The Jamaica Kiss is a creamy, coffee-infused cocktail belonging to the **Coffee Cocktail** family, likely inspired by the popularity of coffee liqueurs and rum in the Caribbean. It's a modern twist on classic coffee cocktails, with the addition of milk adding a smooth and velvety texture. "
 flavor_description: "The Jamaica Kiss offers a smooth, balanced profile.  The coffee liqueur provides a rich, roasted aroma and subtle bitterness, while the light rum adds a touch of sweetness and tropical fruit notes.  The chilled milk balances the flavors, creating a creamy, comforting texture that lingers on the palate.  It's a perfect blend of sweet, bitter, and creamy, ideal for those seeking a sophisticated yet approachable cocktail. "
 bartender_tips: "For a smooth Jamaica Kiss, use high-quality coffee liqueur and light rum. Chill your milk beforehand for a refreshing drink. Shake with ice vigorously to ensure proper dilution and a frosty texture. Strain into a chilled coupe glass, leaving the ice behind. Garnish with a coffee bean or cinnamon stick for a sophisticated touch. "

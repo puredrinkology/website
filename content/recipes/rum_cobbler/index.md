@@ -2,6 +2,7 @@
 title: "The Rum Cobbler Cocktail"
 fullname: "The Rum Cobbler Cocktail"
 shortname: "Rum Cobbler"
+author: "Pure Drinkology"
 description: "The Rum Cobbler is a classic **Cobblers** cocktail, characterized by its refreshing, fruity nature.  Originating in the 19th century, its name likely refers to the cobbled ice used in its preparation.  The sweet, citrusy flavors of the Rum Cobbler are a perfect summer drink. "
 flavor_description: "The Rum Cobbler is a refreshingly sweet and tart cocktail.  Dark rum's warm, caramel notes are balanced by the bright acidity of lemon and the subtle sweetness of sugar.  The club soda provides a bubbly, effervescent texture while the maraschino cherry and orange add a touch of playful sweetness and citrusy aroma.  It's a perfect summer drink, both easy to sip and enjoy. "
 bartender_tips: "For a perfect Rum Cobbler, use a good quality dark rum, and freshly squeezed lemon juice. Muddle the sugar with the lemon to release its oils and create a fragrant base. Chill the glass beforehand and top with ice and club soda, ensuring a gentle pour to avoid over-carbonation. Garnish with a maraschino cherry and a twist of orange peel, allowing the oils to release their scent. "

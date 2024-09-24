@@ -2,6 +2,7 @@
 title: "The Floradora Cocktail"
 fullname: "The Floradora Cocktail"
 shortname: "Floradora"
+author: "Pure Drinkology"
 description: "The Floradora, a fizzy delight born in London's 1890s, is a classic fizz cocktail.  It blends the tartness of lime and raspberry gum with the spicy kick of ginger syrup, all balanced by gin and topped with soda water. "
 flavor_description: "The Floradora is a delightfully tart and refreshing cocktail. The raspberry gum syrup brings a sweet, fruity punch, while the ginger syrup adds a spicy warmth. Gin's botanicals lend a subtle complexity, balanced by lime juice's bright acidity. The soda water provides a light and airy finish. The combination is a harmonious blend of sweet, tart, and spicy flavors, making for a truly unique and satisfying drink. "
 bartender_tips: "For a perfect Floradora, ensure your raspberry gum syrup is fresh and vibrant. Use a good quality gin, not too heavy. Shake well with ice to chill and dilute slightly. When building, layer the ginger syrup first for a distinct flavor, followed by gin and lime juice. Top with soda water, keeping it bubbly. Garnish with a lime wedge and a sprig of mint for a touch of elegance. "

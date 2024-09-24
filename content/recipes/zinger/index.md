@@ -2,6 +2,7 @@
 title: "The Zinger Nonalcoholic"
 fullname: "The Zinger Nonalcoholic"
 shortname: "Zinger"
+author: "Pure Drinkology"
 description: "The Zinger is a unique concoction that doesn't neatly fit into a traditional cocktail family. Its combination of fruit-flavored liqueur (Peachtree Schnapps) and a high-caffeine soda (Surge) makes it a modern, DIY creation. "
 flavor_description: "The Zinger is a vibrant and playful concoction.  Peachtree Schnapps brings a sweet, juicy peach flavor, while Surge adds a blast of citrusy, tropical sweetness.  The combination creates a unique and refreshing taste experience, a perfect balance of sweetness and tartness with a playful kick. This cocktail is sure to awaken your senses and leave you wanting more. "
 bartender_tips: "This sounds like a fun and potentially messy combo!  To keep your Zinger balanced, use a light hand with the Surge. It's super sweet, so you don't want to overpower the Peach Schnapps.  A good ratio is 2 parts Schnapps to 1 part Surge.  Shake well with ice to chill, then strain into a chilled coupe glass. Garnish with a lemon twist for a bit of brightness! "

@@ -2,6 +2,7 @@
 title: "The Port Wine  Cocktail"
 fullname: "The Port Wine  Cocktail"
 shortname: "Port Wine "
+author: "Pure Drinkology"
 description: "The Port Wine Cocktail, a blend of fortified Port and Brandy, belongs to the **Brandy Cocktail** family.  Originating in the 19th century, it's a classic variation on the Brandy Alexander, substituting Port for the sweet cream liqueur. "
 flavor_description: "The Port Wine Cocktail offers a rich, complex flavor profile. The sweetness of the Port wine is balanced by the warmth and spice of the Brandy, creating a harmonious blend. Notes of dried fruit, chocolate, and vanilla emerge from the Port, while the Brandy adds a subtle smokiness and a hint of oak. The overall taste is full-bodied and luxurious, with a lingering finish that leaves you wanting more. "
 bartender_tips: "For a balanced Port Wine Cocktail, use a high-quality ruby port with complex fruit notes and a smooth brandy. Chill both ingredients before mixing to ensure a refreshing drink. Measure precisely, as too much brandy will overpower the port's sweetness. Use a bar spoon to gently stir, avoiding excessive dilution.  Garnish with a cherry or orange peel for an elegant touch. "

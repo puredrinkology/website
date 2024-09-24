@@ -2,6 +2,7 @@
 title: "The Gin Daisy Cocktail"
 fullname: "The Gin Daisy Cocktail"
 shortname: "Gin Daisy"
+author: "Pure Drinkology"
 description: "The Gin Daisy is a classic sour cocktail, a family known for its tart, refreshing profile.  It likely emerged in the late 19th century, a twist on the classic Daisy, using gin instead of whiskey. The sweetness of grenadine and maraschino cherry add a playful touch. "
 flavor_description: "The Gin Daisy is a refreshing and tart cocktail with a bright citrus kick. Gin's botanicals shine through, balanced by the tangy lemon and sweetness of sugar. A whisper of grenadine adds a subtle fruity note, while the maraschino cherry provides a touch of sweetness and a playful visual. The orange garnish contributes a bright, zesty aroma that complements the overall experience. "
 bartender_tips: "For a perfectly balanced Gin Daisy, use a high-quality gin and freshly squeezed lemon juice.  Shake the cocktail hard with ice to ensure a frosty, well-chilled drink. A dash of grenadine adds a subtle sweetness and beautiful color gradient.  Finally, don't forget the maraschino cherry for a classic touch, but feel free to garnish with a fresh orange peel for added zest. "

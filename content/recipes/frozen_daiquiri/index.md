@@ -2,6 +2,7 @@
 title: "The Frozen Daiquiri Cocktail"
 fullname: "The Frozen Daiquiri Cocktail"
 shortname: "Frozen Daiquiri"
+author: "Pure Drinkology"
 description: "The Frozen Daiquiri, a refreshing blend of light rum, triple sec, lime juice, sugar, and ice, belongs to the **Daiquiri family**. Originating in the early 20th century in Cuba, the Daiquiri is named after the nearby town of Daiquirí, where the drink was first concocted. "
 flavor_description: "The Frozen Daiquiri is a tart and refreshing cocktail with a vibrant citrus flavor. The light rum adds a subtle sweetness and a touch of warmth, while the triple sec provides a hint of orange zest. The lime juice gives it a sharp, tangy acidity, balanced by the sweetness of the sugar. The ice creates a smooth, icy texture, making it the perfect summer drink. The cherry garnish adds a playful sweetness and a pop of color. "
 bartender_tips: "Use a good quality light rum for the best flavor.  Freshly squeezed lime juice is key.  Don't be shy with the sugar - it balances the tartness.  For a truly frozen consistency, use a good amount of ice, blend until smooth, and don't over-blend.  A maraschino cherry garnish adds a classic touch. "

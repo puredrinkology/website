@@ -2,6 +2,7 @@
 title: "The Ace Cocktail"
 fullname: "The Ace Cocktail"
 shortname: "Ace"
+author: "Pure Drinkology"
 description: "The Ace is a delightful twist on the classic Clover Club, a gin-based cocktail that emerged in the late 19th century. It's a member of the Sour family, known for its tangy and creamy character, but the Ace adds a touch of sweetness and richness with the grenadine and heavy cream. "
 flavor_description: "The Ace is a creamy, sweet, and slightly tart cocktail with a surprising depth of flavor. The gin provides a crisp, juniper-forward base, balanced by the sweet, floral notes of grenadine. The heavy cream and milk add a smooth, velvety texture, while the egg white contributes a subtle, airy foam. The overall taste is reminiscent of a rich, decadent dessert with a hint of citrus. "
 bartender_tips: "This sounds like a twist on a classic!  To make a smooth, silky Ace, focus on the egg white.  Dry shake it first (without ice) to create a frothy texture, then add ice for a proper shake.  The grenadine should be a *splash* to add color and sweetness, not overwhelm the gin.  Heavy cream and milk balance the richness.  Lastly, a beautiful garnish, like a cherry or orange zest, elevates the presentation. "

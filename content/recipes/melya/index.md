@@ -2,6 +2,7 @@
 title: "The Melya Cafe"
 fullname: "The Melya Cafe"
 shortname: "Melya"
+author: "Pure Drinkology"
 description: "The Melya, a harmonious blend of espresso, honey, and cocoa powder, is a member of the Coffee Cocktail family. This sophisticated drink likely originated in Italy, where espresso is king and sweetening with honey is a traditional practice. "
 flavor_description: "Melya is a rich and complex cocktail, a harmonious blend of bitterness, sweetness, and earthiness. The espresso provides a bold, roasted coffee flavor, while the honey adds a delicate sweetness that balances the bitterness.  Cocoa powder adds a hint of chocolatey depth, creating a warm and comforting finish. This drink is perfect for those who enjoy a sophisticated and slightly bittersweet taste experience. "
 bartender_tips: "To make a Melya truly sing, use freshly brewed espresso for a bolder flavor.  Don't be shy with the cocoa powder, as it adds depth and complexity.  Use a good quality honey, and adjust sweetness to taste.  Shake well with ice to ensure a smooth, chilled texture.  A sprinkle of cocoa powder on top adds a final touch of elegance. "

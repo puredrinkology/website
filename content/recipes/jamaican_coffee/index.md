@@ -2,6 +2,7 @@
 title: "The Jamaican Coffee Cafe"
 fullname: "The Jamaican Coffee Cafe"
 shortname: "Jamaican Coffee"
+author: "Pure Drinkology"
 description: "The Jamaican Coffee is a riff on the classic Coffee Cocktail family, likely originating in the Caribbean. The rum adds a tropical twist to the traditional coffee and cream base, making it a perfect after-dinner drink. "
 flavor_description: "Jamaican Coffee is a delightful fusion of sweet and bold flavors. The smooth rum provides a warm, caramel-like base, while the rich coffee adds a robust, earthy complexity.  A hint of water balances the sweetness, and the fluffy whipped cream adds a touch of airy lightness, culminating in a creamy, decadent finish. "
 bartender_tips: "Use a good quality dark rum for a rich flavor. Brew strong coffee, ideally with a French press, and let it cool completely before mixing.  Chill the rum and water beforehand.  For the whipped cream, use a good quality heavy cream and add a pinch of powdered sugar.  Layer the ingredients carefully for a visually appealing presentation. "

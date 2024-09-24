@@ -2,6 +2,7 @@
 title: "The Clove  Cocktail"
 fullname: "The Clove  Cocktail"
 shortname: "Clove "
+author: "Pure Drinkology"
 description: "The Clove Cocktail is a member of the classic Sweet Vermouth cocktail family, often featuring bittersweet liqueurs like sloe gin.  Though its exact origin is unknown, its combination of botanicals and sweet-tart flavors suggests a mid-19th century origin, possibly from a London or New York bar. "
 flavor_description: "The Clove Cocktail is a complex and intriguing drink.  The sweetness of the vermouth balances the tartness of the sloe gin, creating a rich, fruity base. The wine adds a subtle layer of complexity, enhancing the berry notes from the sloe gin.  A hint of clove lingers on the palate, adding a warm, spiced dimension. "
 bartender_tips: "To elevate your Clove Cocktail, remember these tips: * **Chill all ingredients** - This ensures a refreshing, well-balanced drink. * **Use quality vermouth** - A good vermouth adds complexity and depth. * **Muddle fresh cloves** -  This brings out the spice and aroma of the clove. * **Stir gently** - Avoid over-mixing to preserve the delicate flavors. * **Garnish with a lemon twist** - The citrus brightens the cocktail and adds a touch of elegance. "

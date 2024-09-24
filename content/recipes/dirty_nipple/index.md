@@ -2,6 +2,7 @@
 title: "The Dirty Nipple Shot"
 fullname: "The Dirty Nipple Shot"
 shortname: "Dirty Nipple"
+author: "Pure Drinkology"
 description: ""
 flavor_description: ""
 bartender_tips: ""

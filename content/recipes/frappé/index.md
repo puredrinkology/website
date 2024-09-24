@@ -2,6 +2,7 @@
 title: "The Frappé Cafe"
 fullname: "The Frappé Cafe"
 shortname: "Frappé"
+author: "Pure Drinkology"
 description: "The Frappé, a simple blend of coffee, milk, and sugar, belongs to the Coffee Cocktail family. Originating in Greece in the early 20th century, it's a refreshing, iced beverage popularized by the Nescafé brand,  providing a delightful jolt of caffeine. "
 flavor_description: "The Frappé is a refreshing and invigorating blend of coffee, milk, and sugar. The coffee provides a rich, robust flavor with hints of bitterness, while the milk adds a creamy smoothness and balances the intensity. The sugar contributes a sweet, satisfying touch, complementing the coffee's natural sweetness. Overall, the Frappé offers a delightful combination of caffeine kick, creamy texture, and balanced sweetness. "
 bartender_tips: "For a perfect Frappé, use strong, freshly brewed coffee. Don't skimp on the sugar!  A good ratio is 1:1 coffee to milk, but adjust to your liking. Blend until frothy and smooth, but watch out for ice crystals.  A good tip: Use a blender with a tamper to ensure everything's crushed evenly.  Chill your glasses beforehand for a refreshing treat. "

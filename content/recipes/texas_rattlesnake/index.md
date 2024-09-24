@@ -2,6 +2,7 @@
 title: "The Texas Rattlesnake Shot"
 fullname: "The Texas Rattlesnake Shot"
 shortname: "Texas Rattlesnake"
+author: "Pure Drinkology"
 description: "The Texas Rattlesnake belongs to the Highball family, known for their tall, mixed drinks with a base spirit and a mixer. Its origins are likely rooted in the American South, where it gained popularity in the 1970s, reflecting a blend of regional favorites like Southern Comfort and cherry brandy. "
 flavor_description: "The Texas Rattlesnake is a bold and boozy cocktail with a sweet and sour punch.  You get a kick from the Yukon Jack, a warm cherry flavor from the brandy, and a touch of Southern Comfort spice. The sweet and sour balances it all out, creating a complex profile that's both refreshing and satisfying.  It's a sweet, potent, and surprising cocktail that's sure to make you say Yeehaw!"
 bartender_tips: "When building your Texas Rattlesnake, remember this:* **Layer Carefully:** The key is to slowly pour the liquids, ensuring each layer remains distinct. Start with the heaviest (Yukon Jack), then Cherry Brandy, Southern Comfort, and finally Sweet and Sour. * **Chill Everything:** Pre-chill the glasses for a refreshingly cold experience.  * **Use Good Quality:**  Use top-shelf Southern Comfort for the best flavor.* **Garnish:** A cherry or orange peel adds a touch of elegance. "

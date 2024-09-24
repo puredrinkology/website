@@ -2,6 +2,7 @@
 title: "The Kool-Aid Shot"
 fullname: "The Kool-Aid Shot"
 shortname: "Kool-Aid"
+author: "Pure Drinkology"
 description: "This Kool-Aid Shot is a modern riff on the classic Sour family, a category that blends spirits with sweet and sour elements. It's likely a recent creation, drawing inspiration from the tartness of cranberry juice and the sweetness of amaretto and triple sec, while borrowing the base spirit and sloe gin from the classic Sour formula. "
 flavor_description: "The Kool-Aid Shot is a playful yet potent mix. The sweet, tart cranberry juice takes center stage, balanced by the almondy richness of amaretto and the smooth, juniper-forward notes of sloe gin.  A touch of orange zest from the triple sec adds a citrusy brightness, while the vodka provides a clean, sharp backbone.  The result is a complex, surprisingly refreshing, and dangerously drinkable shot. "
 bartender_tips: "This shot is a classic Kool-Aid style drink, so aim for bold, vibrant flavors. Use high-quality vodka for a clean base. Measure the Amaretto and Sloe Gin carefully to avoid overwhelming the sweetness.  Triple Sec adds a citrusy kick, but don't overdo it.  Cranberry juice is key to the Kool-Aid experience, so don't skimp on the quantity.  Shake vigorously with ice, then strain into a chilled shot glass. Enjoy responsibly! "

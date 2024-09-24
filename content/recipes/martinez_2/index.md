@@ -2,6 +2,7 @@
 title: "The Martinez 2 Cocktail"
 fullname: "The Martinez 2 Cocktail"
 shortname: "Martinez 2"
+author: "Pure Drinkology"
 description: "The Martinez 2 belongs to the classic Old Tom Gin Cocktail family, sharing roots with the Martini.  It's a historical predecessor, emerging in the late 19th century at the Martinez Hotel in San Francisco, and is believed to have inspired the Martini's evolution. "
 flavor_description: "The Martinez 2 is a complex and balanced cocktail. The gin provides a juniper-forward backbone, while the sweet vermouth adds notes of red fruit and spice. The maraschino liqueur contributes a cherry-like sweetness, balanced by the subtle bitterness of the Angostura bitters. This combination creates a sophisticated and elegant drink with a lingering finish. "
 bartender_tips: "A Martinez 2 is a classic with subtle nuances. Use a high-quality gin for a bright base.  Chill your ingredients, especially the vermouth, to preserve its aromatic profile.  A dash of Angostura bitters enhances the complexity.  When stirring, use a gentle hand to avoid over-dilution.  Garnish with a Luxardo cherry, allowing its sweetness to complement the drink.  "

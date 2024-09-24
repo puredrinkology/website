@@ -2,6 +2,7 @@
 title: "The Flaming Dr. Pepper Shot"
 fullname: "The Flaming Dr. Pepper Shot"
 shortname: "Flaming Dr. Pepper"
+author: "Pure Drinkology"
 description: "Flaming Dr. Pepper is a high-octane, layered shooter, likely born in the college bar scene of the 1980s. Its roots lie in the shot cocktail family, known for their potent and often flamboyant presentation. "
 flavor_description: ""
 bartender_tips: ""

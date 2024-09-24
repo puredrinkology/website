@@ -2,6 +2,7 @@
 title: "The Fruit Shake"
 fullname: "The Fruit Shake"
 shortname: "Fruit"
+author: "Pure Drinkology"
 description: "The Fruit Shake belongs to the **Milkshake family**, a refreshing beverage category with roots in the late 19th century. Originating in America, milkshakes were initially made with ice cream, milk, and flavorings, evolving to incorporate fruits and yogurt for a healthier twist. "
 flavor_description: "The Fruit Shake is a refreshing blend of sweet and tangy flavors. The creamy yogurt balances the sweetness of the banana and orange juice, while the fruit adds a burst of natural flavor. The ice chills the drink, making it perfect for a hot day. The overall taste profile is fruity, refreshing, and subtly tangy. "
 bartender_tips: "Start with frozen fruit for a thicker shake.  Use a good quality yogurt, preferably Greek, for tang. Blend everything on high speed until smooth, adding more ice if needed.  Don't over-blend, or it'll become watery. Taste and adjust sweetness with a touch of honey or sugar.  Serve immediately in a chilled glass with a garnish of your choice. "

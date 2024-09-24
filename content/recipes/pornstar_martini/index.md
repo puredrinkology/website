@@ -2,6 +2,7 @@
 title: "The Pornstar Martini Cocktail"
 fullname: "The Pornstar Martini Cocktail"
 shortname: "Pornstar Martini"
+author: "Pure Drinkology"
 description: ""
 flavor_description: "The Pornstar Martini is a sweet and tangy tropical delight. The vodka provides a smooth base, while the Passoa liqueur delivers a rich, passionfruit-infused sweetness. Lime juice adds a refreshing acidity, and the passion fruit juice amplifies the tropical fruitiness. The Prosecco topper brings a touch of bubbly effervescence and enhances the overall complexity of the cocktail. "
 bartender_tips: "Chill your glasses and all ingredients beforehand.  Use good quality vodka and fresh lime juice for optimal flavor.  Don't overshake the martini, as it will make it cloudy.  Use a fine-mesh strainer to ensure a smooth, clear drink.  A splash of Prosecco before serving adds a delightful fizz.  Enjoy responsibly! "

@@ -2,6 +2,7 @@
 title: "The Lemouroudji Nonalcoholic"
 fullname: "The Lemouroudji Nonalcoholic"
 shortname: "Lemouroudji"
+author: "Pure Drinkology"
 description: "The Lemouroudji, with its ginger, lemon, and cayenne pepper, belongs to the **Ginger family** of cocktails.  This refreshing, spicy concoction likely originated in the Caribbean, where ginger and cayenne pepper are common ingredients in traditional drinks. "
 flavor_description: "The Lemouroudji is a spicy, zesty, and refreshing cocktail. The ginger and cayenne pepper deliver a warming heat, balanced by the bright acidity of lemon and the sweetness of sugar. The water provides a clean canvas for the flavors to dance upon, resulting in a complex and invigorating drink that's both comforting and exciting. "
 bartender_tips: "For the Lemouroudji, fresh is best! Use a muddler to crush the ginger and lemon zest for maximum flavor.  Don't overdo the cayenne - a pinch is enough to provide a subtle kick.  You can adjust the sugar to your preference, but start with a small amount and taste as you go. Finally, shake vigorously with ice to ensure a perfectly chilled and well-balanced drink. "

@@ -2,6 +2,7 @@
 title: "The Jelly Bean Shot"
 fullname: "The Jelly Bean Shot"
 shortname: "Jelly Bean"
+author: "Pure Drinkology"
 description: "The Jelly Bean belongs to the **liqueur-based** cocktail family. This cocktail's origin is unknown, but its combination of Blackberry Brandy and Anis suggests a late 19th-century origin, likely from a European bar. "
 flavor_description: "The Jelly Bean is a delightful concoction that plays on contrasting flavors.  The blackberry brandy brings a sweet, tart, and fruity punch, while the anise adds a distinct licorice note that lingers on the palate. The result is a complex cocktail that's both fruity and herbaceous, with a touch of sweetness that's balanced by the anise's subtle bitterness. It's a drink that's sure to surprise and delight. "
 bartender_tips: "When crafting the Jelly Bean, the key is balance.  Start with a good quality blackberry brandy, its sweetness should be noticeable.  Use a subtle touch of anise, just enough to add a hint of licorice without overwhelming the fruit.  Chill the ingredients and serve the cocktail in a coupe glass, a small amount of ice is fine but avoid over-diluting the drink. "

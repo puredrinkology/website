@@ -2,6 +2,7 @@
 title: "The Limeade Nonalcoholic"
 fullname: "The Limeade Nonalcoholic"
 shortname: "Limeade"
+author: "Pure Drinkology"
 description: "Limeade, a refreshing summer staple, belongs to the **Fruity Fizz** cocktail family. Its origins are debated, likely originating in the Caribbean or Southeast Asia, where limes are abundant.  It's a simple yet timeless combination of lime juice, sugar, soda water, and a touch of lime peel for aroma. "
 flavor_description: "Limeade is a refreshing and tart cocktail with a bright, citrusy flavor.  The lime juice provides a sharp, tangy acidity, while the sugar balances it with a sweet touch. The soda water adds a light and bubbly texture, creating a refreshing and thirst-quenching experience.  A hint of lime peel provides an aromatic complexity, enhancing the overall citrusy profile. "
 bartender_tips: "For a perfect Limeade, use fresh limes and muddle them gently to release oils for aroma.  Use a good quality sugar for sweetness and adjust to your taste.  Chill your soda water beforehand for a refreshing drink.  A simple garnish of a lime wheel or a twist of lime peel adds a beautiful touch. "

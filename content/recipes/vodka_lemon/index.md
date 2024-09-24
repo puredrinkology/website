@@ -2,6 +2,7 @@
 title: "The Vodka Lemon Cocktail"
 fullname: "The Vodka Lemon Cocktail"
 shortname: "Vodka Lemon"
+author: "Pure Drinkology"
 description: "Vodka Lemon is a classic Sour, a cocktail family known for its simple, tart, and refreshing nature.  While its exact origin is unknown, it's likely a contemporary riff on the Whiskey Sour, taking advantage of Vodka's versatility. "
 flavor_description: "The Vodka Lemon is a crisp, refreshing cocktail with a sharp, tart bite.  The vodka provides a clean, neutral base, allowing the lemon juice to shine through with its bright acidity.  A hint of citrus zest from the lemon peel adds a subtle floral aroma, complementing the tangy flavor.  The ice chills the drink, creating a smooth, cool experience. "
 bartender_tips: "For a vibrant Vodka Lemon, use fresh lemon juice and a generous twist of peel for maximum citrus aroma.  Muddle the peel gently to release oils, but avoid bitterness.  Shake vigorously with ice to chill and dilute, ensuring a crisp, refreshing drink.  Strain into a chilled glass and garnish with a lemon wedge.  Enjoy! "

@@ -2,6 +2,7 @@
 title: "The H.D. Cafe"
 fullname: "The H.D. Cafe"
 shortname: "H.D."
+author: "Pure Drinkology"
 description: "The H.D. cocktail belongs to the Coffee Cocktail family. This drink likely emerged in the late 20th century, a product of the growing popularity of Irish Cream liqueurs and coffee-based drinks. It's a simple yet satisfying combination, perfect for a cozy evening. "
 flavor_description: "The H.D. offers a complex and layered flavor profile. The whisky provides a bold, smoky foundation, while the Baileys Irish Cream adds a creamy, sweet richness with hints of chocolate and vanilla. The coffee adds a robust, slightly bitter edge, balancing the sweetness and enhancing the whisky's depth. The result is a warm, comforting cocktail with a lingering, slightly sweet finish. "
 bartender_tips: "To make a smooth H.D., use good quality whiskey and chilled Baileys.  Start with a rocks glass filled with ice.  Pour the whiskey first, then the Baileys, followed by the coffee. Gently stir to combine, avoiding excessive dilution. Garnish with a coffee bean or a sprinkle of cocoa powder. "

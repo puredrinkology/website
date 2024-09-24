@@ -2,6 +2,7 @@
 title: "The Lassi Khara Shake"
 fullname: "The Lassi Khara Shake"
 shortname: "Lassi Khara"
+author: "Pure Drinkology"
 description: "Lassi Khara, a savory yogurt drink, hails from India and falls under the lassi family, a traditional South Asian beverage.  While not a cocktail in the traditional sense, it shares the quenching refreshment quality of a summer cooler, often served with a savory kick. "
 flavor_description: "Lassi Khara is a savory, tangy, and slightly pungent experience. The yogurt provides a creamy base, while the water offers refreshing lightness. Salt balances the tartness, and asafoetida, a fermented spice, adds a unique, almost onion-like aroma and a subtle bitterness that lingers on the palate. It's a surprisingly complex and intensely flavorful cocktail, perfect for those who enjoy bold flavors. "
 bartender_tips: "For a balanced Lassi Khara, use full-fat yogurt for richness.  Start with a 2:1 ratio of yogurt to water, adjusting to your preference.  A pinch of salt enhances the tang, while a touch of asafetida adds depth.  Remember, less is more with the asafetida - you want to hint at its aroma, not overpower the yogurt.  Chill the drink for a refreshing finish. "

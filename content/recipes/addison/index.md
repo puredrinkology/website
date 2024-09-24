@@ -2,6 +2,7 @@
 title: "The Addison Cocktail"
 fullname: "The Addison Cocktail"
 shortname: "Addison"
+author: "Pure Drinkology"
 description: "The Addison is a classic Martini variation, likely hailing from the early 20th century.  This gin-based cocktail is part of the Martini family, known for its dry, crisp flavor profile and elegant presentation. "
 flavor_description: "The Addison, with its gin and vermouth base, offers a sophisticated and refreshing taste. The botanicals of the gin shine through, creating a bright and complex flavor profile with notes of juniper, citrus, and spice. The vermouth adds a touch of dryness and herbal complexity, balancing the gin's boldness. The result is a well-rounded cocktail that is both invigorating and elegant. "
 bartender_tips: "The Addison is a classic Gin Martini, so focus on the gin!  Choose a quality gin with distinct botanicals for a complex flavor profile.  Chill your glass and gin for a crisp experience.  Use a good vermouth for depth, but don't overdo it.  Stir gently to avoid diluting, and garnish with a lemon twist for a touch of citrus. "

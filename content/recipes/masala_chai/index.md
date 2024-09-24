@@ -2,6 +2,7 @@
 title: "The Masala Chai Cafe"
 fullname: "The Masala Chai Cafe"
 shortname: "Masala Chai"
+author: "Pure Drinkology"
 description: "Masala Chai, while not a traditional cocktail, is a spiced beverage from India. It falls into the Hot Beverage family, often enjoyed as a comforting drink, similar to hot toddies or spiced cider. Its origins trace back centuries to Ayurvedic medicine, where its warming spices were used for their health benefits. "
 flavor_description: "Masala Chai is a warming, complex cocktail. The tea base provides a gentle bitterness balanced by the sweetness of sugar and milk.  The spices - ginger, cardamom, cloves, cinnamon, and black pepper - create a layered, aromatic profile, with hints of spice, warmth, and citrus.  It's a comforting and invigorating drink, with a lingering warmth on the palate. "
 bartender_tips: "To make a Masala Chai cocktail,  use good quality black tea and fresh spices for maximum flavor.  Steep the spices in water for at least 15 minutes before adding the tea to extract their full essence.  Don't rush the process, simmer the milk gently with the tea and spices to avoid scorching.  Adjust the sweetness to taste.  Strain the chai well before serving,  no one likes a mouthful of cloves!  Enjoy! "

@@ -2,6 +2,7 @@
 title: "The Jacks Vanilla Coke Shake"
 fullname: "The Jacks Vanilla Coke Shake"
 shortname: "Jacks Vanilla Coke"
+author: "Pure Drinkology"
 description: "Jack's Vanilla Coke belongs to the highball family, a simple yet elegant combination of spirits and a mixer.  This riff on the classic Whiskey Coke introduces a touch of sweetness and vanilla complexity, likely born from a desire to elevate the classic drink. "
 flavor_description: "Jack's Vanilla Coke is a sweet and smoky delight.  The Tennessee whiskey provides a smooth, slightly spicy base, while the vanilla extract adds a warm, comforting sweetness.  The Coca-Cola balances everything out with a refreshing, effervescent bite, creating a harmonious blend of flavors.  The overall experience is reminiscent of a classic whiskey and coke, but with a subtle vanilla twist that elevates it to a new level of sophistication. "
 bartender_tips: "To elevate your Jack's Vanilla Coke, use a good quality Tennessee Whiskey. For a smoother vanilla note, use a high-quality extract.  Chill the Coca-Cola beforehand for a crisp, refreshing drink.  A dash of Angostura bitters adds complexity.  Don't over-shake, you want a gentle mix, not a foamy mess.  Serve over ice, garnished with a cherry or orange peel for that classic touch. "

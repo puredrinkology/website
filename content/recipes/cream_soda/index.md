@@ -2,6 +2,7 @@
 title: "The Cream Soda Cocktail"
 fullname: "The Cream Soda Cocktail"
 shortname: "Cream Soda"
+author: "Pure Drinkology"
 description: "This refreshing, bubbly concoction belongs to the Highball family, known for their tall, ice-filled format and simple ingredient list.  While its exact origin is unclear, its combination of spiced rum and ginger ale likely emerged in the early 20th century, a time when both ingredients were readily available and enjoyed in popular drinks. "
 flavor_description: "The Cream Soda is a spicy and refreshing cocktail with a unique flavor profile. The spiced rum brings notes of cinnamon, clove, and vanilla, which are softened by the sweetness of the ginger ale. The ginger adds a subtle warmth and a slight bite, while the bubbles create a lively and effervescent texture. This combination results in a surprisingly complex and balanced drink that is perfect for warm weather. "
 bartender_tips: "For a perfect Cream Soda, start with high-quality spiced rum.  Use a chilled glass and fill it with ice. Add rum, then top with ginger ale, leaving a bit of headroom for the fizz.  A squeeze of lime adds a refreshing brightness.  Don't over-shake or stir – you want the ginger ale to retain its effervescence.  Enjoy! "

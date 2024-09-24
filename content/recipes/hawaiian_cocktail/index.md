@@ -2,6 +2,7 @@
 title: "The Hawaiian  Cocktail"
 fullname: "The Hawaiian  Cocktail"
 shortname: "Hawaiian "
+author: "Pure Drinkology"
 description: "The Hawaiian Cocktail is a classic sour, a family known for its tart, refreshing profiles. While its exact origin is unclear, it likely emerged in the early 20th century, capitalizing on the popularity of tropical flavors and gin-based drinks. "
 flavor_description: "The Hawaiian Cocktail is a tropical delight with a balance of sweet and tart. The gin provides a crisp, botanical base, while the triple sec adds a touch of orangey sweetness. Pineapple juice brings a vibrant, fruity flavor and refreshing acidity, creating a harmonious and enjoyable experience. "
 bartender_tips: "Use a high-quality gin for a brighter flavor profile.  Chill all ingredients beforehand for a refreshing drink.  Shake vigorously with ice to ensure proper dilution and a silky texture.  Strain into a chilled coupe glass and garnish with a pineapple wedge or a sprig of mint for an aromatic touch.  "

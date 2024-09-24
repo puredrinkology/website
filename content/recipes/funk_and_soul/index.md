@@ -2,6 +2,7 @@
 title: "The Funk And Soul Cocktail"
 fullname: "The Funk And Soul Cocktail"
 shortname: "Funk And Soul"
+author: "Pure Drinkology"
 description: "Funk and Soul belongs to the **Sour** family, a classic cocktail style. It's a modern twist, incorporating fruity elements like apricot and pomegranate, which are popular in today's mixology. The addition of soda water gives it a refreshing, spritzy finish. "
 flavor_description: "Funk and Soul is a vibrant and tangy cocktail.  The rum provides a warm, spiced base, while the apricot nectar adds a touch of sweetness and fruitiness. Pomegranate juice delivers a tart, juicy flavor, balanced by the zesty lemon. Soda water creates a refreshing effervescence. The result is a well-rounded cocktail with a tropical twist, perfect for a sunny afternoon or a lively gathering. "
 bartender_tips: "For a vibrant Funk and Soul, use fresh lemon juice and high-quality rum.  Chill the ingredients beforehand for a refreshing drink. Shake the rum, apricot nectar, pomegranate juice, and lemon juice with ice. Double-strain into a chilled coupe glass for a crystal-clear finish. Top with soda water for a bubbly delight.  Garnish with a lemon twist or pomegranate seeds. "

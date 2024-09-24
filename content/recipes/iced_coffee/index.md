@@ -2,6 +2,7 @@
 title: "The Iced Coffee Cafe"
 fullname: "The Iced Coffee Cafe"
 shortname: "Iced Coffee"
+author: "Pure Drinkology"
 description: "While not a traditional cocktail in the sense of spirits, Iced Coffee is firmly in the Coffee Cocktail family. Its origin is widely debated, but likely emerged from the simple desire to enjoy a chilled coffee drink, particularly in warmer climates. "
 flavor_description: "Iced coffee offers a bold, bittersweet profile with a smooth, creamy finish. The coffee's rich, roasted notes are balanced by the sweetness of the sugar, while the water provides a refreshing foundation. The milk adds a touch of velvety texture and a subtle dairy flavor. The overall experience is a cool, invigorating drink that awakens the senses. "
 bartender_tips: "For the perfect Iced Coffee, brew strong coffee and let it cool completely. Use a simple syrup (1:1 sugar and water) for sweetness - it dissolves faster than granulated sugar. Chill your milk for a refreshing touch. Shake everything with ice for a frothy top. Garnish with a sprinkle of cinnamon or cocoa powder for an extra kick. "

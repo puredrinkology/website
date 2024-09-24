@@ -2,6 +2,7 @@
 title: "The Stolen Negroni Cocktail"
 fullname: "The Stolen Negroni Cocktail"
 shortname: "Stolen Negroni"
+author: "Pure Drinkology"
 description: "The Stolen Negroni is a modern riff on the classic Negroni, drawing from the bitter-sweet Italian Negroni family. It swaps Campari for Cynar and Aperol, creating a unique flavor profile that blends the herbal bitterness of Cynar with the bright orange notes of Aperol. "
 flavor_description: "The Stolen Negroni is a captivating blend of bitter and sweet, with a complex and nuanced flavor profile. The gin provides a crisp, juniper-forward base, while the Cynar contributes a distinct artichoke and coffee bitterness. Aperol offers a bright, orangey sweetness that balances the bitterness beautifully. The result is a sophisticated and refreshing cocktail with a lingering, slightly herbal finish. "
 bartender_tips: "When crafting the Stolen Negroni, prioritize ice. Use large cubes or a sphere for slow melting and dilution. Ensure equal parts of Gin, Cynar, and Aperol for a balanced bitter-sweet profile. Stir gently to chill and blend flavors, avoiding over-dilution. Garnish with an orange peel, expressing its oils over the drink. "

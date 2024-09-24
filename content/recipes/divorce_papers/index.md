@@ -2,6 +2,7 @@
 title: "The Divorce Papers Cocktail"
 fullname: "The Divorce Papers Cocktail"
 shortname: "Divorce Papers"
+author: "Pure Drinkology"
 description: "Divorce Papers is a contemporary twist on the classic Sour family, with a vibrant, bittersweet profile.  Its origin likely lies in the modern craft cocktail movement, where passionfruit and Aperol are popular flavor combinations, creating a complex and balanced drink. "
 flavor_description: "The Divorce Papers is a bittersweet symphony on the palate. The vibrant passionfruit syrup dances with the crisp gin and tart lemon, creating a bright and refreshing base. Aperol adds a touch of bitter orange and herbal complexity, while the honey rounds out the finish with a subtle sweetness. It's a cocktail that is both bold and balanced, leaving a lasting impression of tropical sunshine and elegant bitterness. "
 bartender_tips: "For a perfect Divorce Papers, start by shaking your passionfruit syrup and gin with ice. This ensures the syrup blends properly. Then, add the remaining ingredients and shake again. Strain into a chilled coupe glass. For a balanced sweetness, use a good quality honey. Garnish with a lemon twist for an aromatic touch. "

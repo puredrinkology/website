@@ -2,6 +2,7 @@
 title: "The Lukas Grog Cocktail"
 fullname: "The Lukas Grog Cocktail"
 shortname: "Lukas Grog"
+author: "Pure Drinkology"
 description: "The Lukas Grog is a vibrant tropical cocktail, blending the sweetness of passionfruit with the robust flavors of rum and citrus.  It draws inspiration from the classic Grog, a rum-based drink enjoyed by sailors, adding a modern twist with smoky and fruity elements. "
 flavor_description: "The Lukas Grog explodes with tropical sweetness from the passionfruit syrup and pineapple juice.  The dark rum adds a rich, molasses depth, while the smoky rum brings a touch of campfire warmth and complexity. A tart lime juice balances the sweetness, creating a harmonious and refreshing blend.  The interplay of flavors creates a cocktail that's both bold and balanced, perfect for a warm evening or a tropical getaway. "
 bartender_tips: "To nail the Lukas Grog, start with a fresh squeeze of lime, ensuring the juice is bright and tart.  Use a high-quality dark rum for depth and a smoky rum for a unique twist. The passionfruit syrup should be homemade for a more complex flavor.  Shake everything vigorously with ice, double-strain to remove any pulp, and garnish with a lime wheel and a sprig of mint."

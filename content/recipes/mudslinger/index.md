@@ -2,6 +2,7 @@
 title: "The Mudslinger Punch"
 fullname: "The Mudslinger Punch"
 shortname: "Mudslinger"
+author: "Pure Drinkology"
 description: "The Mudslinger is a highball cocktail, a refreshing mix of spirits, juices, and soda. Its origin is likely a Southern US invention, drawing inspiration from the region's love for sweet, easy-drinking drinks.  The combination of Southern Comfort's whiskey base with citrus and cola is a classic example of this style. "
 flavor_description: "The Mudslinger is a sweet and refreshing cocktail with a unique balance of flavors.  Southern Comfort's spiced peach notes blend with the tangy citrus of orange juice and the bubbly cola, creating a complex sweetness.  The Pepsi Cola adds a touch of bitterness, while the orange juice provides a refreshing acidity.  Overall, it's a smooth and easy-drinking cocktail perfect for casual occasions. "
 bartender_tips: "The Mud Slinger is a simple yet tasty cocktail that's easy to make.  The key is balance -  don't overdo the Southern Comfort, as it can easily overpower the drink.  Use fresh-squeezed orange juice whenever possible, and chill the cola for a refreshing experience.  A good muddler can help with the orange slices, but a bar spoon will do in a pinch.  Don't forget the ice!  "

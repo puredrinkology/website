@@ -2,6 +2,7 @@
 title: "The La Pasion Cocktail"
 fullname: "The La Pasion Cocktail"
 shortname: "La Pasion"
+author: "Pure Drinkology"
 description: "La Pasion belongs to the **Highball** family, a refreshing category often featuring spirits, mixers, and ice. This contemporary creation likely originated in a modern bar, combining the smoky intensity of mezcal with the vibrant fruitiness of passionfruit, ancho reyes, and lime, all balanced by the crispness of soda water. "
 flavor_description: "La Pasion is a vibrant and complex cocktail. The passionfruit syrup brings a sweet, tangy, and tropical fruitiness, while the mezcal adds a smoky and earthy note. Ancho Reyes, a chile liqueur, introduces a subtle spice and warmth. Lime juice provides acidity and freshness, and soda water adds a light and bubbly texture. The result is a well-balanced cocktail that is both refreshing and intriguing. "
 bartender_tips: "When making La Pasion, a few tips will elevate your drink:1. **Use fresh lime juice:**  This brings brightness and balances the sweetness.2. **Chill your mezcal:**  This ensures a smooth and refreshing taste.3. **Shake with ice, not just stir:**  This chills the drink and helps blend the flavors.4. **Top with soda water gently:**  This creates a refreshing and bubbly finish.5. **Garnish with a lime wheel or passionfruit pulp:**  This adds a touch of elegance and complements the flavors. "

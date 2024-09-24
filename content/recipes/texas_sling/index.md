@@ -2,6 +2,7 @@
 title: "The Texas Sling Shake"
 fullname: "The Texas Sling Shake"
 shortname: "Texas Sling"
+author: "Pure Drinkology"
 description: "The Texas Sling belongs to the Coffee Cocktail family, a category of drinks featuring coffee liqueur. This particular concoction likely originated in the 1980s, born from the era's love for sweet, layered cocktails.  "
 flavor_description: "The Texas Sling is a potent, decadent delight. The Kahlua and Amaretto bring rich, coffee and almond notes. Irish Cream adds creamy sweetness and a touch of vanilla, while the 151 Proof Rum contributes a fiery, boozy kick.  The cream rounds out the flavors, creating a smooth, luxurious texture. Expect a rich, complex cocktail with a lingering warmth and a hint of danger. "
 bartender_tips: "This drink is potent!  Use a chilled mixing glass to keep it cool.  Start with a small pour of 151, as a little goes a long way.  Don't over-shake - you want a smooth texture, not a milkshake.  Garnish with a sprinkle of cocoa powder or a cherry, but keep it simple to let the flavors shine. "

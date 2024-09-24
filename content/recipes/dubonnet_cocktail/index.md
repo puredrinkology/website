@@ -2,6 +2,7 @@
 title: "The Dubonnet  Cocktail"
 fullname: "The Dubonnet  Cocktail"
 shortname: "Dubonnet "
+author: "Pure Drinkology"
 description: "The Dubonnet Cocktail is a classic *aperitif* drink belonging to the *Gin and Tonic* family.  It originated in the 1930s, with its roots in the French aperitif tradition of mixing wine with fortified wines. The gin adds a botanical complexity, while the bitters and lemon peel provide a refreshing twist. "
 flavor_description: "The Dubonnet Cocktail is a bittersweet symphony. The Dubonnet Rouge's bold, herbal sweetness, with notes of red wine and quinine, is balanced by the juniper-forward dryness of gin. A whisper of bitters adds complexity, while a squeeze of lemon peel brightens the palate with citrusy zest. It's a classic, sophisticated drink with a surprising depth of flavor. "
 bartender_tips: "Chill your Dubonnet and gin beforehand for a perfectly crisp cocktail. Use a good quality gin, like a London Dry, for a balanced flavor.  A dash of Angostura bitters adds complexity, but don't overdo it.  Express the lemon peel over the drink for a bright citrus aroma, then discard the peel.  Garnish with a lemon twist for a classic touch. "

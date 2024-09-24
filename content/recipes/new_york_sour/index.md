@@ -2,6 +2,7 @@
 title: "The New York Sour Cocktail"
 fullname: "The New York Sour Cocktail"
 shortname: "New York Sour"
+author: "Pure Drinkology"
 description: "The New York Sour, a member of the Whiskey Sour family, is a twist on the classic.  Originating in the late 19th century, it's believed to have been invented in New York City, adding a touch of red wine for a complex, bittersweet finish. "
 flavor_description: "The New York Sour is a delightful fusion of sweet and tart. The blended whiskey provides a smooth base, while the lemon juice adds a bright acidity. The simple syrup balances the tartness with a touch of sweetness.  The red wine float adds a layer of complexity, offering notes of dark fruit and a subtle dryness that lingers on the palate. The cherry garnish provides a final touch of sweetness and a burst of vibrant flavor. "
 bartender_tips: "Use a good quality blended whiskey for a more complex flavor. Freshly squeezed lemon juice is key.  Dissolve the sugar in the lemon juice to avoid gritty syrup.  Pour the red wine slowly over the back of a spoon to create a distinct layer. Garnish with a cherry or lemon twist. Don't over-shake, as it can make the drink too cloudy."

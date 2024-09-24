@@ -2,6 +2,7 @@
 title: "The Kiss Me Quick Cocktail"
 fullname: "The Kiss Me Quick Cocktail"
 shortname: "Kiss Me Quick"
+author: "Pure Drinkology"
 description: "Kiss Me Quick belongs to the **highball family**, a refreshing and easy-to-drink category typically featuring spirits, mixers, and ice. While its origins are unknown, the combination of vodka, apple flavors, and a fizzy element suggests a playful, contemporary creation likely inspired by modern interpretations of classic cocktails. "
 flavor_description: ""
 bartender_tips: ""

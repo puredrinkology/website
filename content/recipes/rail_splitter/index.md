@@ -2,6 +2,7 @@
 title: "The Rail Splitter Cocktail"
 fullname: "The Rail Splitter Cocktail"
 shortname: "Rail Splitter"
+author: "Pure Drinkology"
 description: "The Rail Splitter is a refreshing Highball, a category known for its tall, mixed drinks. This particular cocktail is likely a recent creation, inspired by the simplicity and refreshment of classic Highballs like the Gin & Tonic. Its name, referencing the American pioneer Abraham Lincoln, suggests an American origin. "
 flavor_description: "The Rail Splitter is a refreshingly tart and effervescent cocktail. The sugar syrup provides a balanced sweetness, while the lemon juice offers a bright acidity. The ginger ale adds a delightful spice and bubbly texture, creating a light and lively experience. The combination of these ingredients results in a crisp and invigorating drink, perfect for any occasion. "
 bartender_tips: "The Rail Splitter is a simple, refreshing drink that's easy to make, but there are a few tips to keep in mind:* Use a good quality ginger ale for the best flavor.* Adjust the sweetness by adding more or less sugar syrup to taste.* Shake the cocktail well with ice to chill it properly.* Garnish with a lemon wedge or a sprig of fresh mint for a touch of elegance. "

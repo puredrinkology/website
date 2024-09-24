@@ -2,6 +2,7 @@
 title: "The Ipamena Cocktail"
 fullname: "The Ipamena Cocktail"
 shortname: "Ipamena"
+author: "Pure Drinkology"
 description: "The Ipamena is a refreshing, fruit-forward cocktail, belonging to the highball family.  Its origin is likely inspired by the tropical flavors of South America, combining the tartness of lime and passion fruit with the sweetness of brown sugar and the effervescence of ginger ale. "
 flavor_description: "The Ipamena is a vibrant, tropical cocktail that bursts with a sweet-tart flavor. The lime and passion fruit create a bright citrusy base, tempered by the brown sugar's mellow sweetness. A hint of ginger spice from the ginger ale adds complexity, while the ice keeps it refreshing and bubbly.  It's a delicious, tangy drink that's perfect for a warm day. "
 bartender_tips: "Muddle lime wedges and brown sugar to release the oils and create a fragrant base.  Use fresh passion fruit juice for the best flavor. Add ice before the ginger ale to ensure a well-chilled drink.  Gently stir, don't shake, to avoid excessive dilution. Garnish with a lime wheel and a passion fruit wedge for a vibrant presentation.  Enjoy! "

@@ -2,6 +2,7 @@
 title: "The Godchild Cocktail"
 fullname: "The Godchild Cocktail"
 shortname: "Godchild"
+author: "Pure Drinkology"
 description: "The Godchild is a creamy cocktail belonging to the Creamy Liqueur family.  Its origins are somewhat murky, but it likely emerged in the late 20th century as a twist on the classic Godfather, swapping whiskey for vodka. "
 flavor_description: "The Godchild is a creamy, decadent cocktail. The vodka provides a smooth, clean base, while the Amaretto adds a rich, nutty sweetness. Heavy cream rounds out the profile with a velvety texture and a touch of richness. The combination creates a sweet and creamy cocktail with hints of almond and vanilla.  "
 bartender_tips: "For a smooth Godchild, use a good quality vodka and Amaretto.  Chill the heavy cream beforehand for a richer, velvety texture.  Shake well with ice, but strain into a chilled glass to avoid any ice shards.  Garnish with a touch of grated nutmeg for a warm, festive touch. "

@@ -2,6 +2,7 @@
 title: "The Queen Elizabeth Cocktail"
 fullname: "The Queen Elizabeth Cocktail"
 shortname: "Queen Elizabeth"
+author: "Pure Drinkology"
 description: "The Queen Elizabeth is a member of the Martini family, showcasing the classic dry vermouth and gin base with a touch of sweetness from Benedictine. While its exact origin is unclear, it likely emerged in the early 20th century, paying homage to the reigning Queen Elizabeth at the time. "
 flavor_description: "The Queen Elizabeth is a complex and elegant cocktail. The dry vermouth provides a crisp, herbal backbone, while the gin offers a refreshing juniper bite. Benedictine adds a touch of sweetness and a hint of orange and spice. The result is a sophisticated, well-balanced drink that is both refreshing and intriguing. "
 bartender_tips: "For a balanced Queen Elizabeth, chill your ingredients thoroughly. Use a quality dry vermouth and a good London Dry gin. Benedictine adds a unique herbal sweetness, so use a light hand to avoid overpowering the gin. Stir with ice until well-chilled, strain into a chilled coupe glass, and garnish with a lemon twist for a touch of citrus. "

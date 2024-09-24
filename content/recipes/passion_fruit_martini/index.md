@@ -2,6 +2,7 @@
 title: "The Passion Fruit Martini Cocktail"
 fullname: "The Passion Fruit Martini Cocktail"
 shortname: "Passion Fruit Martini"
+author: "Pure Drinkology"
 description: "The Passion Fruit Martini, a modern concoction, belongs to the **Martini family**. Its exact origin is debated, but likely emerged in the 1990s as a sweet and tropical twist on the classic Martini,  appealing to the growing popularity of fruity cocktails. "
 flavor_description: "The Passion Fruit Martini is a tropical delight!  It bursts with the tangy sweetness of passion fruit, balanced by the smooth coolness of vodka.  The sugar syrup adds a touch of roundness, creating a harmonious blend of sweet, tart, and refreshing flavors. This martini is a delightful escape to a sunny beach, perfect for sipping on a warm evening. "
 bartender_tips: "For a perfect Passion Fruit Martini, use **fresh passion fruit juice** for the best flavor.  **Shake hard** with ice to ensure a smooth, chilled texture. **Strain** the cocktail into a chilled martini glass for a polished presentation.  A **sugar rim** adds a touch of sweetness and visual appeal.  Experiment with **different vodkas** to find your favorite flavor profile. "

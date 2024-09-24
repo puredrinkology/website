@@ -2,6 +2,7 @@
 title: "The Flowering Fields Cocktail"
 fullname: "The Flowering Fields Cocktail"
 shortname: "Flowering Fields"
+author: "Pure Drinkology"
 description: "Flowering Fields is a contemporary twist on the classic Sazerac, a New Orleans cocktail born in the 19th century.  It utilizes the signature rye whiskey and absinthe base, but elevates it with botanicals like green Chartreuse and citrus notes, giving it a modern, floral touch. "
 flavor_description: "Flowering Fields bursts with a vibrant, botanical symphony. The sweetness of pineapple syrup dances with the spicy rye and tangy lime, while Green Chartreuse adds herbal complexity and Absinthe lends a subtle anise whisper. A touch of orange bitters rounds out the profile, creating a harmonious and refreshing experience. "
 bartender_tips: "This cocktail's complexity lies in its balance.  Use a good quality rye for backbone and a high-proof Absinthe for its anise kick.  Ensure the Green Chartreuse isn't overpowering, use it judiciously.  The pineapple syrup adds sweetness, so don't go overboard with lime juice.  Shake hard with ice to chill, and strain to avoid any ice shards in your drink. A splash of bitters adds complexity, but go easy, a dash will suffice. "

@@ -2,6 +2,7 @@
 title: "The Cafe Savoy Cafe"
 fullname: "The Cafe Savoy Cafe"
 shortname: "Cafe Savoy"
+author: "Pure Drinkology"
 description: "The Café Savoy, a creamy blend of coffee, milk, Triple Sec, and brandy, belongs to the Coffee Cocktail family. Its origin is likely rooted in the early 20th century, a time when coffee-based drinks were gaining popularity. The Savoy Hotel in London, known for its sophisticated atmosphere, could have been its namesake. "
 flavor_description: "The Cafe Savoy offers a balanced and complex flavor profile. The coffee provides a rich, robust base, while the milk adds a creamy sweetness. The Triple Sec contributes citrusy notes and a subtle orange blossom aroma, perfectly complementing the brandy's warm, smooth character. The result is a sophisticated and satisfying drink that's both invigorating and comforting. "
 bartender_tips: "For a smooth Cafe Savoy, use freshly brewed, strong coffee. Don't over-chill the milk – you want it cold, but not icy. When shaking, use a vigorous motion to ensure proper emulsification. Adjust the sweetness to your liking by adding simple syrup, but remember, the coffee should be the star. Garnish with a coffee bean or a sprinkle of cinnamon for a touch of elegance. "

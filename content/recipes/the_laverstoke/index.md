@@ -2,6 +2,7 @@
 title: "The Laverstoke Cocktail"
 fullname: "The Laverstoke Cocktail"
 shortname: "Laverstoke"
+author: "Pure Drinkology"
 description: "The Laverstoke, a refreshing and complex gin cocktail, belongs to the **Gin & Tonic family**. Its origin likely draws inspiration from the classic Gin & Tonic, adding layers of floral notes, herbal bitterness and a touch of spice, making it a modern twist on a time-honored classic. "
 flavor_description: "The Laverstoke is a refreshing and complex cocktail. The gin provides a crisp juniper base, while the elderflower cordial adds a floral sweetness. Rosso Vermouth contributes a bitter herbal note, balanced by the citrusy tartness of lime. The tonic water adds a light bitterness and effervescence, while ginger and mint provide a spicy and cooling finish. "
 bartender_tips: "Muddle the lime and ginger aggressively to release their oils. Use a quality gin for a more nuanced flavor profile. When adding tonic water, aim for a gentle pour to avoid over-carbonating the drink. Garnish with a sprig of mint for freshness and visual appeal. Don't forget to taste and adjust the sweetness to your preference.  "

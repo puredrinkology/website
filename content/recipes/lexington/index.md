@@ -2,6 +2,7 @@
 title: "The Lexington Cocktail"
 fullname: "The Lexington Cocktail"
 shortname: "Lexington"
+author: "Pure Drinkology"
 description: "The Lexington, a sophisticated blend of bourbon, kola syrup, sweet vermouth, and bitters, belongs to the **Manhattan family**. This twist on the classic, born in the 1970s, embraces the boldness of bourbon with the sweetness of kola syrup, creating a unique and refreshing experience. "
 flavor_description: "The Lexington is a balanced and complex cocktail. The sweetness of the kola syrup intertwines with the rich notes of bourbon, while the sweet vermouth adds a touch of complexity and the aromatic bitters contribute a subtle warmth and depth. The result is a smooth, slightly spicy, and undeniably delicious cocktail that's perfect for a sophisticated nightcap. "
 bartender_tips: "To make a perfect Lexington, ensure your Kola Syrup is fresh and flavorful. Use a good quality Bourbon and a dry vermouth for balance. A dash of Angostura bitters adds complexity.  Chill your glass beforehand and use large ice cubes to maintain a cool temperature. Stir gently to blend the flavors and avoid dilution. Garnish with a lemon twist for a refreshing touch. "

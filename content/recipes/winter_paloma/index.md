@@ -2,6 +2,7 @@
 title: "The Winter Paloma Cocktail"
 fullname: "The Winter Paloma Cocktail"
 shortname: "Winter Paloma"
+author: "Pure Drinkology"
 description: "The Winter Paloma is a riff on the classic Paloma, a refreshing tequila-based cocktail that hails from Mexico.  This twist adds a touch of spice with pepper, creating a warming and complex flavor profile perfect for the colder months. "
 flavor_description: "The Winter Paloma is a tart and invigorating cocktail. The tequila provides a warm, smoky base, while the grapefruit juice delivers a bright, citrusy punch. Lime juice adds a touch of acidity, balancing the sweetness of the agave syrup. A subtle kick of pepper adds complexity and warmth, creating a truly unique and satisfying flavor profile. "
 bartender_tips: "**Winter Paloma Tips:*** **Fresh is Best:** Use freshly squeezed grapefruit and lime juice for optimal flavor.* **Pepper Power:**  Add a pinch of freshly ground black pepper to the shaker for a warming kick.* **Sugar Solution:**  Agave syrup provides a smooth sweetness, but you can substitute simple syrup.* **Chill Factor:**  Serve the cocktail chilled for a refreshing winter experience.* **Garnish Game:** A grapefruit wedge and a sprig of rosemary elevate the presentation. "

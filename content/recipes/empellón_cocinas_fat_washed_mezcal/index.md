@@ -2,6 +2,7 @@
 title: "The Empellón Cocinas Fat-Washed Mezcal Cocktail"
 fullname: "The Empellón Cocinas Fat-Washed Mezcal Cocktail"
 shortname: "Empellón Cocinas Fat-Washed Mezcal"
+author: "Pure Drinkology"
 description: "This cocktail belongs to the **Coffee & Chocolate** family, a sub-genre of the **Digestif** category.  Its origins trace back to the 19th century, where coffee and chocolate liqueurs were popular after-dinner drinks.  This modern twist uses mezcal, a smoky spirit, to add a distinctive touch. "
 flavor_description: "This cocktail is a rich and complex experience. The smoky, earthy Mezcal is balanced by the sweetness of the chocolate and coffee liqueurs. Expect notes of dark chocolate, espresso, and a hint of spice, all wrapped in a velvety, full-bodied texture.  The fat-washing process adds a buttery smoothness that lingers on the palate. "
 bartender_tips: "Use a good quality mezcal with smoky notes to complement the chocolate and coffee flavors. Don't over-shake the cocktail as you want to preserve the mezcal's smoky aroma.  Use a high-quality chocolate liqueur like crème de cacao for a rich, decadent flavor. Consider using a coffee liqueur with a complex flavor profile to add depth to the cocktail. Garnish with a chocolate shavings or a coffee bean to enhance the aromatic experience. "

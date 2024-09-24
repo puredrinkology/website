@@ -2,6 +2,7 @@
 title: "The Monkey Wrench Cocktail"
 fullname: "The Monkey Wrench Cocktail"
 shortname: "Monkey Wrench"
+author: "Pure Drinkology"
 description: "The Monkey Wrench, a refreshing blend of light rum, grapefruit juice, and bitters, belongs to the **Sour** family of cocktails. Its origins are unknown, but its simplicity and tartness likely made it a popular choice among sailors and laborers in the early 20th century. "
 flavor_description: "The Monkey Wrench is a refreshing, tart cocktail with a citrusy punch. The light rum provides a smooth, sweet base, while the grapefruit juice delivers a bright, tangy flavor. A dash of bitters adds a subtle complexity and a hint of herbal notes, balancing out the sweetness and creating a well-rounded profile. "
 bartender_tips: "For a balanced Monkey Wrench, fresh grapefruit juice is key. Use a good quality light rum, not overly sweet. A few dashes of Angostura bitters add complexity, but go easy – you don't want them to overpower the citrus. Shake well with ice to chill and dilute, then strain into a chilled coupe glass. A grapefruit wedge garnish adds a nice touch! "

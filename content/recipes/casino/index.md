@@ -2,6 +2,7 @@
 title: "The Casino Cocktail"
 fullname: "The Casino Cocktail"
 shortname: "Casino"
+author: "Pure Drinkology"
 description: "The Casino, a refreshing gin cocktail, belongs to the Sour family. It emerged in the early 20th century, likely in the United States, and is a twist on the classic Whiskey Sour, replacing whiskey with gin and adding a touch of Maraschino Liqueur. "
 flavor_description: "The Casino boasts a bright and refreshing profile. Gin's juniper notes dance with the sweet, cherry-almond flavors of Maraschino, balanced by tart lemon juice.  A whisper of orange bitters adds complexity and a touch of warmth. The cherry garnish lends a final, fruity sweetness, making this a classic and satisfying cocktail. "
 bartender_tips: "For a perfect Casino, use a good quality gin and fresh lemon juice. Shake well with ice to ensure a proper chill and dilution.  Don't be afraid to use a generous pour of orange bitters for a complex aroma. A maraschino cherry garnish is essential, but opt for a high-quality one for a richer flavor. "

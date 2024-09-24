@@ -2,6 +2,7 @@
 title: "The Victor Cocktail"
 fullname: "The Victor Cocktail"
 shortname: "Victor"
+author: "Pure Drinkology"
 description: "The Victor, a blend of gin, sweet vermouth, and brandy, is a member of the classic Manhattan family, a group of cocktails that often feature whiskey or brandy as a base, fortified with sweet vermouth.  Its origins are shrouded in mystery, but likely emerged from the 19th century American bar scene. "
 flavor_description: "The Victor offers a complex and intriguing flavor profile. Gin's juniper and botanicals dance with the sweetness of vermouth, while brandy adds a warm, rich depth. The result is a balanced cocktail that is both invigorating and sophisticated, with a lingering warmth that lingers on the palate. "
 bartender_tips: "The Victor is a classic, but its success hinges on balance.  Use a good quality gin, and choose a sweet vermouth with a hint of bitterness. The brandy adds complexity, so opt for a smooth, aged variety. Chill your ingredients beforehand, and use a good ice to ensure proper dilution. Don't over-shake, as you want the flavors to meld, not become frothy. Finally, garnish with an orange twist for a fragrant touch. "

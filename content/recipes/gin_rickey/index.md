@@ -2,6 +2,7 @@
 title: "The Gin Rickey Cocktail"
 fullname: "The Gin Rickey Cocktail"
 shortname: "Gin Rickey"
+author: "Pure Drinkology"
 description: "The Gin Rickey is a refreshing, classic highball, named after its creator, Colonel Rickey. Its origins lie in the late 19th century, when Colonel Rickey, a Washington, D.C. socialite, requested a simple gin and soda water drink with a squeeze of lime. "
 flavor_description: "The Gin Rickey is a refreshingly tart and crisp cocktail. Gin's juniper notes shine through, balanced by the tartness of lemon and lime. A subtle sweetness from grenadine adds a touch of complexity, while the soda water provides a clean and bubbly finish. It's a light and invigorating drink, perfect for warm weather. "
 bartender_tips: "A Gin Rickey is a refreshing classic, but it's easy to get wrong.  Use a good quality gin, and fresh-squeezed lime juice for the best flavor.  The grenadine is a subtle touch, just a splash for a hint of sweetness.  Chill the glass beforehand, and top with club soda, not tonic.  Garnish with a lime wheel and a sprig of mint for an extra touch of elegance. "

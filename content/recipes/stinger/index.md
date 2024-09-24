@@ -2,6 +2,7 @@
 title: "The Stinger Cocktail"
 fullname: "The Stinger Cocktail"
 shortname: "Stinger"
+author: "Pure Drinkology"
 description: "The Stinger, a potent blend of brandy and white crème de menthe, belongs to the **liqueur cocktail** family.  Originating in the early 20th century, it's believed to have been created at the Knickerbocker Hotel in New York City, gaining popularity during the roaring twenties. "
 flavor_description: "The Stinger is a classic cocktail with a cool, refreshing, and slightly sweet flavor profile. The brandy provides a rich, warm base with notes of dried fruit and oak, while the white crème de menthe contributes a minty sweetness and a hint of herbal freshness. The combination creates a balanced and invigorating cocktail that is both smooth and potent. "
 bartender_tips: "A Stinger is all about balance.  Use high-quality brandy for a sophisticated flavor. The white creme de menthe is key – start with a small amount and adjust to taste, as it can quickly overpower.  Chill both ingredients beforehand for a refreshing drink. Shake with ice vigorously to ensure a smooth, velvety texture.  Garnish with a mint sprig for visual appeal. "

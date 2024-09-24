@@ -2,6 +2,7 @@
 title: "The Godmother Cocktail"
 fullname: "The Godmother Cocktail"
 shortname: "Godmother"
+author: "Pure Drinkology"
 description: "The Godmother, a simple blend of vodka and amaretto, belongs to the **liqueur-based cocktail family**. Its origins are shrouded in mystery, but it's believed to have emerged in the 1970s, likely a playful twist on the classic Godfather (scotch and amaretto). "
 flavor_description: "The Godmother is a smooth, seductive cocktail. The vodka provides a clean, crisp base, while the Amaretto delivers rich, nutty sweetness with hints of almond and apricot.  The combination creates a balanced, slightly sweet and slightly bitter profile that's both sophisticated and easy to drink.  It's a luxurious treat that's best enjoyed neat or on the rocks. "
 bartender_tips: "Chill your glassware beforehand for a perfectly chilled Godmother. Use a good quality vodka and amaretto for the best flavor. Shake vigorously with ice to ensure proper dilution and a frosty texture. Garnish with an orange peel for a citrusy aroma and visual appeal. Enjoy responsibly! "

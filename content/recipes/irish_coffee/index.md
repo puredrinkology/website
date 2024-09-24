@@ -2,6 +2,7 @@
 title: "The Irish Coffee Cafe"
 fullname: "The Irish Coffee Cafe"
 shortname: "Irish Coffee"
+author: "Pure Drinkology"
 description: "Irish Coffee, a member of the **Coffee Cocktail** family, was born in the 1940s at Foynes Flying Boat Base in Ireland. It's a warm and comforting blend of Irish whiskey, hot coffee, sugar, and a fluffy crown of whipped cream. "
 flavor_description: "Irish Coffee is a comforting blend of warm, rich flavors. The smoky, smooth Irish whiskey mingles with the robust, bittersweet coffee, balanced by the sweetness of sugar.  A layer of pillowy whipped cream adds a touch of airy sweetness and a velvety texture, making each sip both satisfying and decadent. "
 bartender_tips: "Use freshly brewed coffee, preferably hot but not boiling.  Dissolve the sugar in the coffee before adding whiskey, as the sugar will melt better in hot coffee.  Pour whiskey over a back of a bar spoon to avoid disturbing the coffee.  Top with freshly whipped cream and a sprinkle of cinnamon or nutmeg for a classic touch.  Don't overfill the glass!  Enjoy! "

@@ -2,6 +2,7 @@
 title: "The Kentucky Colonel Cocktail"
 fullname: "The Kentucky Colonel Cocktail"
 shortname: "Kentucky Colonel"
+author: "Pure Drinkology"
 description: "The Kentucky Colonel is a classic Whiskey Sour variation, a family known for their tart and refreshing nature. This cocktail's origins are shrouded in mystery, likely emerging from the vibrant bar scene of the early 20th century, with its combination of bourbon, herbal Benedictine, and a citrus twist epitomizing the era's sophisticated drinking culture. "
 flavor_description: "The Kentucky Colonel offers a complex and harmonious blend. The robust, spicy notes of bourbon are beautifully balanced by the sweet, herbal complexity of Benedictine. A subtle citrus lift from the lemon peel adds a refreshing touch, cutting through the richness. The result is a smooth, warming cocktail that lingers on the palate with a hint of spice and citrus. "
 bartender_tips: "Use a good quality bourbon for best results.  The Benedictine adds sweetness and herbal notes, so adjust the amount to your preference.  A good twist of lemon peel adds a refreshing touch and elevates the drink.  Don't over-muddle the peel - just a light squeeze to release oils.  Serve chilled in a coupe glass for a classic presentation. "

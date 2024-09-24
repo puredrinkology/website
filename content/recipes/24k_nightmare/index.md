@@ -2,6 +2,7 @@
 title: "The 24K Nightmare Shot"
 fullname: "The 24K Nightmare Shot"
 shortname: "24K Nightmare"
+author: "Pure Drinkology"
 description: ""
 flavor_description: "The 24k Nightmare is a potent concoction. It's a fiery explosion of cinnamon and spice from the Goldschlager and Jägermeister, with a minty kick from the Rumple Minze. The 151 Proof Rum adds a potent, boozy heat that lingers on the palate. Overall, it's a bold, aggressive cocktail not for the faint of heart. "
 bartender_tips: "This drink is potent!  Start with a chilled rocks glass.  Pour Goldschlager first, then Jägermeister, followed by Rumple Minze.  Top with the 151 Rum, but go slow!  A little goes a long way.  Garnish with a lime wedge for a touch of brightness, and be sure to have a straw for a smoother sip.  Enjoy responsibly! "

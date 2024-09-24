@@ -2,6 +2,7 @@
 title: "The Busted Pipe Cocktail"
 fullname: "The Busted Pipe Cocktail"
 shortname: "Busted Pipe"
+author: "Pure Drinkology"
 description: "The Busted Pipe is a riff on the classic Old Fashioned, a cocktail family born in the 19th century. The addition of amaro adds complexity and herbal notes, while the bitters create a rich, nuanced profile. This drink, with its bold flavors and intriguing name, nods to the classic yet offers a modern twist. "
 flavor_description: "The Busted Pipe is a complex and intriguing cocktail. The bourbon provides warmth and spice, while the Amaro adds herbal bitterness and a touch of sweetness. The orange bitters contribute a citrusy brightness, while the cocoa bitters add a hint of chocolate and complexity. The result is a balanced and sophisticated drink with a lingering finish that blends spice, bitterness, and sweetness. "
 bartender_tips: "Use a good quality bourbon, as it's the star of the show. Don't be shy with the Amaro – it adds complexity. A few dashes of each bitters are enough to add depth without overwhelming.  Stir the drink well with ice to chill and dilute slightly. Garnish with an orange peel, expressing the oils over the drink. "

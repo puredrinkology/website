@@ -2,6 +2,7 @@
 title: "The Mule In Paradise Cocktail"
 fullname: "The Mule In Paradise Cocktail"
 shortname: "Mule In Paradise"
+author: "Pure Drinkology"
 description: "The Mule in Paradise is a vibrant twist on the classic Moscow Mule, a cocktail family known for its refreshing ginger kick.  This tropical adaptation, with passionfruit's sweetness and bourbon's warmth, offers a playful, modern take on the original, born in the 1940s. "
 flavor_description: "The Mule in Paradise is a vibrant and refreshing cocktail with a sweet and tangy profile. The passionfruit syrup provides a tropical sweetness balanced by the tartness of the lime juice and the spicy kick of ginger syrup. Bourbon adds a warm and smoky complexity, while the soda provides a crisp and bubbly finish.  It's a perfect combination of sweet, sour, spicy, and refreshing, making it a delightful summer drink. "
 bartender_tips: "To make a perfect Mule in Paradise, use a quality ginger syrup with a strong ginger flavor and a fresh passionfruit syrup for a vibrant sweetness. Don't skimp on the lime juice, as it balances the sweetness and adds a tart edge. Shake hard with ice for a frothy, chilled result. Top with soda, not club soda, for a gentle fizz. Garnish with a passionfruit wheel for a visually appealing touch.  "

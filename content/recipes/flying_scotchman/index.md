@@ -2,6 +2,7 @@
 title: "The Flying Scotchman Cocktail"
 fullname: "The Flying Scotchman Cocktail"
 shortname: "Flying Scotchman"
+author: "Pure Drinkology"
 description: "The Flying Scotchman belongs to the classic Manhattan family, a sophisticated blend of whiskey, sweet vermouth, and bitters.  Its exact origins are murky, but it likely emerged in the late 19th or early 20th century, a testament to the enduring appeal of whiskey-based cocktails. "
 flavor_description: "The Flying Scotchman offers a complex, layered taste.  The Scotch provides a robust, smoky base, while the sweet vermouth adds a touch of sweetness and herbal notes.  The bitters contribute a bitter edge and complexity, balanced by the smooth sweetness of the sugar syrup.  This harmonious blend creates a well-rounded cocktail with a lingering warmth and a hint of spice. "
 bartender_tips: "For a Flying Scotchman, chilling is key.  Use a chilled glass, pre-chill your Scotch and vermouth.  Don't skimp on the bitters, they add complexity.  A dash of sugar syrup helps balance the dryness of the Scotch and vermouth.  A gentle stir, not a shake, ensures a smooth, sophisticated drink."

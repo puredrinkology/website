@@ -2,6 +2,7 @@
 title: "The Smut Punch"
 fullname: "The Smut Punch"
 shortname: "Smut"
+author: "Pure Drinkology"
 description: "Smut belongs to the Highball family, a classic combination of spirits, mixers, and ice served in a tall glass. Its origins are likely contemporary, blending popular flavors of the 1990s - sweet, fruity, and soda-based.  "
 flavor_description: "Smut offers a vibrant and complex flavor profile. The red wine provides a dry, fruity base, while the peach schnapps adds a sweet, floral note. Pepsi cola contributes a touch of cola sweetness and spice, while the orange juice rounds out the flavor with citrusy brightness. This blend results in a refreshingly sweet and tart cocktail with a hint of spice and a lingering fruity finish. "
 bartender_tips: "This cocktail is all about balance.  Use a good quality red wine, not too sweet, and a quality peach schnapps.  Don't overpower the delicate peach with too much orange juice.  Start with a small amount and adjust to taste.  The Pepsi Cola adds a bit of sweetness and fizz, so use it sparingly.  Remember, less is more, and you can always add more if needed.  Cheers! "

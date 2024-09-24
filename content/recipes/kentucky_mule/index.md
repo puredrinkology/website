@@ -2,6 +2,7 @@
 title: "The Kentucky Mule Cocktail"
 fullname: "The Kentucky Mule Cocktail"
 shortname: "Kentucky Mule"
+author: "Pure Drinkology"
 description: "The Kentucky Mule is a twist on the classic Moscow Mule, belonging to the **Mule family**.  This bourbon-based variation likely originated in the American South, combining the refreshing ginger and lime notes of the Mule with the robust flavor of Kentucky bourbon. "
 flavor_description: "The Kentucky Mule is a spicy and refreshing cocktail. The sweetness of the ginger syrup balances the robust notes of bourbon, while the lime juice adds a bright acidity. The soda provides a light and bubbly texture, making it a perfect drink for warm weather or after a long day. The overall flavor profile is bold and complex, with a delightful kick from the ginger. "
 bartender_tips: "When making a Kentucky Mule, fresh is best! Squeeze your limes right before mixing.  A good ginger syrup is key – homemade is ideal, but a quality bottled option will do.  Don't over-shake, as it'll make the drink too frothy.  Use a copper mug if you have one, it chills faster and enhances the flavors. Finally, top with a splash of soda, not a full pour, for a lighter and more refreshing finish. "

@@ -2,6 +2,7 @@
 title: "The Kiwi Martini Cocktail"
 fullname: "The Kiwi Martini Cocktail"
 shortname: "Kiwi Martini"
+author: "Pure Drinkology"
 description: "The Kiwi Martini, a refreshing twist on the classic Martini, belongs to the **Fruit Martini** family. While its exact origin is unclear, it likely emerged in the late 20th century as a contemporary interpretation of the Martini, incorporating the bright flavors of kiwi. "
 flavor_description: "The Kiwi Martini is a bright and refreshing cocktail with a sweet-tart balance.  The kiwi’s juicy sweetness is amplified by the sugar syrup and vodka, creating a smooth and creamy texture.  The tartness of the kiwi provides a delightful counterpoint, leaving a clean and vibrant finish. It's a perfect blend of tropical flavors and refreshing coolness. "
 bartender_tips: "For a perfect Kiwi Martini, use ripe but firm kiwis for maximum flavor. Muddle gently, not aggressively, to release juices without creating bitterness. Adjust sugar syrup to taste - some kiwis are sweeter than others.  Strain twice, once through a fine mesh strainer to remove pulp, then again through a cocktail strainer for a pristine finish."

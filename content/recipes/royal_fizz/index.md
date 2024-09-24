@@ -2,6 +2,7 @@
 title: "The Royal Fizz Cocktail"
 fullname: "The Royal Fizz Cocktail"
 shortname: "Royal Fizz"
+author: "Pure Drinkology"
 description: "The Royal Fizz belongs to the Fizz family, a group of cocktails characterized by their effervescence and use of a spirit, citrus, and a fizz element.  This particular variation likely originated in the early 20th century, combining the popular gin fizz with the novelty of Coca-Cola, a rising beverage at the time. "
 flavor_description: "The Royal Fizz is a surprisingly harmonious blend of sweet and tart. The gin's botanicals shine through, softened by the sweet and sour mix. The egg adds a creamy richness, rounding out the flavors. Coca-Cola provides a touch of fizz and a hint of caramel, balancing the overall sweetness. It's a refreshing, slightly decadent cocktail that's perfect for any occasion. "
 bartender_tips: "The Royal Fizz is a classic, but requires finesse.  Use a good quality gin, and ensure the sweet and sour is well balanced.  When adding the egg, shake vigorously with ice to emulsify it properly.  Top with Coca-Cola, but don't overpour!  This drink is best enjoyed fresh, so don't make it too far ahead of time. "

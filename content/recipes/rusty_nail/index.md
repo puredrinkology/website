@@ -2,6 +2,7 @@
 title: "The Rusty Nail Cocktail"
 fullname: "The Rusty Nail Cocktail"
 shortname: "Rusty Nail"
+author: "Pure Drinkology"
 description: "The Rusty Nail is a member of the **Whisky Cocktail** family.  It originated in the 1930s, likely in the UK, and is known for its simple yet sophisticated blend of Scotch whisky and the sweet, herbal liqueur Drambuie. "
 flavor_description: "The Rusty Nail is a bold, warm, and comforting cocktail.  The smoky peat of the Scotch is softened by the honeyed sweetness of Drambuie, creating a complex and balanced flavor.  A subtle citrus note from the lemon peel adds a bright, refreshing touch.  This classic drink is perfect for sipping on a chilly evening or after a hearty meal. "
 bartender_tips: "For a perfect Rusty Nail, use a good quality Scotch and high-quality Drambuie.  Chill both ingredients before mixing.  Gently stir, not shake, to avoid diluting the flavors.  Express the lemon peel over the drink to release its oils, then discard it.  Serve in an old fashioned glass with a large ice cube for a slow melt and consistent chill. "

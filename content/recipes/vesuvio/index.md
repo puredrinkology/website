@@ -2,6 +2,7 @@
 title: "The Vesuvio Cocktail"
 fullname: "The Vesuvio Cocktail"
 shortname: "Vesuvio"
+author: "Pure Drinkology"
 description: "The Vesuvio, a classic from the early 20th century, is a member of the Sour family. This Cuban cocktail, popularized in Havana's famed Hotel Nacional, blends rum's sweetness with the tartness of lemon and vermouth, creating a smooth, frothy delight. "
 flavor_description: "The Vesuvio is a harmonious blend of sweet and tart. Light rum provides a gentle sweetness and a touch of spice, while the sweet vermouth adds complexity and a hint of bitterness. Lemon juice balances the sweetness with its bright acidity, and the powdered sugar adds a subtle sweetness. The egg white creates a smooth, velvety texture and a subtle frothiness. Overall, the Vesuvio is a refreshing and balanced cocktail with a sophisticated, yet approachable flavor profile. "
 bartender_tips: "For a frothy Vesuvio, use a high-quality light rum and a good sweet vermouth. Freshly squeezed lemon juice is key.  Dry shake the egg white and other ingredients first to build foam.  Then add ice and shake again vigorously. Strain into a chilled coupe. Garnish with a lemon twist for a classic touch. "

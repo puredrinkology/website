@@ -2,6 +2,7 @@
 title: "The Kill Cold Smoothie Shake"
 fullname: "The Kill Cold Smoothie Shake"
 shortname: "Kill Cold Smoothie"
+author: "Pure Drinkology"
 description: "Kill the Cold Smoothie belongs to the **wellness cocktail** family, a modern twist on traditional medicinal remedies.  This drink draws inspiration from ancient folk remedies that used ginger and lemon to soothe sore throats and fight colds. "
 flavor_description: ""
 bartender_tips: ""

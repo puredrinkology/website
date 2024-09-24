@@ -2,6 +2,7 @@
 title: "The Casino Royale Cocktail"
 fullname: "The Casino Royale Cocktail"
 shortname: "Casino Royale"
+author: "Pure Drinkology"
 description: "The Casino Royale belongs to the classic **sour** family, characterized by the tangy combination of citrus and spirits.  While its exact origin is debated, it's likely a variation of the **Gin Daisy**, a popular drink in the early 20th century. "
 flavor_description: "The Casino Royale is a dry, complex cocktail with a bright, citrusy character. The gin provides a juniper backbone, while lemon juice adds tartness and freshness. Maraschino liqueur brings a subtle cherry sweetness, and orange bitters add a touch of warm spice. The egg yolk rounds out the texture with a velvety richness. It's a sophisticated and satisfying cocktail that lingers on the palate. "
 bartender_tips: "For a perfect Casino Royale, ensure your gin is cold.  Use fresh lemon juice, and don't over-shake the egg yolk.  A light shake will create a velvety texture, while over-shaking can make the drink frothy. A few dashes of orange bitters bring out the citrus notes.  Finally, strain the cocktail into a chilled coupe glass.  Enjoy the classic! "

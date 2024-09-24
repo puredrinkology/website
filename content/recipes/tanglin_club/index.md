@@ -2,6 +2,7 @@
 title: "The Tanglin Club Cocktail"
 fullname: "The Tanglin Club Cocktail"
 shortname: "Tanglin Club"
+author: "Pure Drinkology"
 description: "The Tanglin Club is a twist on the classic Martini, belonging to the Martini family. Its origin is likely Singapore, drawing inspiration from the colonial era Tanglin Club, a prestigious social club. The addition of passionfruit syrup and lime juice adds a tropical touch to the traditional dry Martini. "
 flavor_description: "The Tanglin Club is a harmonious blend of tropical sweetness and dry botanicals.  Passionfruit syrup delivers a vibrant, tangy sweetness that's balanced by the crisp dryness of gin and vermouth.  Lime juice adds a refreshing acidity, while aromatic bitters provide a subtle complexity.  The result is a complex yet refreshing cocktail with a bright and invigorating finish. "
 bartender_tips: "To make a perfect Tanglin Club, ensure your passionfruit syrup is homemade for the freshest flavor. Use a good quality gin and dry vermouth. Shake vigorously with ice to chill and dilute properly.  A good quality aromatic bitters adds complexity, but don't overdo it.  Finish with a fresh lime wheel for a citrusy aroma. "

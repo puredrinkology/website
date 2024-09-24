@@ -2,6 +2,7 @@
 title: "The Pink Penocha Punch"
 fullname: "The Pink Penocha Punch"
 shortname: "Pink Penocha"
+author: "Pure Drinkology"
 description: "The Pink Penocha belongs to the **fruit punch** family, a vibrant and playful category often associated with parties and gatherings. Its origins are likely a modern, home-brewed concoction, mixing popular spirits and fruit juices for a sweet and refreshing flavor profile. "
 flavor_description: "The Pink Penocha is a potent and fruity cocktail.  The Everclear provides a strong, almost fiery base, while the vodka adds a clean, neutral note.  Peach schnapps brings a sweet, juicy peach flavor, balanced by the tartness of cranberry and orange juice.  The result is a brightly colored drink that's both sweet and tangy, with a lingering alcohol warmth. "
 bartender_tips: "This is a potent mix, so use Everclear sparingly!  Start with a small amount and adjust to taste.  You can also use a high-quality vodka for a smoother flavor.  Ensure the cranberry juice is chilled for a crisp, refreshing taste. Shake well to combine and chill, and don't forget a fun garnish like an orange slice or maraschino cherry. "

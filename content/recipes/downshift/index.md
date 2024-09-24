@@ -2,6 +2,7 @@
 title: "The Downshift Punch"
 fullname: "The Downshift Punch"
 shortname: "Downshift"
+author: "Pure Drinkology"
 description: "Downshift is a contemporary concoction that falls under the umbrella of highball cocktails, characterized by their simple construction and tall, ice-filled serving style.  It's likely a modern invention, combining the fruity sweetness of fruit punch and Sprite with the potent kick of tequila and 151 proof rum. "
 flavor_description: "The Downshift packs a punch, literally. The fruity sweetness of the punch and Sprite is tempered by the sharp bite of tequila and the fiery kick of the 151.  Expect a sweet, yet potent blend that's deceptively easy to drink. The rum's heat lingers on the finish, creating a warm, almost intoxicating aftertaste. It's a party in a glass, perfect for those looking for a strong, playful drink. "
 bartender_tips: "This sounds like a fun, but potentially strong, concoction. When mixing, start with a good base of Fruit Punch and Sprite, then add Tequila to taste - a little goes a long way. Finally, add just a splash of 151 Rum for that extra kick. Remember, you can always add more, but you can't take it back out.  Use a shaker with ice for a truly chilled and refreshing drink. "

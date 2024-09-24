@@ -2,6 +2,7 @@
 title: "The Backsliding Presbyterian Cocktail"
 fullname: "The Backsliding Presbyterian Cocktail"
 shortname: "Backsliding Presbyterian"
+author: "Pure Drinkology"
 description: "The Backsliding Presbyterian is a unique spin on the classic Highball family, combining the spirit-forward backbone of a Whiskey Sour with the refreshing fizz of a traditional Highball. Its origin is likely a modern invention, drawing inspiration from the contrasting flavors of Bourbon, Campari, and Ginger. "
 flavor_description: "The Backsliding Presbyterian is a complex and balanced cocktail. The ginger syrup provides a vibrant, spicy kick, while the bourbon offers warmth and depth. Campari adds a bittersweet note, perfectly complemented by the tart lime juice. The soda creates a refreshing effervescence, pulling all the flavors together for a lively and invigorating experience. "
 bartender_tips: "This cocktail is a balancing act of sweet, spicy, and bitter. Ensure your ginger syrup is fresh and potent. Use a good quality bourbon for a smooth base. When mixing, shake vigorously with ice to chill thoroughly. Finish with a generous splash of soda to brighten the flavors and create a refreshing fizz. "

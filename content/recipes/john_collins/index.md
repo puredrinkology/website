@@ -2,6 +2,7 @@
 title: "The John Collins Cocktail"
 fullname: "The John Collins Cocktail"
 shortname: "John Collins"
+author: "Pure Drinkology"
 description: "The John Collins is a classic highball, a refreshing and easy-drinking cocktail family. Originating in the mid-19th century, it's attributed to John Collins, a bartender at the Limmer's Hotel in London, though the exact origins remain a bit hazy. "
 flavor_description: "The John Collins is a refreshing, tart, and slightly sweet classic. The bourbon provides a warm, oaky base, balanced by the bright acidity of lemon juice. Sugar adds a subtle sweetness, while club soda provides a crisp, effervescent finish. The maraschino cherry and orange slice add a touch of fruitiness and visual appeal.  "
 bartender_tips: "For a perfect John Collins, use a good quality Bourbon.  Freshly squeezed lemon juice is key.  Make a simple syrup ahead of time for ease.  Don't overshake, you want the drink to be lightly carbonated.  Use a Collins glass for the perfect presentation.  Garnish with both a cherry and an orange wheel. "

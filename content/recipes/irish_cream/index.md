@@ -2,6 +2,7 @@
 title: "The Irish Cream Liqueur"
 fullname: "The Irish Cream Liqueur"
 shortname: "Irish Cream"
+author: "Pure Drinkology"
 description: "This drink, a creamy concoction, is not a traditional cocktail but rather a modern, indulgent creation.  It draws inspiration from the creamy liqueurs of the early 20th century, but its specific combination of flavors and ingredients is likely a recent invention. "
 flavor_description: "This cocktail is a decadent, creamy indulgence. The Scotch provides a smoky, peaty foundation, while the half-and-half adds a smooth richness. Condensed milk contributes sweetness and a velvety texture. Coconut syrup brings a touch of tropical sweetness, while chocolate syrup adds depth and complexity. The flavors harmonize beautifully, creating a luxurious and satisfying experience. "
 bartender_tips: "This cocktail is a sweet, creamy delight.  For best results, use quality Scotch and high-quality half-and-half. Chill all ingredients beforehand for a smoother consistency.  Shake vigorously with ice to thoroughly combine all flavors.  Strain into a chilled cocktail glass and garnish with a chocolate curl or a sprinkle of cocoa powder. "

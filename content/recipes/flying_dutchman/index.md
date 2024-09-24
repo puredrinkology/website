@@ -2,6 +2,7 @@
 title: "The Flying Dutchman Cocktail"
 fullname: "The Flying Dutchman Cocktail"
 shortname: "Flying Dutchman"
+author: "Pure Drinkology"
 description: "The Flying Dutchman is a classic Gin & Orange Liqueur cocktail, likely a twist on the classic Sidecar. It emerged in the late 19th or early 20th century, with its origin shrouded in maritime folklore.  "
 flavor_description: "The Flying Dutchman offers a crisp, citrusy profile thanks to the Triple Sec. The gin provides a robust juniper backbone, creating a clean and refreshing taste. Hints of floral and spice from the gin add complexity, making this cocktail a perfect balance of tart and dry, with a lingering, subtly sweet finish. "
 bartender_tips: "When crafting a Flying Dutchman, remember that the gin is the star. Use a high-quality London Dry Gin for a crisp, juniper-forward flavor.  Chill the gin and Triple Sec beforehand for a perfectly chilled cocktail.  Shake hard with ice to thoroughly chill and dilute the drink. Strain into a chilled coupe glass and garnish with a lemon twist for a refreshing touch. "

@@ -2,6 +2,7 @@
 title: "The Zorbatini Cocktail"
 fullname: "The Zorbatini Cocktail"
 shortname: "Zorbatini"
+author: "Pure Drinkology"
 description: "The Zorbatini, a harmonious blend of Vodka and Ouzo, belongs to the Martini family, a lineage of sophisticated cocktails known for their dry and aromatic profiles. This drink, likely born in the Greek islands, pays homage to the iconic Zorba the Greek film, capturing the spirit of Greece in a glass. "
 flavor_description: "The Zorbatini is a delightful blend of cool vodka and bold ouzo. Expect a refreshing, slightly sweet start with a subtle anise and licorice kick. The finish lingers with a warm, earthy spice, leaving you craving another sip. "
 bartender_tips: "The Zorbatini's key is balance.  Chill your vodka and ouzo separately for the best taste.  Use a good quality ouzo for its anise flavor, but start with a 1:1 ratio and adjust to your taste.  Shake with ice to chill, but strain into a chilled martini glass to avoid dilution.  Garnish with a lemon twist or a cocktail olive for a Greek twist. "

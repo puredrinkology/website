@@ -2,6 +2,7 @@
 title: "The Dublin Heights Cocktail"
 fullname: "The Dublin Heights Cocktail"
 shortname: "Dublin Heights"
+author: "Pure Drinkology"
 description: "Dublin Heights is a refreshing twist on the classic Sour family. Its Irish Whiskey base, balanced by tart lemon and sweet orgeat, is elevated by the pear notes of St. George Liqueur.  The addition of club soda creates a light, effervescent finish, reminiscent of a summer day in Dublin. "
 flavor_description: "The Dublin Heights is a delightful blend of sweet and tart.  The orgeat syrup provides a nutty, almond-like sweetness that's balanced by the bright acidity of lemon juice.  The Irish whiskey adds a warm, spicy complexity, while the pear liqueur contributes a delicate fruitiness.  A refreshing fizz from the club soda rounds out the experience, making it a truly enjoyable and well-balanced cocktail. "
 bartender_tips: "Ensure the orgeat syrup is fresh and high quality - it's the backbone of the cocktail.  Use a good Irish whiskey, and don't skimp on the St. George Pear Liqueur - it adds complexity.  Shake vigorously with ice to chill and dilute properly.  Top with club soda for a light, refreshing finish.  Garnish with a lemon twist and a pear slice for a touch of elegance. "

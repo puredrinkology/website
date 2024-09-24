@@ -2,6 +2,7 @@
 title: "The Gin Tonic Cocktail"
 fullname: "The Gin Tonic Cocktail"
 shortname: "Gin Tonic"
+author: "Pure Drinkology"
 description: "The Gin Tonic belongs to the Highball family, characterized by a strong spirit base topped with a carbonated mixer. Its origin dates back to the 19th century in British India, where gin was mixed with tonic water, originally used to treat malaria. "
 flavor_description: "The Gin Tonic is a classic for a reason. It's a refreshing blend of juniper-forward gin's botanicals, the bitter sweetness of tonic water, and a touch of citrus from the lemon peel. The ice chills the drink, creating a crisp, clean palate cleanser with a lingering bitterness and a hint of floral aroma. "
 bartender_tips: "Use a large, chilled glass filled with ice. Pour in gin first, followed by tonic. A good ratio is 2 oz gin to 4 oz tonic. Gently stir, then express lemon peel oils over the drink and drop it in. Don't over-garnish, the lemon peel is key to the aroma. "

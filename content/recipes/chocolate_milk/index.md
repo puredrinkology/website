@@ -2,6 +2,7 @@
 title: "The Chocolate Milk Shot"
 fullname: "The Chocolate Milk Shot"
 shortname: "Chocolate Milk"
+author: "Pure Drinkology"
 description: "Chocolate Milk belongs to the **Creamy Cocktail** family, known for their rich textures and often sweet profiles.  While its exact origin is obscure, its blend of chocolate liqueur, milk, and Amaretto suggests a playful nod to both classic dessert flavors and the Italian tradition of mixing milk with spirits. "
 flavor_description: "Chocolate Milk is a decadent, creamy delight. The chocolate liqueur provides a rich, bittersweet cocoa flavor, balanced by the sweetness of the amaretto. The milk adds a smooth, velvety texture and rounds out the flavors, creating a comforting, almost nostalgic taste reminiscent of a childhood treat. This cocktail is best enjoyed on a cold evening or as a special treat after dinner. "
 bartender_tips: "For the perfect Chocolate Milk, use high-quality chocolate liqueur for a rich, complex flavor.  Chill the milk beforehand for a smoother, creamier texture. Shake vigorously with ice to emulsify the ingredients and create a frothy top. Adjust sweetness to taste with a touch more Amaretto. Garnish with a chocolate curl or sprinkle for an elegant touch. "

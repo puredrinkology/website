@@ -2,6 +2,7 @@
 title: "The Aramadillos Light Cocktail"
 fullname: "The Aramadillos Light Cocktail"
 shortname: "Aramadillos Light"
+author: "Pure Drinkology"
 description: "Aramadillo's Light is a unique twist on the classic Sour family, showcasing a vibrant tropical profile. Its origins likely lie in the modern cocktail scene, combining classic sour elements with contemporary flavor trends. "
 flavor_description: "Aramadillo's Light is a vibrant and tropical cocktail with a touch of spice. The sweetness of grenadine and orgeat blends with the tangy passionfruit and lemon, creating a balanced profile. The wheated bourbon adds a smooth, nutty warmth that rounds out the flavors, while the citrus acidity provides a refreshing finish. It's a unique and delicious mix of sweet, tart, and spicy notes that will transport you to a sunny paradise. "
 bartender_tips: "Ensure your orgeat syrup is fresh and fragrant.  Use high-quality wheated bourbon for a smooth finish.  Shake vigorously with ice to chill and dilute properly.  Strain into a chilled coupe glass and garnish with a lemon twist for a vibrant touch.  Don't be afraid to adjust the sweetness with additional grenadine or orgeat to your liking. "
