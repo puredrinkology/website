@@ -67,14 +67,14 @@ document.addEventListener('DOMContentLoaded', function() {
                 });
 
                 searchResults.html(resultsHtml);
-                searchResults.addClass("m-2 mb-4")
+                searchResults.addClass("p-4 pb-4")
             } else {
                 searchResults.html('');
-                searchResults.removeClass("m-2 mb-4")
+                searchResults.removeClass("p-4 pb-4")
             }
         } else {
                 searchResults.html('');
-                searchResults.removeClass("m-2 mb-4")
+                searchResults.removeClass("p-4 pb-4")
         }
     }, 300); // Adjust the delay as needed
 
