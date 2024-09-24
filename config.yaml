@@ -20,10 +20,10 @@ enableRobotsTXT: false
 summaryLength: 20
 paginate: 1000
 params:
-  title: "Drinkology"
-  description: "lorem"
+  title: "Pure Drinkology"
+  description: "Explore a world of cocktail recipes, mixology tips, and bar essentials at Pure Drinkology. From classic to creative cocktails, elevate your home bar experience with our comprehensive guides and vibrant community. Discover, mix, and master the art of the perfect drink."
   images: 
-    - "images/whitelogo.png"
+    - "images/logo.png"
 
   logo: "logo.png"
 
