@@ -25,7 +25,7 @@ params:
   images: 
     - "images/whitelogo.png"
 
-  logo: "blacklogo.png"
+  logo: "logo.png"
 
   favicons:
     themeColor: "#FFFFFF"
