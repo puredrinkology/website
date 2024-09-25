@@ -20,7 +20,7 @@ glass: "White wine glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "gin"
-family: "other"
+family: "martini"
 visual: "## LLM Prompt for Describing Pink Gin:**Generate a detailed description of the appearance of a classic Pink Gin cocktail, focusing on the following aspects:*** **Color:**  Describe the specific shade of pink, highlighting any variations or nuances. Is it a pale blush, a vibrant fuchsia, or something in between? * **Clarity:** Is the drink crystal clear, slightly cloudy, or have a hint of haze? * **Texture:** Is it smooth and silky, or does it have any visible texture? * **Garnish:** Mention the type of garnish used and how it interacts with the drink, highlighting its color, shape, and placement. * **Glassware:** Describe the shape and type of glass used, noting its effect on the overall presentation. **Bonus:** Include an evocative sensory detail that further enhances the visual description. For example, The pink hue shimmers like a sunset over a still lake. "
 source: "thecocktaildb"
 ---

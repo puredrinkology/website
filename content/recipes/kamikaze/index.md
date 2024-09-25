@@ -3,7 +3,7 @@ title: "The Kamikaze Cocktail"
 fullname: "The Kamikaze Cocktail"
 shortname: "Kamikaze"
 author: "Pure Drinkology"
-description: ""
+description: "The Kamikaze Cocktail is a sharp, citrusy drink from the sour cocktail family. Made with vodka, triple sec, and lime juice, it offers a balanced mix of sweet and tart flavors. Created in the post-World War II era, likely during the 1970s, the Kamikaze is known for its simplicity and is often enjoyed as a shot or a cocktail."
 flavor_description: "The Kamikaze is a tart and refreshing cocktail with a punch. The vodka provides a clean, crisp base, while the triple sec adds a touch of orange sweetness and a slight bitterness. The lime juice is the star, delivering a bright acidity that cuts through the sweetness and creates a zesty, tangy finish. Overall, it's a powerful and invigorating drink that's best enjoyed chilled. "
 bartender_tips: "For a crisp Kamikaze, use high-quality vodka and triple sec.  Shake well with ice, ensuring the lime juice is freshly squeezed. Strain into a chilled martini glass. Garnish with a lime wheel or a twist for a professional touch. Remember, less ice results in a stronger drink. "
 ingredients:

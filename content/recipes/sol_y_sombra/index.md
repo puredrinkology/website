@@ -1,6 +1,6 @@
 ---
-title: "The Sol Y Sombra Cocktail"
-fullname: "The Sol Y Sombra Cocktail"
+title: "The Sol Y Sombra Shot"
+fullname: "The Sol Y Sombra Shot"
 shortname: "Sol Y Sombra"
 author: "Pure Drinkology"
 description: "Sol Y Sombra belongs to the **Anisette family**, a group of cocktails traditionally enjoyed in Spain and Latin America.  Its origin is uncertain but likely dates back to the 19th century,  a time when brandy and anise liqueurs were popular throughout the region. "
@@ -13,14 +13,11 @@ ingredients:
     measure: "1.5 oz"
 instructions:
   - item: "Shake ingredients with ice, strain into a brandy snifter, and serve."
-  - item: "(The English translation of the name of this drink is \"Sun and Shade\", and after sampling this drink, you\'ll understand why."
-  - item: "Thanks, Kirby."
-  - item: ")."
 glass: "Brandy snifter"
-category: "cocktail"
+category: "shot"
 has_alcohol: true
 base_spirit: "brandy"
-family: "other"
+family: ""
 visual: "## LLM Prompt for Describing Sol Y Sombra Cocktail:**Imagine a cocktail called Sol Y Sombra, a play on the Spanish words for sun and shade. It's a beautiful blend of **brandy** and **anisette**, with a mysterious and alluring depth.****Describe the appearance of this cocktail using the following parameters:*** **Color:** Is it golden, amber, clear, or a unique shade entirely? * **Clarity:** Is it crystal clear, slightly cloudy, or hazy? * **Texture:** Is it smooth and silky, or does it have an oily sheen? * **Garnish:** If any, what is the garnish and how does it enhance the visual appeal? * **Glassware:** What type of glass best showcases the beauty of the cocktail? (e.g., coupe, rocks glass, martini glass)**Use your imagination and provide a vivid description of the Sol Y Sombra cocktail. Focus on the details that make it visually captivating and enticing.** "
 source: "thecocktaildb"
 ---
