@@ -19,7 +19,7 @@ instructions:
   - item: "Turn the bottle upside-down so the rum and beer mix."
   - item: "Turn the bottle rightside-up, unplug, and drink."
 glass: "Beer Glass"
-category: "beer"
+category: "cocktail"
 has_alcohol: true
 base_spirit:
 family: "highball"

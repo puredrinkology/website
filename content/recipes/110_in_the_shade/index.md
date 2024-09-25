@@ -15,7 +15,7 @@ instructions:
   - item: "Drop shooter in glass."
   - item: "Fill with beer."
 glass: "Beer Glass"
-category: "beer"
+category: "cocktail"
 has_alcohol: true
 base_spirit: "tequila"
 family: "highball"

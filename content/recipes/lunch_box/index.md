@@ -18,7 +18,7 @@ instructions:
   - item: "Then fill the rest with orange juice (careful not to fill it to the top)."
   - item: "Then take the shot of Amaretto and drop it in."
 glass: "Pint glass"
-category: "beer"
+category: "cocktail"
 has_alcohol: true
 base_spirit:
 family: "highball"

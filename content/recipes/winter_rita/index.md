@@ -1,6 +1,6 @@
 ---
-title: "The Winter Rita Beer"
-fullname: "The Winter Rita Beer"
+title: "The Winter Rita Cocktail"
+fullname: "The Winter Rita Cocktail"
 shortname: "Winter Rita"
 author: "Pure Drinkology"
 description: "The Winter Rita draws inspiration from the classic Margarita, blending tequila's agave spirit with the citrusy zing of lime and orange. Its addition of Campari and rosemary syrup, however, gives it a sophisticated twist, reminiscent of the bitter-sweetness found in Negroni-style drinks. "
@@ -24,7 +24,7 @@ instructions:
   - item: "Combine all ingredients, shake with ice, and strain over fresh ice."
   - item: "⠀."
 glass: "Highball Glass"
-category: "beer"
+category: "cocktail"
 has_alcohol: true
 base_spirit: "tequila"
 family: "margarita"

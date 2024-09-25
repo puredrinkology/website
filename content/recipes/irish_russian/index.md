@@ -20,7 +20,7 @@ instructions:
   - item: "Care must be taken when adding the Guinness to prevent an excess of foam."
   - item: "Do Not add ice."
 glass: "Highball glass"
-category: "beer"
+category: "cocktail"
 has_alcohol: true
 base_spirit: "vodka"
 family: "highball"

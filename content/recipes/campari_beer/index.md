@@ -16,7 +16,7 @@ instructions:
   - item: "Add Campari first."
   - item: "Fill with beer."
 glass: "Beer mug"
-category: "beer"
+category: "cocktail"
 has_alcohol: true
 base_spirit:
 family: "highball"

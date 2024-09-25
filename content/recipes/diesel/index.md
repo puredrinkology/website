@@ -18,7 +18,7 @@ instructions:
   - item: "Top up with the cider."
   - item: "The colour sholud be very dark approaching the colour of Guiness."
 glass: "Pint glass"
-category: "beer"
+category: "cocktail"
 has_alcohol: true
 base_spirit:
 family: "highball"

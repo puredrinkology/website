@@ -50,14 +50,6 @@ params:
 
   categoryNames:
     cocktail: "Cocktails"
-    cafe: "Cafe"
-    cocoa: "Cocoa"
-    liqueur: "Liqueur"
-    nonalcoholic: "Non Alcoholic"
-    punch: "Punch"
-    shake: "Shake"
-    beer: "Beer"
-    shot: "Shots"
 
   categoryOrder:
     - "cocktail"

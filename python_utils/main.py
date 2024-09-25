@@ -275,7 +275,7 @@ def create_hugo_content(drink, source, get_ai_content):
     else:
         family = identify_cocktail_family(ingredients, drink["strDrink"], history, category) 
 
-    if category == "punch": 
+    if category == "punch" or category == "beer": 
         category = "cocktail"
 
     frontmatter = {
