@@ -1,4 +1,8 @@
 {{ if eq .Type "recipes" }}
+
+ 
+
+
   <!-- RECIPE META DATA -->
   <meta property="og:type" content="recipe" />
   <meta property="og:site_name" content="puredrinkology.com" />
@@ -24,6 +28,35 @@
 
     <meta property="og:recipe:ingredients" content="{{ range .Params.ingredients }}{{ .measure }} {{ .item }}, {{ end }}" />
     <meta property="og:recipe:instructions" content="{{ range .Params.instructions }}{{ .item }} {{ end }}" />
+
+
+    <!-- RECIPE SCHEMA -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "{{ .Title }}",
+        "description": "{{ .Description }}",
+        "author": {
+          "@type": "Person",
+          "name": "{{ .Params.author | default "Pure Drinkology" }}"
+        },
+        "image": "{{ with $.Resources.GetMatch (printf "**/%s" "{cover.*}") }}{{ with .Resize "1000x" }}{{ .Permalink }}{{ end }}{{ end }}",
+        "recipeIngredient": [
+          {{ range .Params.ingredients }}"{{ .measure }} {{ .item }}",
+          {{ end }}
+        ],
+        "recipeInstructions": [
+          {{ range .Params.instructions }}"{{ .item }}"
+          {{ end }}
+        ],
+        "recipeCategory": "{{ .Params.category }}",
+        "recipeCuisine": "Cocktail",
+        "keywords": "{{.Title}}, {{ .Params.category }}, {{ .Params.base_spirit }}, {{ .Params.family }}",
+        "recipeYield": "1 serving"
+      }
+    </script>
+    
 
 {{ else }}
    <!-- CATEGORY PAGE META DATA -->

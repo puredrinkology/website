@@ -1,15 +1,15 @@
 {{ define "main" }}
 
 
-  <section class="section blog-single p-0">
+  <section itemscope itemtype="https://schema.org/Recipe" class="section blog-single p-0">
     <div class="container-fluid p-0">
       <div id="search-results" class="row"></div>
 
-      <div class="row gx-0 h-100">
+      <div  class="row gx-0 h-100" >
         <div class="col-md-6 col-12 d-flex">
             {{ with .Resources.GetMatch (printf "**/%s" "{cover.*}") }}
                 {{ with .Resize "1000x" }}
-                    <img class="flex-grow-1" src="{{ .RelPermalink }}" alt="{{ $.Title }} ({{ $.Params.category }}, {{ $.Params.family }}, {{ $.Params.base_spirit}}) - {{ $.Description }}" title="{{ $.Title }}" style="width:100%; height: 100%; object-fit: cover;" />
+                    <img itemprop="image" class="flex-grow-1" src="{{ .RelPermalink }}" alt="{{ $.Title }} ({{ $.Params.category }}, {{ $.Params.family }}, {{ $.Params.base_spirit}}) - {{ $.Description }}" title="{{ $.Title }}" style="width:100%; height: 100%; object-fit: cover;" />
                 {{ end }} 
             {{ end }}
         </div>
