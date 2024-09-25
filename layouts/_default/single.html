@@ -75,9 +75,9 @@
         <div class="col-lg-6 col-12 p-lg-5 p-0">
           <h2 class="fs-1 text-primary pb-3">{{ .Params.Title }}</h2>
           <p>
-            <a href="/recipes/category/{{lower .Params.category}}/" class="badge text-bg-primary text-decoration-none">{{ lower .Params.category }}</a> 
-            <a href="/recipes/spirit/{{lower .Params.base_spirit}}/" class="badge text-bg-secondary text-decoration-none">{{lower .Params.base_spirit }}</a>
-            <a href="/recipes/family/{{lower .Params.family}}/" class="badge text-bg-info text-decoration-none">{{ lower .Params.family }}</a> 
+            <a href="/recipes/category/{{lower .Params.category}}/" class="badge text-bg-primary text-decoration-none" title="The {{ humanize .Params.category }} Collection">{{ lower .Params.category }}</a> 
+            <a href="/recipes/spirit/{{lower .Params.base_spirit}}/" class="badge text-bg-secondary text-decoration-none" title="Cocktails made using {{ humanize .Params.base_spirit }}">{{lower .Params.base_spirit }}</a>
+            <a href="/recipes/family/{{lower .Params.family}}/" class="badge text-bg-info text-decoration-none" title="The {{ humanize .Params.family }} Family">{{ lower .Params.family }}</a> 
           </p>
           <p itemprop="description">
             {{ .Params.Description | markdownify }}
@@ -117,7 +117,7 @@
                   {{ range . }}
                     <div class="col-12 col-md-4 col-lg-2">
                       <div class="card shadow border-0 p-4 text-decoration-none h-100" style="border-radius: 15px;" >
-                        <a class="aspect-ratio-full" href="{{ .Permalink }}">
+                        <a class="aspect-ratio-full" href="{{ .Permalink }}" title="{{ .Title }}">
                               {{ $alt := printf "%s (%s, %s, %s) - %s" .Title .Params.category .Params.family .Params.base_spirit .Description }}
                               {{ $title := .Title }}
                               {{ with .Resources.GetMatch (printf "**/%s" "{cover.*}") }}
@@ -130,9 +130,9 @@
                         <div class="card-body">
                           <h5 class="card-title fw-semibold"><a href="{{ .Permalink }}" class="text-decoration-none">{{ .Params.shortname }}</a></h5>
                           <p class="card-text text-black-61">{{ .Summary }}</p>
-                          <a href="/recipes/category/{{lower .Params.category}}/" class="badge text-bg-primary text-decoration-none">{{ lower .Params.category }}</a> 
-                          <a href="/recipes/spirit/{{lower .Params.base_spirit}}/" class="badge text-bg-secondary text-decoration-none">{{lower .Params.base_spirit }}</a>
-                          <a href="/recipes/family/{{lower .Params.family}}/" class="badge text-bg-info text-decoration-none">{{ lower .Params.family }}</a> 
+                          <a href="/recipes/category/{{lower .Params.category}}/" class="badge text-bg-primary text-decoration-none" title="The {{ humanize .Params.category }} Collection">{{ lower .Params.category }}</a> 
+                          <a href="/recipes/spirit/{{lower .Params.base_spirit}}/" class="badge text-bg-secondary text-decoration-none" title="Cocktails made using {{ humanize .Params.base_spirit }}">{{lower .Params.base_spirit }}</a>
+                          <a href="/recipes/family/{{lower .Params.family}}/" class="badge text-bg-info text-decoration-none" title="The {{ humanize .Params.family }} Family">{{ lower .Params.family }}</a> 
                         </div>
                       </div>
                     </div>

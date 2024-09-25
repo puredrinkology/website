@@ -20,15 +20,15 @@ secondary: "
 recipe: "Each family builds on the last, either by simplifying or complicating the recipe, altering the balance of flavors, or changing the presentation, illustrating the evolution of cocktail culture from straightforward spirit-focused drinks to complex, layered concoctions."
 ---
 
-<a href="/recipes/family/ancestral/" class="badge text-bg-info text-decoration-none">ancestral</a>
-<a href="/recipes/family/spirit-forward/" class="badge text-bg-info text-decoration-none">spirit-forward</a>
-<a href="/recipes/family/negroni/" class="badge text-bg-info text-decoration-none">negroni</a>
-<a href="/recipes/family/martini/" class="badge text-bg-info text-decoration-none">martini</a>
-<a href="/recipes/family/sour/" class="badge text-bg-info text-decoration-none">sour</a>
-<a href="/recipes/family/margarita/" class="badge text-bg-info text-decoration-none">margarita</a>
-<a href="/recipes/family/highball/" class="badge text-bg-info text-decoration-none">highball</a>
-<a href="/recipes/family/fizz/" class="badge text-bg-info text-decoration-none">fizz</a>
-<a href="/recipes/family/punch/" class="badge text-bg-info text-decoration-none">punch</a>
+<a href="/recipes/family/ancestral/" class="badge text-bg-info text-decoration-none" title="Ancestral / Old Fashioned Cocktail Recipes">ancestral</a>
+<a href="/recipes/family/spirit-forward/" class="badge text-bg-info text-decoration-none" title="Spirit Forward Cocktail Recipes">spirit-forward</a>
+<a href="/recipes/family/negroni/" class="badge text-bg-info text-decoration-none" title="Negroni Cocktail Recipes">negroni</a>
+<a href="/recipes/family/martini/" class="badge text-bg-info text-decoration-none" title="Martini Cocktail Recipes">martini</a>
+<a href="/recipes/family/sour/" class="badge text-bg-info text-decoration-none" title="Sour Cocktail Recipes">sour</a>
+<a href="/recipes/family/margarita/" class="badge text-bg-info text-decoration-none" title="Margarita Recipes">margarita</a>
+<a href="/recipes/family/highball/" class="badge text-bg-info text-decoration-none" title="Highball Cocktail Recipes">highball</a>
+<a href="/recipes/family/fizz/" class="badge text-bg-info text-decoration-none" title="Fizz Cocktail Recipes">fizz</a>
+<a href="/recipes/family/punch/" class="badge text-bg-info text-decoration-none" title="Punch Recipes">punch</a>
 
 Cocktail families are like branches of a tree, each with unique characteristics yet interconnected through common roots in mixology. 
 
