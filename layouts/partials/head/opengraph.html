@@ -41,7 +41,7 @@
           "@type": "Person",
           "name": "{{ .Params.author | default "Pure Drinkology" }}"
         },
-        "image": "{{ with $.Resources.GetMatch (printf "**/%s" "{cover.*}") }}{{ with .Resize "1000x" }}{{ .Permalink }}{{ end }}{{ end }}",
+        "image": "{{ with $.Resources.GetMatch (printf "**/%s" "{cover.*}") }}{{ with .Resize "1000x" }}{{ .Permalink | absURL | replaceRE "^http://" "https://" | safeURL }}{{ end }}{{ end }}"
         "recipeIngredient": [
           {{ range  $index, $ingredient := .Params.ingredients }}"{{ $ingredient.measure }} {{ $ingredient.item }}"{{ if ne (add $index 1) (len $.Params.ingredients) }},{{end}}
           {{ end }}
