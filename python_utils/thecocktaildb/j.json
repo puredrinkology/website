@@ -540,6 +540,7 @@
             "strIBA": null,
             "strAlcoholic": "Alcoholic",
             "strGlass": "Cocktail glass",
+            "strFamily": "spirit-forward",
             "strInstructions": "In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.",
             "strInstructionsES": null,
             "strInstructionsDE": "In einem Mischglas, das halb mit Eisw\u00fcrfeln gef\u00fcllt ist, alle Zutaten vermengen. Gut umr\u00fchren. In ein Cocktailglas abseihen.",

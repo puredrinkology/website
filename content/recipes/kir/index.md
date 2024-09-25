@@ -17,7 +17,7 @@ glass: "Wine Glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "wine"
-family: "other"
+family: "highball"
 visual: "## LLM Prompt for Describing a Kir Cocktail:**Imagine a tall, slender champagne flute filled to the brim with a delicate, pale pink liquid. The base of the flute holds a vibrant, almost opaque layer of deep, ruby red Creme de Cassis, which gradually transitions into a soft, blushing pink as it meets the champagne. The bubbles of the Champagne rise through the liquid, creating a gentle effervescence that dances with the light. The overall effect is one of refined elegance, a beautiful balance of richness and lightness. ** **Bonus:**  Include sensory details to enhance the description. For example: * **Aroma:** The cocktail releases a delicate scent of blackcurrant and a subtle hint of the champagne's yeasty notes. * **Texture:** The bubbly texture of the champagne contrasts with the smooth, syrupy richness of the Creme de Cassis, creating a unique mouthfeel. "
 source: "thecocktaildb"
 ---

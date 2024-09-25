@@ -13,15 +13,17 @@ ingredients:
     measure: "0.5 oz"
   - item: "Lemon Peel"
     measure: "1 Twist Of"
+  - item: "Angostura Bitters"
+    measure: "2 Dashes"
 instructions:
-  - item: "In a shaker half-filled with ice cubes combine the courbon and Benedictine."
-  - item: "Shake and strain into a cocktail glass."
+  - item: "In a mixing glass half-filled with ice cubes combine the Bourbon and Benedictine and Bitters."
+  - item: "Stir for 15 seconds until cold, and strain into an old fashioned glass."
   - item: "Garnish with the lemon twist."
 glass: "Cocktail glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "bourbon"
-family: "other"
+family: "ancestral"
 visual: "## LLM Prompt:Imagine a **Kentucky Colonel** cocktail, a vibrant blend of golden **Bourbon** and rich, amber **Benedictine**, kissed with the subtle essence of **lemon peel**.  **Describe the visual appeal of this cocktail.** * What is the **overall color** of the drink? * Is it **clear, cloudy, or layered**? * What is the **texture** like? * Are there any **visible elements** like ice cubes, fruit garnishes, or a lemon twist? * How does the **light play** off the drink? Focus on using **vivid and descriptive language** to paint a picture of the Kentucky Colonel's visual allure. "
 source: "thecocktaildb"
 ---

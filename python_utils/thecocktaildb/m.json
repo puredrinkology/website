@@ -435,6 +435,7 @@
             "strIBA": null,
             "strAlcoholic": "Alcoholic",
             "strGlass": "Collins glass",
+            "strFamily":"highball",
             "strInstructions": "1 - Pour the Ricard (or pastis)\r\n2 - Pour the orgeat syrup\r\n3 - Finally pour the water and add ice cubes at your convenience.\r\n\r\nAdd the ice cubes at the end, otherwise the syrup and pastis do not mix well.",
             "strInstructionsES": null,
             "strInstructionsDE": null,

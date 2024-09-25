@@ -21,7 +21,7 @@ glass: "Cocktail glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "gin"
-family: "other"
+family: "spirit-forward"
 visual: "## LLM Prompt:**Imagine a cocktail named Jewel of the Nile. It's crafted using gin, green Chartreuse, and yellow Chartreuse. Describe the appearance of this cocktail, focusing on the color, clarity, and any visual elements that might stand out.** **Constraints:*** **The drink is well-balanced and elegant, not overly sweet or brightly colored.*** **Consider the unique visual qualities of Chartreuse - its vibrant green and yellow hues.*** **The gin's presence should be subtle, but its botanicals may impart subtle nuances to the color.****Example Output:**The Jewel of the Nile shimmers in the glass, its hue a captivating blend of jade green and golden amber. The layers of Chartreuse create a mesmerizing depth, with the vibrant green of the green Chartreuse gently fading into the luminous yellow of its counterpart. The gin, while discreet, adds a subtle complexity to the overall tone, hinting at the botanicals that lie within. The drink's clarity is pristine, allowing the intricate play of colors to captivate the eye. It's a cocktail that whispers of ancient secrets and the allure of faraway lands. "
 source: "thecocktaildb"
 ---

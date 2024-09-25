@@ -20,7 +20,7 @@ glass: "Highball glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit:
-family: "other"
+family: "highball"
 visual: "## LLM Prompt: Describe the appearance of a Lazy Coconut Paloma cocktail, made with Coconut Liqueur, Grapefruit Juice, and Soda Water. Consider the following aspects:* **Color:** Is it a vibrant, opaque hue, or a lighter, translucent shade? What specific color words best describe it? * **Texture:**  Is it bubbly, smooth, or layered? Are there any visible ingredients like ice or fruit?* **Overall impression:** Does it evoke a sense of tropical relaxation, or a more refined sophistication? * **Specific details:** Are there any unique visual elements, like a garnish or the way the ingredients interact?**Example:** Imagine a cocktail with a pale, sun-kissed hue, reminiscent of a tropical sunset. The drink is gently fizzy, with tiny bubbles dancing on the surface.  A whisper of white coconut cream clings to the rim, creating a subtle, creamy contrast against the vibrant grapefruit color. It's a refreshing and visually appealing drink, perfect for a warm summer evening. "
 source: "thecocktaildb"
 ---

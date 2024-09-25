@@ -20,7 +20,7 @@ glass: "Cocktail glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "vodka"
-family: "other"
+family: "sour"
 visual: "##  LLM Prompt: Describe the appearance of a Kamikaze cocktail.Imagine a classic Kamikaze cocktail, freshly made. Describe its appearance in detail, focusing on:* **Color:** What is the dominant color? Are there any subtle variations or hints of other colors? * **Clarity:** Is it clear, cloudy, or does it have a slight haze? * **Texture:** Is it smooth or does it have any visible elements, like ice chips or a garnish?* **Garnish:** What, if anything, is used to garnish the drink? How does it affect the overall visual appeal? * **Glassware:** What type of glass is typically used to serve a Kamikaze? How does the shape of the glass enhance the presentation?Please paint a vivid picture of the Kamikaze's visual appeal, using descriptive language and sensory details. "
 source: "thecocktaildb"
 ---

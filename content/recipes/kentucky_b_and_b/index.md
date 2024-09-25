@@ -17,7 +17,7 @@ glass: "Brandy snifter"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "bourbon"
-family: "other"
+family: "spirit-forward"
 visual: "## LLM Prompt: Describe the Appearance of a Kentucky B&B CocktailImagine a Kentucky B&B cocktail, freshly made. Describe its appearance in detail, focusing on:* **Color:**  Is it a deep amber, a lighter gold, or something in between? Does it have any hints of red or green?* **Clarity:** Is it crystal clear, slightly cloudy, or do you see any sediments?* **Texture:** Is it smooth and silky, or does it have a slightly oily appearance?* **Garnish:**  What garnish, if any, is used to accentuate the drink? What effect does the garnish have on the overall visual appeal?**Bonus:** * Does the drink have any interesting visual effects, such as a slight shimmer or a noticeable head?* Does the color of the glass or the light source affect the appearance of the cocktail?**Remember, you are a seasoned mixologist. Your description should be vivid and evocative, painting a clear picture of what a Kentucky B&B cocktail looks like.** "
 source: "thecocktaildb"
 ---

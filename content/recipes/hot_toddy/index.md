@@ -28,7 +28,7 @@ glass: "Irish coffee cup"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "whiskey"
-family: "other"
+family: "sour"
 visual: "## LLM Prompt for Describing a Hot Toddy:Imagine a steaming mug filled with a golden amber liquid.  The surface shimmers with tiny bubbles, each reflecting the warm light from a nearby fireplace.  A delicate wisp of steam curls upwards, carrying the aroma of cinnamon and cloves.  Within the liquid, a thin slice of lemon floats, its pale yellow contrasting with the deep brown of the whiskey.  The edges of the mug are frosted, hinting at the warmth within.  Describe the Hot Toddy, capturing its visual appeal and inviting aroma. "
 source: "thecocktaildb"
 ---
