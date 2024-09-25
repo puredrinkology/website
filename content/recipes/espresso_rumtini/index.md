@@ -17,12 +17,12 @@ ingredients:
     measure: "1.5 oz"
 instructions:
   - item: "Mix together in a cocktail glass."
-  - item: "Garnish with some choclate powder and coffee beans."
+  - item: "Garnish with some chocolate powder and coffee beans."
 glass: "Cocktail glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "rum"
-family: ""
+family: "martini"
 visual: "## LLM Prompt: Describe the Appearance of an Espresso Rumtini**Imagine a cocktail called Espresso Rumtini. It's made with Rum, Vanilla Syrup, Espresso, and Coffee. Describe its appearance in detail, focusing on the colors, textures, and presentation.****Here are some guiding questions to help you:*** **Color:** Is it a single color or layered? What shades and hues are present? Does it appear dark and rich, or lighter and more vibrant?* **Texture:** Is it clear, cloudy, or frothy? Does it have a smooth surface, or a creamy foam? * **Presentation:** Is it served in a martini glass, a rocks glass, or something else? Is there any garnish? What kind of garnish would complement the flavors?* **Overall Impression:** What kind of atmosphere does the appearance of this cocktail evoke? Does it seem sophisticated and elegant, or bold and intense?**Please be as descriptive as possible, using imagery and sensory details to paint a picture of this cocktail in the reader's mind.** "
 source: "thecocktaildb"
 ---
