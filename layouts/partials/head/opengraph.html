@@ -43,14 +43,14 @@
         },
         "image": "{{ with $.Resources.GetMatch (printf "**/%s" "{cover.*}") }}{{ with .Resize "1000x" }}{{ .Permalink }}{{ end }}{{ end }}",
         "recipeIngredient": [
-          {{ range .Params.ingredients }}"{{ .measure }} {{ .item }}",
+          {{ range  $index, $ingredient := .Params.ingredients }}"{{ $ingredient.measure }} {{ $ingredient.item }}"{{ if ne (add $index 1) (len $.Params.ingredients) }},{{end}}
           {{ end }}
         ],
         "recipeInstructions": [
-          {{ range .Params.instructions }}"{{ .item }}"
+          {{ range  $index, $instruction := .Params.instructions }}"{{ $instruction.item }}" {{ if ne (add $index 1) (len $.Params.instructions) }},{{end}}
           {{ end }}
         ],
-        "recipeCategory": "{{ .Params.category }}",
+        "recipeCategory": "{{ humanize .Params.category }}",
         "recipeCuisine": "Cocktail",
         "keywords": "{{.Title}}, {{ .Params.category }}, {{ .Params.base_spirit }}, {{ .Params.family }}",
         "recipeYield": "1 serving"
