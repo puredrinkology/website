@@ -185,9 +185,6 @@
     "royal_flush": {
         "description": "The Royal Flush, a vibrant blend of Crown Royal whiskey, peach schnapps, Chambord, and cranberry juice, falls squarely into the Fruity Cocktail family. This modern concoction likely emerged in the late 20th century, mirroring the growing popularity of sweet, easy-to-drink cocktails. "
     },
-    "coffee-vodka": {
-        "description": ""
-    },
     "gluehwein": {
         "description": "Gl\u00fchwein, meaning glowing wine, is a warm, spiced wine beverage belonging to the **mulled wine** family.  Originating in medieval Germany, it's a comforting drink enjoyed during the cold months, especially around Christmas markets. "
     },
@@ -387,7 +384,7 @@
         "description": "The Zimadori Zinger falls into the Highball family, a classic cocktail style known for its tall, refreshing nature. This particular concoction, a recent creation, likely emerged from the 1990s trend of mixing popular, readily available beverages for a quick and easy drink. "
     },
     "pornstar_martini": {
-        "description": ""
+        "description": "The Pornstar Martini belongs to the modern classic cocktail family, known for bold, fruity flavors. Created by bartender Douglas Ankrah in London during the early 2000s, it features passion fruit, vanilla vodka, and a side of champagne. Its provocative name and vibrant taste have made it a global favorite at contemporary bars."
     },
     "iced_coffee": {
         "description": "While not a traditional cocktail in the sense of spirits, Iced Coffee is firmly in the Coffee Cocktail family. Its origin is widely debated, but likely emerged from the simple desire to enjoy a chilled coffee drink, particularly in warmer climates. "
@@ -452,9 +449,6 @@
     "57_chevy_with_a_white_license_plate": {
         "description": "The 57 Chevy with a White License Plate is a delightful twist on the classic **Creme de Cacao cocktail family**.  Its origins are likely contemporary, drawing inspiration from the smooth, sweet-and-spicy flavor profile of its ancestors, while incorporating the modern preference for vodka's clean, crisp finish. "
     },
-    "quaker's_cocktail": {
-        "description": ""
-    },
     "jam_donut": {
         "description": "The Jam Donut is a modern take on the classic dessert cocktail, likely inspired by the popular British treat. This creamy, sweet concoction blends the rich smoothness of Baileys with the fruity sweetness of Chambord, creating a decadent and playful drink perfect for a celebratory occasion. "
     },
@@ -472,9 +466,6 @@
     },
     "tequila_sour": {
         "description": "The Tequila Sour is a classic Sour cocktail, a family known for its tangy, citrusy base. While its exact origin is murky, it likely emerged in the early 20th century, as tequila gained popularity in the U.S., adapting the classic Whiskey Sour recipe. "
-    },
-    "horse's_neck": {
-        "description": ""
     },
     "brasserie_special": {
         "description": "The Brasserie Special is a vibrant, citrus-forward cocktail hailing from the Sour family.  Its roots likely lie in the classic Whiskey Sour, with the addition of passionfruit lending a tropical twist and orange liqueur adding complexity. "
@@ -516,7 +507,7 @@
         "description": "The Chicago Fizz belongs to the **Fizz family**, a group of cocktails characterized by their bubbly, refreshing nature. Originating in the late 19th century, this particular Fizz likely emerged from the bustling Chicago bar scene, combining the sweetness of Port with the citrusy tang of lemon and the frothy texture of egg white. "
     },
     "orgasm": {
-        "description": ""
+        "description": "The Orgasm Cocktail is a creamy, sweet, and indulgent drink from the dessert cocktail family. Made with white crème de cacao, amaretto, triple sec, vodka, and light cream, it delivers a smooth, nutty, and citrusy flavor. Popularized in the 1980s, it’s often served as a post-dinner treat or party favorite, embodying decadence in a glass."
     },
     "vodka_slime": {
         "description": "Vodka Slime is a refreshing highball, a cocktail family known for their simple, tall structure and use of soda or a mixer. Though its specific origin is unknown, it's likely a modern creation, a playful twist on classic vodka highballs like the Vodka Tonic or Vodka Soda. "
@@ -531,7 +522,7 @@
         "description": "Vodka Lemon is a classic Sour, a cocktail family known for its simple, tart, and refreshing nature.  While its exact origin is unknown, it's likely a contemporary riff on the Whiskey Sour, taking advantage of Vodka's versatility. "
     },
     "cosmopolitan": {
-        "description": ""
+        "description": "The Cosmopolitan, part of the sour cocktail family, gained fame in the 1990s thanks to 'Sex and the City'. Made with vodka, cranberry juice, lime, and triple sec, it originated in the 1980s, with bartender Toby Cecchini refining the recipe in New York. Its bright pink hue and refreshing taste make it an enduring favorite."
     },
     "figgy_thyme": {
         "description": "Figgy Thyme belongs to the **Fizz** family, a classic cocktail style known for its effervescence.  Though its precise origin is unclear, the combination of spirit, sweetener, and bitter elements, often topped with sparkling water, has roots in the 19th century. "
@@ -933,7 +924,7 @@
         "description": "The Negroni is a classic Italian bitter aperitivo, belonging to the Americano family of cocktails.  Born in Florence in 1919, it's named after Count Camillo Negroni, who requested a stronger version of the Americano by replacing the soda water with gin. "
     },
     "24k_nightmare": {
-        "description": ""
+        "description": "The 24k Nightmare shot is a potent member of the layered shooter family, known for its strong, bold flavors. This intense drink combines Goldschläger's cinnamon heat, Jägermeister's herbal complexity, Rumple Minze's peppermint chill, and Bacardi 151's high-proof kick. It likely emerged in the modern bar scene, catering to thrill-seekers looking for a powerful, memorable shot."
     },
     "69_special": {
         "description": "The 69 Special belongs to the Highball family, characterized by their tall, mixed-drink format. Its origins are likely rooted in the early 20th century, a time when gin-based cocktails were popular and 7-Up emerged as a popular soda. "
@@ -1062,7 +1053,7 @@
         "description": "The Popped Cherry belongs to the Sour family, a classic cocktail group characterized by a balance of sweet, sour, and spirit.  While its exact origin is unknown, it likely evolved from the popular Cranberry Sour with the addition of cherry liqueur for a vibrant, fruity twist. "
     },
     "flander's_flake_out": {
-        "description": ""
+        "description": "The Flander's Flake Out is a unique twist on classic highball drinks. Combining the anise-forward sweetness of Sambuca with the earthy, root beer-like flavor of sarsaparilla, this cocktail offers a nostalgic and bold blend. Likely a modern invention, it appeals to those seeking a refreshing yet complex drink with a balance of herbal and sweet flavors."
     },
     "clove_cocktail": {
         "description": "The Clove Cocktail is a member of the classic Sweet Vermouth cocktail family, often featuring bittersweet liqueurs like sloe gin.  Though its exact origin is unknown, its combination of botanicals and sweet-tart flavors suggests a mid-19th century origin, possibly from a London or New York bar. "
@@ -1071,10 +1062,7 @@
         "description": "The Vodka Tonic is a quintessential Highball, a family of long, refreshing drinks built on a base spirit and a mixer.  Originating in the early 20th century, the Vodka Tonic combines the clean taste of vodka with the effervescent bitterness of tonic water, garnished with a citrus twist. "
     },
     "dirty_nipple": {
-        "description": ""
-    },
-    "zippy's_revenge": {
-        "description": ""
+        "description": "The Dirty Nipple Shot is a decadent layered shooter, combining the rich coffee notes of Kahlua, the anise-forward bite of Sambuca, and the creamy smoothness of Baileys Irish Cream. This playful drink is part of the layered shot family, where each distinct liqueur adds a flavorful and visually appealing layer. Perfect for parties or a sweet post-dinner treat."
     },
     "stolen_negroni": {
         "description": "The Stolen Negroni is a modern riff on the classic Negroni, drawing from the bitter-sweet Italian Negroni family. It swaps Campari for Cynar and Aperol, creating a unique flavor profile that blends the herbal bitterness of Cynar with the bright orange notes of Aperol. "
@@ -1123,9 +1111,6 @@
     },
     "tuxedo_cocktail": {
         "description": "The Tuxedo Cocktail is a classic member of the Martini family, dating back to the early 20th century. Its origins are shrouded in mystery, but it's likely a variation on the Martinez, with the addition of maraschino liqueur and anise adding a sweet, herbal complexity. "
-    },
-    "kool-aid_shot": {
-        "description": ""
     },
     "downshift": {
         "description": "Downshift is a contemporary concoction that falls under the umbrella of highball cocktails, characterized by their simple construction and tall, ice-filled serving style.  It's likely a modern invention, combining the fruity sweetness of fruit punch and Sprite with the potent kick of tequila and 151 proof rum. "
@@ -1211,9 +1196,6 @@
     "broadside": {
         "description": "The Broadside, with its potent rum and scotch base,  belongs to the robust world of **highball cocktails**.  Its origins likely stem from the 19th century, reflecting the era's fascination with strong spirits and bold flavors. The use of wormwood, a key ingredient in absinthe, hints at the cocktail's connection to the historical death in the afternoon era. "
     },
-    "flaming_dr._pepper": {
-        "description": ""
-    },
     "bible_belt": {
         "description": "The Bible Belt is a classic sour cocktail, a family known for their tangy, citrusy profiles. It's likely a Southern invention, blending the warmth of Southern Comfort with the sweetness of Triple Sec and lime, creating a refreshing drink perfect for the region's climate. "
     },
@@ -1244,12 +1226,6 @@
     "orange_push_up": {
         "description": "The Orange Push-up is a vibrant, nostalgic riff on the classic Sour family.  While its exact origin is unknown, its blend of rum, citrus, and sweet elements echoes the popular Rum Sour of the early 20th century, likely adapted with modern sour mix and a playful, popsicle-inspired name. "
     },
-    "jack's_vanilla_coke": {
-        "description": ""
-    },
-    "kool-aid_slammer": {
-        "description": ""
-    },
     "basil_julep": {
         "description": "The Basil Julep is a twist on the classic Julep, a family of cocktails traditionally made with bourbon, sugar, and mint. This refreshing take on the Julep swaps the bourbon for Irish whiskey and the mint for basil, adding a contemporary flavor profile while staying true to its Southern roots. "
     },
@@ -1275,7 +1251,7 @@
         "description": "Kill the Cold Smoothie belongs to the **wellness cocktail** family, a modern twist on traditional medicinal remedies.  This drink draws inspiration from ancient folk remedies that used ginger and lemon to soothe sore throats and fight colds. "
     },
     "kamikaze": {
-        "description": ""
+        "description": "The Kamikaze Cocktail is a sharp, citrusy drink from the sour cocktail family. Made with vodka, triple sec, and lime juice, it offers a balanced mix of sweet and tart flavors. Created in the post-World War II era, likely during the 1970s, the Kamikaze is known for its simplicity and is often enjoyed as a shot or a cocktail."
     },
     "pegu_club": {
         "description": "The Pegu Club, a classic gin sour, hails from the legendary Pegu Club in Burma (present-day Myanmar). It's a member of the sour family, where citrus juices and a sweetener are balanced by the spirit, in this case, gin.  "
@@ -1285,9 +1261,6 @@
     },
     "tequila_sunrise": {
         "description": "The Tequila Sunrise is a member of the Sunrise family, characterized by layered liqueurs creating a colorful gradient.  Born in the 1970s, it was popularized by the band The Eagles and remains a classic for its simple yet visually striking appeal. "
-    },
-    "hunter's_moon": {
-        "description": ""
     },
     "brooklyn": {
         "description": "The Brooklyn is a classic Manhattan variation, hailing from the 19th century.  This  rye-based cocktail, sweetened with dry vermouth and a touch of maraschino, boasts a complex flavor profile balanced by bitter notes from Angostura bitters. It's a sophisticated choice for any occasion. "

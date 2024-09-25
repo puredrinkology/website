@@ -1,5 +1,5 @@
 ---
-title: Rum
+title: Rum Based Cocktail Recipes
 description: A collection of cocktail recipes featuring Rum
 layout: taxonomy
 url: "/recipes/spirit/rum/"

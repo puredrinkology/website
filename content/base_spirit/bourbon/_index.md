@@ -1,5 +1,5 @@
 ---
-title: Bourbon
+title: Bourbon Based Cocktail Recipes
 description: A collection of cocktail recipes featuring Bourbon
 layout: taxonomy
 url: "/recipes/spirit/bourbon/"

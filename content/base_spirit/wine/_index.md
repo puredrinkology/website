@@ -1,5 +1,5 @@
 ---
-title: Wine
+title: Wine Based Cocktail Recipes
 description: A collection of cocktail recipes featuring Wine
 layout: taxonomy
 url: "/recipes/spirit/wine/"

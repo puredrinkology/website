@@ -1,5 +1,5 @@
 ---
-title: Rye
+title: Rye Based Cocktail Recipes
 description: A collection of cocktail recipes featuring Rye
 layout: taxonomy
 url: "/recipes/spirit/rye/"

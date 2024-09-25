@@ -3,7 +3,7 @@ title: "The Cosmopolitan Cocktail"
 fullname: "The Cosmopolitan Cocktail"
 shortname: "Cosmopolitan"
 author: "Pure Drinkology"
-description: ""
+description: "The Cosmopolitan, part of the sour cocktail family, gained fame in the 1990s thanks to 'Sex and the City'. Made with vodka, cranberry juice, lime, and triple sec, it originated in the 1980s, with bartender Toby Cecchini refining the recipe in New York. Its bright pink hue and refreshing taste make it an enduring favorite."
 flavor_description: "The Cosmopolitan is a tart and sweet symphony. Vodka provides a clean, neutral base, while lime juice delivers a sharp, citrusy bite. Cointreau adds a touch of orange sweetness and a hint of floral complexity. Cranberry juice rounds out the profile with its tart, berry sweetness, creating a perfectly balanced and refreshing cocktail that is both sophisticated and approachable. "
 bartender_tips: "For a perfect Cosmo, chill everything - your shaker, ingredients, and even the glass.  Use fresh lime juice, not bottled.  Measure carefully, as a little too much cranberry juice can make it overly sweet.  Shake hard with ice to chill thoroughly, then strain into a chilled martini glass.  Garnish with a lime twist for a classic touch. "
 ingredients:

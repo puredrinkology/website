@@ -1,5 +1,5 @@
 ---
-title: Brandy
+title: Brandy Based Cocktail Recipes
 description: A collection of cocktail recipes featuring Brandy
 layout: taxonomy
 url: "/recipes/spirit/brandy/"

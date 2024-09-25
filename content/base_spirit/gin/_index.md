@@ -1,5 +1,5 @@
 ---
-title: Gin
+title: Gin Based Cocktail Recipes
 description: A collection of cocktail recipes featuring Gin
 layout: taxonomy
 url: "/recipes/spirit/gin/"

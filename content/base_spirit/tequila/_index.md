@@ -1,5 +1,5 @@
 ---
-title: Tequila
+title: Tequila Based Cocktail Recipes
 description: A collection of cocktail recipes featuring Tequila
 layout: taxonomy
 url: "/recipes/spirit/tequila/"

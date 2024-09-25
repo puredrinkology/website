@@ -1,5 +1,5 @@
 ---
-title: Vodka
+title: Vodka Based Cocktail Recipes
 description: A collection of cocktail recipes featuring Vodka
 layout: taxonomy
 url: "/recipes/spirit/vodka/"
