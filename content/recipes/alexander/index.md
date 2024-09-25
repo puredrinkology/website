@@ -22,7 +22,7 @@ glass: "Cocktail glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "gin"
-family: "other"
+family: "creme"
 visual: "##  Describe the Alexander Cocktail:**Prompt:**Imagine a classic Alexander cocktail. It's a rich and creamy drink, served in a chilled coupe glass. The liquid is a deep, velvety brown, almost like melted chocolate. A swirl of cream gently sits atop the surface, creating a beautiful contrast with the dark brown beneath.  A delicate dusting of freshly grated nutmeg rests on the cream, adding a touch of warmth and spice to the visual. The entire presentation evokes an elegant, old-fashioned feel, with a hint of decadence and sophistication.  **Details to emphasize:*** **Color:** Deep brown with a hint of richness* **Texture:** Creamy, smooth, possibly with a slight swirl of cream* **Garnish:**  A dusting of nutmeg on the cream* **Glassware:** Chilled coupe glass* **Overall feel:** Elegant, sophisticated, slightly decadent "
 source: "thecocktaildb"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "The Oreo Mudslide Cocktail"
-fullname: "The Oreo Mudslide Cocktail"
+title: "The Oreo Mudslide Shake"
+fullname: "The Oreo Mudslide Shake"
 shortname: "Oreo Mudslide"
 author: "Pure Drinkology"
 description: "The Oreo Mudslide belongs to the **Dessert Cocktail** family, a category that emerged in the late 19th century.  Its origins are likely contemporary, inspired by the popular Mudslide cocktail but with the playful addition of Oreo cookies, echoing the dessert-like nature of this family. "
@@ -22,10 +22,10 @@ instructions:
   - item: "Pour into a large frosted glass."
   - item: "Garnish with whipped cream and a cherry."
 glass: "Collins Glass"
-category: "cocktail"
+category: "shake"
 has_alcohol: true
 base_spirit: "vodka"
-family: "other"
+family: "creme"
 visual: ""
 source: "thecocktaildb"
 ---

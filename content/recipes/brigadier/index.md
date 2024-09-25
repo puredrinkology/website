@@ -19,7 +19,7 @@ glass: "Coupe Glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit:
-family: "other"
+family: "creme"
 visual: ""
 source: "thecocktaildb"
 ---

@@ -25,7 +25,7 @@ glass: "Mason jar"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "whiskey"
-family: "other"
+family: "creme"
 visual: ""
 source: "thecocktaildb"
 ---

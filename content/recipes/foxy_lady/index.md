@@ -19,7 +19,7 @@ glass: "Cocktail glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit:
-family: "other"
+family: "creme"
 visual: "## LLM Prompt:Describe the visual appearance of a Foxy Lady cocktail. The cocktail is made with:* **Amaretto:** A sweet almond-flavored liqueur, typically light amber in color.* **Crème de Cacao:** A rich, chocolate-flavored liqueur, ranging in color from light brown to dark brown.* **Light Cream:** A pale, slightly yellowish cream.Consider factors like:* **Color:** The overall hue of the cocktail, including any layering or gradients.* **Texture:**  The consistency of the drink, whether it's smooth, creamy, or layered.* **Garnish:** Any additional elements, like chocolate shavings, maraschino cherries, or a sprinkle of cinnamon, that contribute to the visual appeal.Imagine this cocktail being served in a **martini glass** or a **coupe glass**. **Example response:**The Foxy Lady shimmers in the glass, a mesmerizing blend of golden brown and creamy white. The Amaretto's amber hues swirl with the rich chocolate tones of the Crème de Cacao, while the light cream adds a delicate, milky layer on top. The velvety texture is enhanced by a subtle dusting of cinnamon, lending a warm and inviting touch to the overall presentation. "
 source: "thecocktaildb"
 ---

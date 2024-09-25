@@ -47,23 +47,26 @@ document.addEventListener('DOMContentLoaded', function() {
                     const item = data.find(i => i.url === url); // Now data is available here
                     const cover = item.url + "images/cover.jpeg";
 
-                    resultsHtml += `
-                        <div class="col-12 col-md-4 col-lg-2 g-4">
-                            <div class="card shadow border-0 p-4 text-decoration-none h-100" style="border-radius: 15px;">
-                                <a class="aspect-ratio-full" href="${url}" title="${item.title}">
-                                    ${cover ? `<img class="rounded-10" src="${cover}" alt="${item.title}" />` : ''}
-                                </a>
-                                <div class="card-body text-center">
-                                    <h5 class="card-title fw-semibold">
-                                        <a href="${url}" class="text-decoration-none">${item.title}</a>
-                                    </h5>
-                                    ${item.category ? `<a href="/recipes/category/${item.category.toLowerCase()}/" class="badge text-bg-primary text-decoration-none">${item.category.toLowerCase()}</a>` : ''}
-                                    ${item.base_spirit ? `<a href="/recipes/spirit/${item.base_spirit.toLowerCase()}/" class="badge text-bg-secondary text-decoration-none">${item.base_spirit.toLowerCase()}</a>` : ''}
-                                    ${item.family ? `<a href="/recipes/family/${item.family.toLowerCase()}/" class="badge text-bg-info text-decoration-none">${item.family.toLowerCase()}</a>` : ''}
+                    // only search cocktails for now!
+                    if (item.category.toLowerCase() === "cocktail"){
+                        resultsHtml += `
+                            <div class="col-12 col-md-4 col-lg-2 g-4">
+                                <div class="card shadow border-0 p-4 text-decoration-none h-100" style="border-radius: 15px;">
+                                    <a class="aspect-ratio-full" href="${url}" title="${item.title}">
+                                        ${cover ? `<img class="rounded-10" src="${cover}" alt="${item.title}" />` : ''}
+                                    </a>
+                                    <div class="card-body text-center">
+                                        <h5 class="card-title fw-semibold">
+                                            <a href="${url}" class="text-decoration-none">${item.title}</a>
+                                        </h5>
+                                        ${item.category ? `<a href="/recipes/category/${item.category.toLowerCase()}/" class="badge text-bg-primary text-decoration-none">${item.category.toLowerCase()}</a>` : ''}
+                                        ${item.base_spirit ? `<a href="/recipes/spirit/${item.base_spirit.toLowerCase()}/" class="badge text-bg-secondary text-decoration-none">${item.base_spirit.toLowerCase()}</a>` : ''}
+                                        ${item.family ? `<a href="/recipes/family/${item.family.toLowerCase()}/" class="badge text-bg-info text-decoration-none">${item.family.toLowerCase()}</a>` : ''}
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                    `;
+                        `;
+                    }
                 });
 
                 searchResults.html(resultsHtml);

@@ -23,7 +23,7 @@ glass: "Cocktail glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "vodka"
-family: "other"
+family: "creme"
 visual: ""
 source: "thecocktaildb"
 ---

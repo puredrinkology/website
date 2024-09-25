@@ -19,7 +19,7 @@ glass: "Cocktail glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "rum"
-family: "other"
+family: "creme"
 visual: "## LLM Prompt:Describe the appearance of a Cherry Rum cocktail, made with Light Rum, Cherry Brandy, and Light Cream. Consider the following:* **Color:**  What is the overall color of the cocktail? Is it a deep red, a pale pink, or something else?* **Texture:** Is the cocktail clear, cloudy, layered, or foamy? * **Garnish:**  How is the cocktail garnished? Is there a cherry on top? Whipped cream? A sprig of mint? * **Glass:** What type of glass is the cocktail served in? A coupe, a martini glass, a rocks glass?**Remember to use descriptive language and imagery to bring the cocktail to life for the reader.** "
 source: "thecocktaildb"
 ---

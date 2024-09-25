@@ -19,7 +19,7 @@ glass: "Hurricane glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit:
-family: "other"
+family: "highball"
 visual: "## LLM Prompt: Describe the Appearance of a Zima Blaster Cocktail**Imagine a cocktail called Zima Blaster, made with Zima and Chambord Raspberry Liqueur. Describe its appearance in detail, focusing on:*** **Color:** What are the dominant hues? Is it layered or blended? Are there any gradients or swirls?* **Texture:** Is it clear, cloudy, or frothy? What kind of bubbles or fizz are present? * **Garnish:**  What kind of garnish would enhance the visual appeal of this cocktail? What color and texture would it add? * **Overall Impression:** What is the overall mood or feeling evoked by the appearance of this cocktail? Is it playful, elegant, refreshing, or something else entirely?**Example:**The Zima Blaster is a captivating sight. Its base is a clear, effervescent Zima, shimmering with tiny bubbles that rise to the surface. A vibrant crimson layer of Chambord rests atop, creating a striking two-tone effect. The Chambord's deep purple hue adds a touch of mystery, while its silky texture contrasts beautifully with the Zima's bubbly nature. A sprig of fresh mint, delicately resting on the rim of the glass, provides a touch of freshness and adds a vibrant pop of green to the overall composition. The combination of bright colors and playful textures creates a whimsical and refreshing visual appeal, making the Zima Blaster a cocktail that is as enjoyable to look at as it is to drink. "
 source: "thecocktaildb"
 ---

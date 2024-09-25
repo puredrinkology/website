@@ -19,7 +19,7 @@ glass: "Cocktail glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "gin"
-family: "other"
+family: "sour"
 visual: "## LLM Prompt:Imagine a Waikiki Beachcomber cocktail. Describe its appearance in detail, focusing on:* **Color:** What is the overall color of the drink? Is it a vibrant hue or more subtle? Does it have any interesting color gradients or layers? * **Clarity:** Is the drink clear, cloudy, or somewhere in between? * **Texture:** Are there any visible ingredients, like fruit pulp or ice? How does the drink look in the glass - still, bubbly, or with interesting textures? * **Garnish:** How is the drink garnished?  What does this add to the visual appeal? Please use vivid language to capture the essence of a tropical paradise in your description. "
 source: "thecocktaildb"
 ---

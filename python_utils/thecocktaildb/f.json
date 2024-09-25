@@ -63,6 +63,7 @@
             "strIBA": null,
             "strAlcoholic": "Alcoholic",
             "strGlass": "Cocktail glass",
+            "strFamily": "creme",
             "strInstructions": "Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.",
             "strInstructionsES": null,
             "strInstructionsDE": null,

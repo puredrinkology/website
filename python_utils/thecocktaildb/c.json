@@ -275,6 +275,7 @@
             "strIBA": null,
             "strAlcoholic": "Alcoholic",
             "strGlass": "Cocktail glass",
+            "strFamily": "creme",
             "strInstructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
             "strInstructionsES": null,
             "strInstructionsDE": "Alle Zutaten mit Eis sch\u00fctteln, in ein Cocktailglas abseihen und servieren.",

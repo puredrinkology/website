@@ -18,7 +18,7 @@ glass: "Old-fashioned glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit: "rum"
-family: "other"
+family: "spirit-forward"
 visual: "## LLM Prompt: Describe the Veteran CocktailImagine a dimly lit bar, the air thick with the scent of pipe tobacco and aged wood. A seasoned bartender, his hands weathered and worn, expertly crafts a cocktail. He pours a generous measure of **dark rum**, its molasses-rich hue reflecting the flickering candlelight. He follows with a splash of **cherry brandy**, the vibrant red contrasting beautifully with the rum's deep amber. As the two liquids mingle, a subtle gradient emerges, the top layer a rich mahogany, fading into a warm reddish-brown. The surface shimmers with tiny bubbles, the remnants of a gentle stir. A single, plump **maraschino cherry** rests atop the concoction, its scarlet hue adding a final touch of vibrancy. **Describe this cocktail, The Veteran, capturing the essence of its color, texture, and ambiance.** "
 source: "thecocktaildb"
 ---

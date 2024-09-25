@@ -24,7 +24,7 @@ glass: "Whiskey sour glass"
 category: "cocktail"
 has_alcohol: true
 base_spirit:
-family: "other"
+family: "creme"
 visual: "## LLM Prompt:Imagine a **Port Wine Flip** - a luscious cocktail born from the depths of a well-aged port. Describe its appearance, focusing on these aspects:* **Color:**  What is the overall color of the drink? Is it a deep, rich red, or does the cream lighten it up? How much does the nutmeg influence the color?* **Texture:** Is it a smooth, creamy drink? Are there any visible layers? What about the foam from the egg?* **Glassware:**  What kind of glass would best showcase the Port Wine Flip? A coupe? A snifter? A rocks glass? * **Garnish:** How does the nutmeg sprinkle play into the visual appeal? Are there any other potential garnishes that would enhance the look? Please describe the Port Wine Flip as if it were a visual masterpiece, capturing its unique beauty and complexity. "
 source: "thecocktaildb"
 ---

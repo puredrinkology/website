@@ -5,6 +5,7 @@ layout: taxonomy
 url: "/recipes/family/other/"
 weight: 100
 coverImage: "/family/other/images/cover.jpeg"
+draft: True
 ---
 
 <a href="/recipes/family/" class="badge bg-success text-light text-decoration-none">see all families</a> 
