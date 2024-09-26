@@ -1,23 +1,20 @@
 {{ if eq .Type "recipes" }}
-
- 
-
-
-  <!-- RECIPE META DATA -->
-  <meta property="og:type" content="recipe" />
-  <meta property="og:site_name" content="puredrinkology.com" />
-  <meta property="og:title" content="{{ .Title }}" />
-  <meta property="og:description" content="{{ with .Description }}{{ . }}{{ end }}" />
-  <meta property="og:url" content="{{ .Permalink }}" />
+  {{ if .Params.ingredients }}
+    <!-- RECIPE META DATA -->
+    <meta property="og:type" content="recipe" />
+    <meta property="og:site_name" content="puredrinkology.com" />
+    <meta property="og:title" content="{{ .Title }}" />
+    <meta property="og:description" content="{{ with .Description }}{{ . }}{{ end }}" />
+    <meta property="og:url" content="{{ .Permalink }}" />
 
     {{ with $.Resources }}
       {{ with .GetMatch (printf "**/%s" "{cover.*}") }}
-          {{ $cover := .Resize "1000x" }}
-          {{ with $cover }}
-            <meta property="og:image" content="{{ .Permalink }}"/>
-            <meta property="og:image:width" content="1000" />
-            <meta property="og:image:height" content="1000" />
-          {{ end }}
+        {{ $cover := .Resize "1000x" }}
+        {{ with $cover }}
+          <meta property="og:image" content="{{ .Permalink }}"/>
+          <meta property="og:image:width" content="1000" />
+          <meta property="og:image:height" content="1000" />
+        {{ end }}
       {{ end }}
     {{ end }}
 
@@ -28,7 +25,6 @@
 
     <meta property="og:recipe:ingredients" content="{{ range .Params.ingredients }}{{ .measure }} {{ .item }}, {{ end }}" />
     <meta property="og:recipe:instructions" content="{{ range .Params.instructions }}{{ .item }} {{ end }}" />
-
 
     <!-- RECIPE SCHEMA -->
     <script type="application/ld+json">
@@ -47,7 +43,7 @@
           {{ end }}
         ],
         "recipeInstructions": [
-          {{ range  $index, $instruction := .Params.instructions }}"{{ $instruction.item }}" {{ if ne (add $index 1) (len $.Params.instructions) }},{{end}}
+          {{ range  $index, $instruction := .Params.instructions }}"{{ $instruction.item }}"{{ if ne (add $index 1) (len $.Params.instructions) }},{{end}}
           {{ end }}
         ],
         "recipeCategory": "{{ humanize .Params.category }}",
@@ -56,10 +52,9 @@
         "recipeYield": "1 serving"
       }
     </script>
-    
-
+  {{ end }}
 {{ else }}
-   <!-- CATEGORY PAGE META DATA -->
+  <!-- CATEGORY PAGE META DATA -->
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="puredrinkology.com" />
   <meta property="og:title" content="{{ .Title }}" />
@@ -68,14 +63,10 @@
 
   {{ with $.Resources }}
     {{ with .GetMatch (printf "**/%s" "{cover.*}") }}
-        {{ $cover := .Resize "1000x" }}
-        {{ with $cover }}
-          <meta property="og:image" content="{{ .Permalink }}"/>
-        {{ end }}
+      {{ $cover := .Resize "1000x" }}
+      {{ with $cover }}
+        <meta property="og:image" content="{{ .Permalink }}"/>
+      {{ end }}
     {{ end }}
   {{ end }}
-
-
 {{ end }}
-
-
