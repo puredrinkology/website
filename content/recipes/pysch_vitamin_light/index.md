@@ -3,6 +3,7 @@ title: "The Pysch Vitamin Light Cocktail"
 fullname: "The Pysch Vitamin Light Cocktail"
 shortname: "Pysch Vitamin Light"
 author: "Pure Drinkology"
+collection:
 description: "The Psych Vitamin Light is a vibrant and refreshing fruit punch, a classic member of the non-alcoholic cocktail family. Its origins are rooted in the desire for healthy, revitalizing beverages, likely popularized in the mid-20th century as a refreshing alternative to sugary sodas. "
 flavor_description: "Psych Vitamin Light bursts with a vibrant, refreshing citrus punch. Tangy orange and sweet pineapple dance on your palate, while apple juice adds a subtle, crisp note. The cool, icy texture enhances the fruitiness, leaving you feeling revitalized and ready for anything. "
 bartender_tips: "This sounds like a refreshing, fruity concoction! To make it perfect, chill your juices beforehand to ensure a cold, crisp taste. Use a good quality orange juice with a bit of pulp for texture.  Start with a base of ice and then layer the juices –  orange, apple, then pineapple.  Give it a gentle stir to combine, but don't overmix as you want to preserve the natural sweetness of the juices. "

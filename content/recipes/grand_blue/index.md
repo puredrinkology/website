@@ -3,6 +3,7 @@ title: "The Grand Blue Cocktail"
 fullname: "The Grand Blue Cocktail"
 shortname: "Grand Blue"
 author: "Pure Drinkology"
+collection:
 description: "The Grand Blue is a vibrant tropical cocktail, likely a modern creation,  belonging to the **Sour** family.  Its base of rum, the sweetness of Malibu, and tartness of sour mix are a classic sour recipe, enhanced with the fruity flavors of peach schnapps and the striking blue hue of Curacao. "
 flavor_description: "The Grand Blue is a tropical delight that explodes with sweet, fruity flavors. The Malibu Rum provides a smooth coconut base, while the Peach Schnapps adds a juicy, ripe peach sweetness. Blue Curacao contributes a bright, citrusy tang and the Sweet and Sour balances everything out with a touch of tartness. This cocktail is refreshing and easy to drink, perfect for a hot summer day. "
 bartender_tips: "For a vibrant Grand Blue, start with chilled ingredients. Layer the Malibu and Peach Schnapps first, then carefully pour the Blue Curaçao on top, creating a distinct blue layer. Gently add sweet and sour last, ensuring a smooth transition between the layers.  Shake well to blend the flavors before serving in a chilled glass. "

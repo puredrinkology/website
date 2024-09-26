@@ -3,6 +3,7 @@ title: "The Granada Diablo Cocktail"
 fullname: "The Granada Diablo Cocktail"
 shortname: "Granada Diablo"
 author: "Pure Drinkology"
+collection:
 description: "The Granada Diablo is a contemporary twist on the classic Sour family.  While its exact origin is unknown, its vibrant blend of sweet, spicy, and tart flavors reflects the modern mixologist's penchant for playful experimentation, drawing inspiration from both traditional and contemporary techniques. "
 flavor_description: "The Granada Diablo is a vibrant fusion of sweet and spicy. Grenadine's pomegranate sweetness blends with ginger syrup's warmth, creating a base that's both fruity and fiery. Tequila adds a sharp, earthy note, while lime juice brings a bright, citrusy acidity.  Soda water completes the cocktail with refreshing effervescence. Overall, it's a complex and balanced drink with a delightful kick. "
 bartender_tips: "To make a truly Diablo Granada, focus on balance. Use a high-quality tequila for depth, and ensure your grenadine isn't overly sweet. Shake the tequila, lime, and syrups with ice, ensuring the ginger sings through. Strain into a tall glass, top with soda, and garnish with a lime wheel. The key is to create a refreshing, slightly spicy, and tart cocktail.  "

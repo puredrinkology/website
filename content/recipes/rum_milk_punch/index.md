@@ -3,6 +3,7 @@ title: "The Rum Milk Cocktail"
 fullname: "The Rum Milk Cocktail"
 shortname: "Rum Milk"
 author: "Pure Drinkology"
+collection:
 description: "Rum Milk Punch is a classic milk punch, a category of cocktails that originated in the Caribbean.  The sweet, creamy combination of rum, milk, and spices like nutmeg was a popular drink among sailors and plantation workers. "
 flavor_description: "The Rum Milk Punch is a creamy, comforting cocktail with a delightful balance of sweet and savory. The light rum provides a subtle, mellow sweetness that complements the smooth, velvety texture of the milk. Powdered sugar adds a touch of richness, while nutmeg adds a warm, spicy aroma and flavor. The overall taste is reminiscent of a spiced milk shake, with a lingering hint of rum on the finish. "
 bartender_tips: "Use whole milk for richness and a creamier texture.  Shake vigorously with ice to chill and emulsify the ingredients.  Don't over-sweeten, taste as you go, and adjust powdered sugar accordingly.  Grate fresh nutmeg for the best aroma, but a pinch of pre-ground will do in a pinch!  Serve immediately for optimal enjoyment. "

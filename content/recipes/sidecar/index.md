@@ -3,6 +3,7 @@ title: "The Sidecar Cocktail"
 fullname: "The Sidecar Cocktail"
 shortname: "Sidecar"
 author: "Pure Drinkology"
+collection:
 description: "The Sidecar, a classic cocktail, belongs to the Sour family, characterized by its tangy, citrusy base.  Its origin is shrouded in mystery, with claims ranging from a Parisian bar in the early 1900s to a British officer in WWI. "
 flavor_description: "The Sidecar is a complex yet balanced cocktail. The Cognac provides warmth and depth, its rich notes of fruit and spice mingling with the bright citrus of lemon juice. Cointreau adds a touch of sweetness and a distinct orange flavor, creating a harmonious interplay of sweet, sour, and bitter. It finishes clean and dry, with a lingering hint of Cognac. "
 bartender_tips: "For a perfect Sidecar, use fresh lemon juice, not bottled.  Shake vigorously with ice to properly chill and dilute.  Strain into a chilled coupe glass.  A sugar rim is optional, but be sure to use a fine sugar for a delicate rim.  Don't over-shake; a slightly cloudy appearance is ideal.  Garnish with a lemon twist for a refreshing aroma. "

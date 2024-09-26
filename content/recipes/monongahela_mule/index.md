@@ -3,6 +3,7 @@ title: "The Monongahela Mule Cocktail"
 fullname: "The Monongahela Mule Cocktail"
 shortname: "Monongahela Mule"
 author: "Pure Drinkology"
+collection:
 description: "The Monongahela Mule is a riff on the classic Moscow Mule, a cocktail family known for its refreshing ginger kick.  This variation incorporates the sweetness of raspberry and the boldness of rye, creating a unique twist on the traditional recipe. "
 flavor_description: "The Monongahela Mule is a vibrant and refreshing cocktail. The ginger syrup and lemon juice provide a zesty, spicy kick, while the raspberry syrup adds a touch of sweetness and fruitiness. The rye whiskey adds depth and complexity, and the soda water provides a light and bubbly finish.  The mint leaves add a touch of herbaceousness and cool the palate. It's a perfect balance of sweet, tart, and spicy, making it an excellent choice for any occasion. "
 bartender_tips: "Muddle the mint gently to release its flavor, but avoid bruising it.  Use fresh lemon juice for the best tang, and make sure your ginger syrup is spicy and your raspberry syrup is tart.  Shake vigorously with ice for a good chill and frothy head. Top with soda for a refreshing fizz. Enjoy responsibly! "

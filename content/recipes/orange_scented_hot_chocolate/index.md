@@ -3,6 +3,7 @@ title: "The Orange Scented Hot Chocolate Cocoa"
 fullname: "The Orange Scented Hot Chocolate Cocoa"
 shortname: "Orange Scented Hot Chocolate"
 author: "Pure Drinkology"
+collection:
 description: "This decadent drink, with its warm chocolate base and citrus zest, is a member of the Hot Chocolate family, a comforting classic with roots in ancient Mesoamerica. The addition of espresso and nutmeg evokes a European influence, suggesting a modern twist on a timeless favorite. "
 flavor_description: "This cocktail is a luxurious blend of comforting warmth and zesty brightness. The rich, velvety chocolate and smooth espresso form a decadent base, while the orange peel adds a subtle citrusy lift. A hint of nutmeg provides an earthy complexity, creating a harmonious symphony of flavors that is both comforting and invigorating. "
 bartender_tips: "Use high-quality chocolate for a richer flavor.  Grate the orange peel, don't just zest it, for maximum orange essence.  Steep the orange peel and nutmeg in the hot milk for a few minutes to infuse the flavor.  Use freshly brewed espresso for a strong coffee flavor.  Don't over-sweeten! The natural sweetness of the chocolate and milk should be enough.  Garnish with a fresh orange peel. "

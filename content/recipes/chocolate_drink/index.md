@@ -3,6 +3,7 @@ title: "The Chocolate Drink Cocoa"
 fullname: "The Chocolate Drink Cocoa"
 shortname: "Chocolate Drink"
 author: "Pure Drinkology"
+collection:
 description: "This is a simple, timeless Milk Drink – a beverage family known for its creamy, comforting qualities. While its exact origin is unclear, its components suggest a long history, possibly dating back to ancient civilizations who enjoyed chocolate with milk and water. "
 flavor_description: "This Chocolate Drink offers a comforting, familiar taste profile. Expect rich, velvety chocolate notes, balanced by the creamy sweetness of milk. The water provides a touch of lightness and helps integrate the flavors. This drink is a classic for a reason, offering a simple yet indulgent experience. "
 bartender_tips: "For a smooth chocolate drink, use high-quality chocolate. Melt it gently over a double boiler or in the microwave, stirring constantly.  Chill the milk before adding it to the melted chocolate for a richer texture.  Don't over-heat the mixture, as it can become grainy.  Use a milk frother to create a luxurious, creamy texture, or top with whipped cream for an indulgent finish.  Enjoy! "

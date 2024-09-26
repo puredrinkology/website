@@ -3,6 +3,7 @@ title: "The Space Odyssey Cocktail"
 fullname: "The Space Odyssey Cocktail"
 shortname: "Space Odyssey"
 author: "Pure Drinkology"
+collection:
 description: "The Space Odyssey is a tropical cocktail, drawing heavily on the classic Rum Runner family. Its sweet, fruity profile likely emerged in the 1970s, when tropical cocktails gained popularity, reflecting the space race era's fascination with the unknown. "
 flavor_description: "The Space Odyssey is a tropical punch with a fiery kick. The 151 proof rum delivers a bold, burn-your-tongue heat, tempered by the sweetness of Malibu and the fruity tang of pineapple and orange juice. Grenadine adds a touch of sweetness and a vibrant red hue, while the cherry provides a delightful tartness.  This cocktail is a bold and adventurous blend of sweet and fiery, perfect for a night under the stars. "
 bartender_tips: "Use a highball glass filled with ice. Layer the ingredients carefully: 151 Rum first, then Malibu, pineapple juice, orange juice, and finally a splash of grenadine. Gently stir to combine, avoiding overmixing.  Garnish with a cherry. Remember, 151 proof rum is potent, so go easy! "

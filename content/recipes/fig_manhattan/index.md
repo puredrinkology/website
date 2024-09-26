@@ -3,6 +3,7 @@ title: "The Fig Manhattan Cocktail"
 fullname: "The Fig Manhattan Cocktail"
 shortname: "Fig Manhattan"
 author: "Pure Drinkology"
+collection:
 description: "The Fig Manhattan is a twist on the classic Manhattan, a member of the Whiskey Cocktail family. This modern variation, likely born in the 2010s,  uses fig syrup to add a unique sweetness and complexity, showcasing the versatility of the Manhattan's base recipe. "
 flavor_description: "The Fig Manhattan is a sophisticated twist on the classic. The fig syrup brings a sweet, jammy richness, balancing the dryness of the whiskey and vermouth.  Aromatic bitters add a subtle complexity, hinting at spice and citrus. Expect a smooth, velvety texture and a finish that lingers on the palate with notes of dried fruit and a whisper of smoke. "
 bartender_tips: "Use a good quality fig syrup, not overly sweet. A dash of Angostura bitters is key.  Chill the glass beforehand for a crisp drink.  Stir, don't shake, to maintain the clarity and texture of the fig syrup.  A single cherry garnish adds elegance. "

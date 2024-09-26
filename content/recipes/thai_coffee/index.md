@@ -3,6 +3,7 @@ title: "The Thai Coffee Cafe"
 fullname: "The Thai Coffee Cafe"
 shortname: "Thai Coffee"
 author: "Pure Drinkology"
+collection:
 description: "Thai Coffee, though not a traditional cocktail, draws inspiration from the **Coffee Cocktail** family.  It's a modern twist on Southeast Asian coffee culture, blending strong coffee with spices like coriander and cardamom, often found in Thai cuisine.  The addition of whipped cream offers a touch of indulgence. "
 flavor_description: "The Thai Coffee bursts with warm, aromatic notes. The coffee's richness is amplified by the subtle spice of coriander and cardamom, creating a complex and inviting aroma. The sugar balances the bitterness, while the whipped cream adds a luxurious texture and a touch of sweetness. The refreshing chill of the ice rounds out the experience, leaving a lingering spice and coffee finish. "
 bartender_tips: "To make the Thai Coffee a success, prioritize freshness. Use freshly ground coffee beans for the best flavor.  Steep the coffee with coriander and cardamom for a rich, aromatic brew. Don't skimp on the sugar, it balances the bitterness. Whip the cream until stiff peaks form, then carefully layer it on top of the coffee.  Serve immediately to maintain the cream's texture. "

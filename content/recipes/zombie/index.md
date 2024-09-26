@@ -3,6 +3,7 @@ title: "The Zombie Cocktail"
 fullname: "The Zombie Cocktail"
 shortname: "Zombie"
 author: "Pure Drinkology"
+collection:
 description: "The Zombie is a potent Tiki cocktail, hailing from the 1930s.  Born in the rum-soaked atmosphere of the Don the Beachcomber bar in Hollywood, its complex blend of rums, Pernod, and fruit juices was designed to knock you off your feet (and maybe your chair). "
 flavor_description: "The Zombie is a complex beast, a potent blend of sweet and bitter. The rums provide a robust, boozy base, while the Pernod adds an anise-like licorice note. Grenadine sweetens things up, but the lime juice and bitters keep it balanced, adding a touch of tartness and spice. Expect a powerful, fruity punch, with a lingering warmth and a hint of mystery. "
 bartender_tips: "Use high-quality rums for the best flavor. Don't skimp on the 151 proof - it's crucial for the kick!  Measure the Pernod carefully, as it can easily overpower the other flavors. Shake vigorously with ice to chill and meld the ingredients. Garnish with a lime wedge and a cherry for a classic touch.  This drink packs a punch, so warn your guests! "

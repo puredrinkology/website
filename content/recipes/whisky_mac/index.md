@@ -3,6 +3,7 @@ title: "The Whisky Mac Cocktail"
 fullname: "The Whisky Mac Cocktail"
 shortname: "Whisky Mac"
 author: "Pure Drinkology"
+collection:
 description: "The Whisky Mac, a simple blend of Scotch whisky and sweet wine, is a member of the wine-based cocktail family.  It's a classic British drink, popularized in the early 20th century, likely originating from Scottish pubs as a quick and flavorful way to enjoy whisky. "
 flavor_description: "The Whisky Mac is a balanced and complex drink. The Scotch whisky brings a robust, smoky character, while the sweet vermouth adds notes of dried fruit, spice, and a touch of bitterness. The combination creates a warm and comforting experience with a lingering finish. "
 bartender_tips: "The Whisky Mac is a simple yet classic drink, but there are a few tricks to make it shine. Use a good quality Scotch with some age for depth. Opt for a sweet, fortified wine like ruby port or sweet vermouth.  Chill both ingredients beforehand for a refreshing experience.  Shake vigorously with ice to dilute and chill the drink, then strain into a chilled coupe glass. Garnish with a twist of orange peel for a touch of citrus aroma. "

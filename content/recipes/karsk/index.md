@@ -3,6 +3,7 @@ title: "The Karsk Cafe"
 fullname: "The Karsk Cafe"
 shortname: "Karsk"
 author: "Pure Drinkology"
+collection:
 description: "Karsk, a potent coffee-based drink, belongs to the Hot Toddy family, originating in Sweden. This traditional drink, made with strong coffee and grain alcohol, is a warming concoction enjoyed during cold winter months. "
 flavor_description: "Karsk is a potent, warming brew that punches you with a bold coffee flavor upfront, followed by a robust, slightly sweet grain alcohol kick.  Expect a lingering warmth in your throat from the alcohol and a subtle, bitter coffee note.  The flavor profile is bold, assertive, and perfect for cold nights. "
 bartender_tips: "When making Karsk, use freshly brewed coffee, strong and hot.  The grain alcohol should be high-proof, like vodka or aquavit, to retain the coffee flavor. Start with a small amount of alcohol and add more to taste. Avoid over-mixing, as it can dilute the coffee. Serve immediately in heat-resistant mugs for a warming experience. "

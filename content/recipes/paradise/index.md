@@ -3,6 +3,7 @@ title: "The Paradise Cocktail"
 fullname: "The Paradise Cocktail"
 shortname: "Paradise"
 author: "Pure Drinkology"
+collection:
 description: "Paradise belongs to the classic Sour family, a blend of spirits, citrus juice, and sweetener.  While its exact origin is unclear, its combination of gin, apricot brandy, and orange juice suggests a 19th-century European influence, possibly drawing inspiration from the popularity of gin and brandy-based cocktails of the era. "
 flavor_description: "Paradise offers a vibrant and refreshing taste profile. The gin provides a crisp, juniper-forward base, while the apricot brandy adds a touch of sweetness and a warm, fruity complexity. Orange juice contributes a bright, citrusy acidity that balances the sweetness and creates a harmonious blend. The overall experience is a delightful combination of refreshing citrus, fruity sweetness, and a subtle gin backbone. "
 bartender_tips: "For a balanced Paradise, use a high-quality gin with botanicals that complement apricot.  A good apricot brandy adds sweetness and complexity, so don't skimp on quality there either.  Freshly squeezed orange juice is key - it's the base of the drink, so avoid store-bought.  Shake well with ice to chill and meld flavors, and strain into a chilled coupe glass.  A simple orange twist garnish adds a nice touch. "

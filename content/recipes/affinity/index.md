@@ -3,6 +3,7 @@ title: "The Affinity Cocktail"
 fullname: "The Affinity Cocktail"
 shortname: "Affinity"
 author: "Pure Drinkology"
+collection:
 description: "Affinity belongs to the classic Manhattan family, with a unique twist. It's a modern take on the timeless cocktail, incorporating both sweet and dry vermouth, adding complexity and depth to the traditional Scotch base. "
 flavor_description: "The Affinity offers a complex and balanced taste profile. The smoky, peaty notes of Scotch are softened by the sweetness of the sweet vermouth, while the dry vermouth adds a touch of dryness and herbal complexity.  The orange bitters provide a subtle citrusy note, balancing the overall sweetness and creating a harmonious finish. "
 bartender_tips: "This is a variation of a classic, so chill your glassware beforehand. Use good quality Scotch, and measure your vermouths precisely for balance. A dash of orange bitters adds depth, but don't overdo it. Stir with ice, strain into your chilled glass, and garnish with an orange peel for a citrus aroma. "

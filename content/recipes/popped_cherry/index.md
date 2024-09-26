@@ -3,6 +3,7 @@ title: "The Popped Cherry Cocktail"
 fullname: "The Popped Cherry Cocktail"
 shortname: "Popped Cherry"
 author: "Pure Drinkology"
+collection:
 description: "The Popped Cherry belongs to the Sour family, a classic cocktail group characterized by a balance of sweet, sour, and spirit.  While its exact origin is unknown, it likely evolved from the popular Cranberry Sour with the addition of cherry liqueur for a vibrant, fruity twist. "
 flavor_description: "The Popped Cherry is a delightful, bright cocktail that hits all the right notes.  The vodka provides a clean, smooth base, while the cherry liqueur adds a sweet and fruity depth.  Cranberry juice brings a tart and tangy element, balanced by the sweetness of orange juice.  Expect a refreshing, well-rounded cocktail with a pleasant lingering sweetness and a subtle tartness. "
 bartender_tips: "For a perfectly balanced Popped Cherry, use high-quality vodka and a cherry liqueur with strong cherry flavor.  Freshly squeezed orange juice is key, so use it sparingly.  Shake well with ice to ensure a smooth, chilled consistency.  Don't over-dilute with cranberry juice – a little goes a long way.  Finish with a maraschino cherry for a festive touch. "

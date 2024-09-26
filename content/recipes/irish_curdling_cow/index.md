@@ -3,6 +3,7 @@ title: "The Irish Curdling Cow Cocktail"
 fullname: "The Irish Curdling Cow Cocktail"
 shortname: "Irish Curdling Cow"
 author: "Pure Drinkology"
+collection:
 description: "The Irish Curdling Cow is a unique concoction that doesn't fit neatly into any established cocktail family. It's likely a modern invention, blending the creaminess of Irish Cream with the boldness of bourbon and vodka, and the citrusy sweetness of orange juice. It's a playful combination defying categorization, much like its quirky name. "
 flavor_description: "The Irish Curdling Cow is a decadent and complex cocktail. The sweetness of Baileys Irish Cream is balanced by the boldness of bourbon and the clean cut of vodka. Orange juice adds a vibrant citrus note, creating a creamy, slightly tart, and ultimately comforting experience.  The result is a smooth and enjoyable blend of flavors, with a slight lingering warmth from the bourbon. "
 bartender_tips: "This sounds like a fun, layered cocktail!  Start by chilling your glass.  Pour the Baileys in first, followed by the Bourbon and Vodka.  Then carefully layer the orange juice on top to create a beautiful visual.  You could use a bar spoon to help with the layering.  Garnish with a wedge of orange, and enjoy! "

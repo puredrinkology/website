@@ -3,6 +3,7 @@ title: "The Fruit Flip-Flop Shake"
 fullname: "The Fruit Flip-Flop Shake"
 shortname: "Fruit Flip-Flop"
 author: "Pure Drinkology"
+collection:
 description: "The Fruit Flip-Flop belongs to the **Milk Punch** family, a historical cocktail category dating back to the 18th century. These drinks, often made with milk or cream, were popular for their refreshing and palate-cleansing qualities.  "
 flavor_description: "The Fruit Flip-Flop offers a refreshing and tangy experience. The smooth, creamy yogurt base balances the sweet and bright fruit juice, creating a harmonious blend. The drink boasts a delicate sweetness with a subtle tartness from the yogurt, leaving a clean and invigorating finish. This cocktail is ideal for those seeking a light and flavorful beverage, perfect for warm weather. "
 bartender_tips: "**Fruit Flip-Flop Tips:*** Use thick, Greek yogurt for a creamy texture.* Blend the fruit juice and yogurt thoroughly for a smooth consistency.* Adjust the sweetness by adding a touch of honey or simple syrup to your liking.* Experiment with different fruits for a variety of flavor profiles.* Garnish with fresh fruit slices or a sprig of mint for an elegant touch. "

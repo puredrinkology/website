@@ -3,6 +3,7 @@ title: "The Grasshopper Cocktail"
 fullname: "The Grasshopper Cocktail"
 shortname: "Grasshopper"
 author: "Pure Drinkology"
+collection:
 description: "The Grasshopper belongs to the creamy liqueur family, specifically a mint chocolate variation. Originating in the 1950s, its name reflects the green hue and purportedly, its hopping popularity. "
 flavor_description: "The Grasshopper is a decadent and refreshing cocktail. It boasts a vibrant, minty sweetness from the Green Creme de Menthe, balanced by the rich, chocolatey notes of Creme de Cacao. The light cream adds a velvety texture and mellows the sweetness, resulting in a smooth and creamy finish. The overall taste profile is a delightful fusion of sweet mint, chocolate, and a hint of creaminess. "
 bartender_tips: "For a perfect Grasshopper, use quality crème de menthe and cacao.  Chill all ingredients beforehand for a frosty, refreshing drink.  Shake well with ice, ensuring the cream is thoroughly blended.  Strain into a chilled coupe glass, and garnish with a sprig of fresh mint for a touch of elegance.  "

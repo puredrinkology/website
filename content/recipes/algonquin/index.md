@@ -3,6 +3,7 @@ title: "The Algonquin Cocktail"
 fullname: "The Algonquin Cocktail"
 shortname: "Algonquin"
 author: "Pure Drinkology"
+collection:
 description: "The Algonquin, a blend of whiskey, dry vermouth, and pineapple juice, belongs to the **Whiskey Sour family**. Though its exact origin is debated, it's believed to have emerged in the early 20th century at the famed Algonquin Hotel in New York City, hence its namesake. "
 flavor_description: "The Algonquin is a delightful balance of sweet and savory.  The blended whiskey brings smooth, mellow notes, while the dry vermouth lends a touch of dryness and herbal complexity. The pineapple juice adds a vibrant sweetness and tropical flair, creating a harmonious and refreshing cocktail that's both approachable and sophisticated. "
 bartender_tips: "The Algonquin is a classic but often overlooked cocktail. To elevate it, use a good quality blended whiskey. The key is balance – don't overdo the pineapple juice, it should be a subtle sweetness.  Chill your ingredients beforehand for a refreshing experience.  A twist of orange peel adds a lovely aromatic touch. "

@@ -3,6 +3,7 @@ title: "The Mimosa Cocktail"
 fullname: "The Mimosa Cocktail"
 shortname: "Mimosa"
 author: "Pure Drinkology"
+collection:
 description: "The Mimosa, a quintessential brunch staple, belongs to the **Fizz family**, characterized by the combination of sparkling wine and a citrus juice.  Its origins trace back to the late 19th century, likely originating in France, where it was initially called Buck's Fizz. "
 flavor_description: "The Mimosa is a classic for a reason. It's a light and refreshing cocktail with a vibrant citrus flavor. The champagne provides a delicate effervescence and dry, yeasty notes, while the orange juice adds a burst of sweetness and tang. The combination is perfectly balanced, making it an ideal brunch or celebratory drink.  "
 bartender_tips: "For a perfect Mimosa, use chilled champagne and fresh-squeezed orange juice.  A 1:1 ratio is classic, but adjust to your taste.  Gently pour the juice into the champagne to avoid excessive foaming.  Don't overfill the glass, leaving room for a garnish of orange peel or a fresh raspberry. "

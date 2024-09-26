@@ -3,6 +3,7 @@ title: "The Afterglow Cocktail"
 fullname: "The Afterglow Cocktail"
 shortname: "Afterglow"
 author: "Pure Drinkology"
+collection:
 description: "The Afterglow is a classic **tropical cocktail**, a refreshing blend of sweet and tart flavors. While its exact origins are unclear, its simplicity and fruity profile point to its likely development in the 1920s-1930s, during the cocktail boom in the US and Caribbean. "
 flavor_description: "The Afterglow is a delightful tropical escape.  The grenadine lends a sweet, tart pomegranate flavor, while the orange and pineapple juices create a vibrant, fruity base. Expect a balance of sweet and tangy, with a hint of exotic richness. This cocktail is light, refreshing, and perfect for a warm day or a celebratory toast. "
 bartender_tips: "The Afterglow is a simple yet delicious cocktail. To make it shine, use freshly squeezed orange and pineapple juice for the best flavor.  A splash of grenadine adds a beautiful red hue and a touch of sweetness, but go easy - you want the citrus to dominate.  Shake well with ice and serve in a chilled glass. A cherry or orange wedge makes a lovely garnish. "

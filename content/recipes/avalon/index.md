@@ -3,6 +3,7 @@ title: "The Avalon Cocktail"
 fullname: "The Avalon Cocktail"
 shortname: "Avalon"
 author: "Pure Drinkology"
+collection:
 description: "The Avalon falls into the Sour family, a classic cocktail category known for its balance of sweet, sour, and spirit.  This tropical twist likely emerged from the modern cocktail scene, drawing inspiration from the exotic flavors of Pisang Ambon (banana) and the refreshing tartness of apple and lemon. "
 flavor_description: "The Avalon is a delightful blend of tropical sweetness and refreshing citrus. The Pisang Ambon, a type of banana liqueur, brings forward its signature banana flavor with a hint of caramel. Apple juice adds a crisp, sweet element, while the lemon and lemonade provide tartness and acidity. The vodka acts as a smooth base, creating a well-balanced and approachable cocktail that's perfect for warm weather. "
 bartender_tips: "**Avalon Bartender Tips:**- Use a good quality vodka for a clean base.- Freshly squeeze lemon juice for the best flavor. - Balance the sweetness of the pisang ambon with the tartness of the lemon juice.- Shake well with ice to chill and blend the flavors.- Garnish with a slice of apple or a lemon twist. "

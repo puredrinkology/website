@@ -3,6 +3,7 @@ title: "The Irish Spring Cocktail"
 fullname: "The Irish Spring Cocktail"
 shortname: "Irish Spring"
 author: "Pure Drinkology"
+collection:
 description: "The Irish Spring is a vibrant, fruit-forward cocktail belonging to the Sour family, likely a modern creation inspired by classic whiskey sours. Its blend of Irish whiskey, peach brandy, and citrus juices creates a refreshing and balanced flavor profile. "
 flavor_description: "The Irish Spring offers a delightful interplay of flavors. The Irish whiskey provides a warm, smoky base, while the peach brandy contributes a sweet, fruity complexity. The orange juice adds a refreshing citrus tang, balanced by the tartness of the sweet and sour mix.  A final touch of orange and cherry  rounds out the experience with a touch of sweetness and bright acidity. It's a balanced and invigorating cocktail, perfect for a sunny afternoon or a cozy evening. "
 bartender_tips: "Start with a chilled glass.  Shake the whiskey, peach brandy, orange juice, and sweet & sour vigorously with ice.  Double strain into the glass to ensure a smooth texture.  Garnish with a bright orange slice and a maraschino cherry.  Adjust sweetness to taste by adding more sweet & sour or a splash of simple syrup.  "

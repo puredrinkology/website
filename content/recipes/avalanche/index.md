@@ -3,6 +3,7 @@ title: "The Avalanche Shake"
 fullname: "The Avalanche Shake"
 shortname: "Avalanche"
 author: "Pure Drinkology"
+collection:
 description: "The Avalanche belongs to the creamy cocktail family, characterized by its smooth, sweet, and decadent texture.  Though its exact origin is unknown, it's likely a modern creation, popularized in the late 20th century for its simple yet satisfying blend of whiskey, coffee liqueur, and cream. "
 flavor_description: "The Avalanche is a decadent and creamy delight.  The smooth, sweet notes of Crown Royal are beautifully complemented by the rich, coffee-forward flavor of Kahlua. The cream adds a velvety texture and rounds out the sweetness, creating a harmonious and indulgent experience. "
 bartender_tips: "The Avalanche is a simple, but delicious cocktail. Here are a few tips: * **Chill your glass:** A frosty glass enhances the flavor and keeps the drink colder longer. * **Use good quality cream:** Avoid using ultra-pasteurized cream, as it will separate.* **Shake with ice:** This ensures the drink is well-chilled and the ingredients are properly blended.* **Garnish with a sprinkle of cocoa powder or a cherry.**  "

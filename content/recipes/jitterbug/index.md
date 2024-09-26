@@ -3,6 +3,7 @@ title: "The Jitterbug Cocktail"
 fullname: "The Jitterbug Cocktail"
 shortname: "Jitterbug"
 author: "Pure Drinkology"
+collection:
 description: "The Jitterbug, a vibrant blend of gin, vodka, and grenadine, belongs to the **Highball** family, known for their tall, refreshing nature.  While its precise origin is unclear, its combination of spirits and sweet elements likely emerged in the **1920s-1930s**, during the cocktail boom following Prohibition. "
 flavor_description: "The Jitterbug is a delightful concoction with a bright and refreshing taste profile. The gin and vodka provide a crisp, clean base, while the grenadine adds a sweet, fruity complexity.  A subtle tartness from the lime juice balances the sweetness, while the sugar and sugar syrup enhance the overall flavor. The soda water adds a refreshing fizz, creating a bubbly and effervescent finish. "
 bartender_tips: "The Jitterbug sounds like a twist on a classic. Here's a tip: **Balance is key!**  Start with a solid base of gin and vodka, then layer in the sweetness of grenadine and sugar/syrup.  Lime juice provides the tartness, but don't overdo it. Top with soda water for a refreshing fizz.  Taste as you go, adjusting sweetness and sourness to your preference. "

@@ -3,6 +3,7 @@ title: "The Tuxedo  Cocktail"
 fullname: "The Tuxedo  Cocktail"
 shortname: "Tuxedo "
 author: "Pure Drinkology"
+collection:
 description: "The Tuxedo Cocktail is a classic member of the Martini family, dating back to the early 20th century. Its origins are shrouded in mystery, but it's likely a variation on the Martinez, with the addition of maraschino liqueur and anise adding a sweet, herbal complexity. "
 flavor_description: "The Tuxedo Cocktail is a sophisticated blend of dry, herbal, and fruity notes. The gin's juniper and citrus shine through, balanced by the dry vermouth's herbal complexity. Maraschino liqueur adds a touch of sweetness and cherry flavor, while anis provides a subtle, licorice-like spice. Orange bitters add a final layer of citrus and complexity. The overall taste is dry, aromatic, and pleasantly complex, with a long, lingering finish. "
 bartender_tips: "When making a Tuxedo Cocktail, ensure your gin is bone dry and your vermouth is well-chilled. A dash of orange bitters brings a bright, citrusy note, while a single drop of anis adds an intriguing layer of complexity. Don't overdo the maraschino liqueur, as it can easily overpower the delicate flavors. Chill your coupe glass thoroughly for a beautifully chilled experience.  "

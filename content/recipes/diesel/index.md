@@ -3,6 +3,7 @@ title: "The Diesel Beer"
 fullname: "The Diesel Beer"
 shortname: "Diesel"
 author: "Pure Drinkology"
+collection:
 description: "Diesel belongs to the Highball family, a category known for its simple, refreshing blends of spirits and mixers. This particular concoction, likely originating in the UK, takes inspiration from the classic shandy (beer and lemonade) with a twist, substituting cider for lemonade and adding blackcurrant cordial for a tart, fruity complexity. "
 flavor_description: "The Diesel is a surprisingly balanced blend. The crisp lager provides a clean, malty base, while the cider adds a touch of sweetness and fruitiness. The blackcurrant cordial then takes center stage, offering a burst of tart, dark berry flavor. It's a refreshing and slightly tart cocktail, perfect for a hot day or a casual gathering. "
 bartender_tips: "For a balanced Diesel, start with a good quality lager.  Use a high-quality blackcurrant cordial, as its flavor will be prominent.  Don't be afraid to adjust the cider ratio to your taste.  A splash of lemon juice adds brightness, and a blackcurrant garnish adds a touch of elegance.  Chill all ingredients before mixing to ensure a refreshing drink. "

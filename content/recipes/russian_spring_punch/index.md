@@ -3,6 +3,7 @@ title: "The Russian Spring Cocktail"
 fullname: "The Russian Spring Cocktail"
 shortname: "Russian Spring"
 author: "Pure Drinkology"
+collection:
 description: "The Russian Spring Punch is a member of the sour family, characterized by its tart and sweet flavor profile. Though its origin remains debated, it's likely a modern invention inspired by classic sour recipes, likely emerging in the mid-20th century. "
 flavor_description: "The Russian Spring Punch is a delightful fusion of sweet and tart. The vodka provides a smooth, clean base, while the crème de cassis adds a rich, blackcurrant sweetness. The sugar syrup balances the acidity of the lemon juice, resulting in a harmonious blend of flavors. The cocktail is refreshingly tart and fruity, with a hint of floral notes from the crème de cassis. It's a perfect balance of boldness and elegance. "
 bartender_tips: "For the best Russian Spring Punch, use high-quality vodka and crème de cassis.  A good ratio is 2 parts vodka to 1 part crème de cassis.  Make sure your sugar syrup is simple and not overly sweet. Freshly squeezed lemon juice is key for balance. Shake ingredients with ice and strain into a chilled coupe glass. Garnish with a lemon twist for that perfect touch. "

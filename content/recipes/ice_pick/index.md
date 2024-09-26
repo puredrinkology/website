@@ -3,6 +3,7 @@ title: "The Ice Pick Cocktail"
 fullname: "The Ice Pick Cocktail"
 shortname: "Ice Pick"
 author: "Pure Drinkology"
+collection:
 description: "The Ice Pick belongs to the Highball family, a refreshing mix of spirits, mixers, and ice. Its origins are likely modern, born from the desire for a simple, cool, and invigorating drink using readily available ingredients. "
 flavor_description: "The Ice Pick is a refreshing, tangy cocktail with a clean, crisp finish. The vodka provides a smooth base, while the iced tea lends a subtle sweetness and earthy notes. Lemon juice brightens the profile, adding a tartness that balances the sweetness and adds a hint of citrus. The overall effect is a light, refreshing drink that's perfect for a warm day. "
 bartender_tips: "This one's all about balance. Use a good quality vodka and fresh lemon juice for the best flavor.  Don't overpower the tea with too much lemon. Start with a 1:1 ratio of iced tea to vodka, then add lemon juice to taste.  Shake with ice for a frosty, refreshing drink. If you're feeling fancy, rim the glass with sugar before pouring. "

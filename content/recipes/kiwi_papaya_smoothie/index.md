@@ -3,6 +3,7 @@ title: "The Kiwi Papaya Smoothie Shake"
 fullname: "The Kiwi Papaya Smoothie Shake"
 shortname: "Kiwi Papaya Smoothie"
 author: "Pure Drinkology"
+collection:
 description: "The Kiwi Papaya Smoothie isn't technically a cocktail, but rather a contemporary fruit smoothie, a modern beverage category popularized in the late 20th century.  It draws inspiration from the long tradition of blended fruit drinks, but emphasizes a fresh, healthy approach. "
 flavor_description: "The Kiwi Papaya Smoothie is a tropical delight. The kiwi provides a bright, tangy sweetness, while the papaya offers a creamy, subtly sweet base. Together, they create a refreshing, vibrant flavor that's both fruity and slightly tart.  It's a delicious way to start your day or enjoy a healthy treat anytime. "
 bartender_tips: "To make your Kiwi Papaya Smoothie a delight, start with ripe, flavorful fruits.  Don't over-blend, you want a slightly chunky texture. For a vibrant color, use a quality green kiwi. A splash of lime juice adds brightness, and a touch of honey balances the sweetness. Serve chilled and garnish with a fresh kiwi slice for an extra touch. "

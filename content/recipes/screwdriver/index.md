@@ -3,6 +3,7 @@ title: "The Screwdriver Cocktail"
 fullname: "The Screwdriver Cocktail"
 shortname: "Screwdriver"
 author: "Pure Drinkology"
+collection:
 description: "The Screwdriver, a simple blend of vodka and orange juice, belongs to the Highball family, characterized by their tall, mixed-drink format.  Its origin is debated, but most agree it emerged in the mid-20th century, possibly among American oil workers in the Middle East. "
 flavor_description: "The Screwdriver is a classic for a reason. It's a refreshing blend of crisp, clean vodka and bright, citrusy orange juice. The result is a smooth, easy-drinking cocktail with a light sweetness and a subtle tang. The vodka's neutrality allows the orange juice to shine, creating a vibrant and invigorating flavor profile that's perfect for any occasion. "
 bartender_tips: "A Screwdriver is all about fresh, bright flavors. Use high-quality vodka and freshly squeezed orange juice. Chill both ingredients beforehand for a crisp, refreshing drink.  Don't over-shake, as this will dilute the flavors. Garnish with an orange slice or a twist. Remember, less is more! "

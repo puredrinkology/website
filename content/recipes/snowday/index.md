@@ -3,6 +3,7 @@ title: "The Snowday Cocktail"
 fullname: "The Snowday Cocktail"
 shortname: "Snowday"
 author: "Pure Drinkology"
+collection:
 description: "Snowday belongs to the **Sour family**, a classic cocktail style with origins in the 18th century. This spirit-forward drink takes inspiration from its namesake, incorporating the wintery flavors of blood orange and amaro for a unique and balanced twist. "
 flavor_description: "The Snowday is a complex, bittersweet symphony. Vodka provides a clean base, while Amaro Montenegro adds herbal and chocolate notes. Ruby Port brings a rich, fruity sweetness, balanced by the tartness of blood orange. Angostura Bitters adds a subtle, spiced complexity. The orange peel contributes a citrusy aroma that elevates the experience.  "
 bartender_tips: "When making the Snowday, chill all ingredients beforehand for a crisp, refreshing experience. Use freshly squeezed blood orange juice for optimal flavor.  Muddle the orange peel slightly before adding to the shaker to release its oils. Shake hard with ice, then double strain to ensure a smooth, clear cocktail. Garnish with a fresh orange twist for a beautiful presentation. "

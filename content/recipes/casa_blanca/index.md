@@ -3,6 +3,7 @@ title: "The Casa Blanca Cocktail"
 fullname: "The Casa Blanca Cocktail"
 shortname: "Casa Blanca"
 author: "Pure Drinkology"
+collection:
 description: "Casa Blanca belongs to the **Sour** family, a classic cocktail style known for its tart, tangy profile.  While its origin isn't definitively documented, its composition suggests a Caribbean influence, likely emerging in the early 20th century. "
 flavor_description: "The Casa Blanca is a refreshing and balanced cocktail.  The light rum provides a smooth, mellow sweetness, while the triple sec adds a bright citrus zest. Lime juice lends a tart tang, balancing the sweetness. A hint of cherry from the maraschino liqueur adds a subtle complexity, rounding out the flavor profile. "
 bartender_tips: "For a perfect Casa Blanca, chill your ingredients beforehand. Use fresh lime juice for optimal flavor. Shake vigorously with ice to ensure proper dilution and a frosty, refreshing drink. Strain into a chilled coupe glass. Don't skimp on the Maraschino liqueur; it adds a delightful complexity. Garnish with a lime wheel for a touch of elegance. "

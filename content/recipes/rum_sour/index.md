@@ -3,6 +3,7 @@ title: "The Rum Sour Cocktail"
 fullname: "The Rum Sour Cocktail"
 shortname: "Rum Sour"
 author: "Pure Drinkology"
+collection:
 description: "The Rum Sour is a classic Sour, a cocktail family known for its simplicity and balance of spirit, citrus, and sweetener.  Its origins are debated, but likely emerged in the 1800s, likely a rum-based adaptation of the whiskey Sour. "
 flavor_description: "The Rum Sour is a delightful balance of tart and sweet. The light rum provides a smooth, mellow sweetness, while the lemon juice adds a bright, tangy acidity. The sugar balances the tartness, creating a harmonious blend.  The orange and maraschino cherry contribute a subtle citrus and cherry sweetness, rounding out the profile with a hint of nostalgia. "
 bartender_tips: "Use a good quality light rum for a brighter flavor.  Freshly squeeze your lemon juice for the best tartness.  A simple syrup is easier to work with than granulated sugar.  Muddle a thin orange peel with the sugar, creating a flavorful base.  Shake well with ice, and strain into a chilled coupe glass.  Garnish with a cherry and a lemon twist. "

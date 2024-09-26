@@ -3,6 +3,7 @@ title: "The Tipperary Cocktail"
 fullname: "The Tipperary Cocktail"
 shortname: "Tipperary"
 author: "Pure Drinkology"
+collection:
 description: "Tipperary is a member of the Whiskey Sour family,  a sophisticated twist on the classic. Born in Dublin around 1910, this cocktail blends the boldness of Irish whiskey with the herbal sweetness of green Chartreuse and vermouth, a timeless combination for a balanced, refreshing drink. "
 flavor_description: "The Tipperary is a complex cocktail with a rich, bittersweet profile. The Irish whiskey provides a smooth, warming base with hints of spice and barley. Sweet vermouth adds a touch of sweetness and herbal notes, while Green Chartreuse introduces a unique herbal complexity, including hints of mint and citrus. The result is a balanced and surprisingly refreshing drink with a lingering finish. "
 bartender_tips: "When crafting a Tipperary, remember the green Chartreuse is the star. Use a good quality Irish whiskey for depth, but let the Chartreuse shine. Chill the vermouth and Chartreuse beforehand for a crisp, balanced flavor.  Don't over-shake; a gentle stir preserves the delicate aromatics.  Garnish with a lemon twist for a citrusy accent. "

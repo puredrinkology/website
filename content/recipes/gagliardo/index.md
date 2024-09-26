@@ -3,6 +3,7 @@ title: "The Gagliardo Cocktail"
 fullname: "The Gagliardo Cocktail"
 shortname: "Gagliardo"
 author: "Pure Drinkology"
+collection:
 description: "The Gagliardo, with its base of vodka, citrus, and liqueurs,  belongs to the Martini family,  a classic cocktail style known for its dry and sophisticated profile.  While its exact origin is unknown, the use of Galliano hints at an Italian influence, likely emerging in the mid-20th century. "
 flavor_description: "The Gagliardo is a delicate dance of flavors. The sweet, juicy peach vodka mingles with the bright tang of lemon juice, creating a refreshing base. Galliano's herbal and spice notes add depth and complexity, while the subtle floral sweetness of rose syrup rounds out the profile with a touch of elegance. It's a balanced and captivating cocktail, ideal for warm evenings. "
 bartender_tips: "The Gagliardo is a delicate balance of flavors. Use fresh lemon juice for the best acidity. Don't over-shake, as this will dilute the flavors.  The rose syrup adds a subtle sweetness, so adjust according to your preference.  A good quality peach vodka is essential for a well-rounded cocktail.  Garnish with a lemon twist or a sprig of fresh mint to add a refreshing touch. "

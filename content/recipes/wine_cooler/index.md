@@ -3,6 +3,7 @@ title: "The Wine Cooler Punch"
 fullname: "The Wine Cooler Punch"
 shortname: "Wine Cooler"
 author: "Pure Drinkology"
+collection:
 description: "The Wine Cooler belongs to the **Highball** family, a simple yet refreshing cocktail style. Though its exact origins are murky, it likely emerged in the late 20th century, fueled by the popularity of ready-to-drink beverages. "
 flavor_description: "The Wine Cooler is a refreshing, light, and slightly tart cocktail. The red wine provides a subtle fruitiness and tannins, while the lemon-lime soda adds a bubbly sweetness and citrus acidity. The ice chills the drink and dilutes the wine's intensity, making it a perfect summer sipper. "
 bartender_tips: "For a refreshing Wine Cooler, use a good quality dry red wine, like a Pinot Noir or Beaujolais.  Chill the wine and soda beforehand.  Fill a tall glass with ice, add the wine, top with soda, and gently stir.  Don't over-stir, as you want to keep the bubbles lively.  A lemon wedge garnish adds a nice touch. "

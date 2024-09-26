@@ -3,6 +3,7 @@ title: "The Hunters Moon Cocktail"
 fullname: "The Hunters Moon Cocktail"
 shortname: "Hunters Moon"
 author: "Pure Drinkology"
+collection:
 description: "The Hunter's Moon is a unique twist on the classic Sour family, incorporating the fruitiness of blackberries and a touch of maraschino. Its origins are likely modern, blending elements of classic cocktails with contemporary flavor profiles. "
 flavor_description: "The Hunter's Moon is a delightful blend of sweet and tart. The vermouth provides a subtle, herbal backbone, while the maraschino cherry adds a touch of playful sweetness.  Sugar syrup balances the tartness of lemonade, which forms the refreshing base.  The blackberries contribute a delicate fruitiness, creating a complex and enjoyable cocktail that's perfect for a cool autumn evening. "
 bartender_tips: "For a balanced Hunter's Moon, use a dry vermouth for a crisp bite. Muddle the blackberries gently to release their flavor without making it too bitter.  Chill your lemonade thoroughly and use a good quality sugar syrup to ensure sweetness without cloying. Garnish with a fresh blackberry and a maraschino cherry for a beautiful presentation. "

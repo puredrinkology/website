@@ -3,6 +3,7 @@ title: "The Gg Cocktail"
 fullname: "The Gg Cocktail"
 shortname: "Gg"
 author: "Pure Drinkology"
+collection:
 description: "The GG is a refreshing Highball, a cocktail family known for their tall, mixed drinks.  It likely originated in the late 19th or early 20th century, when Galliano, a popular Italian liqueur, became available.  The combination of sweet Galliano and spicy ginger ale creates a unique and delightful taste. "
 flavor_description: "The GG presents a refreshing and slightly sweet experience. Galliano's herbal and anise notes are prominent, creating a unique, almost licorice-like flavor. The ginger ale adds a pleasant effervescence and a subtle ginger kick, balancing out the sweetness. The ice chills the drink, enhancing its refreshing quality. Overall, it's a light and enjoyable cocktail perfect for a warm day. "
 bartender_tips: "The GG is a simple, refreshing drink that's easy to make.  Use good quality Galliano for best flavor.  Fill your glass with ice first, then add Galliano and top with ginger ale.  Stir gently to combine and avoid over-diluting.  Garnish with a lemon twist for a touch of citrusy brightness. "

@@ -3,6 +3,7 @@ title: "The Dry Martini Cocktail"
 fullname: "The Dry Martini Cocktail"
 shortname: "Dry Martini"
 author: "Pure Drinkology"
+collection:
 description: "The Dry Martini, a classic member of the Martini family, is a gin-based cocktail with roots in 19th-century America. Its austere dryness, a testament to the dominance of gin over vermouth, is what defines it.  "
 flavor_description: "The Dry Martini is a symphony of crisp, clean flavors. Gin's juniper and botanicals take center stage, with dry vermouth adding subtle herbal notes and a hint of dryness. The olive, a classic garnish, contributes a briny, savory touch, balancing the gin's boldness with a touch of earthiness. It's a sophisticated, refreshing cocktail with a long, satisfying finish. "
 bartender_tips: "**Chill everything!**  Gin, vermouth, and the glass should all be ice cold.  **Use a quality gin** and a **dry vermouth**.  **Stir, don't shake!**  Shaking will dilute the cocktail.  **Garnish with an olive or a lemon twist.**  Remember, **a good Martini is all about balance**.  Don't overpower the gin with too much vermouth.  **Taste as you go** and adjust the vermouth to your liking. "

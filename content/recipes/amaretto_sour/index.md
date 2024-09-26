@@ -3,6 +3,7 @@ title: "The Amaretto Sour Cocktail"
 fullname: "The Amaretto Sour Cocktail"
 shortname: "Amaretto Sour"
 author: "Pure Drinkology"
+collection:
 description: "The Amaretto Sour belongs to the **sour** family, a classic cocktail category characterized by its tart, sweet, and often frothy texture. Its exact origin is debated, but its roots likely lie in the 19th century, possibly evolving from the Whiskey Sour with the addition of Amaretto. "
 flavor_description: "The Amaretto Sour is a delightful blend of sweet and tart. The Amaretto provides a rich almond flavor, while the Bourbon adds warmth and spice. Lemon juice balances the sweetness with a bright citrus tang, and the simple syrup adds a touch of sweetness. The egg white creates a velvety, foamy texture that adds to the overall luxurious experience. "
 bartender_tips: "For a perfectly frothy Amaretto Sour, use a good quality Amaretto and fresh lemon juice.  Dry shake the egg white and spirits first to create a smooth, creamy foam. Then add ice and shake again to chill. Strain into a chilled coupe glass and garnish with a lemon twist for a classic touch. "

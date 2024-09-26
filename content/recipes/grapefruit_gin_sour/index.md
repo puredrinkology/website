@@ -3,6 +3,7 @@ title: "The Grapefruit Gin Sour Cocktail"
 fullname: "The Grapefruit Gin Sour Cocktail"
 shortname: "Grapefruit Gin Sour"
 author: "Pure Drinkology"
+collection:
 description: "The Grapefruit Gin Sour belongs to the Sour family, a classic cocktail style dating back to the 18th century.  This twist on the traditional sour utilizes the bitter-sweet notes of Aperol, adding a refreshing Italian touch to the traditional citrus and spirit base. "
 flavor_description: "This cocktail bursts with a vibrant citrus punch. The grapefruit cordial's sweetness mingles with the gin's juniper notes, creating a refreshing base. Aperol adds a touch of bitter orange, balancing the sweetness and lending a subtle complexity. Lime juice provides a sharp, tart edge, rounding out the profile with a clean finish. "
 bartender_tips: "For a balanced Grapefruit Gin Sour, use a high-quality gin and a grapefruit cordial that's not too sweet.  Shake the cocktail vigorously with ice to chill it thoroughly.  A splash of club soda adds a refreshing effervescence.  To garnish, use a grapefruit wedge or a sprig of rosemary. "

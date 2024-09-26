@@ -3,6 +3,7 @@ title: "The Cuba Libre Cocktail"
 fullname: "The Cuba Libre Cocktail"
 shortname: "Cuba Libre"
 author: "Pure Drinkology"
+collection:
 description: "The Cuba Libre, a refreshing blend of light rum, lime, and Coca-Cola, belongs to the Highball family. Originating in Havana, Cuba, during the Spanish-American War, it's said to have been created by American soldiers mixing their rum with Coke and lime. "
 flavor_description: "The Cuba Libre is a refreshing blend of sweet and tart. The light rum provides a smooth, slightly sweet base, while the lime adds a bright acidity and citrusy punch. The Coca-Cola contributes a bubbly, cola sweetness with hints of caramel and vanilla. Together, these elements create a balanced and thirst-quenching drink that's both familiar and exciting. "
 bartender_tips: "For a perfect Cuba Libre, use high-quality light rum for a clean flavor.  Muddle lime wedges directly in the glass to release their oils and fragrance. Don't overfill with ice - you want enough to chill the drink without diluting it too quickly.  Top with Coke, but be mindful of the ratio: you want enough Coke to complement the rum and lime, but not overwhelm it.  A twist of lime completes the classic, refreshing cocktail. "

@@ -3,6 +3,7 @@ title: "The Halloween Punch"
 fullname: "The Halloween Punch"
 shortname: "Halloween"
 author: "Pure Drinkology"
+collection:
 description: "This Halloween Punch is a spiced, fruit-forward cocktail, akin to a spiced sangria. It draws inspiration from the centuries-old tradition of using spices and fruit in warming winter drinks, but with a modern twist using vodka for a chillingly smooth finish. "
 flavor_description: "This Halloween Punch packs a spicy, tart punch! The cherry juice provides a sweet base, balanced by the tartness of the orange peel and the fiery kick of red chili flakes.  Ginger and cloves add warm, complex notes, while the vodka provides a smooth, clean finish. It's a unique and surprisingly refreshing cocktail that's perfect for a spooky celebration. "
 bartender_tips: "To make your Halloween Punch a hit, use fresh ginger and orange peel for the best flavor.  Muddle the ginger and cloves gently to release their essence, but avoid pulverizing them.  A few chili flakes add a subtle kick, but be careful not to overdo it.  Chill your vodka beforehand, as it'll keep the punch icy cold and refreshing.  Strain the punch after infusing to avoid any stray chili flakes or ginger bits in your drink.  Enjoy! "

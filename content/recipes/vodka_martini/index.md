@@ -3,6 +3,7 @@ title: "The Vodka Martini Cocktail"
 fullname: "The Vodka Martini Cocktail"
 shortname: "Vodka Martini"
 author: "Pure Drinkology"
+collection:
 description: "The Vodka Martini, a classic member of the Martini family, is a modern twist on the original Gin Martini.  Its origins are murky, likely arising in the early 20th century as vodka gained popularity in the U.S. The simplicity of its ingredients – vodka, dry vermouth, and an olive garnish – has made it an enduring icon. "
 flavor_description: "The Vodka Martini is a crisp and clean cocktail, with a dry, slightly bitter finish. The vodka provides a smooth, neutral base, while the dry vermouth adds a subtle hint of herbal and botanical notes. The olive, if used, contributes a briny, salty element that balances the overall dryness. "
 bartender_tips: "For a perfect Vodka Martini, chill your glass and ingredients beforehand. Use high-quality vodka and good dry vermouth, but just a splash - you want the vodka to shine. Stir, don't shake, to avoid dilution. Garnish with a single olive, preferably a plump green one. Remember, a Martini should be chilled, crisp, and elegant. "

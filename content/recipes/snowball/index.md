@@ -3,6 +3,7 @@ title: "The Snowball Cocktail"
 fullname: "The Snowball Cocktail"
 shortname: "Snowball"
 author: "Pure Drinkology"
+collection:
 description: "The Snowball, also known as a Fluffy Duck, is a creamy, tangy delight, belonging to the **liqueur-based cocktail family**, with roots in **19th-century England**. It's a simple blend of the Dutch egg liqueur, Advocaat, with citrusy lemonade and lemon, creating a refreshing and indulgent drink. "
 flavor_description: "The Snowball is a sweet and creamy delight. The Advocaat, a rich egg yolk liqueur, brings a velvety texture and notes of vanilla and brandy. The lemonade provides a refreshing tartness, while the lemon adds a subtle citrus zing.  The ice chills the drink and accentuates the creamy smoothness.  The result is a comforting, slightly decadent cocktail perfect for wintery days. "
 bartender_tips: "Chill your glass beforehand for a frosty presentation. Use good quality Advocaat, as it's the star of the show. Freshly squeezed lemon juice is key for a bright flavor. Shake vigorously with ice to ensure proper dilution and a smooth texture. Garnish with a lemon twist for an aromatic touch. "

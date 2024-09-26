@@ -3,6 +3,7 @@ title: "The Stone Sour Cocktail"
 fullname: "The Stone Sour Cocktail"
 shortname: "Stone Sour"
 author: "Pure Drinkology"
+collection:
 description: "The Stone Sour, with its base of apricot brandy, orange juice, and sweet & sour mix, is a classic Sour cocktail.  Dating back to the 19th century, Sours were a popular choice in saloons and were often tailored to the available ingredients, creating a range of unique variations like the Stone Sour. "
 flavor_description: "The Stone Sour is a delightful blend of sweet and tart. Apricot brandy brings a warm, fruity sweetness, while orange juice adds a vibrant citrus kick. The sweet and sour mix balances the flavors, resulting in a refreshing and slightly tangy cocktail that is both smooth and complex.  "
 bartender_tips: "For a killer Stone Sour, remember these tips: * Use a good quality Apricot Brandy for a richer flavor.* Freshly squeezed orange juice is key, avoid bottled.* Don't be shy with the sweet and sour mix, it balances the tartness.* Shake well with ice for a frosty, refreshing drink.* Garnish with a Luxardo cherry and a twist of orange peel. "

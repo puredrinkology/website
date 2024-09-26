@@ -3,6 +3,7 @@ title: "The Gin Toddy Cocktail"
 fullname: "The Gin Toddy Cocktail"
 shortname: "Gin Toddy"
 author: "Pure Drinkology"
+collection:
 description: "The Gin Toddy is a classic hot toddy, a drink family known for warming comfort. Its origins are unclear, but likely arose in the 18th century as a way to soothe colds and ailments with gin, sugar, and lemon's citrus. "
 flavor_description: "The Gin Toddy is a warm and comforting drink, a perfect remedy for a chilly evening. The juniper-forward gin is softened by the sweetness of powdered sugar and the brightness of lemon, creating a balanced flavor profile. The water acts as a bridge, allowing the flavors to meld together, resulting in a soothing and revitalizing experience. It's a classic for a reason! "
 bartender_tips: "**Gin Toddy Tips:*** Use a good quality gin, as it's the star of the show.* Dissolve the sugar completely in hot water before adding the gin to avoid a grainy texture.* Add the lemon peel last for a burst of citrus aroma.* Garnish with a lemon twist for visual appeal.* Serve hot in a mug or heatproof glass.* Adjust sweetness to your preference. "

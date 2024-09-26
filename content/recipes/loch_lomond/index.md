@@ -3,6 +3,7 @@ title: "The Loch Lomond Cocktail"
 fullname: "The Loch Lomond Cocktail"
 shortname: "Loch Lomond"
 author: "Pure Drinkology"
+collection:
 description: "The Loch Lomond is a sophisticated variation on the classic **Whiskey Sour** family.  Its origins are unclear, but the blend of Scotch, sweet Drambuie, and dry Vermouth likely emerged in the late 19th or early 20th century, reflecting the growing popularity of Scotch whisky cocktails. "
 flavor_description: "The Loch Lomond is a harmonious blend of smoky Scotch, sweet and herbal Drambuie, dry vermouth's botanical complexity, and a zesty lemon peel. The result is a balanced, slightly sweet cocktail with a lingering smoky finish. The vermouth adds a dry, slightly bitter note, while the lemon peel provides a refreshing citrus touch. It's a sophisticated and elegant cocktail, perfect for sipping slowly on a chilly evening. "
 bartender_tips: "Chill your glass and ingredients beforehand.  Use a high-quality Scotch for the best flavor.  When twisting the lemon peel, express the oils over the drink for a citrusy aroma.  Stir, don't shake, to avoid diluting the cocktail.  Garnish with the lemon peel for a beautiful and aromatic touch.  Remember, a good Loch Lomond is all about balance between the smoky Scotch, sweet Drambuie, and dry Vermouth. "

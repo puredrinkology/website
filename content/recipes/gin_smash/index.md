@@ -3,6 +3,7 @@ title: "The Gin Smash Cocktail"
 fullname: "The Gin Smash Cocktail"
 shortname: "Gin Smash"
 author: "Pure Drinkology"
+collection:
 description: "The Gin Smash is a refreshing variation on the classic smash cocktail family, known for muddled fruits and herbs. Its origins likely stem from the 19th century, a time when gin-based cocktails were booming in popularity, drawing inspiration from the potent and flavorful punch bowls of the era. "
 flavor_description: "The Gin Smash bursts with refreshing citrus and minty coolness. The gin's juniper and botanical notes are balanced by the sweetness of sugar, while the orange adds a bright, tangy layer. The carbonated water provides a crisp effervescence, leaving a clean and invigorating finish with a subtle cherry sweetness. "
 bartender_tips: "Use a muddler to gently crush the mint and orange, not pulverize them.  A few pieces of orange zest will add complexity.  Sugar syrup helps dissolve quickly, but a simple syrup with a touch of orange blossom water elevates the flavor.  For a refreshing fizz, use a good quality tonic water and gently top with ice to avoid dilution.  Garnish with a fresh mint sprig and a maraschino cherry. "

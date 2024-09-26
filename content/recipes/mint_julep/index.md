@@ -3,6 +3,7 @@ title: "The Mint Julep Cocktail"
 fullname: "The Mint Julep Cocktail"
 shortname: "Mint Julep"
 author: "Pure Drinkology"
+collection:
 description: "The Mint Julep is a classic member of the Whiskey Sour family, a category defined by its use of whiskey, citrus, and sweetener.  Originating in the American South, it's a refreshing and iconic drink deeply tied to Kentucky's bourbon culture. "
 flavor_description: "The Mint Julep is a refreshing and invigorating cocktail. The taste profile is dominated by the herbaceous, cool mint, balanced by the smooth, slightly sweet notes of bourbon.  A subtle hint of sweetness from the powdered sugar rounds out the experience, while the water provides a crispness that elevates the overall flavor.  "
 bartender_tips: "Use fresh mint! Muddle gently, don't pulverize it. A light touch brings out the flavor without making it bitter. Use a good quality bourbon, and don't skimp on the sugar.  A well-made Julep should be perfectly balanced, not overly sweet or minty.  Chill your glass thoroughly.  A good Julep should be refreshing and well-balanced. "

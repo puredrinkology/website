@@ -3,6 +3,7 @@ title: "The Zizi Coin-Coin Punch"
 fullname: "The Zizi Coin-Coin Punch"
 shortname: "Zizi Coin-Coin"
 author: "Pure Drinkology"
+collection:
 description: "The Zizi Coin-coin is a classic sour cocktail, a family known for its tart and refreshing nature. Its origins are likely French, with the name possibly referencing a playful, mischievous character. "
 flavor_description: "The Zizi Coin-coin is a refreshingly tart and citrusy cocktail. The Cointreau provides a sweet orange liqueur base, balanced by the tangy lemon juice.  The ice chills the drink, while the lemon garnish adds a touch of aromatic zest.  Expect a crisp, clean finish with a lingering hint of orange. "
 bartender_tips: "The Zizi Coin-coin is a simple yet elegant drink.  Here are some tips for a perfect pour:* **Chill your glass:** This ensures the drink stays cold longer.* **Use fresh lemon juice:** This makes a huge difference in flavor.* **Shake hard:** A vigorous shake chills the drink and mixes the ingredients thoroughly.* **Strain carefully:** This removes any ice shards for a smooth texture.* **Garnish with a lemon twist:** Adds a beautiful touch and enhances the aroma. "

@@ -3,6 +3,7 @@ title: "The Raspberry Cooler Shake"
 fullname: "The Raspberry Cooler Shake"
 shortname: "Raspberry Cooler"
 author: "Pure Drinkology"
+collection:
 description: "The Raspberry Cooler is a simple, refreshing Highball, a cocktail family originating in the 19th century. Its origins are likely rooted in the classic Gin & Tonic, substituting gin with raspberry vodka for a fruity twist. "
 flavor_description: "The Raspberry Cooler is a light and refreshing cocktail with a sweet and tart flavor profile. The raspberry vodka provides a delicate berry sweetness that is balanced by the citrusy tang of the lemon-lime soda. The ice chills the drink and enhances its refreshing qualities. It's a perfect summer cocktail, easy to drink and ideal for a warm day. "
 bartender_tips: "For a perfectly balanced Raspberry Cooler, use good quality raspberry vodka.  Chill it and your soda beforehand for a refreshing experience.  Don't over-ice the drink, just enough to chill the vodka.  A light hand with the soda is key; you want the raspberry flavor to shine, not get lost in fizz.  A lemon wedge garnish adds a beautiful touch and enhances the citrus notes. "

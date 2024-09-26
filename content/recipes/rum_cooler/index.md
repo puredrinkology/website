@@ -3,6 +3,7 @@ title: "The Rum Cooler Cocktail"
 fullname: "The Rum Cooler Cocktail"
 shortname: "Rum Cooler"
 author: "Pure Drinkology"
+collection:
 description: "The Rum Cooler is a classic highball, a family of cocktails typically made with a spirit, a mixer, and often a citrus element. Its origins likely trace back to the 19th century, where rum was readily available and simple, refreshing drinks were in demand. "
 flavor_description: "The Rum Cooler is a refreshing blend of sweet and tart. The rum provides a warm, slightly spicy base, while the lemon-lime soda adds a bubbly, citrusy kick. The fresh lemon juice balances the sweetness, offering a clean, tart finish. Overall, it's a light and easy-drinking cocktail perfect for warm weather. "
 bartender_tips: "Use a high-quality rum for best flavor. Muddle the lemon wedge with a bit of sugar for a sweeter, more aromatic drink. For a more intense flavor, use fresh lime juice instead of lemon-lime soda. If you want a stronger drink, increase the rum ratio. Don't over-shake, just enough to chill and combine the ingredients.  Serve it in a tall glass with ice and garnish with a lemon wedge. "

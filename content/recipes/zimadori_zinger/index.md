@@ -3,6 +3,7 @@ title: "The Zimadori Zinger Punch"
 fullname: "The Zimadori Zinger Punch"
 shortname: "Zimadori Zinger"
 author: "Pure Drinkology"
+collection:
 description: "The Zimadori Zinger falls into the Highball family, a classic cocktail style known for its tall, refreshing nature. This particular concoction, a recent creation, likely emerged from the 1990s trend of mixing popular, readily available beverages for a quick and easy drink. "
 flavor_description: "The Zimadori Zinger is a playful and refreshing cocktail with a bright, tropical character. Midori's sweet melon flavor shines through, balanced by Zima's crisp, citrusy notes.  A subtle hint of sweetness lingers on the palate, creating a fun and light-hearted drinking experience, perfect for a warm summer day. "
 bartender_tips: "This is a fun, playful twist on a classic!  To make the Zimadori Zinger, remember to chill both the Midori and Zima beforehand for a perfectly refreshing drink. Use a cocktail shaker filled with ice to mix the ingredients well, ensuring a balanced and chilled cocktail. Garnish with a lime wedge for an extra zing! "

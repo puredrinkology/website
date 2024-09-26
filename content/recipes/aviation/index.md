@@ -3,6 +3,7 @@ title: "The Aviation Cocktail"
 fullname: "The Aviation Cocktail"
 shortname: "Aviation"
 author: "Pure Drinkology"
+collection:
 description: "The Aviation, a gin-based cocktail, belongs to the Sour family, characterized by its tart, citrusy profile. Created in the early 20th century, this classic drink is often attributed to Hugo Ensslin, a renowned bartender at the Hotel Wallick in New York City. "
 flavor_description: "The Aviation is a refreshing and aromatic cocktail. The gin provides a crisp, juniper-forward base, while the lemon juice adds a bright acidity. Maraschino liqueur contributes a delicate sweetness and a subtle cherry note. The combination results in a balanced and complex flavor profile that is both sophisticated and approachable. "
 bartender_tips: "To ensure a balanced and aromatic Aviation, use high-quality gin with juniper forward notes. Freshly squeezed lemon juice is crucial, so avoid bottled. Maraschino liqueur should be high-quality, not overly sweet. Shake well with ice to chill and dilute, then strain into a chilled coupe glass. Garnish with a lemon twist, expressing oils over the drink before dropping it in.  "

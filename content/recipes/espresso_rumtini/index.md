@@ -3,6 +3,8 @@ title: "The Espresso Rumtini Cocktail"
 fullname: "The Espresso Rumtini Cocktail"
 shortname: "Espresso Rumtini"
 author: "Pure Drinkology"
+collection:
+  - espresso_martini
 description: "The Espresso Rumtini is a vibrant member of the coffee cocktail family, drawing inspiration from the classic Martini. This invigorating blend, likely born from a desire to elevate the after-dinner coffee experience, fuses the richness of rum with the bold intensity of espresso and the sweetness of vanilla. "
 flavor_description: "The Espresso Rumtini is a bold and bittersweet delight. The rum's sweetness is balanced by the espresso's roasty bitterness, while the vanilla syrup adds a touch of creamy sweetness. The coffee aroma adds depth and complexity, creating a rich, invigorating experience that lingers long after the last sip. "
 bartender_tips: "Use a high-quality rum for the best flavor.  Ensure the espresso is fresh and strong, and don't be afraid to add a touch more vanilla syrup if you prefer a sweeter drink.  Shake vigorously with ice to chill and dilute the drink.  Garnish with a coffee bean or a sprinkle of cocoa powder for an extra touch of flavor and elegance. "

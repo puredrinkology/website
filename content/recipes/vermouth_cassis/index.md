@@ -3,6 +3,7 @@ title: "The Vermouth Cassis Cocktail"
 fullname: "The Vermouth Cassis Cocktail"
 shortname: "Vermouth Cassis"
 author: "Pure Drinkology"
+collection:
 description: "The Vermouth Cassis, a refreshing and elegant cocktail, belongs to the **Fizz family**, characterized by its light, bubbly nature. This drink likely originated in the early 20th century, gaining popularity as a sophisticated alternative to the traditional Gin Fizz. Its combination of dry vermouth, sweet crème de cassis, and carbonated water creates a harmonious balance of bitter, sweet, and effervescent flavors. "
 flavor_description: "The Vermouth Cassis offers a complex and refreshing taste. The dry vermouth provides a crisp, herbal backbone, while the crème de cassis adds a sweet, blackcurrant flavor with a touch of tartness. The carbonated water brightens the cocktail, creating a lively fizz that enhances the overall experience. It's a balanced combination of sweet, bitter, and refreshing, perfect for a light and flavorful aperitif. "
 bartender_tips: "Chill your glass and ingredients beforehand for a refreshingly cold drink.  Use a good quality dry vermouth, and a generous pour of crème de cassis for a balanced sweetness. Top with chilled carbonated water, gently swirling to create a beautiful layered effect.  Serve immediately."

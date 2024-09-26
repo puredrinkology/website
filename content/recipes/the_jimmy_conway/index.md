@@ -3,6 +3,7 @@ title: "The Jimmy Conway Cocktail"
 fullname: "The Jimmy Conway Cocktail"
 shortname: "Jimmy Conway"
 author: "Pure Drinkology"
+collection:
 description: "The Jimmy Conway is a riff on the classic Whiskey Sour family, utilizing the sweet, nutty notes of Amaretto to complement the Irish Whiskey base.  While its exact origin is unknown, the blend of Irish whiskey, sweet liqueur, and tart juice is reminiscent of the popular Irish Coffee  and Irish Cream drinks. "
 flavor_description: "The Jimmy Conway offers a delightful interplay of flavors. The Irish whiskey brings a smooth, smoky warmth, while the Amaretto adds a touch of sweet almond and a hint of bitterness. Cranberry juice provides a tart and refreshing contrast, creating a balanced and complex taste that's both comforting and invigorating. "
 bartender_tips: "Start with a chilled glass, as it will help keep your cocktail cool.  Use a good quality Irish whiskey, and a sweet Amaretto.  Shake the cocktail with ice, and strain into the glass. A splash of fresh cranberry juice adds a subtle sweetness and tartness to the final drink.  Garnish with a lime wedge. "

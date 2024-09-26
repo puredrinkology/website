@@ -3,6 +3,7 @@ title: "The Iron Ranger Cocktail"
 fullname: "The Iron Ranger Cocktail"
 shortname: "Iron Ranger"
 author: "Pure Drinkology"
+collection:
 description: "The Iron Ranger, a vibrant blend of Demerara syrup, bourbon, Falernum, pineapple and lemon juices, and bitters, is a modern spin on the classic **Rum Punch**. It's a refreshing twist on a Caribbean staple, embodying the spirit of adventure and exploration. "
 flavor_description: "The Iron Ranger is a complex and vibrant cocktail. The Demerara syrup and Bourbon provide a rich, caramelized sweetness, while the Falernum adds a hint of spice and tropical fruitiness. The pineapple and lemon juices offer a bright, tart counterpoint, and the aromatic bitters add a touch of depth and complexity. This cocktail is well-balanced, with a sweet, spicy, and refreshing finish. "
 bartender_tips: "Use a high-quality Demerara syrup for a rich caramel note.  Shake the ingredients hard with ice to fully chill and meld the flavors. Strain into a chilled coupe, ensuring a clean pour.  A small dash of bitters on top adds a complex aromatic touch.  Garnish with a pineapple wedge or a lemon twist. "

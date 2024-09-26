@@ -3,6 +3,7 @@ title: "The Flanders Flake-Out Cocktail"
 fullname: "The Flanders Flake-Out Cocktail"
 shortname: "Flanders Flake-Out"
 author: "Pure Drinkology"
+collection:
 description: "Flander's Flake-Out, a unique blend of Sambuca and Sarsaparilla, belongs to the liqueur-based cocktail family. Its origin likely stems from the 19th century, a time when sarsaparilla was a popular American soda and Sambuca was gaining traction in Europe. "
 flavor_description: "The Flander's Flake-Out is a surprisingly harmonious blend of sweetness and spice. The Sambuca's licorice and anise notes dance with the Sarsaparilla's root beer-like sweetness, creating a complex flavor profile that is both refreshing and intriguing. The finish is long and lingering, leaving you wanting more. "
 bartender_tips: "When making Flander's Flake-Out, ensure your Sambuca is chilled, but not frozen. This will allow for easier mixing and prevent dilution. Use a high-quality Sarsaparilla for a richer, more complex flavor.  Chill the glass beforehand for an extra touch of refreshment.  Stir gently to avoid over-dilution and preserve the Sambuca's delicate aroma. Garnish with a star anise for a visual and aromatic flourish. "

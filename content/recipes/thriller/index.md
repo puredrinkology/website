@@ -3,6 +3,7 @@ title: "The Thriller Cocktail"
 fullname: "The Thriller Cocktail"
 shortname: "Thriller"
 author: "Pure Drinkology"
+collection:
 description: "The Thriller likely belongs to the **Highball** family, characterized by their tall, mixed drink format.  While its specific origin is unknown, the combination of Scotch, wine, and orange juice suggests a unique twist on the classic Scotch and Soda with a fruity touch, perhaps inspired by the Whiskey Sour tradition. "
 flavor_description: "The Thriller is a complex and intriguing cocktail.  The smoky depth of Scotch is balanced by the fruity sweetness of wine and the bright acidity of orange juice.  Expect notes of dried fruit, citrus zest, and a lingering warmth that lingers on the palate.  This cocktail is both robust and refreshing, making it perfect for those who enjoy bold flavor profiles. "
 bartender_tips: "For a Thriller with Scotch, wine, and orange juice, use a good quality Scotch for depth.  The wine should be dry and complement the Scotch, like a dry sherry or a light red.  The orange juice should be freshly squeezed for brightness.  Shake well with ice to chill and dilute, then strain into a chilled coupe glass.  Garnish with a twist of orange peel for a fragrant touch. "

@@ -3,6 +3,7 @@ title: "The Acapulco Cocktail"
 fullname: "The Acapulco Cocktail"
 shortname: "Acapulco"
 author: "Pure Drinkology"
+collection:
 description: "The Acapulco is a refreshing twist on the classic Daiquiri family, with its base of rum, lime, and sugar.  Though its exact origin is debated, it likely emerged in the mid-20th century, reflecting the growing popularity of Mexican-inspired cocktails. "
 flavor_description: "The Acapulco is a refreshing and vibrant cocktail. The light rum offers a subtle sweetness and a hint of sugarcane, while the triple sec adds a citrusy bite and floral notes. Lime juice provides tartness and acidity, balanced by the sugar's sweetness. The egg white creates a creamy texture and adds a touch of richness, while the mint delivers a fresh, herbaceous aroma. "
 bartender_tips: "This drink benefits from a good dry shake.  Shake the ingredients without ice for 15 seconds to emulsify the egg white and create a frothy texture.  Then add ice and shake again vigorously.  Double strain to remove ice shards and egg white bits.  Garnish with a sprig of fresh mint for a vibrant aroma and visual appeal. "

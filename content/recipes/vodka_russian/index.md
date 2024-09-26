@@ -3,6 +3,7 @@ title: "The Vodka Russian Cocktail"
 fullname: "The Vodka Russian Cocktail"
 shortname: "Vodka Russian"
 author: "Pure Drinkology"
+collection:
 description: "The Vodka Russian is a simple highball, a classic cocktail style dating back to the 19th century.  This particular iteration, likely a modern invention, plays on the Russian name, pairing vodka with a popular Schweppes mixer.  The combination offers a refreshing, slightly sweet and bubbly drink. "
 flavor_description: "The Vodka Russian is a straightforward, refreshing cocktail with a crisp, clean palate. The vodka provides a smooth, neutral base, while the Schweppes Russian, a ginger ale with a citrus twist, adds a lively, zesty bite.  The ginger and citrus notes blend harmoniously, resulting in a subtly sweet, invigorating drink with a lingering warmth. "
 bartender_tips: "This is a very straightforward drink, but a few things can elevate it.  Always use chilled vodka and Schweppes Russian for optimal refreshment. A proper Collins glass is key for the right dilution and presentation.  A twist of lemon or lime adds a nice citrus note.  Finally, don't forget to garnish with a lemon or lime wedge.  This cocktail is simple, but the details matter. "

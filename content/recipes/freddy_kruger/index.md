@@ -3,6 +3,7 @@ title: "The Freddy Kruger Shot"
 fullname: "The Freddy Kruger Shot"
 shortname: "Freddy Kruger"
 author: "Pure Drinkology"
+collection:
 description: "The Freddy Kruger is a potent concoction belonging to the layered shot family. Its origins are likely recent and informal, reflecting a trend of combining strong spirits in a visually appealing, if not particularly refined, manner. "
 flavor_description: "The Freddy Kruger is a bold, assertive cocktail.  The Jägermeister brings its signature herbal and spiced notes, while the Sambuca contributes a sweet, licorice-forward flavor. Vodka serves as a clean canvas, allowing the other flavors to shine. Expect a complex mix of bitter, sweet, and licorice, with a slightly warming finish. It's not for the faint of heart, but for those who enjoy adventurous flavor combinations. "
 bartender_tips: "This drink is all about layering, so chill your ingredients beforehand for the best visual effect.  Pour the Jägermeister slowly down the side of the glass, followed by the Sambuca (it'll float), and top with vodka for a clean finish.  Don't stir – you want distinct layers!  Use a shot glass for a traditional presentation or a rocks glass for a larger serving. "

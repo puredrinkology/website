@@ -3,6 +3,7 @@ title: "The Whitecap Margarita Cocktail"
 fullname: "The Whitecap Margarita Cocktail"
 shortname: "Whitecap Margarita"
 author: "Pure Drinkology"
+collection:
 description: "The Whitecap Margarita is a delightful twist on the classic Margarita, belonging to the Sour family. This creamy, tropical take emerged in the 1970s, likely born from the desire to create a more approachable, sweeter version of the traditional tequila cocktail. "
 flavor_description: "The Whitecap Margarita is a creamy, tropical twist on the classic. The tequila provides a sharp, agave-forward base, while the cream of coconut adds a rich, sweet, and subtly nutty flavor. Lime juice balances the sweetness with a bright, citrusy tang, resulting in a refreshing and decadent cocktail with a smooth, velvety texture. "
 bartender_tips: "For a perfectly frothy Whitecap Margarita, use high-quality tequila and fresh lime juice.  Shake with ice until super cold, then strain into a salt-rimmed glass. For a smooth, creamy texture, use a high-quality cream of coconut.  Don't over-shake, or it will become too foamy. Garnish with a lime wedge and enjoy the sweet, tropical, and slightly tart flavor. "

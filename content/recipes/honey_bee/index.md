@@ -3,6 +3,7 @@ title: "The Honey Bee Cocktail"
 fullname: "The Honey Bee Cocktail"
 shortname: "Honey Bee"
 author: "Pure Drinkology"
+collection:
 description: "The Honey Bee is a member of the Sour family, a classic cocktail style featuring a base spirit, citrus juice, and a sweetener. Its origins are likely rooted in the Caribbean, where rum, honey, and citrus fruits are readily available.  "
 flavor_description: "The Honey Bee is a delightful balance of sweet and tart. The white rum provides a clean, crisp base, while the honey adds a touch of floral sweetness. Lemon juice brightens the palate with its tangy acidity, creating a refreshing and invigorating experience. The cocktail has a light, smooth texture and finishes with a lingering honey-lemon zest. "
 bartender_tips: "To ensure a perfectly balanced Honey Bee, use a high-quality white rum for a clean, crisp base.  When mixing, start with a small amount of honey and adjust to your sweetness preference.  Shake vigorously with ice to chill thoroughly and dilute the honey.  A touch of lemon zest as garnish adds a lovely aroma and visual appeal. "

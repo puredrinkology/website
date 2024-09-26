@@ -3,6 +3,7 @@ title: "The Boxcar Cocktail"
 fullname: "The Boxcar Cocktail"
 shortname: "Boxcar"
 author: "Pure Drinkology"
+collection:
 description: "The Boxcar, with its gin base, citrus acidity, and sweetness balanced by grenadine, falls firmly into the Sour family.  Its origin remains shrouded in mystery, though it's likely a modern creation, popularized in the mid-20th century, blending classic sour elements with a touch of sweetness. "
 flavor_description: "The Boxcar is a complex and refreshing cocktail with a delightful balance of flavors. Gin provides a crisp juniper backbone, complemented by the citrus zest of triple sec and lemon juice. A touch of sweet grenadine adds a subtle floral and fruity note. The addition of egg white creates a light and airy texture, enhancing the overall smoothness. The result is a well-rounded cocktail with a tart and slightly sweet finish. "
 bartender_tips: "The Boxcar is a classic, but mastering the egg white is key.  Dry shake vigorously to emulsify the white and build a frothy head.  Then, add ice and shake again.  This creates a velvety texture.  Strain into a chilled coupe for a beautiful, clear presentation.  Don't forget a cherry garnish for a touch of sweetness! "

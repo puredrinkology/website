@@ -3,6 +3,7 @@ title: "The Havana  Cocktail"
 fullname: "The Havana  Cocktail"
 shortname: "Havana "
 author: "Pure Drinkology"
+collection:
 description: "The Havana Cocktail is a tropical delight, belonging to the **Rum Punch** family.  Its origin is likely Cuban, blending the island's signature rum with the sweetness of pineapple and the tang of lemon, reflecting the vibrant flavors of the Caribbean. "
 flavor_description: "The Havana Cocktail is a tropical delight, offering a refreshing blend of sweet and tart flavors. Light rum provides a subtle sweetness and a touch of warmth, while pineapple juice contributes a juicy, tropical sweetness. The lemon juice balances the sweetness with a bright acidity, creating a harmonious and thirst-quenching experience.  "
 bartender_tips: "To make a Havana Cocktail sing, use fresh-squeezed juices for the brightest flavors.  Chill the ingredients beforehand, ensuring the pineapple juice is well-strained to avoid cloudy cocktails. Shake hard with ice to create a perfectly chilled and frothy drink. Garnish with a pineapple wedge for a tropical touch."

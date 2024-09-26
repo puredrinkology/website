@@ -3,6 +3,7 @@ title: "The Mojito Cocktail"
 fullname: "The Mojito Cocktail"
 shortname: "Mojito"
 author: "Pure Drinkology"
+collection:
 description: "The Mojito belongs to the Highball family, characterized by its tall, chilled presentation and combination of spirits, mixers, and ice.  Originating in Cuba, the Mojito's origins can be traced back to a 16th-century drink called Draque made with sugarcane juice, lime, and mint. "
 flavor_description: "The Mojito is a refreshing, balanced cocktail with a vibrant, herbal kick. The light rum provides a subtle sweetness and a touch of warmth, while the lime juice adds a tartness that balances the sugar. Fresh mint leaves infuse the drink with a cool, minty aroma and flavor, and the soda water provides a crisp, bubbly finish.  "
 bartender_tips: "For a perfect Mojito, muddle the mint gently, don't pulverize it. Use a light touch with the sugar, just enough to dissolve. Add the rum after the soda, as it will sink to the bottom. For a refreshing twist, add a lime wheel to the glass before muddling. Don't forget the ice! "

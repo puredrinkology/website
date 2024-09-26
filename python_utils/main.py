@@ -278,11 +278,16 @@ def create_hugo_content(drink, source, get_ai_content):
     if category == "punch" or category == "beer": 
         category = "cocktail"
 
+    tags = []
+    if "strCollection" in drink:
+        tags = drink["strCollection"].split(",")
+
     frontmatter = {
         "title": drink_name,
         "fullname": drink_name,
         "shortname": short_name,
         "author": "Pure Drinkology",
+        "collection": tags,
         "description": history.replace("\n", "").replace('"', ''),
         "flavor_description": flavor_description.replace("\n", "").replace('"', ''),
         "bartender_tips": bartender_tips.replace("\n", "").replace('"', ''),
@@ -327,10 +332,15 @@ def create_hugo_content(drink, source, get_ai_content):
         for key, value in frontmatter.items():
             if isinstance(value, list):
                 f.write(f"{key}:\n")
-                for item in value:
-                    f.write(f"  - item: \"{item['item']}\"\n")
-                    if "measure" in item:
-                        f.write(f"    measure: \"{item['measure']}\"\n")
+
+                if (key == "ingredients" or key == "instructions"):
+                    for item in value:
+                        f.write(f"  - item: \"{item['item']}\"\n")
+                        if "measure" in item:
+                            f.write(f"    measure: \"{item['measure']}\"\n")
+                else:
+                    for item in value:
+                        f.write(f"  - {item}\n")
             
             elif isinstance(value, bool):
                 f.write(f"{key}: {str(value).lower()}\n")

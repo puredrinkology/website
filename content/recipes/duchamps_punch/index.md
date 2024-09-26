@@ -3,6 +3,7 @@ title: "The Duchamps Cocktail"
 fullname: "The Duchamps Cocktail"
 shortname: "Duchamps"
 author: "Pure Drinkology"
+collection:
 description: "Duchamp's Punch is a contemporary twist on the classic South American Pisco Sour family.  The addition of St. Germain, lavender, and pepper adds modern complexity and a touch of floral intrigue, making it a unique and flavorful take on the iconic cocktail. "
 flavor_description: "Duchamp's Punch is a vibrant, complex cocktail.  The Pisco provides a bright, slightly floral base, while the lime juice delivers a tart acidity.  Pineapple syrup adds sweetness and tropical fruitiness, balanced by the herbal notes of St. Germain.  Angostura bitters contribute a subtle, spicy warmth, and pepper adds a welcome kick. A touch of lavender lingers on the finish, creating a truly unique experience. "
 bartender_tips: "Chill your Pisco and St. Germain for a crisp, refreshing punch. Muddle the pepper and lavender gently to release aromas without bitterness. Use fresh lime juice for the best flavor. Shake vigorously with ice to thoroughly chill and dilute the cocktail. Garnish with a lime wedge and a sprig of lavender for a beautiful and aromatic touch. "

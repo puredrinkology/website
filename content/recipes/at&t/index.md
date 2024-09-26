@@ -3,6 +3,7 @@ title: "The At&T Cocktail"
 fullname: "The At&T Cocktail"
 shortname: "At&T"
 author: "Pure Drinkology"
+collection:
 description: "The AT&T is a unique twist on the classic Gin & Tonic, belonging to the Highball family. Its origin is unclear, but the name likely references the telecommunications giant's connection to gin,  as it was once distributed by AT&T employees during the Prohibition era. "
 flavor_description: "The AT&T is a refreshing and crisp cocktail. The vodka and gin combine for a smooth, slightly herbal base that is balanced by the tonic water's bitter, quinine notes. The combination is light and effervescent, making it perfect for a hot summer day or a casual gathering.  The gin adds a subtle botanical complexity, while the vodka provides a clean and neutral canvas.  It's a simple yet delightful drink that showcases the versatility of both vodka and gin. "
 bartender_tips: "The AT&T is a simple yet refreshing cocktail, but getting the balance right is key. Use a high-quality gin for a better flavor profile. Start with a 1:1 ratio of vodka and gin, and adjust to your liking.  Chill the tonic water before serving to keep it bubbly. Don't over-mix the cocktail, as it can make the gin taste overly bitter.  A simple garnish of lime or lemon wedge enhances the taste. "

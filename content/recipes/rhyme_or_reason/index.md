@@ -3,6 +3,7 @@ title: "The Rhyme Or Reason Cocktail"
 fullname: "The Rhyme Or Reason Cocktail"
 shortname: "Rhyme Or Reason"
 author: "Pure Drinkology"
+collection:
 description: "Rhyme or Reason is a vibrant twist on the classic Sour family, drawing inspiration from the tropical flavors of the South Pacific. The use of blood orange cordial, orgeat, and rye whiskey creates a complex and refreshing profile reminiscent of tiki cocktails, with a modern touch. "
 flavor_description: "The Rhyme or Reason is a vibrant, citrus-forward cocktail.  The blood orange cordial's sweetness is balanced by the tartness of lime juice and the spicy kick of rye.  Orgeat adds a subtle almond note, creating a complex interplay of flavors.  It's a refreshing, slightly tart drink with a satisfyingly long finish. "
 bartender_tips: "When making the Rhyme or Reason cocktail, focus on the balance.  Ensure the Blood Orange Cordial sweetness complements the rye's spice, while the Orgeat adds a subtle almond note.  Use fresh lime juice for that bright acidity.  Shake hard with ice to chill and dilute the mix, then strain into a chilled coupe.  Garnish with a blood orange wheel for a beautiful presentation. "

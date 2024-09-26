@@ -3,6 +3,7 @@ title: "The Orgasm Cocktail"
 fullname: "The Orgasm Cocktail"
 shortname: "Orgasm"
 author: "Pure Drinkology"
+collection:
 description: "The Orgasm Cocktail is a creamy, sweet, and indulgent drink from the dessert cocktail family. Made with white crème de cacao, amaretto, triple sec, vodka, and light cream, it delivers a smooth, nutty, and citrusy flavor. Popularized in the 1980s, it’s often served as a post-dinner treat or party favorite, embodying decadence in a glass."
 flavor_description: ""
 bartender_tips: ""

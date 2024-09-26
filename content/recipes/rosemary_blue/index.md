@@ -3,6 +3,7 @@ title: "The Rosemary Blue Cocktail"
 fullname: "The Rosemary Blue Cocktail"
 shortname: "Rosemary Blue"
 author: "Pure Drinkology"
+collection:
 description: "The Rosemary Blue belongs to the Highball family, a refreshing group of long drinks typically featuring a spirit, a mixer, and often a garnish. This contemporary twist on the classic Gin & Tonic incorporates the herbaceous notes of rosemary, bringing a modern touch to a timeless favorite. "
 flavor_description: "The Rosemary Blue is a refreshing and herbaceous cocktail with a balanced sweetness. The gin provides a juniper-forward base, while the Blue Curacao adds a touch of sweetness and a vibrant blue hue. Rosemary sprigs impart a fragrant, earthy note, and the tonic water adds a subtle bitterness and a crisp, bubbly texture. "
 bartender_tips: "Muddle rosemary sprigs gently to release oils, but don't bruise them.  Use a good quality gin for a balanced flavor. For a stronger rosemary flavor, use fresh rosemary.  Chill all ingredients before mixing to ensure a refreshing drink.  Garnish with a rosemary sprig and a lime wedge. "

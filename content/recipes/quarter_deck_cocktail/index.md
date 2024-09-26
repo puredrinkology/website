@@ -3,6 +3,7 @@ title: "The Quarter Deck  Cocktail"
 fullname: "The Quarter Deck  Cocktail"
 shortname: "Quarter Deck "
 author: "Pure Drinkology"
+collection:
 description: "The Quarter Deck Cocktail is a member of the **Rum Daiquiri family**, a classic combination of rum, citrus, and a sweetener. While its exact origin is unclear, it likely emerged in the late 19th or early 20th century, possibly in the Caribbean or among sailors, hence the maritime name. "
 flavor_description: "The Quarter Deck Cocktail is a delightful blend of sweet and tart. The light rum provides a smooth, tropical base, while the sherry adds a touch of dryness and complexity. The lime juice balances the sweetness with its refreshing acidity, creating a well-rounded and invigorating experience. "
 bartender_tips: "For a balanced Quarter Deck, use a high-quality light rum with a touch of sweetness.  The sherry should be a dry fino or manzanilla for a crisp, nutty note.  Freshly squeezed lime juice is key, and don't be afraid to adjust the sweetness to your liking with a touch of simple syrup.  A light hand with the shake ensures a well-chilled, frothy drink. "

@@ -3,6 +3,7 @@ title: "The Moranguito Shot"
 fullname: "The Moranguito Shot"
 shortname: "Moranguito"
 author: "Pure Drinkology"
+collection:
 description: "The Moranguito falls into the **liqueur-based cocktail family**, a category known for its vibrant flavors and often surprising combinations. This specific concoction, likely a modern invention, blends the herbal bitterness of absinthe, the agave spirit of tequila, and the sweet, fruity notes of grenadine, creating a unique and intriguing experience. "
 flavor_description: "The Moranguito offers a complex and intriguing flavor profile. The Absinthe's anise and wormwood notes dance with the tequila's agave and spice, creating a base that is both herbaceous and earthy. Grenadine adds a sweet, tart, and fruity dimension, reminiscent of ripe berries. The interplay of sweet, bitter, and herbal creates a balanced and memorable cocktail that is both refreshing and stimulating. "
 bartender_tips: "This is a complex flavor profile!  When making Moranguito, use high-quality absinthe for a strong anise flavor. Chill your tequila to enhance its smoothness and prevent the grenadine from diluting it too much.  Use a good quality grenadine, but be mindful of the sweetness it adds.  Start with a small amount and adjust to taste.  A good garnish is a sprig of fresh mint or a lime wheel. "

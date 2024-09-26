@@ -3,6 +3,7 @@ title: "The 151 Florida Bushwacker Shake"
 fullname: "The 151 Florida Bushwacker Shake"
 shortname: "151 Florida Bushwacker"
 author: "Pure Drinkology"
+collection:
 description: "The 151 Florida Bushwacker belongs to the **creamy cocktail family**, a descendant of the **Hurricane**, born in the **1970s in Florida**. Its potent blend of rums, liqueurs, and dairy creates a sweet, decadent, and dangerously smooth experience. "
 flavor_description: "The 151 Florida Bushwacker is a potent, tropical delight.  The sweet, coconutty notes of Malibu and coconut liqueur are amplified by the creamy vanilla ice cream and milk.  Dark creme de cacao adds depth and a hint of chocolate, while Cointreau brings a citrusy complexity.  The 151 rum packs a powerful punch, creating a lingering warmth that lingers long after the last sip. "
 bartender_tips: "This is a recipe that benefits from proper layering. Start with the heavier ingredients at the bottom: dark creme de cacao, milk, vanilla ice cream. Then add the lighter ones, like the rums, coconut liqueur, and Cointreau.  Don't over-blend, you want some texture. Chill the glass beforehand and use a good quality rum for a truly decadent Bushwacker. "

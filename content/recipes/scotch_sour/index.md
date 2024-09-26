@@ -3,6 +3,7 @@ title: "The Scotch Sour Cocktail"
 fullname: "The Scotch Sour Cocktail"
 shortname: "Scotch Sour"
 author: "Pure Drinkology"
+collection:
 description: "The Scotch Sour belongs to the Sour family, a classic cocktail style featuring a spirit, citrus juice, and sweetener.  It likely originated in the 19th century, a riff on the Whiskey Sour, with Scotch replacing bourbon as the base spirit. "
 flavor_description: "The Scotch Sour is a balanced symphony of tart and sweet. The smoky, peaty notes of Scotch are tempered by the bright acidity of lime and lemon, while the powdered sugar adds a delicate sweetness. The cherry garnish brings a touch of fruity complexity, rounding out the profile with a hint of cherry sweetness and a pleasant tartness. "
 bartender_tips: "Use a good quality Scotch, preferably a blended whisky.  For the lime and lemon juice, freshly squeezed is best.  Shake hard with ice to chill the drink thoroughly.  The powdered sugar should be dissolved in the juice before adding the Scotch, to ensure a smooth, balanced cocktail.  Don't forget a maraschino cherry for garnish! "

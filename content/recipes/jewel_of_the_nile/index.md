@@ -3,6 +3,7 @@ title: "The Jewel Of Nile Cocktail"
 fullname: "The Jewel Of Nile Cocktail"
 shortname: "Jewel Of Nile"
 author: "Pure Drinkology"
+collection:
 description: "Jewel of the Nile is a sophisticated Chartreuse cocktail, a family known for their herbal and aromatic qualities. The drink likely emerged in the late 19th or early 20th century, during the cocktail boom, taking advantage of the unique flavors of both green and yellow Chartreuse. "
 flavor_description: "The Jewel of the Nile is a vibrant, complex cocktail. The gin provides a clean, juniper-forward base, while the Green Chartreuse adds herbaceous, minty notes with a hint of spice. The Yellow Chartreuse contributes a touch of sweetness and floral complexity. The result is a well-balanced, aromatic cocktail that's both refreshing and intriguing. "
 bartender_tips: "Use high-quality gin for a truly vibrant flavor. When layering the Chartreuses, pour the Yellow Chartreuse first to create a beautiful visual effect.  Use a chilled coupe or martini glass to enhance the presentation. Finally, a light garnish with a lemon twist or a sprig of rosemary complements the flavors without overwhelming them. "

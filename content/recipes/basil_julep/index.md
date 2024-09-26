@@ -3,6 +3,7 @@ title: "The Basil Julep Cocktail"
 fullname: "The Basil Julep Cocktail"
 shortname: "Basil Julep"
 author: "Pure Drinkology"
+collection:
 description: "The Basil Julep is a twist on the classic Julep, a family of cocktails traditionally made with bourbon, sugar, and mint. This refreshing take on the Julep swaps the bourbon for Irish whiskey and the mint for basil, adding a contemporary flavor profile while staying true to its Southern roots. "
 flavor_description: "The Basil Julep is a refreshingly herbaceous cocktail.  The sweet and subtly minty Gum Syrup balances the sharp notes of Irish Whiskey, while the basil adds a bright, green, and slightly peppery aroma. The overall flavor profile is well-rounded, offering a harmonious blend of sweetness, spice, and herbal freshness. "
 bartender_tips: "For a killer Basil Julep, use fresh basil leaves and muddle them gently to release their aroma, not pulverize them.  Don't be afraid to adjust the whiskey to your taste, and remember, a good gum syrup is key.  A light hand with the ice is crucial to keep it chilled but not watery.  Finish with a sprig of basil for an elegant touch. "

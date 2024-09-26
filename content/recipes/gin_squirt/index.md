@@ -3,6 +3,7 @@ title: "The Gin Squirt Cocktail"
 fullname: "The Gin Squirt Cocktail"
 shortname: "Gin Squirt"
 author: "Pure Drinkology"
+collection:
 description: "The Gin Squirt belongs to the Fizz family, a group of carbonated cocktails with a creamy texture.  While its exact origin is unknown, it likely emerged in the 1920s during the American Prohibition era, utilizing readily available ingredients and mimicking the popularity of fizzy drinks. "
 flavor_description: "The Gin Squirt is a vibrant and refreshing cocktail.  The juniper-forward gin dances with the sweet, tart grenadine and the subtle sweetness of the powdered sugar. Pineapple adds a juicy, tropical element, balanced by the bright acidity of the strawberries.  A lively fizziness from the carbonated water completes the experience, leaving you with a clean and satisfying finish. "
 bartender_tips: "Muddle strawberries with powdered sugar to release their sweetness. Use fresh pineapple juice, not canned, for a more vibrant flavor. Add a dash of grenadine at the end for a beautiful color gradient. Don't over-shake - you want a light, bubbly texture. Garnish with a strawberry slice and pineapple wedge for a tropical touch. "

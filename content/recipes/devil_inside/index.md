@@ -3,6 +3,7 @@ title: "The Devil Inside Cocktail"
 fullname: "The Devil Inside Cocktail"
 shortname: "Devil Inside"
 author: "Pure Drinkology"
+collection:
 description: "The Devil Inside belongs to the **Whiskey Sour** family, a classic cocktail style that blends whiskey with citrus and sweetener.  This particular iteration, with its rye and scotch base, hints at a **New York** origin, likely born in the early 20th century. "
 flavor_description: "The Devil Inside is a complex and intriguing cocktail with a smoky, spicy character. The Demerara Gum Syrup lends a touch of sweetness, while the Rye and Scotch provide a robust base with notes of caramel and oak. Absinthe adds a herbal, almost medicinal quality, and Peychaud's Bitters contribute a hint of bitter orange and clove. Overall, it's a bold and balanced drink with a lingering warmth. "
 bartender_tips: "When crafting the Devil Inside, focus on layering the flavors. Start with a well-chilled coupe glass.  Use a bar spoon to carefully layer the Demerara syrup, followed by rye, Scotch, and a final splash of Absinthe. Finish with a dash of Peychaud's Bitters for a complex, aromatic finish.  Remember, a light hand with the Absinthe is key. "

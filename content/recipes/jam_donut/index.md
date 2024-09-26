@@ -3,6 +3,7 @@ title: "The Jam Donut Shot"
 fullname: "The Jam Donut Shot"
 shortname: "Jam Donut"
 author: "Pure Drinkology"
+collection:
 description: "The Jam Donut is a modern take on the classic dessert cocktail, likely inspired by the popular British treat. This creamy, sweet concoction blends the rich smoothness of Baileys with the fruity sweetness of Chambord, creating a decadent and playful drink perfect for a celebratory occasion. "
 flavor_description: "The Jam Donut offers a delightful blend of sweet and fruity notes.  The Baileys Irish Cream provides a creamy base with hints of vanilla and chocolate, while Chambord adds a vibrant raspberry sweetness.  Sugar syrup enhances the overall sweetness and creates a smooth texture, culminating in a taste reminiscent of a warm, sugary donut filled with raspberry jam. "
 bartender_tips: "To make a Jam Donut cocktail, chill your ingredients for a better, more balanced flavor. Use a good quality sugar syrup, not just granulated sugar, for a smoother, less grainy texture. When layering the cocktail, pour the Chambord gently over the back of a spoon to avoid mixing the layers. Finally, garnish with a fresh raspberry for that perfect, sweet and fruity touch. "

@@ -3,6 +3,7 @@ title: "The Citrus Coke Cocktail"
 fullname: "The Citrus Coke Cocktail"
 shortname: "Citrus Coke"
 author: "Pure Drinkology"
+collection:
 description: "Citrus Coke falls into the **Highball** family, a simple yet refreshing combination of spirits and mixers. This classic combo likely emerged in the late 19th century, as both rum and cola were popular beverages. The citrus twist adds a modern touch to this timeless drink. "
 flavor_description: "Citrus Coke is a refreshing and zesty cocktail with a familiar sweetness. The Bacardi Limon's citrus notes, primarily lime, dance on the palate, cutting through the Coca-Cola's cola and caramel sweetness. The overall effect is a vibrant and playful drink that's perfect for a hot day or as a casual nightcap. "
 bartender_tips: "For a refreshing Citrus Coke, use a chilled highball glass and fill it with ice. Pour in the Bacardi Limon first, followed by the Coca-Cola. This ensures the rum's citrus flavors are well-integrated. A squeeze of lime or a lime wedge garnish adds a beautiful touch and enhances the citrus notes. Remember, you can adjust the ratio of rum to Coke to your liking, making it a perfect balance of sweet and tart. "

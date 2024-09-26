@@ -3,6 +3,7 @@ title: "The Pink Panty Pulldowns Cocktail"
 fullname: "The Pink Panty Pulldowns Cocktail"
 shortname: "Pink Panty Pulldowns"
 author: "Pure Drinkology"
+collection:
 description: "The Pink Panty Pulldowns belongs to the Highball family, a simple mix of spirits and non-alcoholic mixers. Its origin is likely contemporary, a playful twist on classic highballs like the Vodka Soda or Rum & Coke, popular in the early 21st century. "
 flavor_description: "The Pink Panty Pulldown is a light and refreshing cocktail. The Sprite provides a crisp, bubbly base, while the Pink Lemonade adds a sweet, tart punch. The vodka adds a clean, subtle alcohol warmth. This combination creates a delightful and easy-drinking beverage that's perfect for any occasion.  It's tangy, sweet, and slightly boozy, making it a great choice for summer days or warm evenings. "
 bartender_tips: "For a perfectly balanced Pink Panty Pulldown, start with a good quality vodka. Use a highball glass filled with ice and pour in the Sprite first, followed by the Pink Lemonade. This helps maintain a bubbly texture. Finish with the vodka, gently pouring it over the back of a spoon to create a layered effect. Garnish with a lemon wedge or a pink grapefruit slice for a pop of color. "

@@ -3,6 +3,7 @@ title: "The Just A Moonmint Shake"
 fullname: "The Just A Moonmint Shake"
 shortname: "Just A Moonmint"
 author: "Pure Drinkology"
+collection:
 description: "Just a Moonmint belongs to the **Milk Punch family**, a historical cocktail style dating back to the 18th century. This creamy, refreshing concoction blends the comforting flavors of milk and chocolate with the invigorating coolness of mint. "
 flavor_description: "Just a Moonmint is a creamy, sweet delight with a refreshing twist. The milk provides a smooth, velvety base, while the chocolate syrup adds rich, decadent notes. The mint syrup then steps in with a cool, herbaceous touch, creating a balanced flavor profile that is both soothing and invigorating. It's a perfect choice for those who enjoy sweet, comforting drinks with a hint of minty freshness. "
 bartender_tips: "This drink is all about balance. Start with a good quality milk, preferably chilled. Measure the chocolate and mint syrups carefully, as they will dominate the flavor profile. Shake vigorously with ice to ensure proper chilling and a creamy texture. If you're feeling adventurous, you can add a touch of vanilla extract to enhance the flavor.  "

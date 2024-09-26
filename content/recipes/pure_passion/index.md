@@ -3,6 +3,7 @@ title: "The Pure Passion Cocktail"
 fullname: "The Pure Passion Cocktail"
 shortname: "Pure Passion"
 author: "Pure Drinkology"
+collection:
 description: "Pure Passion belongs to the **Sour** family, a classic cocktail style with roots in the 18th century. Its vibrant blend of rum, tropical fruit flavors, and a touch of bitterness echoes the spirit of tiki cocktails, popularized in the mid-20th century. "
 flavor_description: "Pure Passion is a tropical explosion on the palate. The rum's warmth is tempered by the sweet and tangy passion fruit and lime, while the Passoa adds a hint of floral complexity.  The peach bitters bring a subtle stone fruit note, and the mint offers a refreshing coolness. The overall effect is vibrant, balanced, and undeniably delicious. "
 bartender_tips: "For a Pure Passion that explodes with flavor, use fresh lime juice and high-quality rum.  Muddle mint gently to release its aroma, but avoid bruising it.  Add passion fruit syrup to taste, starting with a small amount and adjusting to your preference. A few dashes of peach bitters add complexity, but don't overdo it!  Shake hard with ice to chill and combine flavors, then strain into a chilled glass.  Garnish with a mint sprig and a lime wheel for a beautiful finish."

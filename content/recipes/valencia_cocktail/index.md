@@ -3,6 +3,7 @@ title: "The Valencia  Cocktail"
 fullname: "The Valencia  Cocktail"
 shortname: "Valencia "
 author: "Pure Drinkology"
+collection:
 description: "The Valencia Cocktail is a vibrant, citrus-forward drink belonging to the Sour family. It likely originated in the early 20th century, drawing inspiration from the popular Sidecar, with its base of brandy and citrus. The orange bitters add a subtle, aromatic complexity. "
 flavor_description: "The Valencia Cocktail is a delightful blend of sweet and tart.  Apricot brandy brings a rich, fruity sweetness with subtle notes of stone fruit.  Orange juice offers refreshing acidity, while orange bitters add a touch of complexity and a subtle herbal nuance.  The result is a balanced, flavorful cocktail that's perfect for a sunny afternoon or a celebratory toast. "
 bartender_tips: "Use a high-quality apricot brandy for the best flavor.  Freshly squeezed orange juice is key, and don't skimp on the bitters – they add complexity. Shake well with ice to chill thoroughly, then strain into a chilled coupe glass. Garnish with an orange twist for a classic touch. "

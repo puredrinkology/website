@@ -826,6 +826,7 @@
             "strAlcoholic": "Alcoholic",
             "strGlass": "Coupe Glass",
             "strFamily": "martini",
+            "strCollection": "espresso_martini",
             "strInstructions": "Shake all ingredients with ice and strain into a coupe glass.",
             "strIngredient1": "Mr Black",
             "strIngredient2": "Vodka",

@@ -3,6 +3,7 @@ title: "The King Smash Mule Cocktail"
 fullname: "The King Smash Mule Cocktail"
 shortname: "King Smash Mule"
 author: "Pure Drinkology"
+collection:
 description: "The King Smash Mule is a vibrant member of the Mule family, a modern twist on the classic Moscow Mule. This refreshing cocktail blends the spicy kick of ginger syrup with the smooth warmth of bourbon, balanced by tart lemon juice and the aromatic freshness of mint. "
 flavor_description: "The King Smash Mule is a complex and refreshing cocktail. The ginger syrup provides a spicy kick, while the bourbon adds warmth and a touch of sweetness.  Lemon juice brings a bright acidity that balances the flavors, and the mint leaves offer a cool, herbaceous note.  Expect a smooth, well-rounded experience that's both invigorating and satisfying. "
 bartender_tips: "**Muddle mint leaves gently** with ginger syrup and lemon juice, don't crush them. This releases the mint's aroma without bitterness. **Use a good quality bourbon**, as it's the star of the show. **Don't over-shake** the cocktail, as it will dilute the flavors. **Top with a splash of club soda** just before serving, keeping the fizz alive. **Garnish with a fresh mint sprig** for a beautiful and fragrant finish. "

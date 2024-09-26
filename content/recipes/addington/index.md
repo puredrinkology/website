@@ -3,6 +3,7 @@ title: "The Addington Cocktail"
 fullname: "The Addington Cocktail"
 shortname: "Addington"
 author: "Pure Drinkology"
+collection:
 description: "The Addington belongs to the **Vermouth Cocktail** family, a classic style featuring vermouth as the base spirit. Though its exact origin is murky, it likely arose in the early 20th century as a dry, refreshing alternative to the more complex vermouth cocktails of the Victorian era. "
 flavor_description: "The Addington is a delicate dance of bittersweet flavors. The sweet vermouth brings notes of caramel and spice, while the dry vermouth contributes a herbal dryness and subtle bitterness. The soda water adds a refreshing effervescence and lightness, creating a balanced and subtly complex cocktail that's both approachable and intriguing. "
 bartender_tips: "The Addington is a delicate balance of sweet and dry.  Chill your vermouths thoroughly before mixing.  Use a good quality soda water for a crisp finish.  Don't over-ice, let the vermouths shine.  A subtle touch of orange bitters can add complexity.  Serve in a chilled coupe for an elegant presentation. "

@@ -3,6 +3,7 @@ title: "The Near And Dear Cocktail"
 fullname: "The Near And Dear Cocktail"
 shortname: "Near And Dear"
 author: "Pure Drinkology"
+collection:
 description: "The Near and Dear is a riff on the classic Whiskey Sour family, born from the blending of Tennessee whiskey's smooth character with bright citrus and a hint of sweetness. The addition of egg white lends a creamy texture and elegant foam, elevating it to a sophisticated twist on a familiar favorite. "
 flavor_description: "The Near and Dear is a complex and refreshing cocktail. The sweetness of the strawberry syrup and orange liqueur balances the boldness of the Tennessee whiskey and tartness of lemon juice. The egg white adds a creamy texture and subtle sweetness, while the Peychaud's bitters provide a touch of spice and complexity.  The result is a delightful mix of fruity, sweet, and smoky notes, with a smooth, velvety finish. "
 bartender_tips: "When crafting the Near and Dear, prioritize a dry shake (without ice) to emulsify the egg white for a velvety texture. This step should be vigorous and last for about 15 seconds.  After adding ice, shake again for a thorough chill.  Use a fine-mesh strainer to remove any ice shards and achieve a crystal clear presentation.  Finally, a touch of orange zest as garnish adds a delightful aromatic flair. "

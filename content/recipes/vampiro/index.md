@@ -3,6 +3,7 @@ title: "The Vampiro Cocktail"
 fullname: "The Vampiro Cocktail"
 shortname: "Vampiro"
 author: "Pure Drinkology"
+collection:
 description: "The Vampiro belongs to the **Bloody Mary family**, a group of tomato-based cocktails. Originating in **Mexico**, this refreshing drink blends the savory tang of tomato with the bright acidity of citrus and the kick of tequila. "
 flavor_description: "The Vampiro is a vibrant, savory cocktail with a tangy kick. Tequila's warmth mingles with the acidity of tomato and citrus juices, creating a complex flavor.  The sweetness of sugar syrup balances the tartness, while a pinch of salt enhances the overall complexity.  It's a refreshing and satisfying drink, perfect for a warm day or a night out. "
 bartender_tips: "For a perfect Vampiro, balance is key. Use a high-quality tequila for depth.  Don't overpower the tomato juice with citrus; use just enough lime and orange to brighten.  A touch of sugar syrup balances the acidity, but don't make it sweet.  Use a good pinch of salt to enhance the savory notes and rim your glass with a salted edge for a sophisticated touch. "

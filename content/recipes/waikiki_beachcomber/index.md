@@ -3,6 +3,7 @@ title: "The Waikiki Beachcomber Cocktail"
 fullname: "The Waikiki Beachcomber Cocktail"
 shortname: "Waikiki Beachcomber"
 author: "Pure Drinkology"
+collection:
 description: "The Waikiki Beachcomber is a classic tiki cocktail, a category known for its exotic flavors and colorful presentations.  Popularized in the mid-20th century, these drinks often feature rum, but this gin-based variation likely originated in a Hawaiian bar catering to the growing tourism of the era. "
 flavor_description: "The Waikiki Beachcomber is a bright and refreshing cocktail.  The gin provides a crisp, juniper-forward backbone, while the triple sec adds a touch of citrus sweetness. Pineapple juice rounds out the flavor profile with a tropical punch, creating a vibrant and tangy experience reminiscent of a sunny Hawaiian beach. "
 bartender_tips: "For a perfectly balanced Waikiki Beachcomber, chill your glass and ingredients beforehand.  Use a good quality gin and fresh pineapple juice.  Shake vigorously with ice to ensure a well-chilled and frothy drink.  Strain into the chilled glass and garnish with a pineapple wedge or a maraschino cherry.  Enjoy! "

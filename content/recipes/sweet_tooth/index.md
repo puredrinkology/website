@@ -3,6 +3,7 @@ title: "The Sweet Tooth Shake"
 fullname: "The Sweet Tooth Shake"
 shortname: "Sweet Tooth"
 author: "Pure Drinkology"
+collection:
 description: "Sweet Tooth belongs to the **Cream Cocktail** family, known for their velvety texture and rich flavors. This drink likely originated in the early 20th century, drawing inspiration from the popularity of chocolate liqueurs and milk-based cocktails like the White Russian. "
 flavor_description: "Sweet Tooth is a decadent, creamy dream. The Godiva Liqueur brings a rich, velvety chocolate flavor, enhanced by the sweetness of the milk. The combination is smooth and luxurious, reminiscent of a decadent chocolate milkshake. The finish is long and lingering, leaving a subtle hint of cocoa on the palate.  "
 bartender_tips: "For the Sweet Tooth, remember that Godiva liqueur is already rich and decadent, so don't overpower it with too much milk. Use a good quality whole milk for creaminess.  Chill both the liqueur and milk before mixing. Shake vigorously with ice to ensure proper dilution and a smooth, frothy texture.  Serve in a chilled coupe or martini glass, garnished with a chocolate shavings or a chocolate-dipped strawberry. "

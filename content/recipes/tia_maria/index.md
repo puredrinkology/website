@@ -3,6 +3,7 @@ title: "The Tia-Maria Homemade"
 fullname: "The Tia-Maria Homemade"
 shortname: "Tia-Maria"
 author: "Pure Drinkology"
+collection:
 description: "Tia Maria, a sweet and coffee-forward cocktail, belongs to the **liqueur family**. Originating in Jamaica, its recipe is shrouded in legend, but it is believed to have been crafted by a noblewoman seeking to preserve her family's wealth during the island's turbulent past. "
 flavor_description: "Tia Maria is a rich and decadent cocktail with a complex flavor profile. The coffee and rum create a strong, boozy base, while the brown sugar adds a sweet and mellow sweetness. The vanilla extract adds a subtle, warm note, rounding out the flavor profile. It's a smooth and satisfying drink with a lingering coffee aroma. "
 bartender_tips: "Use high-quality coffee for the best flavor.  Don't over-steep the coffee, as it can become bitter.  For a richer flavor, use dark rum.  Ensure the brown sugar is fully dissolved before adding the rum, as it helps the sweetness meld with the other flavors.  A dash of cinnamon or nutmeg adds a warm complexity. "

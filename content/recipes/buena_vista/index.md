@@ -3,6 +3,7 @@ title: "The Buena Vista Cocktail"
 fullname: "The Buena Vista Cocktail"
 shortname: "Buena Vista"
 author: "Pure Drinkology"
+collection:
 description: "The Buena Vista, a vibrant fusion of tequila, Ancho Reyes, lime, and cocoa bitters, is a modern twist on the classic Sour family. This contemporary creation likely emerged from the burgeoning craft cocktail scene, showcasing the rich flavors of Mexican spirits and artisanal bitters. "
 flavor_description: "The Buena Vista is a complex, yet balanced cocktail. The tequila provides a vibrant agave base, while the Ancho Reyes adds a spicy kick with smoky notes of chili and cinnamon. The lime juice offers refreshing acidity, cutting through the sweetness of the gum syrup. Cocoa bitters add a subtle, bittersweet depth, creating a surprising yet harmonious finish. "
 bartender_tips: "When crafting the Buena Vista, remember that gum syrup adds sweetness and body, so adjust it to your guest's preference. The Ancho Reyes adds a spicy kick, so use it sparingly.  Fresh lime juice is key to balance the sweetness and spice. Lastly, a dash of cocoa bitters enhances the complexity and creates a unique, smoky aroma.  "

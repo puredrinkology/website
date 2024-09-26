@@ -3,6 +3,7 @@ title: "The Salty Dog Cocktail"
 fullname: "The Salty Dog Cocktail"
 shortname: "Salty Dog"
 author: "Pure Drinkology"
+collection:
 description: "The Salty Dog belongs to the **Highball** family, known for their tall, refreshing nature.  It hails from the 1930s, likely originating in the United States, where gin was gaining popularity and grapefruit juice was a newly-fashionable ingredient.  The salt rim, a touch of sophistication, elevates the classic citrus-gin combination. "
 flavor_description: "The Salty Dog is a refreshingly tart and citrusy cocktail.  The grapefruit juice dominates, offering a bright, slightly bitter punch, balanced by the juniper notes and dryness of the gin. A subtle salty rim adds a savory complexity, enhancing the overall flavor and leaving a lingering, slightly saline finish. "
 bartender_tips: "For a perfect Salty Dog, use fresh grapefruit juice - the tartness is key. A good quality gin is essential.  Rim the glass with coarse salt *before* adding ice, to prevent it from dissolving.  Shake the gin and juice with ice, then strain into the glass, ensuring the rim is salted.  Garnish with a grapefruit wedge for an extra burst of flavor. "

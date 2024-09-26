@@ -3,6 +3,7 @@ title: "The City Slicker Cocktail"
 fullname: "The City Slicker Cocktail"
 shortname: "City Slicker"
 author: "Pure Drinkology"
+collection:
 description: "The City Slicker belongs to the classic Sour family, a timeless combination of spirits, citrus, and sweetener.  While its exact origin is obscure, its profile suggests a 19th-century American invention, likely born in a bustling city bar. "
 flavor_description: "The City Slicker is a crisp and refreshing cocktail with a citrusy bite. The brandy provides a warm, complex base, while the triple sec adds a touch of sweetness and orange zest. The lemon juice balances the sweetness and adds a bright, tart note. This combination creates a harmonious blend of flavors that is both sophisticated and approachable. "
 bartender_tips: "This drink calls for a good quality brandy.  Use a  freshly squeezed lemon, and don't over-shake the cocktail, as it can become cloudy. A little triple sec goes a long way, so start with a small amount and adjust to taste.  A simple syrup addition can help balance the tartness.  Garnish with a lemon twist or a brandied cherry for a classy touch. "

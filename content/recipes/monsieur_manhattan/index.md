@@ -3,6 +3,7 @@ title: "The Monsieur Manhattan Cocktail"
 fullname: "The Monsieur Manhattan Cocktail"
 shortname: "Monsieur Manhattan"
 author: "Pure Drinkology"
+collection:
 description: "Monsieur Manhattan is a twist on the classic Manhattan, belonging to the Whiskey Cocktail family.  This variation, likely created in the late 19th or early 20th century,  introduces Brandy and Demerara Gum Syrup for a richer, more complex flavor profile. "
 flavor_description: "Monsieur Manhattan is a luxurious and complex cocktail with a rich, layered flavor profile. The Demerara gum syrup adds a hint of caramel sweetness, balanced by the robust notes of whiskey and brandy. Sweet vermouth contributes a subtle herbal and bittersweet complexity, while aromatic bitters provide a final touch of spice and complexity. The overall taste is smooth, sophisticated, and undeniably elegant. "
 bartender_tips: "For a perfect Monsieur Manhattan, use high-quality Demerara gum syrup for a rich, caramelized sweetness. Chill all ingredients beforehand, especially the whiskey and brandy, for a refreshing, balanced cocktail. Use a good quality sweet vermouth and don't skimp on the aromatic bitters, as they add depth and complexity. Stir gently with ice, ensuring a smooth and cold mixture. Garnish with a cherry or an orange twist for a classic touch. "

@@ -3,6 +3,7 @@ title: "The 69 Special Cocktail"
 fullname: "The 69 Special Cocktail"
 shortname: "69 Special"
 author: "Pure Drinkology"
+collection:
 description: "The 69 Special belongs to the Highball family, characterized by their tall, mixed-drink format. Its origins are likely rooted in the early 20th century, a time when gin-based cocktails were popular and 7-Up emerged as a popular soda. "
 flavor_description: "The 69 Special is a refreshing and zesty cocktail. Gin's juniper notes shine through, balanced by the sweetness of 7-Up and the tartness of lemon juice. It's a light and crisp drink that's perfect for summer evenings. The combination creates a clean, slightly bitter finish with a hint of citrus, making it an approachable and enjoyable drink for gin enthusiasts and casual drinkers alike. "
 bartender_tips: "For a crisp, balanced 69 Special, start with a good quality gin. Use fresh lemon juice, not bottled, and ensure it's well-chilled.  A light hand with the 7-Up is key - you want it to complement, not overpower.  Shake with ice, strain into a chilled coupe glass, and garnish with a lemon twist for an elegant touch. "

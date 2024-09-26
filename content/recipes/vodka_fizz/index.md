@@ -3,6 +3,7 @@ title: "The Vodka Fizz Shake"
 fullname: "The Vodka Fizz Shake"
 shortname: "Vodka Fizz"
 author: "Pure Drinkology"
+collection:
 description: "The Vodka Fizz is a refreshing twist on the classic Fizz family, which dates back to the 18th century. It's a simple yet elegant blend of vodka, cream, citrus, and spice, drawing inspiration from the popularity of creamy cocktails in the 1950s and 60s. "
 flavor_description: "The Vodka Fizz offers a refreshing blend of tart and creamy. The vodka provides a clean, crisp base, while the limeade delivers a bright, citrusy zing. The half-and-half adds a velvety richness, creating a smooth, luxurious mouthfeel. A sprinkle of nutmeg adds a warm, aromatic complexity, rounding out the flavors and leaving a lingering sweetness on the palate. "
 bartender_tips: "Start with a chilled glass to keep the drink cold.  Use good quality vodka, and freshly squeezed lime juice for the best flavor.  Shake vigorously to ensure proper mixing and a smooth texture.  Gently grate nutmeg over the top, avoiding too much for a balanced flavor.  Serve immediately, as the drink will become watered down over time.  Enjoy! "

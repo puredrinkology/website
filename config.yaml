@@ -110,12 +110,14 @@ permalinks:
   base_spirit: "/recipes/spirit/:slug/"
   family: "/recipes/family/:slug/"
   category: "/recipes/category/:slug/"
+  collection: "/recipes/collection/:slug/"
 
 
 taxonomies:
   base_spirit: "base_spirit"
   family: "family"
   category: "category"
+  collection: "collection"
 
 related:
   threshold: 0

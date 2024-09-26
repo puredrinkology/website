@@ -3,6 +3,7 @@ title: "The London Town Cocktail"
 fullname: "The London Town Cocktail"
 shortname: "London Town"
 author: "Pure Drinkology"
+collection:
 description: "The London Town, a delightful blend of gin, maraschino liqueur, and orange bitters, is a classic member of the Martini family. Though its exact origins are shrouded in mystery, its profile suggests a nod to the rich history of gin cocktails in London, where the spirit itself was born. "
 flavor_description: "The London Town is a sophisticated yet approachable gin cocktail. It boasts a crisp, clean juniper forwardness from the gin, balanced by the sweetness and cherry notes of maraschino liqueur.  A whisper of orange bitters adds a subtle complexity, with hints of citrus and spice that linger on the palate.  "
 bartender_tips: "The key to a good London Town is balance. Use a high-quality gin, as its flavor will shine through. A good dash of orange bitters adds complexity, but don't overdo it.  Chill your glass and stir the ingredients with ice until well-chilled. This ensures the cocktail is properly diluted and the flavors meld beautifully. Garnish with a flamed orange peel for an aromatic finish. "

@@ -3,6 +3,7 @@ title: "The Victory Collins Cocktail"
 fullname: "The Victory Collins Cocktail"
 shortname: "Victory Collins"
 author: "Pure Drinkology"
+collection:
 description: "The Victory Collins is a twist on the classic Collins family, a refreshing highball originating in the 19th century.  This patriotic spin likely emerged during World War II, using the colors of the American flag (red, white, and blue) in its vibrant grape, lemon, and vodka composition. "
 flavor_description: "The Victory Collins is a delightful blend of tart and sweet. Vodka's clean spirit mingles with the bright acidity of lemon juice and the juicy sweetness of grape juice. Powdered sugar adds a touch of delicate sweetness, while orange provides a subtle citrusy aroma and a zesty finish. This refreshing cocktail is a perfect balance of flavors, leaving you with a satisfying and invigorating experience. "
 bartender_tips: "To make the Victory Collins a winner, use fresh lemon juice for maximum zing. Don't overdo the powdered sugar—start small and adjust to taste.  For a more vibrant hue, use a high-quality, dark-colored grape juice.  Shake well with ice to chill thoroughly, and don't forget a splash of soda water for a light and refreshing finish. Finally, garnish with a lemon twist or an orange slice for a touch of elegance. "

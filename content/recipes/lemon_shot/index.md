@@ -3,6 +3,7 @@ title: "The Lemon Shot"
 fullname: "The Lemon Shot"
 shortname: "Lemon"
 author: "Pure Drinkology"
+collection:
 description: "The Lemon Shot, a vibrant blend of Galliano, Absolut Citron, lemon, sugar, and 151 proof rum, belongs to the **Shooter** family. This high-proof, punchy cocktail likely originated in the late 20th century, reflecting the era's love for bold flavors and quick, potent drinks. "
 flavor_description: "The Lemon Shot is a vibrant and tart cocktail with a powerful kick. The sweet anise notes of Galliano blend harmoniously with the citrusy zing of Absolut Citron and fresh lemon. The sugar balances the acidity, while the 151 Proof Rum adds a fiery finish.  Expect a bold and memorable flavor experience. "
 bartender_tips: "To make the Lemon Shot smooth and balanced, use fresh lemon juice and a good quality sugar syrup.  Don't be afraid to adjust the ratios to your taste, but start with a 1:1:1:1 ratio of Galliano, Citron, lemon juice, and sugar syrup.  A tiny dash of 151 proof rum adds a fiery kick, but use it sparingly for maximum effect.  Shake well with ice and strain into a shot glass. "

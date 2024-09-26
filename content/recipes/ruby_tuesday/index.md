@@ -3,6 +3,7 @@ title: "The Ruby Tuesday Cocktail"
 fullname: "The Ruby Tuesday Cocktail"
 shortname: "Ruby Tuesday"
 author: "Pure Drinkology"
+collection:
 description: "The Ruby Tuesday is a classic sour cocktail, a family known for its tart and refreshing flavors.  While its exact origin is unknown, it likely emerged in the 1950s-60s, taking inspiration from the popularity of sour cocktails and the bright red hues of cranberry and grenadine. "
 flavor_description: "The Ruby Tuesday is a refreshing, tart cocktail with a vibrant crimson hue. The gin provides a juniper-forward backbone, while cranberry juice adds a sharp, tangy sweetness. Grenadine contributes a delicate touch of sweetness and a hint of pomegranate flavor, rounding out the cocktail with a balanced finish. "
 bartender_tips: "Use a high-quality gin for a brighter, more complex flavor.  Chill all ingredients beforehand for a refreshing drink.  Shake with ice vigorously to ensure thorough mixing.  Don't over-pour grenadine; a small amount adds color and sweetness without overpowering the cranberry.  Garnish with a lime wedge or a sprig of rosemary for a festive touch. "

@@ -3,6 +3,7 @@ title: "The Sangria Punch"
 fullname: "The Sangria Punch"
 shortname: "Sangria"
 author: "Pure Drinkology"
+collection:
 description: "Sangria, a vibrant Spanish concoction, hails from the punch family. Its roots trace back to ancient Rome, where wine was infused with spices and fruit.  This refreshing drink has evolved over centuries, becoming a beloved staple of Spanish culture. "
 flavor_description: "Sangria is a symphony of flavors.  The red wine provides a rich, fruity base, while the sugar adds sweetness and balances the tartness of the orange and lemon juices.  Subtle spice notes from the cloves and cinnamon create a warm complexity, enhancing the overall fruitiness. The result is a refreshing, invigorating beverage that is both sweet and slightly tart. "
 bartender_tips: "For a vibrant sangria, use a high-quality red wine with fruity notes. Don't over-sugar, a touch is enough. Let the fruit macerate in the wine for at least 2 hours, preferably overnight, for optimal flavor infusion. Use fresh citrus juice for the brightest taste. A splash of brandy adds complexity. "

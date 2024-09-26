@@ -3,6 +3,7 @@ title: "The Lassi - Mango Shake"
 fullname: "The Lassi - Mango Shake"
 shortname: "Lassi - Mango"
 author: "Pure Drinkology"
+collection:
 description: "The Mango Lassi is a refreshing drink rooted in Indian tradition. It belongs to the lassi family, a yogurt-based beverage often flavored with fruits and spices. Originating in the Punjab region, it's a staple across India and enjoyed for its creamy texture and sweet, tangy taste. "
 flavor_description: "The Lassi - Mango is a creamy and refreshing cocktail with a bright, tropical flavor. The sweetness of the mango is balanced by the tangy yogurt, creating a harmonious blend. The addition of water provides a light, refreshing texture, while the sugar adds a touch of sweetness. Overall, this drink is a delightful combination of sweet, tangy, and creamy notes, perfect for a hot summer day. "
 bartender_tips: "For the best mango lassi, use ripe, juicy mangoes. Blend them with chilled yogurt for a smooth, creamy texture. Don't over-sweeten – start with a small amount of sugar and adjust to taste.  Use good quality yogurt for the best flavor. A splash of water can help thin the consistency if needed. Garnish with a mango slice and a pinch of cardamom for an extra touch. "

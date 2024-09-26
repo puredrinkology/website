@@ -3,6 +3,7 @@ title: "The Royal Gin Fizz Cocktail"
 fullname: "The Royal Gin Fizz Cocktail"
 shortname: "Royal Gin Fizz"
 author: "Pure Drinkology"
+collection:
 description: "The Royal Gin Fizz belongs to the esteemed Fizz family, known for their refreshing bubbly nature.  Though its exact origin is unclear, its name suggests a royal connection, likely emerging in the Victorian era when gin cocktails were highly popular.  "
 flavor_description: "The Royal Gin Fizz is a refreshing and complex cocktail. The gin's juniper and botanical notes are balanced by the tartness of lemon and sweetness of powdered sugar.  The egg white adds a velvety texture and subtle richness, while the carbonated water provides a lively effervescence. The overall effect is a delightful blend of tart, sweet, and floral flavors with a smooth and creamy mouthfeel. "
 bartender_tips: "For a perfect Royal Gin Fizz, **use a good quality gin** for maximum flavor. **Freshly squeeze your lemon juice** for bright acidity. **Dry shake** the gin, lemon, sugar, and egg white vigorously to emulsify and create a frothy head. **Don't overshake**, or you'll get a bitter taste. **Shake again with ice** to chill the drink. **Top with carbonated water** gently, allowing it to settle on top of the foam. "

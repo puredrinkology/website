@@ -3,6 +3,7 @@ title: "The Dry Rob Roy Cocktail"
 fullname: "The Dry Rob Roy Cocktail"
 shortname: "Dry Rob Roy"
 author: "Pure Drinkology"
+collection:
 description: "The Dry Rob Roy belongs to the Manhattan family, a classic cocktail style featuring whiskey, vermouth, and bitters. This variation, believed to have originated in the early 20th century, swaps the traditional sweet vermouth for dry vermouth and adds a citrus twist for a lighter, more refreshing profile. "
 flavor_description: "The Dry Rob Roy is a sophisticated, elegant cocktail with a complex flavor profile. The Scotch provides a robust, smoky base, while the dry vermouth adds a touch of herbal bitterness and dryness. The lemon peel contributes a bright, citrusy note that balances the richness of the Scotch and vermouth. The result is a harmonious blend of smoky, herbal, and citrusy flavors that lingers on the palate. "
 bartender_tips: "For a perfect Dry Rob Roy, chill your glass and ingredients beforehand. Use a good quality Scotch and a dry vermouth with low sugar content.  Gently stir the cocktail with ice, ensuring the vermouth doesn't overpower the Scotch. Express the lemon peel over the drink for a citrus aroma, then discard it.  Serve straight up in your chilled coupe glass. "

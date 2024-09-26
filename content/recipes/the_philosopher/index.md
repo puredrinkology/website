@@ -3,6 +3,7 @@ title: "The Philosopher Cocktail"
 fullname: "The Philosopher Cocktail"
 shortname: "Philosopher"
 author: "Pure Drinkology"
+collection:
 description: "The Philosopher is a twist on the classic Fizz family. It's a modern concoction, likely born in a contemporary bar scene, combining the bracing gin and citrus base with the sweetness of melon liqueur, the complexity of bitters, and the celebratory effervescence of Prosecco. "
 flavor_description: "The Philosopher is a sophisticated blend of botanicals and fruit. The gin's juniper and citrus notes are complemented by the melon liqueur's sweetness and the orange bitters' subtle spice. The lemon juice adds a tartness that balances the sweetness, while the Prosecco provides a bubbly effervescence and light floral aroma. This cocktail is crisp, refreshing, and complex, a perfect choice for a contemplative evening. "
 bartender_tips: "Chill your glass and ingredients beforehand. Use a good quality gin and a melon liqueur with a distinct flavor. Don't overdo the orange bitters - a dash is all you need.  Shake vigorously with ice, then strain into the chilled glass. Top with Prosecco, adding it gently to retain the bubbles. Garnish with a lemon twist for a fragrant touch. "

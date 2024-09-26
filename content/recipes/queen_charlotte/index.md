@@ -3,6 +3,7 @@ title: "The Queen Charlotte Cocktail"
 fullname: "The Queen Charlotte Cocktail"
 shortname: "Queen Charlotte"
 author: "Pure Drinkology"
+collection:
 description: "The Queen Charlotte belongs to the **Highball** family, characterized by their tall, mixed drinks with a base spirit and a mixer. This simple concoction likely originated in the early 20th century, likely inspired by the popularity of red wine cocktails and the growing trend of soda-based drinks. "
 flavor_description: "The Queen Charlotte is a delightful balance of sweet and tart. The red wine provides a rich, fruity base, while the grenadine adds a touch of sweetness and a vibrant ruby hue. The lemon-lime soda provides a refreshing effervescence and a subtle citrus tang, making this cocktail both complex and approachable. It's a perfect choice for a warm afternoon or a light and airy aperitif. "
 bartender_tips: "For a balanced Queen Charlotte, start with a good quality dry red wine. Don't skimp on the grenadine – it adds the sweetness and vibrant color. Use a chilled glass and add the soda last for a bubbly fizz.  A splash of lemon juice can brighten the flavor. Adjust the proportions to your liking, but keep the red wine dominant for a true Queen's touch. "

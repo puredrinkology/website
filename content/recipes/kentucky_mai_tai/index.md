@@ -3,6 +3,7 @@ title: "The Kentucky Mai Tai Cocktail"
 fullname: "The Kentucky Mai Tai Cocktail"
 shortname: "Kentucky Mai Tai"
 author: "Pure Drinkology"
+collection:
 description: "The Kentucky Mai Tai is a unique twist on the classic Polynesian cocktail family, blending traditional Mai Tai elements like orgeat and rum with American influences. The bourbon, mezcal, and Cynar add smoky, herbal, and bittersweet notes, while the peach liqueur and lemon juice provide a balance of sweetness and acidity. "
 flavor_description: "The Kentucky Mai Tai is a complex and intriguing cocktail. The bourbon and mezcal provide a smoky, spicy base, while the orgeat and peach liqueur add sweetness and floral notes. Cynar's artichoke bitterness balances the sweetness, and the lemon juice provides a refreshing acidity. Expect a layered experience with notes of smoke, spice, fruit, and a subtle vegetal undertone. "
 bartender_tips: "This is a unique twist on a classic! When building the Kentucky Mai Tai, focus on quality ingredients. Freshly squeezed lemon juice is essential.  Use a good quality mezcal that has a smoky character. The Cynar adds a complex, bitter note that balances the sweetness of the orgeat and peach liqueur.  Shake with ice to chill, but strain into a chilled coupe glass to prevent dilution. Enjoy the surprising complexity! "

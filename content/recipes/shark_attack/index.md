@@ -3,6 +3,7 @@ title: "The Shark Attack Cocktail"
 fullname: "The Shark Attack Cocktail"
 shortname: "Shark Attack"
 author: "Pure Drinkology"
+collection:
 description: "The Shark Attack is a simple, refreshing highball, similar to a Vodka Soda with a twist. While its origins are unknown, the combination of vodka and lemonade likely draws inspiration from classic cocktails like the Vodka Sour or the Moscow Mule, which utilize these flavors in a more complex fashion. "
 flavor_description: ""
 bartender_tips: ""

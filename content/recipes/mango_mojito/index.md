@@ -3,6 +3,7 @@ title: "The Mango Mojito Cocktail"
 fullname: "The Mango Mojito Cocktail"
 shortname: "Mango Mojito"
 author: "Pure Drinkology"
+collection:
 description: "The Mango Mojito belongs to the Mojito family, a Cuban classic. This tropical twist on the original adds mango sweetness and aroma, enhancing the refreshing lime and mint flavors.  "
 flavor_description: "The Mango Mojito is a tropical delight!  Sweet mango and zesty lime dance on your palate, refreshed by the cool, minty bite.  White rum adds a subtle warmth, while the soda water's effervescence creates a light, airy finish.  It's a perfect balance of sweetness, tartness, and refreshing coolness, ideal for warm weather sipping. "
 bartender_tips: "Muddle the mint and mango aggressively to release their flavors. Don't over-muddle, you want a smooth purée, not a paste. Use a quality white rum and fresh lime juice. Don't skimp on the ice, it dilutes the cocktail and keeps it cool. Adjust the sweetness to your liking with additional mango purée or simple syrup. Top with soda water for a refreshing fizz. "

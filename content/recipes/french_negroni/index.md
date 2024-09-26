@@ -3,6 +3,7 @@ title: "The French Negroni Cocktail"
 fullname: "The French Negroni Cocktail"
 shortname: "French Negroni"
 author: "Pure Drinkology"
+collection:
 description: "The French Negroni is a twist on the classic Negroni, belonging to the Negroni family. It swaps Campari for the French aperitif Lillet, adding a lighter, more floral twist. Its origin likely stems from the mid-20th century, as Lillet rose to popularity in the 1950s. "
 flavor_description: "The French Negroni is a sophisticated twist on the classic, with a lighter, more floral profile. The gin's juniper and citrus notes are balanced by the sweet, herbal notes of Lillet and the bittersweet dryness of the vermouth. The orange peel adds a bright, zesty finish, creating a complex yet refreshing experience. "
 bartender_tips: "Chill your glass and ingredients beforehand for a perfectly chilled cocktail. Use a good quality gin and Lillet Blanc for optimal flavor.  When expressing the orange peel, twist it over the drink to release the oils and add a fragrant aroma. Stir gently, not shake, to avoid dilution. "

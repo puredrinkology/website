@@ -3,6 +3,7 @@ title: "The Van Vleet Cocktail"
 fullname: "The Van Vleet Cocktail"
 shortname: "Van Vleet"
 author: "Pure Drinkology"
+collection:
 description: "The Van Vleet is a refreshing twist on the classic Daiquiri family,  with a maple syrup sweetness replacing the traditional sugar. Its origin is unknown, likely a modern invention drawing on the popular rum and citrus combinations. "
 flavor_description: "The Van Vleet is a delightful blend of sweet and tart. The light rum provides a smooth, slightly spiced backbone, while the maple syrup offers a rich, caramel-like sweetness. Lemon juice adds a bright, citrusy tang that balances the sweetness perfectly. The result is a refreshing and well-rounded cocktail that's perfect for warm weather. "
 bartender_tips: "Use a high-quality light rum for a brighter flavor.  Shake vigorously with ice to chill and dilute the cocktail properly.  Adjust the maple syrup to your sweetness preference.  A good quality lemon juice will add brightness and balance.  Strain into a chilled coupe glass for a refreshing presentation. "

@@ -3,6 +3,7 @@ title: "The Shot-Gun Shot"
 fullname: "The Shot-Gun Shot"
 shortname: "Shot-Gun"
 author: "Pure Drinkology"
+collection:
 description: "This concoction, aptly named Shotgun, belongs to the **Whiskey Blend** family, a classic category known for combining different whiskey expressions.  Its origin likely hails from the **American South**, a region synonymous with hearty whiskey and unpretentious drinking. "
 flavor_description: ""
 bartender_tips: ""

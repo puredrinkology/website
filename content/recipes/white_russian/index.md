@@ -3,6 +3,7 @@ title: "The White Russian Cocktail"
 fullname: "The White Russian Cocktail"
 shortname: "White Russian"
 author: "Pure Drinkology"
+collection:
 description: "The White Russian, a creamy and decadent concoction, belongs to the Coffee Cocktail family.  Born in the 1940s, likely in Belgium, it is a close cousin to the Black Russian, differing only by the addition of cream.  "
 flavor_description: "The White Russian is a creamy, decadent cocktail with a smooth, full-bodied flavor. Vodka provides a clean, neutral base, while coffee liqueur adds rich, roasted coffee notes and a hint of sweetness. The light cream contributes a velvety texture and a subtle, dairy-like sweetness. The overall taste profile is indulgent and balanced, with the coffee and cream complementing the vodka beautifully. "
 bartender_tips: "For the perfect White Russian, chill your glassware and vodka. Use a good quality coffee liqueur, preferably one with a strong coffee flavor. Pour the vodka and liqueur first, then gently layer the cream on top to create a beautiful gradient. Avoid stirring, as this will create a milky mess. Garnish with a coffee bean or a sprinkle of cocoa powder. "

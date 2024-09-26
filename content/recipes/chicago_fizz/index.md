@@ -3,6 +3,7 @@ title: "The Chicago Fizz Cocktail"
 fullname: "The Chicago Fizz Cocktail"
 shortname: "Chicago Fizz"
 author: "Pure Drinkology"
+collection:
 description: "The Chicago Fizz belongs to the **Fizz family**, a group of cocktails characterized by their bubbly, refreshing nature. Originating in the late 19th century, this particular Fizz likely emerged from the bustling Chicago bar scene, combining the sweetness of Port with the citrusy tang of lemon and the frothy texture of egg white. "
 flavor_description: "The Chicago Fizz is a delightful blend of sweet and tart.  The light rum provides a subtle sweetness and a hint of spice, while the port adds complexity with its fruity notes.  The lemon juice balances the sweetness with a refreshing acidity, while the egg white creates a velvety texture and a touch of richness.  The powdered sugar adds a subtle sweetness and the carbonated water provides a delightful fizz. "
 bartender_tips: "For a perfect Chicago Fizz, start with a chilled glass. Dry shake the rum, port, lemon, sugar, and egg white vigorously for 30 seconds to build a frothy head. Add ice and shake again for a frosty cocktail. Finally, top with carbonated water for a bubbly finish. Remember, a light touch with the sugar is key to avoid a cloying sweetness. "

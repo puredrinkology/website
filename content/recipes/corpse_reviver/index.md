@@ -3,6 +3,7 @@ title: "The Corpse Reviver Cocktail"
 fullname: "The Corpse Reviver Cocktail"
 shortname: "Corpse Reviver"
 author: "Pure Drinkology"
+collection:
 description: "The Corpse Reviver No. 2 is a classic cocktail belonging to the **Sour** family, a category characterized by a base spirit, citrus juice, and a sweetener.  Its origin dates back to the 1920s, likely invented by Harry MacElhone at Harry's New York Bar in Paris. "
 flavor_description: "The Corpse Reviver No. 2 is a complex and refreshing cocktail. The gin provides a crisp, juniper-forward base, while the triple sec adds a touch of orange sweetness. Lillet Blanc contributes a dry, slightly bitter note, and the lemon juice brightens the palate with its tartness. A whisper of absinthe adds a subtle herbal and aniseed complexity, making this cocktail both invigorating and intriguing. "
 bartender_tips: "When making a Corpse Reviver #2, use a good quality gin for a balanced flavor.  For the absinthe, a small splash is key;  too much will overpower the drink.  Shake well with ice to ensure thorough chilling and dilution.  Garnish with a lemon twist for a classic touch. "

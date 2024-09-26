@@ -3,6 +3,7 @@ title: "The Danbooka Cafe"
 fullname: "The Danbooka Cafe"
 shortname: "Danbooka"
 author: "Pure Drinkology"
+collection:
 description: "The Danbooka, a potent blend of coffee and Everclear, belongs to the Coffee Cocktail family. Its origins are obscure, likely born in the rough-and-tumble bars of the American frontier, where strong spirits and caffeine were essential for survival. "
 flavor_description: "The Danbooka is a bold, high-proof cocktail that packs a punch.  It's a coffee lover's dream, with rich, roasted coffee notes upfront, followed by a fiery, warming finish from the Everclear.  The alcohol intensity is undeniable, creating a thrilling, almost dangerous experience. It's not for the faint of heart, but for those seeking a strong, coffee-infused adventure, the Danbooka delivers. "
 bartender_tips: "This sounds like a potent concoction!  The Danbooka is a high-proof cocktail, so use Everclear sparingly.  Start with a small amount and adjust to taste.  A good coffee base is crucial - fresh brewed or strong cold brew works best.  Chill both ingredients for a super smooth experience.  Be mindful of the high alcohol content and sip slowly! "

@@ -3,6 +3,7 @@ title: "The Abc Shot"
 fullname: "The Abc Shot"
 shortname: "Abc"
 author: "Pure Drinkology"
+collection:
 description: "The ABC cocktail, a harmonious blend of Amaretto, Baileys Irish Cream, and Cognac, belongs to the **Cream Liqueur Cocktail** family. Its origins are likely modern, a playful combination of popular liqueurs, enjoyed for its rich, creamy texture and sweet, nutty notes. "
 flavor_description: "The ABC cocktail is a smooth, decadent blend. The Amaretto provides a sweet almond and vanilla base, while the Baileys Irish Cream adds a rich, creamy texture and notes of chocolate and coffee. The Cognac contributes a dry, warming complexity with hints of fruit and spice.  The result is a balanced, indulgent cocktail with a velvety mouthfeel and a lingering warmth. "
 bartender_tips: "The ABC is a creamy, sweet, and sophisticated drink.  When mixing, remember that Baileys is quite thick.  Use a cocktail shaker with ice and shake vigorously to blend all ingredients evenly.  Strain into a chilled coupe glass.  Garnish with a coffee bean or a drizzle of chocolate for an extra touch of decadence. "

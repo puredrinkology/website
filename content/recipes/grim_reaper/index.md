@@ -3,6 +3,7 @@ title: "The Grim Reaper Cocktail"
 fullname: "The Grim Reaper Cocktail"
 shortname: "Grim Reaper"
 author: "Pure Drinkology"
+collection:
 description: "The Grim Reaper, a potent blend of Kahlua, high-proof rum, and grenadine, is a member of the Coffee Cocktail family.  While its exact origin is unclear, its combination of sweet, bitter, and boozy notes likely emerged from the early 20th century, a time when coffee-based drinks were gaining popularity. "
 flavor_description: "The Grim Reaper is a bold, layered cocktail. The Kahlua brings a rich, coffee-forward sweetness, while the 151 Proof Rum provides a fiery, almost smoky kick. The Grenadine adds a touch of tart sweetness and a vibrant red hue. Expect a complex flavor profile that is both intensely sweet and surprisingly smooth, with a lingering warmth that lingers long after the last sip.  "
 bartender_tips: "This drink packs a punch! Use a chilled mixing glass for a super-cold serve. Measure carefully – a little 151 goes a long way! Shake with ice and strain into a chilled coupe or martini glass.  For a layered effect, gently pour grenadine over ice after shaking.  Serve with a cherry, and a warning – it's strong! "

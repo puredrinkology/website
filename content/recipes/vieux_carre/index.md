@@ -3,6 +3,7 @@ title: "The Vieux Carre Cocktail"
 fullname: "The Vieux Carre Cocktail"
 shortname: "Vieux Carre"
 author: "Pure Drinkology"
+collection:
 description: "The Vieux Carre is a classic New Orleans cocktail, a member of the Old Fashioned family, characterized by its rich, complex flavors.  Created in the 1930s at the Hotel Monteleone's Carousel Bar, it's a sophisticated blend of rye, brandy, sweet vermouth, Benedictine, and Peychaud's Bitters. "
 flavor_description: "The Vieux Carre is a complex and sophisticated cocktail. Its rye whiskey backbone provides spice and backbone, while the brandy lends fruitiness and richness. Sweet vermouth adds sweetness and herbal notes, while Benedictine brings a hint of honey and spice. Peychaud's bitters round out the profile with a touch of bitter orange and clove. The result is a balanced and deeply flavorful cocktail that is both warming and refreshing. "
 bartender_tips: "When making a Vieux Carré, chilling the glass beforehand is key for a refreshing experience.  Use a good quality rye and brandy for depth of flavor. Don't skimp on the Benedictine; it adds complexity.  Stir gently, not vigorously, to avoid bruising the ingredients.  Garnish with a lemon twist and enjoy the rich, elegant complexity. "

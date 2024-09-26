@@ -3,6 +3,7 @@ title: "The Harvey Wallbanger Cocktail"
 fullname: "The Harvey Wallbanger Cocktail"
 shortname: "Harvey Wallbanger"
 author: "Pure Drinkology"
+collection:
 description: "The Harvey Wallbanger is a member of the Highball cocktail family, known for its tall, mixed-drink format. Originating in the 1960s, it gained popularity with its sweet, citrusy profile, likely inspired by the Screwdriver cocktail, but with the addition of the herbal liqueur Galliano. "
 flavor_description: "The Harvey Wallbanger is a sweet and citrusy cocktail with a vibrant orange flavor. The vodka provides a clean, neutral base, while the Galliano liqueur adds a distinctive herbal and slightly sweet note with hints of vanilla and anise. The orange juice balances the sweetness and provides a refreshing acidity, creating a well-rounded and enjoyable drinking experience. "
 bartender_tips: "For a perfect Harvey Wallbanger, chill your glass and vodka beforehand.  Pour the vodka first, then Galliano, allowing it to float on top.  Gently add orange juice last, aiming for a layered look.  Don't stir – you want to maintain the distinct flavors.  A light squeeze of orange for garnish completes the experience. "

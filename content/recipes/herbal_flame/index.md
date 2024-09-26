@@ -3,6 +3,7 @@ title: "The Herbal Flame Cafe"
 fullname: "The Herbal Flame Cafe"
 shortname: "Herbal Flame"
 author: "Pure Drinkology"
+collection:
 description: "Herbal Flame belongs to the **Hot Toddy** family, a warm, comforting drink typically enjoyed during cold weather. Originating in the 18th century, the Hot Toddy was traditionally used as a medicinal remedy, often incorporating whiskey, honey, and spices. "
 flavor_description: "Herbal Flame bursts with spicy warmth from the Hot Damn, Tea base. Ginger and cinnamon dance on your tongue, with a lingering heat that morphs into a cool, refreshing finish. The herbal notes of chamomile and mint add a soothing complexity, creating a truly unique and balanced cocktail. "
 bartender_tips: "When crafting the Herbal Flame, remember that the Hot Damn, Tea is the star. Use a high-quality, strong brew for maximum flavor. Muddle the mint gently to release oils without bruising the leaves. Shake vigorously with ice to chill the cocktail thoroughly and create a frothy top. Garnish with a sprig of mint and a splash of sparkling water for an extra touch.  "

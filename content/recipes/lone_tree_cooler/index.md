@@ -3,6 +3,7 @@ title: "The Lone Tree Cooler Cocktail"
 fullname: "The Lone Tree Cooler Cocktail"
 shortname: "Lone Tree Cooler"
 author: "Pure Drinkology"
+collection:
 description: "The Lone Tree Cooler is a refreshing twist on the classic Gin Fizz family.  Its origins likely lie in the late 19th century, when carbonated water and powdered sugar were popular additions to gin-based cocktails.  The citrus notes and garnish nod to the enduring popularity of citrus-forward drinks. "
 flavor_description: "The Lone Tree Cooler is a refreshing, slightly sweet and citrusy concoction. The gin's botanicals shine through with juniper and citrus notes, complemented by the dryness of the vermouth. The powdered sugar adds a subtle sweetness, balanced by the tartness of the lemon peel. The carbonated water provides a lively effervescence, while the orange spiral adds a touch of elegance and a hint of citrus aroma. "
 bartender_tips: "Chill your glass and ingredients beforehand for a truly refreshing drink.  Use high-quality gin and vermouth for best flavor.  Gently muddle the powdered sugar with a splash of water to create a simple syrup, avoiding any lumps.  When adding the orange spiral, use a citrus peeler to create a beautiful curl for garnish.  Finally, use a bar spoon to gently stir the cocktail, keeping the carbonation intact. "

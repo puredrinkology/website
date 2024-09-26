@@ -3,6 +3,7 @@ title: "The Derby Cocktail"
 fullname: "The Derby Cocktail"
 shortname: "Derby"
 author: "Pure Drinkology"
+collection:
 description: "The Derby is a refreshing gin-based cocktail belonging to the **Highball** family. Its origin is unknown, but the combination of gin, peach bitters, and mint suggests a playful nod to the classic Gin & Tonic, with a fruity twist. "
 flavor_description: "The Derby is a refreshing and herbaceous cocktail. The gin provides a crisp, juniper-forward base, while the peach bitters add a subtle sweetness and a hint of stone fruit. The mint adds a cool, minty freshness that balances the gin's dryness. The overall flavor profile is complex and well-rounded, with a delicate balance of sweet, savory, and bitter notes. "
 bartender_tips: "Muddle the mint gently, just enough to release oils, not pulverize it. Use a quality gin with botanicals that complement the peach and mint, like juniper and citrus. A dash of peach bitters is key, not too much! Build the drink over ice, ensuring the gin is chilled, and garnish with a fresh mint sprig. The Derby is best enjoyed fresh, so avoid over-mixing. "

@@ -3,6 +3,7 @@ title: "The Orange Rosemary Collins Cocktail"
 fullname: "The Orange Rosemary Collins Cocktail"
 shortname: "Orange Rosemary Collins"
 author: "Pure Drinkology"
+collection:
 description: "The Orange Rosemary Collins is a modern twist on the classic Collins family, a highball cocktail traditionally made with gin or whiskey and a citrus juice base. This refreshing concoction incorporates rosemary's herbal complexity, a recent trend in cocktail innovation. "
 flavor_description: "This cocktail bursts with bright, citrusy flavors from the orange and lemon juices, balanced by the earthy, slightly piney notes of rosemary. The gin adds a crisp, juniper backbone, while the soda water provides refreshing effervescence. The rosemary syrup adds a touch of sweetness and complexity, while the garnish of rosemary and orange peel enhance the aromatic experience.  It's a light and refreshing cocktail perfect for warm days. "
 bartender_tips: "Muddle rosemary with a splash of gin to release its aroma.  Freshly squeeze your juices for vibrant flavor. Use simple syrup instead of rosemary syrup for a more subtle flavor.  Gently stir and top with soda water to maintain the beautiful layers. Garnish with a rosemary sprig and orange peel, expressing the oils over the drink before placing it. "

@@ -3,6 +3,7 @@ title: "The Dont Scoff At Scoff Cocktail"
 fullname: "The Dont Scoff At Scoff Cocktail"
 shortname: "Dont Scoff At Scoff"
 author: "Pure Drinkology"
+collection:
 description: "Don't Scoff at the Scoff is a captivating riff on the classic Old Fashioned, drawing inspiration from its rich history of bourbon, bitters, and sweetening agents.  The addition of mezcal and orgeat brings a modern twist,  creating a layered and complex cocktail that celebrates both tradition and innovation. "
 flavor_description: "Don't Scoff At The Scoff is a complex and intriguing cocktail. The orgeat syrup provides a sweet, almondy base, while the bourbon adds warmth and spice. The mezcal lends a smoky, earthy note, balanced by the subtle bitterness of aromatic and chocolate bitters. The result is a captivating blend of sweet, smoky, spicy, and bitter flavors, creating a truly unique and memorable cocktail experience. "
 bartender_tips: "Use a good quality orgeat syrup, as it's the key ingredient. Measure the orgeat carefully for the right balance. A dash of each bitters adds complexity, but don't overdo it. Shake hard with ice to chill and dilute. Strain into a chilled coupe for a crisp, elegant presentation. "

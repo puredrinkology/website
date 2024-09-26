@@ -3,6 +3,7 @@ title: "The 747 Drink Cocktail"
 fullname: "The 747 Drink Cocktail"
 shortname: "747 Drink"
 author: "Pure Drinkology"
+collection:
 description: "The 747 Drink is a contemporary twist on the classic Sour family, drawing inspiration from modern, layered cocktail trends. Its bright, fruity flavors are reminiscent of a tropical vacation, capturing the spirit of air travel with its whimsical name. "
 flavor_description: "The 747 Drink is a refreshing and slightly tart cocktail. The vodka provides a smooth base, while the sweetened lime juice adds a touch of citrusy sweetness. Cranberry juice contributes a tart and fruity flavor, while the Sprite adds a bubbly and refreshing quality. The combination of flavors creates a well-balanced and enjoyable drink that is perfect for any occasion. "
 bartender_tips: "To make the 747 Drink shine, use a high-quality vodka for a clean base. Freshly squeeze your lime juice, and use a good quality cranberry juice. Shake the vodka, lime juice, and cranberry juice with ice to chill thoroughly before topping with Sprite. This ensures a balanced, refreshing drink. Garnish with a lime wedge for a touch of elegance. "

@@ -3,6 +3,7 @@ title: "The Tomato Tang Cocktail"
 fullname: "The Tomato Tang Cocktail"
 shortname: "Tomato Tang"
 author: "Pure Drinkology"
+collection:
 description: "The Tomato Tang belongs to the **savory cocktail** family, a category that emerged in the early 20th century. Its simplicity suggests an American origin, likely born during the Prohibition era, when resourceful bartenders experimented with readily available ingredients. "
 flavor_description: "The Tomato Tang offers a savory, bright punch.  The tomato juice provides a rich, earthy base, while the lemon juice adds a sharp, citrusy tang.  Celery salt adds a subtle, herbaceous depth, balancing the sweetness of the tomato with a refreshing, salty note.  It's a unique and invigorating cocktail, perfect for a warm day. "
 bartender_tips: "For a crisp Tomato Tang, use fresh, chilled tomato juice and a good quality celery salt.  The ratio of tomato to lemon juice is key: start with a 4:1 ratio and adjust to taste.  Shake vigorously with ice to chill and dilute the drink.  Rim the glass with celery salt for a savory touch.  Garnish with a celery stalk or a sprig of fresh basil. "

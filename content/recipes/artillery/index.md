@@ -3,6 +3,7 @@ title: "The Artillery Cocktail"
 fullname: "The Artillery Cocktail"
 shortname: "Artillery"
 author: "Pure Drinkology"
+collection:
 description: "The Artillery, with its base of sweet vermouth and gin, is a member of the classic Martini family. Though its exact origins are murky, it likely emerged in the early 20th century, possibly as a variation on the Martini, with a more pronounced vermouth presence. "
 flavor_description: "The Artillery is a sophisticated and bittersweet cocktail. The gin's juniper and citrus notes intertwine with the sweet, herbal complexity of the vermouth, while the bitters add a subtle, warming spice and dryness. The result is a well-balanced, refreshing drink with a pleasant lingering finish that's both elegant and invigorating. "
 bartender_tips: "The Artillery is a simple yet elegant cocktail.  When making it, ensure your vermouth is chilled, as this will enhance its flavor.  Use a high-quality gin and a good dash of bitters, like Angostura, for depth.  Stir with ice until well-chilled, then strain into a chilled coupe glass.  Garnish with a lemon twist for a classic touch. "

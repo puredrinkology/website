@@ -3,6 +3,7 @@ title: "The Lemon Drop Cocktail"
 fullname: "The Lemon Drop Cocktail"
 shortname: "Lemon Drop"
 author: "Pure Drinkology"
+collection:
 description: "The Lemon Drop, a classic sour cocktail, belongs to the Sour family. Its origin is debated, but likely emerged in the 1970s, combining the sharp citrus of a lemon sour with the sweetness of Cointreau. "
 flavor_description: "The Lemon Drop is a delightful, tart and sweet cocktail. The vodka provides a clean base, while the Cointreau adds a touch of orange sweetness and complexity. The lemon juice shines through with its bright, citrusy acidity. The overall flavor profile is refreshing, balanced, and invigorating, with a lingering citrus finish. "
 bartender_tips: "For a perfect Lemon Drop, use a good quality vodka and fresh lemon juice.  Chill your martini glass and rim it with sugar for a sweet and tart contrast.  Shake your ingredients with ice until well chilled, then strain into the glass.  Garnish with a lemon twist for a touch of elegance and aroma. Remember, a good Lemon Drop is all about balance, so adjust the sweetness and tartness to your taste. "

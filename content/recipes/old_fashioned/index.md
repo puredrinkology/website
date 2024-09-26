@@ -3,6 +3,7 @@ title: "The Old Fashioned Cocktail"
 fullname: "The Old Fashioned Cocktail"
 shortname: "Old Fashioned"
 author: "Pure Drinkology"
+collection:
 description: "The Old Fashioned belongs to the Whiskey Cocktail family, predating the modern cocktail era.  Its origins trace back to the 1800s, emerging from the Whiskey & Bitters drinks popular in America at the time. "
 flavor_description: "The Old Fashioned offers a complex and balanced taste profile. The Bourbon provides a warm, oaky base with notes of caramel and vanilla. Demerara syrup adds a touch of sweetness and richness, while the aromatic bitters contribute spicy notes of clove and orange peel. Orange bitters add a citrusy twist, creating a harmonious blend of sweet, spicy, and bitter flavors. The overall experience is sophisticated, elegant, and slightly warming. "
 bartender_tips: "Use a large ice cube or sphere for slow dilution.  Muddle the sugar and bitters with a splash of water, not the bourbon, for a more balanced sweetness.  Don't over-stir, aim for a well-chilled cocktail, not a diluted one.  Garnish with a flamed orange peel, expressing the oils over the drink for aroma. "

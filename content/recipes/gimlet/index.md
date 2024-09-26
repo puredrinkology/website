@@ -3,6 +3,7 @@ title: "The Gimlet Cocktail"
 fullname: "The Gimlet Cocktail"
 shortname: "Gimlet"
 author: "Pure Drinkology"
+collection:
 description: "The Gimlet, a crisp and refreshing cocktail, belongs to the Sour family, characterized by the combination of spirit, citrus juice, and sweetener. Its origins trace back to the 19th century British Royal Navy, where it was used as a medicinal drink to combat scurvy. "
 flavor_description: "The Gimlet is a tart and refreshing cocktail with a bright, citrusy punch. The gin provides a juniper-forward backbone, while the lime juice offers a sharp, tangy edge. The sugar syrup balances the acidity, creating a harmonious blend of sweet and sour. The subtle lime garnish adds a final touch of citrus aroma, elevating the overall experience. "
 bartender_tips: "For a perfect Gimlet, use freshly squeezed lime juice for the brightest flavor.  A good quality gin is key, but don't over-muddle the lime.  A slight twist of lime zest adds a beautiful aroma.  If you're using simple syrup, make sure it's properly dissolved, and use a good bar spoon to stir the cocktail for proper dilution.  Enjoy! "

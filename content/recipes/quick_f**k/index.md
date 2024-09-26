@@ -3,6 +3,7 @@ title: "The Quick F**K Shot"
 fullname: "The Quick F**K Shot"
 shortname: "Quick F**K"
 author: "Pure Drinkology"
+collection:
 description: "The Quick F**K is a creamy, layered cocktail belonging to the Shooter family.  Its origin is likely contemporary, arising from the shotgun drinking trend of the 1990s, combining popular liqueurs for a quick, indulgent experience. "
 flavor_description: "Quick F**k delivers a decadent, sweet, and creamy experience. The Kahlua brings a rich coffee flavor, balanced by Midori's vibrant melon sweetness. Baileys adds a smooth, velvety texture and a touch of Irish cream indulgence. The combination is playful, decadent, and incredibly smooth, making it a dangerously easy-to-drink cocktail.  "
 bartender_tips: "This is a sweet, creamy cocktail that's best enjoyed chilled.  Use a cocktail shaker with ice for optimal chilling.  Start with a layer of Kahlua for its coffee flavor, then carefully layer the Midori, followed by the Baileys. This creates a visually appealing gradient. Don't over shake as you want to preserve the layers. Garnish with a lime wheel or a sprinkle of cocoa powder. "

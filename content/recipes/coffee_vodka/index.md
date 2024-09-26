@@ -3,6 +3,7 @@ title: "The Coffee-Vodka Homemade"
 fullname: "The Coffee-Vodka Homemade"
 shortname: "Coffee-Vodka"
 author: "Pure Drinkology"
+collection:
 description: "This Coffee-Vodka falls into the Coffee Cocktail family, a category with roots dating back to the 19th century. Its origins are likely a fusion of the classic Vodka Martini and the popularity of coffee-based drinks, creating a modern, caffeinated twist. "
 flavor_description: "This cocktail offers a complex interplay of flavors. The vodka provides a clean, crisp base, while the coffee brings a bold, roasted bitterness. Hints of vanilla add a touch of sweetness and warmth, balanced by the subtle sweetness of the sugar. Caramel coloring adds a touch of depth and richness, creating a smooth and satisfying finish. "
 bartender_tips: "To make a perfect Coffee-Vodka, focus on the coffee. Use freshly brewed, strong coffee for the best flavor.  Don't overdo the sugar, as the coffee itself should be the dominant sweetness. A touch of vanilla extract enhances the coffee's aroma. Caramel coloring is optional, but a good quality one will ensure a beautiful hue.  Finally, chill all ingredients beforehand for a refreshing, smooth cocktail. "

@@ -3,6 +3,7 @@ title: "The Pineapple Gingerale Smoothie Shake"
 fullname: "The Pineapple Gingerale Smoothie Shake"
 shortname: "Pineapple Gingerale Smoothie"
 author: "Pure Drinkology"
+collection:
 description: "This refreshing smoothie falls into the **Fruity Cocktail** family, drawing inspiration from the long tradition of fruit-based drinks. While its exact origin is unknown, it likely emerged from the modern fusion of tropical flavors and the growing popularity of smoothies. "
 flavor_description: "This smoothie bursts with bright, tropical flavors.  The sweet, juicy pineapple is perfectly balanced by the spicy kick of fresh ginger.  The result is a refreshing and invigorating drink with a delightful zing that will wake up your taste buds.  It's a perfect combination of sweet and spicy, with a smooth, creamy texture that's both satisfying and healthy. "
 bartender_tips: "For a vibrant Pineapple Gingerale Smoothie, use fresh ginger for maximum flavor.  Grate it finely for a subtle heat, or chop it for a more potent kick.  Don't over-blend the pineapple - you want chunks for texture!  Finally, adjust the gingerale to your desired sweetness and fizz level. "
