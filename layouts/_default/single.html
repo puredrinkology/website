@@ -25,7 +25,7 @@
                         <div itemprop="recipeIngredient" class="ingredient">
                             <span data-amount="{{ $ingredient.measure }}" data-system="imperial" class="text-lowercase">{{ $ingredient.measure }}</span>
                             <span data-system="imperial" class="text-lowercase">{{ $ingredient.unit }}</span>
-                            <span class="text-uppercase">{{ $ingredient.item }}</span>
+                            <span itemprop="ingredients" class="text-uppercase">{{ $ingredient.item }}</span>
                         </div>
                     {{ end }}
                 </div>
