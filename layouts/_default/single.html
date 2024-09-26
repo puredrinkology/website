@@ -1,6 +1,7 @@
 {{ define "main" }}
 
 
+  <meta property="og:site_name" content="puredrinkology.com" />
   <section itemscope itemtype="https://schema.org/Recipe" class="section blog-single p-0">
     <div class="container-fluid p-0">
       <div id="search-results" class="row"></div>
@@ -17,6 +18,7 @@
             <div class="recipe-content d-flex flex-column px-lg-5 px-2">
                 <div class="ingredients_header">
                     <h1 class="fs-1 text-primary pb-3 text-uppercase" itemprop="name">{{ .Params.fullname }}</h1>
+                    <meta itemprop="url" content="{{ .Permalink }}" />
                 </div>
                 <div class="ingredients">
                     {{ range $index, $ingredient := .Params.ingredients }}
