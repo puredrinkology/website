@@ -1,6 +1,13 @@
 {{ if eq .Type "recipes" }}
   {{ if .Params.ingredients }}
     <!-- RECIPE META DATA -->
+    {{ $collectionStr := delimit (or .Params.collection (slice "")) ", " }}
+    {{ $fallbackKeywords := delimit (slice .Params.category .Params.family .Params.base_spirit $collectionStr) ", " }}
+    {{ $keywords := delimit (or .Params.keywords (slice $fallbackKeywords)) ", " }}
+
+    <meta name="keywords" content="{{ .Title }}, {{ $keywords }}" />
+
+
     <meta property="og:type" content="recipe" />
     <meta property="og:site_name" content="puredrinkology.com" />
     <meta property="og:title" content="{{ .Title }}" />
