@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Million Dollar Gin Cocktail"
 fullname: "The Million Dollar Gin Cocktail"
 shortname: "Million Dollar Gin"

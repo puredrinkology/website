@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Vermouth Cassis Cocktail"
 fullname: "The Vermouth Cassis Cocktail"
 shortname: "Vermouth Cassis"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Basil Julep Cocktail"
 fullname: "The Basil Julep Cocktail"
 shortname: "Basil Julep"

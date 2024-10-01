@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Whippersnapper Cocktail"
 fullname: "The Whippersnapper Cocktail"
 shortname: "Whippersnapper"

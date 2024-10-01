@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Fruit Shake"
 fullname: "The Fruit Shake"
 shortname: "Fruit"

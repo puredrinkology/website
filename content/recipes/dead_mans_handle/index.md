@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Dead Mans Handle Cocktail"
 fullname: "The Dead Mans Handle Cocktail"
 shortname: "Dead Mans Handle"

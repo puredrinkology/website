@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Rum Sour Cocktail"
 fullname: "The Rum Sour Cocktail"
 shortname: "Rum Sour"

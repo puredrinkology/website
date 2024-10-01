@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Apple Kickin Cocktail"
 fullname: "The Apple Kickin Cocktail"
 shortname: "Apple Kickin"

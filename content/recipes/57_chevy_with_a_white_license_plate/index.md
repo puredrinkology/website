@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The 57 Chevy With A White License Plate Cocktail"
 fullname: "The 57 Chevy With A White License Plate Cocktail"
 shortname: "57 Chevy With A White License Plate"

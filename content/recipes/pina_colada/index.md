@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Pina Colada Cocktail"
 fullname: "The Pina Colada Cocktail"
 shortname: "Pina Colada"

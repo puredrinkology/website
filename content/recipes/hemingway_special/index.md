@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Hemingway Special Cocktail"
 fullname: "The Hemingway Special Cocktail"
 shortname: "Hemingway Special"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Nuked Hot Chocolate Cocoa"
 fullname: "The Nuked Hot Chocolate Cocoa"
 shortname: "Nuked Hot Chocolate"

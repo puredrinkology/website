@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Long Island Iced Tea Cocktail"
 fullname: "The Long Island Iced Tea Cocktail"
 shortname: "Long Island Iced Tea"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Divorce Papers Cocktail"
 fullname: "The Divorce Papers Cocktail"
 shortname: "Divorce Papers"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Kamikaze Cocktail"
 fullname: "The Kamikaze Cocktail"
 shortname: "Kamikaze"

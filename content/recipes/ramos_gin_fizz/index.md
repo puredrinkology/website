@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Ramos Gin Fizz Cocktail"
 fullname: "The Ramos Gin Fizz Cocktail"
 shortname: "Ramos Gin Fizz"

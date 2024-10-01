@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Flanders Flake-Out Cocktail"
 fullname: "The Flanders Flake-Out Cocktail"
 shortname: "Flanders Flake-Out"

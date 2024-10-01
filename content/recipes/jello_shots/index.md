@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Jellos Shot"
 fullname: "The Jellos Shot"
 shortname: "Jellos"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Chocolate Milk Shot"
 fullname: "The Chocolate Milk Shot"
 shortname: "Chocolate Milk"

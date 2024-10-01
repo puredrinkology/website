@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Mary Pickford Cocktail"
 fullname: "The Mary Pickford Cocktail"
 shortname: "Mary Pickford"

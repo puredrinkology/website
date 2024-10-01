@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The San Francisco Cocktail"
 fullname: "The San Francisco Cocktail"
 shortname: "San Francisco"

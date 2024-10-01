@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: Rye Based Cocktail Recipes
 description: A collection of cocktail recipes featuring Rye
 layout: taxonomy

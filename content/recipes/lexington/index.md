@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Lexington Cocktail"
 fullname: "The Lexington Cocktail"
 shortname: "Lexington"

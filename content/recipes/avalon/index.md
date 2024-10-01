@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Avalon Cocktail"
 fullname: "The Avalon Cocktail"
 shortname: "Avalon"

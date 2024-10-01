@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Casa Blanca Cocktail"
 fullname: "The Casa Blanca Cocktail"
 shortname: "Casa Blanca"

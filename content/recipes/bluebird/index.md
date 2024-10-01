@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Bluebird Cocktail"
 fullname: "The Bluebird Cocktail"
 shortname: "Bluebird"

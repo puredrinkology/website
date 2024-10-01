@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Casino Royale Cocktail"
 fullname: "The Casino Royale Cocktail"
 shortname: "Casino Royale"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Backsliding Presbyterian Cocktail"
 fullname: "The Backsliding Presbyterian Cocktail"
 shortname: "Backsliding Presbyterian"

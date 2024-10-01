@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The 3-Mile Long Island Iced Tea Cocktail"
 fullname: "The 3-Mile Long Island Iced Tea Cocktail"
 shortname: "3-Mile Long Island Iced Tea"

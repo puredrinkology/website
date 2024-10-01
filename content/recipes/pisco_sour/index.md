@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Pisco Sour Cocktail"
 fullname: "The Pisco Sour Cocktail"
 shortname: "Pisco Sour"

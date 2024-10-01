@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The John Collins Cocktail"
 fullname: "The John Collins Cocktail"
 shortname: "John Collins"

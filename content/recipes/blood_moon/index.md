@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Blood Moon Cocktail"
 fullname: "The Blood Moon Cocktail"
 shortname: "Blood Moon"

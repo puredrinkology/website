@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Flannel Shirt Cocktail"
 fullname: "The Flannel Shirt Cocktail"
 shortname: "Flannel Shirt"

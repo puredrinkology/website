@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The White Wine Sangria Punch"
 fullname: "The White Wine Sangria Punch"
 shortname: "White Wine Sangria"

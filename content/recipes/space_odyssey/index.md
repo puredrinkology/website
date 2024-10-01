@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Space Odyssey Cocktail"
 fullname: "The Space Odyssey Cocktail"
 shortname: "Space Odyssey"

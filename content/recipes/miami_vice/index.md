@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Miami Vice Cocktail"
 fullname: "The Miami Vice Cocktail"
 shortname: "Miami Vice"

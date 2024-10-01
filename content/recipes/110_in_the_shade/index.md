@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The 110 In Shade Beer"
 fullname: "The 110 In Shade Beer"
 shortname: "110 In Shade"

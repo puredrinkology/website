@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Winter Rita Cocktail"
 fullname: "The Winter Rita Cocktail"
 shortname: "Winter Rita"

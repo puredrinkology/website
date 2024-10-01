@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Kiss Me Quick Cocktail"
 fullname: "The Kiss Me Quick Cocktail"
 shortname: "Kiss Me Quick"

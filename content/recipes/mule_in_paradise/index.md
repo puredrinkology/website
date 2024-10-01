@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Mule In Paradise Cocktail"
 fullname: "The Mule In Paradise Cocktail"
 shortname: "Mule In Paradise"

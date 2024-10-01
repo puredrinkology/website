@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Irish Spring Cocktail"
 fullname: "The Irish Spring Cocktail"
 shortname: "Irish Spring"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: The Margarita Family
 description: A collection of margarita recipes.
 layout: taxonomy

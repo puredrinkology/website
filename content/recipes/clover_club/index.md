@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Clover Club Cocktail"
 fullname: "The Clover Club Cocktail"
 shortname: "Clover Club"

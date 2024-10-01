@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Kentucky B And B Cocktail"
 fullname: "The Kentucky B And B Cocktail"
 shortname: "Kentucky B And B"

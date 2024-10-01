@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Oatmeal Cookie Cocktail"
 fullname: "The Oatmeal Cookie Cocktail"
 shortname: "Oatmeal Cookie"

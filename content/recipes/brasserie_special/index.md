@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Brasserie Special Cocktail"
 fullname: "The Brasserie Special Cocktail"
 shortname: "Brasserie Special"

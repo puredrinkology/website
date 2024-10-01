@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Gin Swizzle Cocktail"
 fullname: "The Gin Swizzle Cocktail"
 shortname: "Gin Swizzle"

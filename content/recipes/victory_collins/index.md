@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Victory Collins Cocktail"
 fullname: "The Victory Collins Cocktail"
 shortname: "Victory Collins"

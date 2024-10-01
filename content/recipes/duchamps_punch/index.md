@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Duchamps Cocktail"
 fullname: "The Duchamps Cocktail"
 shortname: "Duchamps"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Last Word Cocktail"
 fullname: "The Last Word Cocktail"
 shortname: "Last Word"

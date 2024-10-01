@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Wine Cooler Punch"
 fullname: "The Wine Cooler Punch"
 shortname: "Wine Cooler"

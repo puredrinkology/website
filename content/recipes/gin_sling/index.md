@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Gin Sling Cocktail"
 fullname: "The Gin Sling Cocktail"
 shortname: "Gin Sling"

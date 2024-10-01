@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Mai Tai Cocktail"
 fullname: "The Mai Tai Cocktail"
 shortname: "Mai Tai"

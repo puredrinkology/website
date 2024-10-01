@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Zoksel Nonalcoholic"
 fullname: "The Zoksel Nonalcoholic"
 shortname: "Zoksel"

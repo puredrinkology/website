@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Pink Gin Cocktail"
 fullname: "The Pink Gin Cocktail"
 shortname: "Pink Gin"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Drinking Chocolate Cocoa"
 fullname: "The Drinking Chocolate Cocoa"
 shortname: "Drinking Chocolate"

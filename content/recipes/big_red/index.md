@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Big Red Shot"
 fullname: "The Big Red Shot"
 shortname: "Big Red"

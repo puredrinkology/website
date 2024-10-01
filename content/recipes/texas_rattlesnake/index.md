@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Texas Rattlesnake Shot"
 fullname: "The Texas Rattlesnake Shot"
 shortname: "Texas Rattlesnake"

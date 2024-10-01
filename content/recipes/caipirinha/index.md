@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Caipirinha Cocktail"
 fullname: "The Caipirinha Cocktail"
 shortname: "Caipirinha"

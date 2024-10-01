@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Rhyme Or Reason Cocktail"
 fullname: "The Rhyme Or Reason Cocktail"
 shortname: "Rhyme Or Reason"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Gg Cocktail"
 fullname: "The Gg Cocktail"
 shortname: "Gg"

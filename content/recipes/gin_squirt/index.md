@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Gin Squirt Cocktail"
 fullname: "The Gin Squirt Cocktail"
 shortname: "Gin Squirt"

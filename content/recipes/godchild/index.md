@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Godchild Cocktail"
 fullname: "The Godchild Cocktail"
 shortname: "Godchild"

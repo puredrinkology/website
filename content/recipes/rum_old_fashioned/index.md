@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Rum Old-Fashioned Cocktail"
 fullname: "The Rum Old-Fashioned Cocktail"
 shortname: "Rum Old-Fashioned"

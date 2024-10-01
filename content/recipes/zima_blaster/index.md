@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Zima Blaster Cocktail"
 fullname: "The Zima Blaster Cocktail"
 shortname: "Zima Blaster"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The 410 Gone Cocktail"
 fullname: "The 410 Gone Cocktail"
 shortname: "410 Gone"

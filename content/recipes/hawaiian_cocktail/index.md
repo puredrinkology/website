@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Hawaiian  Cocktail"
 fullname: "The Hawaiian  Cocktail"
 shortname: "Hawaiian "

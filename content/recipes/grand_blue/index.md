@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Grand Blue Cocktail"
 fullname: "The Grand Blue Cocktail"
 shortname: "Grand Blue"

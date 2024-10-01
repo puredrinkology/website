@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Fig Jam Cocktail"
 fullname: "The Fig Jam Cocktail"
 shortname: "Fig Jam"

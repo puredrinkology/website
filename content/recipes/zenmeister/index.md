@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Zenmeister Cocktail"
 fullname: "The Zenmeister Cocktail"
 shortname: "Zenmeister"

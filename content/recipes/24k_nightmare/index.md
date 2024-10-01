@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The 24K Nightmare Shot"
 fullname: "The 24K Nightmare Shot"
 shortname: "24K Nightmare"

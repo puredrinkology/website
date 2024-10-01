@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Zizi Coin-Coin Punch"
 fullname: "The Zizi Coin-Coin Punch"
 shortname: "Zizi Coin-Coin"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Mayan Blood Cocktail"
 fullname: "The Mayan Blood Cocktail"
 shortname: "Mayan Blood"

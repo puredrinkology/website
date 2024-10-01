@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Oreo Mudslide Cocktail"
 fullname: "The Oreo Mudslide Cocktail"
 shortname: "Oreo Mudslide"

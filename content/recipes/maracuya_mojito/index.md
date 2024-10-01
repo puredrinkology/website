@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Maracuya Mojito Cocktail"
 fullname: "The Maracuya Mojito Cocktail"
 shortname: "Maracuya Mojito"

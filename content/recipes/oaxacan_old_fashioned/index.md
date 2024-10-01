@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Oaxacan Old Fashioned Cocktail"
 fullname: "The Oaxacan Old Fashioned Cocktail"
 shortname: "Oaxacan Old Fashioned"

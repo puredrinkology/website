@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Waikiki Beachcomber Cocktail"
 fullname: "The Waikiki Beachcomber Cocktail"
 shortname: "Waikiki Beachcomber"

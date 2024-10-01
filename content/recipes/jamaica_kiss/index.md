@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Jamaica Kiss Shake"
 fullname: "The Jamaica Kiss Shake"
 shortname: "Jamaica Kiss"

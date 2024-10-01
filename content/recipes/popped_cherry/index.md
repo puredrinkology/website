@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Popped Cherry Cocktail"
 fullname: "The Popped Cherry Cocktail"
 shortname: "Popped Cherry"

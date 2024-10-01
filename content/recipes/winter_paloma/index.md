@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Winter Paloma Cocktail"
 fullname: "The Winter Paloma Cocktail"
 shortname: "Winter Paloma"

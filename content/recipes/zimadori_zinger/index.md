@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Zimadori Zinger Punch"
 fullname: "The Zimadori Zinger Punch"
 shortname: "Zimadori Zinger"

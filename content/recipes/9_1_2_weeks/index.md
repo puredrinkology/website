@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The 9 1/2 Weeks Cocktail"
 fullname: "The 9 1/2 Weeks Cocktail"
 shortname: "9 1/2 Weeks"

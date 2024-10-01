@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Death In Afternoon Cocktail"
 fullname: "The Death In Afternoon Cocktail"
 shortname: "Death In Afternoon"

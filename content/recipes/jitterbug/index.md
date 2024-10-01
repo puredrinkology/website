@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Jitterbug Cocktail"
 fullname: "The Jitterbug Cocktail"
 shortname: "Jitterbug"

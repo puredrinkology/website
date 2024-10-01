@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Old Pal Cocktail"
 fullname: "The Old Pal Cocktail"
 shortname: "Old Pal"

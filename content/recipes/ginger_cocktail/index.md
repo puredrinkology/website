@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Ginger  Cocktail"
 fullname: "The Ginger  Cocktail"
 shortname: "Ginger "

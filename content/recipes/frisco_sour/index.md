@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Frisco Sour Cocktail"
 fullname: "The Frisco Sour Cocktail"
 shortname: "Frisco Sour"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Damned If You Do Shot"
 fullname: "The Damned If You Do Shot"
 shortname: "Damned If You Do"

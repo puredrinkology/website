@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Jelly Bean Shot"
 fullname: "The Jelly Bean Shot"
 shortname: "Jelly Bean"

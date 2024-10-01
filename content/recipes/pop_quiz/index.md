@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Pop Quiz Cocktail"
 fullname: "The Pop Quiz Cocktail"
 shortname: "Pop Quiz"

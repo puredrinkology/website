@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Near And Dear Cocktail"
 fullname: "The Near And Dear Cocktail"
 shortname: "Near And Dear"

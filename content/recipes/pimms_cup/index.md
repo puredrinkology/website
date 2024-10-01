@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Pimms Cup Cocktail"
 fullname: "The Pimms Cup Cocktail"
 shortname: "Pimms Cup"

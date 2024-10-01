@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Boxcar Cocktail"
 fullname: "The Boxcar Cocktail"
 shortname: "Boxcar"

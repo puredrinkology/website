@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Tequila Surprise Shot"
 fullname: "The Tequila Surprise Shot"
 shortname: "Tequila Surprise"

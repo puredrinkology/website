@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The English Rose  Cocktail"
 fullname: "The English Rose  Cocktail"
 shortname: "English Rose "

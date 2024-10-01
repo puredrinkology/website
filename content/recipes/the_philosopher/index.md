@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Philosopher Cocktail"
 fullname: "The Philosopher Cocktail"
 shortname: "Philosopher"

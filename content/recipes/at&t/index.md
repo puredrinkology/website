@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The At&T Cocktail"
 fullname: "The At&T Cocktail"
 shortname: "At&T"

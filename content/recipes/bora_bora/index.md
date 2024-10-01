@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Bora Bora Cocktail"
 fullname: "The Bora Bora Cocktail"
 shortname: "Bora Bora"

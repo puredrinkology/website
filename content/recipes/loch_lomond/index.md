@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Loch Lomond Cocktail"
 fullname: "The Loch Lomond Cocktail"
 shortname: "Loch Lomond"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Frozen Pineapple Daiquiri Cocktail"
 fullname: "The Frozen Pineapple Daiquiri Cocktail"
 shortname: "Frozen Pineapple Daiquiri"

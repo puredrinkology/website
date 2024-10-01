@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Freddy Kruger Shot"
 fullname: "The Freddy Kruger Shot"
 shortname: "Freddy Kruger"

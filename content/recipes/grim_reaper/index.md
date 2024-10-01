@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Grim Reaper Cocktail"
 fullname: "The Grim Reaper Cocktail"
 shortname: "Grim Reaper"

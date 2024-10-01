@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Sweet Tooth Shake"
 fullname: "The Sweet Tooth Shake"
 shortname: "Sweet Tooth"

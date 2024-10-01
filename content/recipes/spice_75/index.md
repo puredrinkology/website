@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Spice 75 Cocktail"
 fullname: "The Spice 75 Cocktail"
 shortname: "Spice 75"

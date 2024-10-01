@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Figgy Thyme Cocktail"
 fullname: "The Figgy Thyme Cocktail"
 shortname: "Figgy Thyme"

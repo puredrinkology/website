@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Lone Tree Cooler Cocktail"
 fullname: "The Lone Tree Cooler Cocktail"
 shortname: "Lone Tree Cooler"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Fig Manhattan Cocktail"
 fullname: "The Fig Manhattan Cocktail"
 shortname: "Fig Manhattan"

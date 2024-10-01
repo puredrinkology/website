@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Quarter Deck  Cocktail"
 fullname: "The Quarter Deck  Cocktail"
 shortname: "Quarter Deck "

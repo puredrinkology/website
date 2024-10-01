@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Vodka Lemon Cocktail"
 fullname: "The Vodka Lemon Cocktail"
 shortname: "Vodka Lemon"

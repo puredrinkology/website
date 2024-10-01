@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Gin Daisy Cocktail"
 fullname: "The Gin Daisy Cocktail"
 shortname: "Gin Daisy"

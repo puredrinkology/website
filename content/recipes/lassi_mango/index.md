@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Lassi - Mango Shake"
 fullname: "The Lassi - Mango Shake"
 shortname: "Lassi - Mango"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Zambeer Nonalcoholic"
 fullname: "The Zambeer Nonalcoholic"
 shortname: "Zambeer"

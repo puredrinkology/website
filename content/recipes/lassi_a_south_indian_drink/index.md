@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Lassi - A South Indian Drink Shake"
 fullname: "The Lassi - A South Indian Drink Shake"
 shortname: "Lassi - A South Indian Drink"

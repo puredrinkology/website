@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Whiskey Rosa Sour Cocktail"
 fullname: "The Whiskey Rosa Sour Cocktail"
 shortname: "Whiskey Rosa Sour"

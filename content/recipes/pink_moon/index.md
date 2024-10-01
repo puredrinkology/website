@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Pink Moon Cocktail"
 fullname: "The Pink Moon Cocktail"
 shortname: "Pink Moon"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Funk And Soul Cocktail"
 fullname: "The Funk And Soul Cocktail"
 shortname: "Funk And Soul"

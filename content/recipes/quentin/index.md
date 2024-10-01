@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Quentin Cocktail"
 fullname: "The Quentin Cocktail"
 shortname: "Quentin"

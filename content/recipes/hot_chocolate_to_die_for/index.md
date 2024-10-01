@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Hot Chocolate To Die For Cocoa"
 fullname: "The Hot Chocolate To Die For Cocoa"
 shortname: "Hot Chocolate To Die For"

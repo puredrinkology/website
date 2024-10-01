@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The New York Lemonade Cocktail"
 fullname: "The New York Lemonade Cocktail"
 shortname: "New York Lemonade"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Double Fill Up Cocktail"
 fullname: "The Double Fill Up Cocktail"
 shortname: "Double Fill Up"

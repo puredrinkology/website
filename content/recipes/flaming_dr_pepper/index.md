@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Flaming Dr. Pepper Shot"
 fullname: "The Flaming Dr. Pepper Shot"
 shortname: "Flaming Dr. Pepper"

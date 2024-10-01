@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Sidecar Cocktail"
 fullname: "The Sidecar Cocktail"
 shortname: "Sidecar"

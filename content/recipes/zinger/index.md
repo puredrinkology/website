@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Zinger Nonalcoholic"
 fullname: "The Zinger Nonalcoholic"
 shortname: "Zinger"

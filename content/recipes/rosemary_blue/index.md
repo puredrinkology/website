@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Rosemary Blue Cocktail"
 fullname: "The Rosemary Blue Cocktail"
 shortname: "Rosemary Blue"

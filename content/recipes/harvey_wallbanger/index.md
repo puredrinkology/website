@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Harvey Wallbanger Cocktail"
 fullname: "The Harvey Wallbanger Cocktail"
 shortname: "Harvey Wallbanger"

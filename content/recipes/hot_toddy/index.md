@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Hot Toddy Cocktail"
 fullname: "The Hot Toddy Cocktail"
 shortname: "Hot Toddy"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Kiwi Martini Cocktail"
 fullname: "The Kiwi Martini Cocktail"
 shortname: "Kiwi Martini"

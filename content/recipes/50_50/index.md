@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The 50/50 Cocktail"
 fullname: "The 50/50 Cocktail"
 shortname: "50/50"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Ace Cocktail"
 fullname: "The Ace Cocktail"
 shortname: "Ace"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Affair Cocktail"
 fullname: "The Affair Cocktail"
 shortname: "Affair"

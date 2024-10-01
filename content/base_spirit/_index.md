@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: The Cocktail Spirit
 description: An organization of cocktails into their respective spirits
 layout: spirit

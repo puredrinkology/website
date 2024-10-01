@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Happy Skipper Cocktail"
 fullname: "The Happy Skipper Cocktail"
 shortname: "Happy Skipper"

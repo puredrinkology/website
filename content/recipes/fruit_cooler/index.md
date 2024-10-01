@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Fruit Cooler Punch"
 fullname: "The Fruit Cooler Punch"
 shortname: "Fruit Cooler"

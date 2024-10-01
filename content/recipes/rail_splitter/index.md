@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Rail Splitter Cocktail"
 fullname: "The Rail Splitter Cocktail"
 shortname: "Rail Splitter"

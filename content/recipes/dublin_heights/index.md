@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Dublin Heights Cocktail"
 fullname: "The Dublin Heights Cocktail"
 shortname: "Dublin Heights"

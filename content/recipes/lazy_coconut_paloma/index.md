@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Lazy Coconut Paloma Cocktail"
 fullname: "The Lazy Coconut Paloma Cocktail"
 shortname: "Lazy Coconut Paloma"

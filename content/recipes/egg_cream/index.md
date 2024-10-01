@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Egg Cream Shake"
 fullname: "The Egg Cream Shake"
 shortname: "Egg Cream"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The 747 Shot"
 fullname: "The 747 Shot"
 shortname: "747"

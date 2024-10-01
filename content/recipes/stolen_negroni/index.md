@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Stolen Negroni Cocktail"
 fullname: "The Stolen Negroni Cocktail"
 shortname: "Stolen Negroni"

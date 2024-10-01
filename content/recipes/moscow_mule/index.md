@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Moscow Mule Cocktail"
 fullname: "The Moscow Mule Cocktail"
 shortname: "Moscow Mule"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Cosmopolitan Cocktail"
 fullname: "The Cosmopolitan Cocktail"
 shortname: "Cosmopolitan"

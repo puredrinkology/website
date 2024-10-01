@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Jewel Of Nile Cocktail"
 fullname: "The Jewel Of Nile Cocktail"
 shortname: "Jewel Of Nile"

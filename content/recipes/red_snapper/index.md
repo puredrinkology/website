@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Red Snapper Shot"
 fullname: "The Red Snapper Shot"
 shortname: "Red Snapper"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Blackberry Smash Cocktail"
 fullname: "The Blackberry Smash Cocktail"
 shortname: "Blackberry Smash"

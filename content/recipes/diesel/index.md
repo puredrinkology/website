@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Diesel Beer"
 fullname: "The Diesel Beer"
 shortname: "Diesel"

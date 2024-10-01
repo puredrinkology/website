@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The White Russian Cocktail"
 fullname: "The White Russian Cocktail"
 shortname: "White Russian"

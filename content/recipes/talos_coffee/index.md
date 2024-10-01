@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Talos Coffee Cafe"
 fullname: "The Talos Coffee Cafe"
 shortname: "Talos Coffee"

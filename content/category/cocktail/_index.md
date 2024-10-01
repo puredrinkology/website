@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: Cocktails Collection
 description: A collection of all our cocktail recipes
 layout: taxonomy

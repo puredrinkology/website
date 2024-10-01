@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Bronx Cheer Cocktail"
 fullname: "The Bronx Cheer Cocktail"
 shortname: "Bronx Cheer"

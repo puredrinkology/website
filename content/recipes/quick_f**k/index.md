@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Quick F**K Shot"
 fullname: "The Quick F**K Shot"
 shortname: "Quick F**K"

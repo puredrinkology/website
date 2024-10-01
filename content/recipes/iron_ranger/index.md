@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Iron Ranger Cocktail"
 fullname: "The Iron Ranger Cocktail"
 shortname: "Iron Ranger"

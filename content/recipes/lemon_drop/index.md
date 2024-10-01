@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Lemon Drop Cocktail"
 fullname: "The Lemon Drop Cocktail"
 shortname: "Lemon Drop"

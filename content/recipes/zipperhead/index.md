@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Zipperhead Shot"
 fullname: "The Zipperhead Shot"
 shortname: "Zipperhead"

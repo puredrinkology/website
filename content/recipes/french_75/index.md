@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The French 75 Cocktail"
 fullname: "The French 75 Cocktail"
 shortname: "French 75"

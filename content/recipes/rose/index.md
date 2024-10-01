@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Rose Cocktail"
 fullname: "The Rose Cocktail"
 shortname: "Rose"

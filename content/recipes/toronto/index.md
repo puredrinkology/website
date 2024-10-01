@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Toronto Cocktail"
 fullname: "The Toronto Cocktail"
 shortname: "Toronto"

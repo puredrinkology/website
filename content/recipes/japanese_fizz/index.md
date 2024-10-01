@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Japanese Fizz Cocktail"
 fullname: "The Japanese Fizz Cocktail"
 shortname: "Japanese Fizz"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Kill Cold Smoothie Shake"
 fullname: "The Kill Cold Smoothie Shake"
 shortname: "Kill Cold Smoothie"

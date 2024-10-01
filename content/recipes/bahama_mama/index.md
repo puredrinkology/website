@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Bahama Mama Cocktail"
 fullname: "The Bahama Mama Cocktail"
 shortname: "Bahama Mama"

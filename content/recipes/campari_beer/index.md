@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Campari Beer"
 fullname: "The Campari Beer"
 shortname: "Campari"

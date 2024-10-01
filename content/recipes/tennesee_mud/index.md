@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Tennesee Mud Cafe"
 fullname: "The Tennesee Mud Cafe"
 shortname: "Tennesee Mud"

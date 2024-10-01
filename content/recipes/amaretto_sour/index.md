@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Amaretto Sour Cocktail"
 fullname: "The Amaretto Sour Cocktail"
 shortname: "Amaretto Sour"

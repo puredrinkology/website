@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Dirty Nipple Shot"
 fullname: "The Dirty Nipple Shot"
 shortname: "Dirty Nipple"

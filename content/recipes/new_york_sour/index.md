@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The New York Sour Cocktail"
 fullname: "The New York Sour Cocktail"
 shortname: "New York Sour"

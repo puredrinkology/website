@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Sea Breeze Cocktail"
 fullname: "The Sea Breeze Cocktail"
 shortname: "Sea Breeze"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Salty Dog Cocktail"
 fullname: "The Salty Dog Cocktail"
 shortname: "Salty Dog"

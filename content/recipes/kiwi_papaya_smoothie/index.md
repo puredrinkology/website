@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Kiwi Papaya Smoothie Shake"
 fullname: "The Kiwi Papaya Smoothie Shake"
 shortname: "Kiwi Papaya Smoothie"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Flying Dutchman Cocktail"
 fullname: "The Flying Dutchman Cocktail"
 shortname: "Flying Dutchman"

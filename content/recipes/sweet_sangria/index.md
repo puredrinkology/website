@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Sweet Sangria Punch"
 fullname: "The Sweet Sangria Punch"
 shortname: "Sweet Sangria"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Flaming Lamborghini Shot"
 fullname: "The Flaming Lamborghini Shot"
 shortname: "Flaming Lamborghini"

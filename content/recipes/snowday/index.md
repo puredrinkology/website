@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Snowday Cocktail"
 fullname: "The Snowday Cocktail"
 shortname: "Snowday"

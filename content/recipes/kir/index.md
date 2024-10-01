@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Kir Cocktail"
 fullname: "The Kir Cocktail"
 shortname: "Kir"

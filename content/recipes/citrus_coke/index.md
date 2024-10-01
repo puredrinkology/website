@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Citrus Coke Cocktail"
 fullname: "The Citrus Coke Cocktail"
 shortname: "Citrus Coke"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Adam Cocktail"
 fullname: "The Adam Cocktail"
 shortname: "Adam"

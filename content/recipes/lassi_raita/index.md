@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Lassi Raita Shake"
 fullname: "The Lassi Raita Shake"
 shortname: "Lassi Raita"

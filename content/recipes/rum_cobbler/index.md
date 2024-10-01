@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Rum Cobbler Cocktail"
 fullname: "The Rum Cobbler Cocktail"
 shortname: "Rum Cobbler"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Irish Coffee Cafe"
 fullname: "The Irish Coffee Cafe"
 shortname: "Irish Coffee"

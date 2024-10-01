@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Fahrenheit 5000 Shot"
 fullname: "The Fahrenheit 5000 Shot"
 shortname: "Fahrenheit 5000"

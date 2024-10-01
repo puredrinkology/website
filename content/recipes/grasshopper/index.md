@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Grasshopper Cocktail"
 fullname: "The Grasshopper Cocktail"
 shortname: "Grasshopper"

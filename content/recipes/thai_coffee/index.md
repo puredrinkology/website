@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Thai Coffee Cafe"
 fullname: "The Thai Coffee Cafe"
 shortname: "Thai Coffee"

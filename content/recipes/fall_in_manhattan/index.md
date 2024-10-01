@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Fall In Manhattan Cocktail"
 fullname: "The Fall In Manhattan Cocktail"
 shortname: "Fall In Manhattan"

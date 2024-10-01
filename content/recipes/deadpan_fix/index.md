@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Deadpan Fix Cocktail"
 fullname: "The Deadpan Fix Cocktail"
 shortname: "Deadpan Fix"

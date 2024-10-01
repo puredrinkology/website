@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Raspberry Cooler Shake"
 fullname: "The Raspberry Cooler Shake"
 shortname: "Raspberry Cooler"

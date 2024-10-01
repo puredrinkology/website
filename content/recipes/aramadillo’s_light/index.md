@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Aramadillos Light Cocktail"
 fullname: "The Aramadillos Light Cocktail"
 shortname: "Aramadillos Light"

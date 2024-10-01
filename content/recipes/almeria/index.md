@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Almeria Cocktail"
 fullname: "The Almeria Cocktail"
 shortname: "Almeria"

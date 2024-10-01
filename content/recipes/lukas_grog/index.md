@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Lukas Grog Cocktail"
 fullname: "The Lukas Grog Cocktail"
 shortname: "Lukas Grog"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Egg-Nog - Classic Cooked Punch"
 fullname: "The Egg-Nog - Classic Cooked Punch"
 shortname: "Egg-Nog - Classic Cooked"

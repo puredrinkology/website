@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Stone Sour Cocktail"
 fullname: "The Stone Sour Cocktail"
 shortname: "Stone Sour"

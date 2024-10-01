@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Corn N Oil Cocktail"
 fullname: "The Corn N Oil Cocktail"
 shortname: "Corn N Oil"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Whitecap Margarita Cocktail"
 fullname: "The Whitecap Margarita Cocktail"
 shortname: "Whitecap Margarita"

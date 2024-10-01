@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The King Smash Mule Cocktail"
 fullname: "The King Smash Mule Cocktail"
 shortname: "King Smash Mule"

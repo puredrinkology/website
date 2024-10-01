@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Acid Shot"
 fullname: "The Acid Shot"
 shortname: "Acid"

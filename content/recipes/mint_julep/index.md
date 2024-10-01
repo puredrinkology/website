@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Mint Julep Cocktail"
 fullname: "The Mint Julep Cocktail"
 shortname: "Mint Julep"

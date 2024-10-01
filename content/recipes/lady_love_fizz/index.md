@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Lady Love Fizz Cocktail"
 fullname: "The Lady Love Fizz Cocktail"
 shortname: "Lady Love Fizz"

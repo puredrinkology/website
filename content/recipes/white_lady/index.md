@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The White Lady Cocktail"
 fullname: "The White Lady Cocktail"
 shortname: "White Lady"

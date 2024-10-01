@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Thai Iced Tea Cafe"
 fullname: "The Thai Iced Tea Cafe"
 shortname: "Thai Iced Tea"

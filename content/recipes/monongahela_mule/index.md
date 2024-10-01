@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Monongahela Mule Cocktail"
 fullname: "The Monongahela Mule Cocktail"
 shortname: "Monongahela Mule"

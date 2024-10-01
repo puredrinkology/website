@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Jimmy Conway Cocktail"
 fullname: "The Jimmy Conway Cocktail"
 shortname: "Jimmy Conway"

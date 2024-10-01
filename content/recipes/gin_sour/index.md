@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Gin Sour Cocktail"
 fullname: "The Gin Sour Cocktail"
 shortname: "Gin Sour"

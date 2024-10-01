@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Kentucky Mule Cocktail"
 fullname: "The Kentucky Mule Cocktail"
 shortname: "Kentucky Mule"

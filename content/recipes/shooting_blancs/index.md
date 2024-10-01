@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Shooting Blancs Cocktail"
 fullname: "The Shooting Blancs Cocktail"
 shortname: "Shooting Blancs"

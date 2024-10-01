@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The 747 Drink Cocktail"
 fullname: "The 747 Drink Cocktail"
 shortname: "747 Drink"

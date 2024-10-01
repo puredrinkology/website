@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Mimosa Cocktail"
 fullname: "The Mimosa Cocktail"
 shortname: "Mimosa"

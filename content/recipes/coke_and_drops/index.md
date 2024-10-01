@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Coke And Drops Nonalcoholic"
 fullname: "The Coke And Drops Nonalcoholic"
 shortname: "Coke And Drops"

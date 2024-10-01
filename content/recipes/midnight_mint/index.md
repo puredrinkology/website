@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Midnight Mint Cocktail"
 fullname: "The Midnight Mint Cocktail"
 shortname: "Midnight Mint"

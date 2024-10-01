@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Lunch Box Beer"
 fullname: "The Lunch Box Beer"
 shortname: "Lunch Box"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Pink Panty Pulldowns Cocktail"
 fullname: "The Pink Panty Pulldowns Cocktail"
 shortname: "Pink Panty Pulldowns"

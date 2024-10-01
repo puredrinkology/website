@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The 3 Wise Men Shot"
 fullname: "The 3 Wise Men Shot"
 shortname: "3 Wise Men"

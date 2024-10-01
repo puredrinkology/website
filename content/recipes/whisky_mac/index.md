@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Whisky Mac Cocktail"
 fullname: "The Whisky Mac Cocktail"
 shortname: "Whisky Mac"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Royal Gin Fizz Cocktail"
 fullname: "The Royal Gin Fizz Cocktail"
 shortname: "Royal Gin Fizz"

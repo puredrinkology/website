@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Vodka Martini Cocktail"
 fullname: "The Vodka Martini Cocktail"
 shortname: "Vodka Martini"

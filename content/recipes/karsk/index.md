@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Karsk Cafe"
 fullname: "The Karsk Cafe"
 shortname: "Karsk"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Ice Pick Cocktail"
 fullname: "The Ice Pick Cocktail"
 shortname: "Ice Pick"

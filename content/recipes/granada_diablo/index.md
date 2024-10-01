@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Granada Diablo Cocktail"
 fullname: "The Granada Diablo Cocktail"
 shortname: "Granada Diablo"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Daiquiri Cocktail"
 fullname: "The Daiquiri Cocktail"
 shortname: "Daiquiri"

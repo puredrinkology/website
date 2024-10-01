@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Jackhammer Cocktail"
 fullname: "The Jackhammer Cocktail"
 shortname: "Jackhammer"

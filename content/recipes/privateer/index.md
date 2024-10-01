@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Privateer Cocktail"
 fullname: "The Privateer Cocktail"
 shortname: "Privateer"

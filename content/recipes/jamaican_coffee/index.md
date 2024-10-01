@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Jamaican Coffee Cafe"
 fullname: "The Jamaican Coffee Cafe"
 shortname: "Jamaican Coffee"

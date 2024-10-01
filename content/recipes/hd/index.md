@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The H.D. Cafe"
 fullname: "The H.D. Cafe"
 shortname: "H.D."

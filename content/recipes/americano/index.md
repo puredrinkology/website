@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Americano Cocktail"
 fullname: "The Americano Cocktail"
 shortname: "Americano"

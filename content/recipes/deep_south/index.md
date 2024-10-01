@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Deep South Cocktail"
 fullname: "The Deep South Cocktail"
 shortname: "Deep South"

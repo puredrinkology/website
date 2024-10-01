@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Monkey Wrench Cocktail"
 fullname: "The Monkey Wrench Cocktail"
 shortname: "Monkey Wrench"

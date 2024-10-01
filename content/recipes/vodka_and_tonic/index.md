@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Vodka And Tonic Cocktail"
 fullname: "The Vodka And Tonic Cocktail"
 shortname: "Vodka And Tonic"

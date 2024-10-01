@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Irish Curdling Cow Cocktail"
 fullname: "The Irish Curdling Cow Cocktail"
 shortname: "Irish Curdling Cow"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The 501 Blue Cocktail"
 fullname: "The 501 Blue Cocktail"
 shortname: "501 Blue"

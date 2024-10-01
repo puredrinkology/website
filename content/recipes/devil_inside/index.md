@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Devil Inside Cocktail"
 fullname: "The Devil Inside Cocktail"
 shortname: "Devil Inside"

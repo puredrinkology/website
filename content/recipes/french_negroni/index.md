@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The French Negroni Cocktail"
 fullname: "The French Negroni Cocktail"
 shortname: "French Negroni"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Yellow Bird Cocktail"
 fullname: "The Yellow Bird Cocktail"
 shortname: "Yellow Bird"

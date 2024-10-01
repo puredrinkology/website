@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Gin Tonic Cocktail"
 fullname: "The Gin Tonic Cocktail"
 shortname: "Gin Tonic"

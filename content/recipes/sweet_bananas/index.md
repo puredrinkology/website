@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Sweet Bananas Shake"
 fullname: "The Sweet Bananas Shake"
 shortname: "Sweet Bananas"

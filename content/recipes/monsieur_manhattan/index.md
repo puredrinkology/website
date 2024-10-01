@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Monsieur Manhattan Cocktail"
 fullname: "The Monsieur Manhattan Cocktail"
 shortname: "Monsieur Manhattan"

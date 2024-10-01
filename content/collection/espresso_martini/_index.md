@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: Easy Espresso Martini Recipes
 description: Explore our curated list of simple, delicious Espresso Martini recipes that bring the perfect balance of rich coffee flavor and smooth vodka right to your glass. 
 layout: taxonomy

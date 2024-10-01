@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Cafe Savoy Cafe"
 fullname: "The Cafe Savoy Cafe"
 shortname: "Cafe Savoy"

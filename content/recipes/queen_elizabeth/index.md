@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Queen Elizabeth Cocktail"
 fullname: "The Queen Elizabeth Cocktail"
 shortname: "Queen Elizabeth"

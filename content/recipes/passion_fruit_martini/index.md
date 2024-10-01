@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Passion Fruit Martini Cocktail"
 fullname: "The Passion Fruit Martini Cocktail"
 shortname: "Passion Fruit Martini"

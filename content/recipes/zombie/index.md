@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Zombie Cocktail"
 fullname: "The Zombie Cocktail"
 shortname: "Zombie"

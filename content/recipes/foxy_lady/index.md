@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Foxy Lady Cocktail"
 fullname: "The Foxy Lady Cocktail"
 shortname: "Foxy Lady"

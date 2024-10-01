@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Baby Eskimo Shake"
 fullname: "The Baby Eskimo Shake"
 shortname: "Baby Eskimo"

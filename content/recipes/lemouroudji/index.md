@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Lemouroudji Nonalcoholic"
 fullname: "The Lemouroudji Nonalcoholic"
 shortname: "Lemouroudji"

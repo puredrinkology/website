@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Lassi Khara Shake"
 fullname: "The Lassi Khara Shake"
 shortname: "Lassi Khara"

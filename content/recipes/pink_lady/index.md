@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Pink Lady Cocktail"
 fullname: "The Pink Lady Cocktail"
 shortname: "Pink Lady"

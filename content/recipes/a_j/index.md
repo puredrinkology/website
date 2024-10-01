@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The A. J. Cocktail"
 fullname: "The A. J. Cocktail"
 shortname: "A. J."

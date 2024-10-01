@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Darkwood Sling Nonalcoholic"
 fullname: "The Darkwood Sling Nonalcoholic"
 shortname: "Darkwood Sling"

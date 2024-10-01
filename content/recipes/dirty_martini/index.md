@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Dirty Martini Cocktail"
 fullname: "The Dirty Martini Cocktail"
 shortname: "Dirty Martini"

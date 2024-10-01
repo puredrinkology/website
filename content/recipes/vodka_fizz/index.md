@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Vodka Fizz Shake"
 fullname: "The Vodka Fizz Shake"
 shortname: "Vodka Fizz"

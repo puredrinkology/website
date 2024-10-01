@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Algonquin Cocktail"
 fullname: "The Algonquin Cocktail"
 shortname: "Algonquin"

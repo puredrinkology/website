@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Sol Y Sombra Shot"
 fullname: "The Sol Y Sombra Shot"
 shortname: "Sol Y Sombra"

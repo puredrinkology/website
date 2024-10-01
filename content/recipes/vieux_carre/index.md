@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Vieux Carre Cocktail"
 fullname: "The Vieux Carre Cocktail"
 shortname: "Vieux Carre"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Corpse Reviver Cocktail"
 fullname: "The Corpse Reviver Cocktail"
 shortname: "Corpse Reviver"

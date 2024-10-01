@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The French Martini Cocktail"
 fullname: "The French Martini Cocktail"
 shortname: "French Martini"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Tequila Sour Cocktail"
 fullname: "The Tequila Sour Cocktail"
 shortname: "Tequila Sour"

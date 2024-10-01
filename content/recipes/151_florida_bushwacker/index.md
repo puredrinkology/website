@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The 151 Florida Bushwacker Shake"
 fullname: "The 151 Florida Bushwacker Shake"
 shortname: "151 Florida Bushwacker"

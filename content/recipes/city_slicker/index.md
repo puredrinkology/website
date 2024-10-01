@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The City Slicker Cocktail"
 fullname: "The City Slicker Cocktail"
 shortname: "City Slicker"

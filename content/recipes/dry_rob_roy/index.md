@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Dry Rob Roy Cocktail"
 fullname: "The Dry Rob Roy Cocktail"
 shortname: "Dry Rob Roy"

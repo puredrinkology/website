@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Cherry Rum Cocktail"
 fullname: "The Cherry Rum Cocktail"
 shortname: "Cherry Rum"

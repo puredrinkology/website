@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Rum Cooler Cocktail"
 fullname: "The Rum Cooler Cocktail"
 shortname: "Rum Cooler"

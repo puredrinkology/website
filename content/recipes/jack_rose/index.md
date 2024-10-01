@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Jack Rose Cocktail"
 fullname: "The Jack Rose Cocktail"
 shortname: "Jack Rose"

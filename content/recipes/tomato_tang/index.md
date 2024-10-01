@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Tomato Tang Cocktail"
 fullname: "The Tomato Tang Cocktail"
 shortname: "Tomato Tang"

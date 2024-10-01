@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Masala Chai Cafe"
 fullname: "The Masala Chai Cafe"
 shortname: "Masala Chai"

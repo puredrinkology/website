@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Tequila Slammer Shot"
 fullname: "The Tequila Slammer Shot"
 shortname: "Tequila Slammer"

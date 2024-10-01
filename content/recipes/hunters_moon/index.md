@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Hunters Moon Cocktail"
 fullname: "The Hunters Moon Cocktail"
 shortname: "Hunters Moon"

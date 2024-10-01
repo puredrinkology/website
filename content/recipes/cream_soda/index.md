@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Cream Soda Cocktail"
 fullname: "The Cream Soda Cocktail"
 shortname: "Cream Soda"

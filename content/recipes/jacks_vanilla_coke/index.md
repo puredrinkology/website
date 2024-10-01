@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Jacks Vanilla Coke Shake"
 fullname: "The Jacks Vanilla Coke Shake"
 shortname: "Jacks Vanilla Coke"

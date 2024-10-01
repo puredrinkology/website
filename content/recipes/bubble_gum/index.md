@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Bubble Gum Shot"
 fullname: "The Bubble Gum Shot"
 shortname: "Bubble Gum"

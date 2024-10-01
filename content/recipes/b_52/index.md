@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The B-52 Shot"
 fullname: "The B-52 Shot"
 shortname: "B-52"

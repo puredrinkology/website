@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: Gin Based Cocktail Recipes
 description: A collection of cocktail recipes featuring Gin
 layout: taxonomy

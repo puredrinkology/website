@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Kentucky Colonel Cocktail"
 fullname: "The Kentucky Colonel Cocktail"
 shortname: "Kentucky Colonel"

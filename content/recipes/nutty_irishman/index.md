@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Nutty Irishman Shake"
 fullname: "The Nutty Irishman Shake"
 shortname: "Nutty Irishman"

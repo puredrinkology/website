@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Royal Flush Shot"
 fullname: "The Royal Flush Shot"
 shortname: "Royal Flush"

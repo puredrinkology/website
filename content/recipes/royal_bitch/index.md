@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Royal Bitch Shot"
 fullname: "The Royal Bitch Shot"
 shortname: "Royal Bitch"

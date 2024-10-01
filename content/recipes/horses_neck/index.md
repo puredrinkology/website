@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Horses Neck Cocktail"
 fullname: "The Horses Neck Cocktail"
 shortname: "Horses Neck"

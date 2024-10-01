@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Galah Cocktail"
 fullname: "The Galah Cocktail"
 shortname: "Galah"

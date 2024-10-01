@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Opposites Attract Cocktail"
 fullname: "The Opposites Attract Cocktail"
 shortname: "Opposites Attract"

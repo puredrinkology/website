@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The 252 Shot"
 fullname: "The 252 Shot"
 shortname: "252"

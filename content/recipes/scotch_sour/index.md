@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Scotch Sour Cocktail"
 fullname: "The Scotch Sour Cocktail"
 shortname: "Scotch Sour"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Pineapple Gingerale Smoothie Shake"
 fullname: "The Pineapple Gingerale Smoothie Shake"
 shortname: "Pineapple Gingerale Smoothie"

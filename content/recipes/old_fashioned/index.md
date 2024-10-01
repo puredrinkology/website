@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Old Fashioned Cocktail"
 fullname: "The Old Fashioned Cocktail"
 shortname: "Old Fashioned"

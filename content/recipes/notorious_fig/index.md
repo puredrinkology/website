@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Notorious Fig Cocktail"
 fullname: "The Notorious Fig Cocktail"
 shortname: "Notorious Fig"

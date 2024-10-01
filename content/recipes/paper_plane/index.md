@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Paper Plane Cocktail"
 fullname: "The Paper Plane Cocktail"
 shortname: "Paper Plane"

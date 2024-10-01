@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Cuba Libre Cocktail"
 fullname: "The Cuba Libre Cocktail"
 shortname: "Cuba Libre"

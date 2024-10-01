@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Apello Shake"
 fullname: "The Apello Shake"
 shortname: "Apello"

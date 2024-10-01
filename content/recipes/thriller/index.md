@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Thriller Cocktail"
 fullname: "The Thriller Cocktail"
 shortname: "Thriller"

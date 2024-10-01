@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Bible Belt Cocktail"
 fullname: "The Bible Belt Cocktail"
 shortname: "Bible Belt"

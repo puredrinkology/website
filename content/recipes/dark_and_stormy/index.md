@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Dark And Stormy Cocktail"
 fullname: "The Dark And Stormy Cocktail"
 shortname: "Dark And Stormy"

@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Monkey Gland Cocktail"
 fullname: "The Monkey Gland Cocktail"
 shortname: "Monkey Gland"

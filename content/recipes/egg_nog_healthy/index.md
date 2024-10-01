@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Egg Nog - Healthy Punch"
 fullname: "The Egg Nog - Healthy Punch"
 shortname: "Egg Nog - Healthy"

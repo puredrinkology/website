@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Mudslinger Cocktail"
 fullname: "The Mudslinger Cocktail"
 shortname: "Mudslinger"

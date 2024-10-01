@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Iced Coffee Fillip Cafe"
 fullname: "The Iced Coffee Fillip Cafe"
 shortname: "Iced Coffee Fillip"

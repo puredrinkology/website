@@ -1,4 +1,5 @@
 ---
+date: "2024-09-23"
 title: "The Mojito Extra Cocktail"
 fullname: "The Mojito Extra Cocktail"
 shortname: "Mojito Extra"
