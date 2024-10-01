@@ -80,6 +80,15 @@
             <a href="/recipes/category/{{lower .Params.category}}/" class="badge text-bg-primary text-decoration-none" title="The {{ humanize .Params.category }} Collection">{{ lower .Params.category }}</a> 
             <a href="/recipes/spirit/{{lower .Params.base_spirit}}/" class="badge text-bg-secondary text-decoration-none" title="Cocktails made using {{ humanize .Params.base_spirit }}">{{lower .Params.base_spirit }}</a>
             <a href="/recipes/family/{{lower .Params.family}}/" class="badge text-bg-info text-decoration-none" title="The {{ humanize .Params.family }} Family">{{ lower .Params.family }}</a> 
+
+            {{ $collectionStr := delimit (or .Params.collection (slice "")) ", " }}
+            {{ $fallbackKeywords := delimit (slice .Params.category .Params.family .Params.base_spirit $collectionStr) ", " }}
+            {{ $keywords := delimit (or .Params.keywords (slice $fallbackKeywords)) ", " }}
+            <span itemprop="keywords" class="d-none">{{ $keywords }}</span>
+            <span itemprop="author" class="small badge text-dark d-none">{{ .Params.author }}</span>
+            <span itemprop="recipeCategory" class="d-none">{{ humanize .Params.category }}</span>
+            <span itemprop="recipeCuisine" class="d-none">Cocktail</span>
+            <span itemprop="recipeYield" class="d-none">1 serving</span>
           </p>
           <p itemprop="description">
             {{ .Params.Description | markdownify }}
