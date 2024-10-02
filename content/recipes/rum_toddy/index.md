@@ -5,6 +5,7 @@ fullname: "The Rum Toddy Cocktail"
 shortname: "Rum Toddy"
 author: "Pure Drinkology"
 collection:
+  - fall
 description: "The Rum Toddy belongs to the Hot Toddy family, a comforting warm drink popular for centuries. Originating in the 18th century, its origins are debated, with some attributing it to British sailors, others to the Irish. The name toddy likely comes from the Hindi word for palm wine. "
 flavor_description: "The Rum Toddy is a warm and comforting cocktail. The rum provides a sweet and boozy base, balanced by the tartness of the lemon peel. The powdered sugar adds a touch of sweetness, while the hot water creates a gentle warmth that soothes the throat. Expect a rich and complex flavor profile, with hints of citrus, spice, and caramel. "
 bartender_tips: "Use high-quality dark rum for a richer flavor. Don't skimp on the lemon peel - a generous twist releases the most citrus oils. Use hot water, but not boiling, to dissolve the sugar and prevent the rum from burning. Stir, don't shake, to avoid diluting the rum.  A good rum toddy should be warm and comforting, not overly sweet. "

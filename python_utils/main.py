@@ -472,11 +472,19 @@ def store_descriptions_in_data_file():
     with open(visuals_file_path, 'w') as json_file:
         json.dump(visuals, json_file, indent=4)
 
-
+def list_recipes():
+    base_path = '../content/recipes/'  # Path to the directory with drink recipes
+    
+    # Loop through each folder inside 'content/recipes/'
+    for drink_folder in os.listdir(base_path):
+        print(drink_folder)
 
 
 if __name__ == "__main__":
-    process_json_files(Path('thecocktailsofmine/'), "personal_collection", False)
-    process_json_files(Path('thecocktaildb/'), "thecocktaildb", False)
+    # process_json_files(Path('thecocktailsofmine/'), "personal_collection", False)
+    # process_json_files(Path('thecocktaildb/'), "thecocktaildb", False)
     # store_descriptions_in_data_file()
+
+    list_recipes()
+    
     print("All JSON files processed and Hugo content files created.")

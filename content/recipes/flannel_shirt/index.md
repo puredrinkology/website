@@ -5,6 +5,7 @@ fullname: "The Flannel Shirt Cocktail"
 shortname: "Flannel Shirt"
 author: "Pure Drinkology"
 collection:
+  - fall
 description: "The Flannel Shirt is a complex, warming cocktail likely born from the Old Fashioned family. Its base of blended Scotch and Demerara syrup nods to classic whisky cocktails, while the addition of apple cider, Amaro, and spice notes creates a modern twist, perfect for fall. "
 flavor_description: "The Flannel Shirt is a complex and warming cocktail. The Demerara gum syrup adds a touch of sweetness and caramel, while the blended Scotch contributes smoky and peaty notes. The Amaro provides a bitter herbal backbone, balanced by the tartness of the apple cider and lemon juice. Allspice dram and aromatic bitters round out the flavor profile with warming spices and a hint of citrus.  This cocktail is rich, comforting, and perfect for a chilly evening. "
 bartender_tips: "This drink is all about balance.  Use a good quality blended scotch, and don't be afraid to let the Amaro shine through.  A touch of Demerara gum syrup sweetens it up nicely, but don't go overboard.  The apple cider adds a welcome complexity, so use a good quality one.  Shake hard with ice to chill it down and get the flavors melding.  Garnish with an apple slice or cinnamon stick for a final touch. "

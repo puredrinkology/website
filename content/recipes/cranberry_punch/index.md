@@ -5,6 +5,7 @@ fullname: "The Cranberry Punch"
 shortname: "Cranberry"
 author: "Pure Drinkology"
 collection:
+  - fall
 description: "Cranberry Punch belongs to the **Punch** family, a broad category of mixed drinks with origins tracing back to 17th century India. It's a modern take on traditional punch, incorporating fruity flavors and sparkling ginger ale for a refreshing, celebratory drink. "
 flavor_description: "This punch bursts with a vibrant, tart cranberry flavor, balanced by the sweetness of sugar and pineapple juice. A hint of almond adds a subtle nutty complexity, while the ginger ale provides a refreshing effervescence. The overall taste is sweet and tart, with a slightly spicy finish. "
 bartender_tips: "For a vibrant Cranberry Punch, use high-quality cranberry juice for the best flavor. Adjust sugar to your preference, starting with a little and tasting as you go.  Use a good quality almond extract for a subtle nutty flavor.  Don't over-mix the ginger ale, as it will lose its fizz.  Chill everything beforehand for a refreshing drink! "

@@ -5,6 +5,7 @@ fullname: "The Fig Old Fashioned Cocktail"
 shortname: "Fig Old Fashioned"
 author: "Pure Drinkology"
 collection:
+  - fall
 description: "The Fig Old Fashioned is a twist on the classic Old Fashioned, a cocktail family born in the 1800s.  It's a riff on the traditional recipe, using fig syrup to bring a unique sweetness and fruitiness to the bourbon base, balanced by aromatic bitters. "
 flavor_description: "The Fig Old Fashioned is a beautifully balanced cocktail.  The fig syrup adds a touch of sweetness with earthy, jammy notes that complement the bourbon's oaky spice.  Aromatic bitters provide a subtle layer of complexity, enhancing the fig and bourbon flavors.  The result is a smooth, mellow, and utterly satisfying drink with a lingering warmth. "
 bartender_tips: "Use a good quality fig syrup, preferably homemade for a more complex flavor. A dash of Angostura bitters adds a warm spice that complements the fig.  Muddle the fig syrup with the bitters in the bottom of the glass to release its aromas.  Use a large ice cube for slower dilution and a smoother drink.  Garnish with a fig slice or a sprig of rosemary for a touch of elegance. "

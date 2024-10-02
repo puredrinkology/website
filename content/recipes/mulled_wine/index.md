@@ -5,6 +5,7 @@ fullname: "The Mulled Wine Punch"
 shortname: "Mulled Wine"
 author: "Pure Drinkology"
 collection:
+  - fall
 description: "Mulled wine, a warming winter beverage, belongs to the Hot Cocktails family. Its origins trace back to ancient Rome, where wine was spiced with herbs and honey for medicinal and celebratory purposes. "
 flavor_description: "Mulled wine is a warm, comforting hug in a glass. The sweetness of the sugar blends with the tartness of the lemon, creating a balanced base. The red wine adds a rich, fruity depth, while the cloves and cinnamon infuse a spicy, warming complexity. A touch of brandy adds a smooth, boozy kick. Overall, it's a complex, fragrant, and festive drink perfect for chilly evenings. "
 bartender_tips: "For a perfect Mulled Wine, simmer gently, don't boil! This prevents the alcohol from evaporating and the flavors from becoming bitter.  Use quality red wine and brandy for a richer flavor. Add the sugar last to avoid caramelization. Strain before serving to remove spices and enjoy warm! "

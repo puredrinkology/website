@@ -5,6 +5,7 @@ fullname: "The Applecar Cocktail"
 shortname: "Applecar"
 author: "Pure Drinkology"
 collection:
+  - fall
 description: "The Applecar, with its base of Applejack and citrus, belongs to the Sour family of cocktails. Its origin is likely a modern twist on classic sour recipes, incorporating the unique flavor of Applejack, a spirit distilled from apple cider. "
 flavor_description: "The Applecar is a tart and sweet cocktail with a delightful balance.  Applejack's rustic apple flavor shines through, softened by the citrusy zest of Triple Sec. Lemon juice adds a bright acidity that cuts through the sweetness, creating a refreshing and complex experience.  It's a perfect blend of fruity sweetness and tartness, with a subtle hint of applejack's unique character. "
 bartender_tips: "For a crisp Applecar, chill your ingredients beforehand. Use fresh lemon juice for optimal flavor. Shake vigorously with ice to ensure proper dilution and a refreshing chill. Strain into a chilled coupe glass, and garnish with a lemon twist for an elegant touch. "

@@ -5,6 +5,7 @@ fullname: "The Ginger  Cocktail"
 shortname: "Ginger "
 author: "Pure Drinkology"
 collection:
+  - fall
 description: "The Ginger Cocktail is a refreshing, citrus-forward drink belonging to the **Gin Sour** family. Though its exact origin is unknown, its simple combination of gin, citrus, and a sweetening agent echoes the classic Sour formula, popularized in the late 19th century.  "
 flavor_description: "The Ginger Cocktail is a refreshing and invigorating blend. The spicy ginger syrup bursts forth, followed by the juniper-forward notes of gin. A bright, tart acidity from lime juice cuts through the sweetness, creating a balanced and complex flavor profile. The overall effect is a vibrant and zesty cocktail with a subtle warmth that lingers on the palate. "
 bartender_tips: "Freshly muddle the lime to release its oils for a vibrant aroma. Use a high-quality gin for a clean, balanced flavor. Ensure the ginger syrup is properly balanced - not too sweet or too spicy. Shake vigorously with ice to chill and dilute the cocktail. Strain into a chilled coupe or martini glass, and garnish with a lime wheel for a refreshing finish. "

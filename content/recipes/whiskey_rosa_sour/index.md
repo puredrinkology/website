@@ -5,6 +5,7 @@ fullname: "The Whiskey Rosa Sour Cocktail"
 shortname: "Whiskey Rosa Sour"
 author: "Pure Drinkology"
 collection:
+  - fall
 description: "The Whiskey Rosa Sour belongs to the Sour family, a classic cocktail category characterized by a base spirit, citrus juice, and sweetener.  This particular twist draws inspiration from the classic Whiskey Sour, substituting traditional sugar with Gum Syrup and adding the floral and slightly bitter notes of Cocchi Rosa. "
 flavor_description: "The Whiskey Rosa Sour is a delightful blend of sweet and tart with a floral edge. The Bourbon provides a warm, robust base, while the Cocchi Rosa adds a delicate, rose-infused sweetness.  Lemon juice brings a bright acidity, balanced by the subtle bitterness of orange bitters.  The gum syrup adds a touch of velvety texture, creating a smooth, well-rounded cocktail. "
 bartender_tips: "For a perfect Whiskey Rosa Sour, use a high-quality bourbon and fresh lemon juice. Shake vigorously with ice to chill and emulsify the ingredients. The gum syrup adds body and sweetness, so adjust it to your preference. A dash of orange bitters elevates the flavor profile. Finally, strain into a chilled coupe glass and garnish with a lemon twist for a beautiful and delicious cocktail. "

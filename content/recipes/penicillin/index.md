@@ -5,6 +5,7 @@ fullname: "The Penicillin Cocktail"
 shortname: "Penicillin"
 author: "Pure Drinkology"
 collection:
+  - fall
 description: "The Penicillin, a sophisticated twist on the classic Whisky Sour, belongs to the Sour family. Created by Sam Ross at New York's Milk & Honey, it blends the smooth sweetness of honey syrup with the bold heat of ginger and the smoky depth of Islay Scotch, a nod to the medicinal properties of penicillin. "
 flavor_description: "The Penicillin is a complex and balanced cocktail. The blended Scotch provides a smooth, rounded base, while the lemon juice adds brightness and acidity. The honey and ginger syrups offer sweetness and warmth, with the ginger notes adding a spicy kick.  A splash of Islay Single Malt Scotch adds a smoky, peaty depth, creating a unique and satisfyingly complex flavor profile. "
 bartender_tips: "To make a perfect Penicillin, ensure your ginger syrup is fresh and strong, balancing the honey sweetness. Use a good quality blended Scotch as a base, and a peaty Islay for the kick. Don't overshake, you want a slightly cloudy texture, not a frothy one.  A splash of soda water can add a refreshing touch, but it's optional.  Finally, a nice garnish of a ginger wheel or candied ginger is a must. "
