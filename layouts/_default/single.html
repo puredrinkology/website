@@ -85,7 +85,9 @@
             {{ $fallbackKeywords := delimit (slice .Params.category .Params.family .Params.base_spirit $collectionStr) ", " }}
             {{ $keywords := delimit (or .Params.keywords (slice $fallbackKeywords)) ", " }}
             <span itemprop="keywords" class="d-none">{{ $keywords }}</span>
-            <span itemprop="author" class="small badge text-dark d-none">{{ .Params.author }}</span>
+            <span itemprop="author" itemscope itemtype="https://schema.org/Person" class="small badge text-dark d-none">
+              <span itemprop="name">{{ .Params.author }}</span>
+            </span>
             <span itemprop="recipeCategory" class="d-none">{{ humanize .Params.category }}</span>
             <span itemprop="recipeCuisine" class="d-none">Cocktail</span>
             <span itemprop="recipeYield" class="d-none">1 serving</span>
