@@ -7,7 +7,7 @@ url: "/recipes/family/margarita/"
 weight: 20
 coverImage: "/family/margarita/images/cover.jpeg"
 secondary: "
-        <h2 class='fs-4 text-primary py-3'>History</h2>
+        <h2 class='fs-4 text-primary py-3'>History of The Margarita Cocktail</h2>
         <p>
         Originating in the mid-20th century along the vibrant Mexican-American border, the Margarita has become a global symbol of celebration and sophistication. 
         </p>
@@ -15,7 +15,7 @@ secondary: "
         The Margarita can be seen as a direct descendant or variation of the sour family, especially when considering its kinship with the Sidecar, which uses brandy, lemon juice, and Cointreau. The Margarita replaces brandy with tequila and lemon with lime, maintaining the sour's balance of flavors.
         </p>
 
-        <h2 class='fs-4 text-primary py-3'>How it's made</h2>
+        <h2 class='fs-4 text-primary py-3'>How to make a Margarita Cocktail</h2>
         <p>
        A true Margarita balances the sharp bite of tequila with the refreshing sourness of lime, moderated by a touch of sweetness. Whether shaken with ice for a frosty froth, served on the rocks, or blended with ice for a slushy delight, its versatility is endless. From traditional recipes to modern twists with fruit purees or unexpected spirits, Margaritas are a testament to the cocktail's enduring charm. Join us in uncovering the magic of Margaritas, where every sip is an invitation to the celebration.
         </p>

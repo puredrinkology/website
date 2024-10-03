@@ -7,12 +7,12 @@ url: "/recipes/family/martini/"
 weight: 10
 coverImage: "/family/martini/images/cover.jpeg"
 secondary: "
-        <h2 class='fs-4 text-primary py-3'>History</h2>
+        <h2 class='fs-4 text-primary py-3'>History of The Martini Cocktail</h2>
         <p>
         The Martini family, with its roots deep in the 19th century, has evolved into a vast lineage of drinks, each with its own story of elegance and innovation.
         </p>
 
-        <h2 class='fs-4 text-primary py-3'>How it's made</h2>
+        <h2 class='fs-4 text-primary py-3'>How to make a Martini</h2>
         <p>
         Let's start with the patriarch: the Classic Martini.
         </p>

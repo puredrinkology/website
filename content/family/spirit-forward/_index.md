@@ -7,13 +7,13 @@ url: "/recipes/family/spirit-forward/"
 weight: 4
 coverImage: "/family/spirit-forward/images/cover.jpeg"
 secondary: "
-        <h2 class='fs-4 text-primary py-3'>History</h2>
+        <h2 class='fs-4 text-primary py-3'>History of the Spirit Forward Cocktail</h2>
         <p>
         The Original Cocktail: The term 'cocktail' was first used in the early 19th century, initially referring to a mixture of spirits, sugar, water, and bitters. This formula, which is spirit-forward, is essentially an Old Fashioned / Ancelstral, showcasing the spirit (usually whiskey) with minimal embellishment.<br/><br/>
         Rise of the Bar: With the growth of bars in America, especially in New York, cocktails became more sophisticated. The Martini, Manhattan, and Negroni from this era highlight spirits (gin, whiskey, gin again) with vermouth or other fortified wines acting as complements rather than overpowers.
         </p>
 
-        <h2 class='fs-4 text-primary py-3'>How it's made</h2>
+        <h2 class='fs-4 text-primary py-3'>How to make a Spirit Forward Cocktail</h2>
         Spirit Forward cocktails evolve from the Ancestral cocktails, by taking the base spirit and bitters, and adding a vermouth to enhance its flavor.
 "
 ---

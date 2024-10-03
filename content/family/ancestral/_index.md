@@ -8,12 +8,12 @@ weight: 1
 coverImage: "/family/ancestral/images/cover.jpeg"
 
 secondary: "
-        <h2 class='fs-4 text-primary py-3'>History</h2>
+        <h2 class='fs-4 text-primary py-3'>History of The Old Fashioned Cocktail</h2>
         <p>
-        The Old Fashioned cocktail, often regarded as the original cocktail, dates back to the early 19th century.
+        The Old Fashioned cocktail, often regarded as the original ancestral cocktail, dates back to the early 19th century.
         </p>
 
-        <h2 class='fs-4 text-primary py-3'>Recipe</h2>
+        <h2 class='fs-4 text-primary py-3'>How to make an Old Fashioned Cocktail</h2>
         Its name itself is a nod to the 'old-fashioned' way of making drinks, which involved spirits, sugar, water, and bitters. This timeless recipe has not only stood the test of time but has also inspired countless variations, each adding its unique twist while honoring the spirit of the original.
 "
 ---

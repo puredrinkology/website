@@ -7,7 +7,7 @@ url: "/recipes/family/fizz"
 weight: 30
 coverImage: "/family/fizz/images/cover.jpeg"
 secondary: "
-        <h2 class='fs-4 text-primary py-3'>History</h2>
+        <h2 class='fs-4 text-primary py-3'>History of The Fizz Cocktail</h2>
         <p>
         The term Fizz was popularized in the 19th century, with one of the earliest noted fizzes being the Gin Fizz, first appearing in print around 1887. The Silver Fizz, Golden Fizz, and Royal Fizz soon followed, each adding its twist to the basic formula.
         </p>
@@ -15,7 +15,7 @@ secondary: "
         Prohibition Era: Fizz cocktails saw a surge in popularity during Prohibition due to their ability to mask the taste of inferior spirits with effervescence and citrus.
         </p>
 
-        <h2 class='fs-4 text-primary py-3'>How it's made</h2>
+        <h2 class='fs-4 text-primary py-3'>How to make a Fizz Cocktail</h2>
         <p>
             Typically, gin is the spirit of choice, but variations exist with other spirits like whiskey or vodka.<br/><br/>
             Citrus: Fresh lemon or lime juice is essential, bringing the essential sour component.<br/>

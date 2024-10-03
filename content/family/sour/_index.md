@@ -7,12 +7,12 @@ url: "/recipes/family/sour/"
 weight: 15
 coverImage: "/family/sour/images/cover.jpeg"
 secondary: "
-        <h2 class='fs-4 text-primary py-3'>History</h2>
+        <h2 class='fs-4 text-primary py-3'>History of the Sour Cocktail</h2>
         <p>
         Originating from the Pisco Sour in Peru or the Whiskey Sour in America, these cocktails have a rich history dating back to the 19th century, embodying the art of mixology's fundamental principles.
         </p>
 
-        <h2 class='fs-4 text-primary py-3'>What makes a drink a Sour?</h2>
+        <h2 class='fs-4 text-primary py-3'>What makes a drink a Sour Cocktail?</h2>
         <p>
         It's simple yet profound – the interplay between the sourness of lemon or lime and the sweetness of simple syrup, all anchored by a robust spirit. 
         </p>

@@ -7,12 +7,12 @@ url: "/recipes/family/highball/"
 weight: 25
 coverImage: "/family/highball/images/cover.jpeg"
 secondary: "
-        <h2 class='fs-4 text-primary py-3'>History</h2>
+        <h2 class='fs-4 text-primary py-3'>History of The Highball Cocktail</h2>
         <p>
         Highballs trace their origins back to the late 19th century, with the term itself coined around the same time. The word 'highball' likely comes from the railroad signal for 'full speed ahead', suggesting an unobstructed path, much like the straightforwardness of these drinks. They gained popularity during the Prohibition era as an easy way to disguise bootleg liquor with mixers like soda or ginger ale.
         </p>
 
-        <h2 class='fs-4 text-primary py-3'>How it's made</h2>
+        <h2 class='fs-4 text-primary py-3'>How to make a Highball Cocktail</h2>
         <p>
         Any spirit can serve as the base, from whiskey in a Whiskey Highball to vodka in a Screwdriver.<br/>
         Mixer - Typically, this is a carbonated beverage like soda water, cola, ginger ale, or tonic water, which adds effervescence and often a slight sweetness or bitterness.<br/>
