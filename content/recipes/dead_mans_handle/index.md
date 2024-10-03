@@ -5,6 +5,7 @@ fullname: "The Dead Mans Handle Cocktail"
 shortname: "Dead Mans Handle"
 author: "Pure Drinkology"
 collection:
+  - halloween
 description: "The Dead Man's Handle is a vibrant, citrus-forward cocktail that falls into the Sour family. Its origins likely stem from the recent cocktail renaissance, drawing inspiration from classic Sours with a modern twist using Orgeat Syrup for added sweetness and complexity. "
 flavor_description: "The Dead Man's Handle is a delightful cocktail with a balanced flavor profile. The orgeat syrup provides a sweet and nutty base, complemented by the earthy agave notes of tequila. Aperol adds a vibrant bitterness and citrusy zest, while lime juice rounds out the drink with a refreshing acidity. The result is a harmonious blend of sweet, savory, and tart, making for a truly enjoyable experience. "
 bartender_tips: "When making a Dead Man's Handle, the key is balance. Use a good quality Orgeat syrup, not overly sweet. Shake hard with ice to chill and dilute, but don't over-shake – you want a light foam, not a slushy. Adjust lime juice for desired tartness. Garnish with a lime wheel for a classic touch. "

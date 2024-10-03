@@ -5,6 +5,7 @@ fullname: "The Death In Afternoon Cocktail"
 shortname: "Death In Afternoon"
 author: "Pure Drinkology"
 collection:
+  - halloween
 description: "Death in the Afternoon is a classic *liqueur cocktail*, a category that combines spirits with other flavors, often sweet or herbal.  Created by Ernest Hemingway, the drink  combines the anise-flavored absinthe with champagne, reflecting Hemingway's fondness for both. "
 flavor_description: "Death in the Afternoon is a complex and intriguing cocktail.  The Absinthe provides a strong, herbal, and slightly anise-flavored base, with notes of licorice and wormwood. The Champagne adds a touch of sweetness and effervescence, creating a delicate balance between the bitter and the sweet. The result is a unique and memorable cocktail that is both refreshing and challenging, reflecting its literary namesake. "
 bartender_tips: "**Chill your champagne thoroughly.** Absinthe is already chilled, so you want the champagne to be as cold as possible to keep the drink refreshing.  **Use a high-quality absinthe.**  This is the star of the show!  **Pour the absinthe first, then top with champagne.** This ensures proper layering and preserves the absinthe's aroma. **Garnish with a sugar cube or a lemon twist** for an elegant touch. "
