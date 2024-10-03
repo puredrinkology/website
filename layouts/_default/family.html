@@ -33,11 +33,11 @@
             <a class="aspect-ratio-full" href="{{ .Permalink }}" title="{{ .Title }}">
                   {{ with .Resources.GetMatch (printf "**/%s" "{cover.*}") }}
                       {{ with .Resize "1000x" }}
-                          <img class="" src="{{ .RelPermalink }}" alt="{{ .Title }}" title="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}" />
+                          <img class="rounded-10" src="{{ .RelPermalink }}" alt="{{ .Title }}" title="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}" />
                       {{ end }} 
                   {{ end }}
-                  {{ with .Params.coverImage }}
-                    <img class="rounded-10" src="{{ . }}"  />
+                  {{ if .Params.coverImage }}
+                    <img class="rounded-10" src="{{ .Params.coverImage }}" alt="{{ .Title }}" title="{{ .Title }}">
                   {{ end }}
             </a>
 
