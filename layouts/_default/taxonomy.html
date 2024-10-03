@@ -56,8 +56,20 @@
                 <div class="card-body">
                   <div class="fs-5 card-title fw-semibold"><a href="{{ $recipe.Permalink }}" class="text-decoration-none" title="{{ .Title }}">{{ with .Params.shortname }}{{ . }}{{ else }}{{ .Title }}{{ end }}</a></div>
                   <a href="/recipes/category/{{lower .Params.category}}/" class="badge text-bg-primary text-decoration-none" title="The {{ humanize .Params.category }} Collection">{{ lower .Params.category }}</a> 
-                  <a href="/recipes/spirit/{{lower .Params.base_spirit}}/" class="badge text-bg-secondary text-decoration-none" title="Cocktails made using {{ humanize .Params.base_spirit }}">{{lower .Params.base_spirit }}</a>
-                  <a href="/recipes/family/{{lower .Params.family}}/" class="badge text-bg-info text-decoration-none" title="The {{ humanize .Params.family }} Family">{{ lower .Params.family }}</a> 
+
+                  {{ with .Params.base_spirit }}
+                    {{ if ne . "" }}
+                      <a href="/recipes/spirit/{{lower .}}/" class="badge text-bg-secondary text-decoration-none" title="Cocktails made using {{ humanize . }}">{{lower . }}</a>
+                    {{ end }}
+                  {{ end }}
+
+
+                  {{ with .Params.family }}
+                    {{ if ne . "" }}
+                      <a href="/recipes/family/{{ lower . }}/" class="badge text-bg-info text-decoration-none" title="The {{ humanize . }} Family">{{ lower . }}</a>
+                    {{ end }}
+                  {{ end }}
+                  
                 </div>
               </div>
             </div>
