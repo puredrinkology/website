@@ -10,23 +10,24 @@
             <div class="col-12">
               <div class="p-2">
                 {{ with .Title }}
-                <h1 class="fs-1 text-primary">Explore Our Collections of Cocktail Recipes</h1>
+                <h1 class="fs-1 text-primary">{{ . }}</h1>
                 {{ end }}
+
+                {{ .Content }}
               </div>
             </div>
             <div class="col-12 text-start pb-3">
-              <a href="/recipes/family/" class="p-2" title="View All Collections">View All Collections</a>
+              <a href="/recipes/family/" class="p-3 btn btn-primary rounded-10" title="View Cocktail Family Collections">View Cocktail Family Collections</a>
             </div>
 
             <div class="col-12 col-md-4 col-lg-2">
               <div class="card shadow border-0 p-4 text-decoration-none h-100" style="border-radius: 15px;">
                 <a class="aspect-ratio-full" href="/recipes/family/">
-                  <img class="rounded-10" src="/family/martini/images/cover.jpeg" />
+                  <img class="rounded-10" src="/family/martini/images/cover.jpeg" alt="View our collection of cocktail recipes" title="View our collection of cocktail recipes" />
                 </a>
 
                 <div class="card-body">
-                  <h5 class="card-title fw-semibold"><a href="/recipes/family/highball/"
-                      class="text-decoration-none">Craft your Perfect Cocktail</a></h5>
+                  <div class="fs-5 card-title fw-semibold"><a href="/recipes/family/highball/" class="text-decoration-none">Craft your Perfect Cocktail</a></div>
                   <div class="mt-2">
                     <a href="/recipes/category/cocktail/" title="View our Cocktail Recipe Collection" class="badge text-bg-primary text-decoration-none">cocktail</a>
                     <a href="/recipes/family/" title="View our Cocktail Families" class="badge text-bg-info text-decoration-none">family</a>
@@ -38,12 +39,11 @@
             <div class="col-12 col-md-4 col-lg-2">
               <div class="card shadow border-0 p-4 text-decoration-none h-100" style="border-radius: 15px;">
                 <a class="aspect-ratio-full" href="/recipes/collection/espresso_martini/">
-                  <img class="rounded-10" src="/collection/espresso_martini/pins/espresso_martini_collection.png" style="object-fit: cover;" />
+                  <img class="rounded-10" src="/collection/espresso_martini/pins/espresso_martini_collection.png" style="object-fit: cover;" alt="View our list of easy Espresso Martini cocktail recipes" title="View our list of easy Espresso Martini cocktail recipes"/>
                 </a>
 
                 <div class="card-body">
-                  <h5 class="card-title fw-semibold">
-                    <a href="/recipes/collection/espresso_martini/" class="text-decoration-none">Sip on your Smoothest Espresso Martini</a></h5>
+                  <div class="fs-5 card-title fw-semibold"><a href="/recipes/collection/espresso_martini/" class="text-decoration-none">Sip on your Smoothest Espresso Martini</a></div>
                     <div class="mt-2">
                       <a href="/recipes/category/cocktail/" title="View our Cocktail Recipe Collection" class="badge text-bg-primary text-decoration-none">cocktail</a>
                       <a href="/recipes/collection/espresso_martini/" title="View our Complete List of Espresso Martini Cocktail Recipes" class="badge text-bg-info text-decoration-none">espresso martini</a>
@@ -55,12 +55,11 @@
             <div class="col-12 col-md-4 col-lg-2">
               <div class="card shadow border-0 p-4 text-decoration-none h-100" style="border-radius: 15px;">
                 <a class="aspect-ratio-full" href="/recipes/collection/fall-cocktails/">
-                  <img class="rounded-10" src="/collection/fall/pins/easy-fall-cocktails.png" style="object-fit: cover;" />
+                  <img class="rounded-10" src="/collection/fall/pins/easy-fall-cocktails.png" style="object-fit: cover;"  alt="View our list of easy fall cocktail recipes" title="View our list of easy fall cocktail recipes"/>
                 </a>
 
                 <div class="card-body">
-                  <h5 class="card-title fw-semibold">
-                    <a href="/recipes/collection/fall-cocktails/" class="text-decoration-none">Easy Fall Cocktails</a></h5>
+                  <div class="fs-5 card-title fw-semibold"><a href="/recipes/collection/fall-cocktails/" class="text-decoration-none">Easy Fall Cocktails</a></div>
                     <div class="mt-2">
                       <a href="/recipes/category/cocktail/" title="View our Cocktail Recipe Collection" class="badge text-bg-primary text-decoration-none">cocktail</a>
                       <a href="/recipes/collection/fall-cocktails/" title="View our Complete List of Espresso Martini Cocktail Recipes" class="badge text-bg-info text-decoration-none">fall</a>
@@ -72,12 +71,11 @@
             <div class="col-12 col-md-4 col-lg-2">
               <div class="card shadow border-0 p-4 text-decoration-none h-100" style="border-radius: 15px;">
                 <a class="aspect-ratio-full" href="/recipes/family/highball/">
-                  <img class="rounded-10" src="/family/highball/images/cover.jpeg" />
+                  <img class="rounded-10" src="/family/highball/images/cover.jpeg" alt="View our list of refreshing summer cocktail recipes" title="View our list of refreshing summer cocktail recipes" />
                 </a>
 
                 <div class="card-body">
-                  <h5 class="card-title fw-semibold"><a href="/recipes/family/highball/"
-                      class="text-decoration-none">Refreshing Summer Drinks</a></h5>
+                  <div class="fs-5 card-title fw-semibold"><a href="/recipes/family/highball/" class="text-decoration-none">Refreshing Summer Drinks</a></div>
                   <div class="mt-2">
                     <a href="/recipes/category/cocktail/" title="View our Cocktail Recipe Collection" class="badge text-bg-primary text-decoration-none">cocktail</a>
                     <a href="/recipes/family/highball/" title="View our List of Highball Cocktail Recipes" class="badge text-bg-info text-decoration-none">highball</a>
@@ -89,12 +87,11 @@
             <div class="col-12 col-md-4 col-lg-2">
               <div class="card shadow border-0 p-4 text-decoration-none h-100" style="border-radius: 15px;">
                 <a class="aspect-ratio-full" href="/recipes/family/negroni/">
-                  <img class="rounded-10" src="/family/negroni/images/cover.jpeg" />
+                  <img class="rounded-10" src="/family/negroni/images/cover.jpeg"  alt="View our list of best Negroni cocktail recipes" title="View our list of best Negroni cocktail recipes"/>
                 </a>
 
                 <div class="card-body">
-                  <h5 class="card-title fw-semibold"><a href="/recipes/family/negroni/"
-                      class="text-decoration-none">Celebrate Negroni Week</a></h5>
+                  <div class="fs-5 card-title fw-semibold"><a href="/recipes/family/negroni/" class="text-decoration-none">Celebrate Negroni Week</a></div>
                   <div class="mt-2">
                     <a href="/recipes/category/cocktail/" title="View our Cocktail Recipe Collection" class="badge text-bg-primary text-decoration-none">cocktail</a>
                     <a href="/recipes/family/negroni/" title="View our List of Negroni Recipes" class="badge text-bg-info text-decoration-none">negroni</a>
@@ -106,12 +103,11 @@
             <div class="col-12 col-md-4 col-lg-2">
               <div class="card shadow border-0 p-4 text-decoration-none h-100" style="border-radius: 15px;">
                 <a class="aspect-ratio-full" href="/recipes/family/margarita/">
-                  <img class="rounded-10" src="/family/margarita/images/cover.jpeg" />
+                  <img class="rounded-10" src="/family/margarita/images/cover.jpeg" alt="View our list of best margarita cocktail recipes" title="View our list of best margarita cocktail recipes" />
                 </a>
 
                 <div class="card-body">
-                  <h5 class="card-title fw-semibold"><a href="/recipes/family/margarita/" class="text-decoration-none">Its
-                      always Cinco De Mayo</a></h5>
+                  <div class="fs-5 card-title fw-semibold"><a href="/recipes/family/margarita/" class="text-decoration-none">Its always Cinco De Mayo</a></div>
                   <div class="mt-2">
                     <a href="/recipes/category/cocktail/" title="View our Cocktail Recipe Collection" class="badge text-bg-primary text-decoration-none">cocktail</a>
                     <a href="/recipes/family/margarita/" title="View our List of Margarita Recipes" class="badge text-bg-info text-decoration-none">margarita</a>
@@ -123,12 +119,11 @@
             <div class="col-12 col-md-4 col-lg-2">
               <div class="card shadow border-0 p-4 text-decoration-none h-100" style="border-radius: 15px;">
                 <a class="aspect-ratio-full" href="/recipes/family/ancestral/">
-                  <img class="rounded-10" src="/family/ancestral/images/cover.jpeg" />
+                  <img class="rounded-10" src="/family/ancestral/images/cover.jpeg" alt="View our collection of Old World Original Cocktail Recipes" title="View our collection of Old World Original Cocktail Recipes" />
                 </a>
 
                 <div class="card-body">
-                  <h5 class="card-title fw-semibold"><a href="/recipes/family/ancestral/" class="text-decoration-none">Old
-                      World Originals</a></h5>
+                  <div class="fs-5 card-title fw-semibold"><a href="/recipes/family/ancestral/" class="text-decoration-none">Old World Originals</a></div>
                   <div class="mt-2">
                     <a href="/recipes/category/cocktail/" title="View our Cocktail Recipe Collection" class="badge text-bg-primary text-decoration-none">cocktail</a>
                     <a href="/recipes/family/ancestral/" title="View our Old Fashioned (Ancestral) Cocktail Recipe Collection" class="badge text-bg-info text-decoration-none">ancestral</a>
@@ -140,12 +135,11 @@
             <div class="col-12 col-md-4 col-lg-2">
               <div class="card shadow border-0 p-4 text-decoration-none h-100" style="border-radius: 15px;">
                 <a class="aspect-ratio-full" href="/recipes/spirit/">
-                  <img class="rounded-10" src="/base_spirit/bourbon/images/cover.jpeg" />
+                  <img class="rounded-10" src="/base_spirit/bourbon/images/cover.jpeg"  alt="Explore our list of cocktails by Spirit" title="Explore our list of cocktails by Spirit"/>
                 </a>
 
                 <div class="card-body">
-                  <h5 class="card-title fw-semibold"><a href="/recipes/spirit/" class="text-decoration-none">Explore by
-                      Spirit</a></h5>
+                  <div class="fs-5 card-title fw-semibold"><a href="/recipes/spirit/" class="text-decoration-none">Explore by Spirit</a></div>
                   <div class="mt-2">
                     <a href="/recipes/category/cocktail/" title="View our Cocktail Recipe Collection" class="badge text-bg-primary text-decoration-none">cocktail</a>
                     <a href="/recipes/spirit/" title="View our Cocktail Recipes by Spirit Type" class="badge text-bg-info text-decoration-none">spirit</a>

@@ -34,7 +34,7 @@
                 </a>
 
                 <div class="card-body">
-                  <h5 class="card-title fw-semibold"><a href="{{ $recipe.Permalink }}" class="text-decoration-none">{{ $recipe.Title }}</a></h5>
+                  <div class="fs-5 card-title fw-semibold"><a href="{{ $recipe.Permalink }}" class="text-decoration-none" title="{{ .Title }}">{{ $recipe.Title }}</a></div>
                   <p class="card-text text-black-61">{{ $recipe.Summary }}</p>
                   <div class="mt-2">
                     <a href="/recipes/category/{{$category}}/" class="badge text-bg-primary text-decoration-none">{{ $category }}</a>

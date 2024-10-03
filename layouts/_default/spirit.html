@@ -44,15 +44,12 @@
             </a>
 
             <div class="card-body text-center">
-              <h5 class="card-title fw-semibold">
-                <a href="{{ .Permalink }}" class="text-decoration-none">
+              <div class="fs-5 card-title fw-semibold">
+                <a href="{{ .Permalink }}" class="text-decoration-none" title="{{ .Title }}">
                   {{ with .Params.shortname }}{{ . }}{{ else }}{{ .Title }}{{ end }}
                 </a>
-              </h5>
-              
-              <a href="/recipes/category/{{lower .Params.category}}/" class="badge text-bg-primary text-decoration-none">{{ lower .Params.category }}</a> 
-              <a href="/recipes/spirit/{{lower .Params.base_spirit}}/" class="badge text-bg-secondary text-decoration-none">{{lower .Params.base_spirit }}</a>
-              <a href="/recipes/family/{{lower .Params.family}}/" class="badge text-bg-info text-decoration-none">{{ lower .Params.family }}</a> 
+              </div>
+             
             </div>
           </div>
         </div>
