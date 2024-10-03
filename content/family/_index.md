@@ -6,12 +6,12 @@ layout: family
 url: "/recipes/family/"
 
 secondary: "
-        <h2 class='fs-4 text-primary py-3'>Sour's and Margarita's</h2>
+        <h4 class='fs-4 text-primary py-3'>Sour's and Margarita's</h2>
         <p>
         The Sour family introduces balance with citrus, like in a Margarita, adding tartness to the sweetness and strength, creating a harmonious blend that's refreshing and complex.
         </p>
 
-        <h2 class='fs-4 text-primary py-3'>Highballs and Fizz</h2>
+        <h4 class='fs-4 text-primary py-3'>Highballs and Fizz</h2>
         The Highball simplifies further, mixing a spirit with a larger portion of a non-alcoholic mixer, like soda in a Gin and Tonic, for a lighter, effervescent drink. 
 
         Fizz cocktails add a twist with the inclusion of egg or cream, introducing texture and a frothy top, while maintaining the highball's carbonation.
