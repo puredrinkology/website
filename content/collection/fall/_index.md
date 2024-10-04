@@ -5,7 +5,7 @@ description: Explore our curated list of easy fall cocktail recipes.
 layout: taxonomy
 url: "/recipes/collection/fall-cocktails/"
 weight: 1
-coverImage: "/collection/fall-cocktails/images/cover.jpeg"
+coverImage: "/collection/fall/images/cover.png"
 secondary: "
         <h2 class='fs-4 text-primary py-3'>Why Fall Cocktails Are a Must-Try This Season</h2>
         <p>
