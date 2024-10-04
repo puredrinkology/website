@@ -5,7 +5,7 @@ description: A collection of martini recipes.
 layout: taxonomy
 url: "/recipes/family/martini/"
 weight: 10
-coverImage: "/family/martini/images/cover.jpeg"
+coverImage: "/family/martini/images/cover.png"
 secondary: "
         <h2 class='fs-4 text-primary py-3'>History of The Martini Cocktail</h2>
         <p>

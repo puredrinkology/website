@@ -5,7 +5,7 @@ description: A collection of margarita recipes.
 layout: taxonomy
 url: "/recipes/family/margarita/"
 weight: 20
-coverImage: "/family/margarita/images/cover.jpeg"
+coverImage: "/family/margarita/images/cover.png"
 secondary: "
         <h2 class='fs-4 text-primary py-3'>History of The Margarita Cocktail</h2>
         <p>

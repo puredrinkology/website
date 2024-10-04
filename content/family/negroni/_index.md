@@ -5,7 +5,7 @@ description: A collection of negroni recipes.
 layout: taxonomy
 url: "/recipes/family/negroni/"
 weight: 5
-coverImage: "/family/negroni/images/cover.jpeg"
+coverImage: "/family/negroni/images/cover.png"
 secondary: "
         <h2 class='fs-4 text-primary py-3'>History of The Negroni</h2>
         <p>

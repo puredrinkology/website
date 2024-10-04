@@ -5,7 +5,7 @@ description: A collection of punch recipes.
 layout: taxonomy
 url: "/recipes/family/punch/"
 weight: 80
-coverImage: "/family/punch/images/cover.jpeg"
+coverImage: "/family/punch/images/cover.png"
 secondary: "
         <h2 class='fs-4 text-primary py-3'>History of the Punch Cocktail Family</h2>
         <p>

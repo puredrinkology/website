@@ -5,7 +5,7 @@ description: A collection of spirit forward recipes.
 layout: taxonomy
 url: "/recipes/family/spirit-forward/"
 weight: 4
-coverImage: "/family/spirit-forward/images/cover.jpeg"
+coverImage: "/family/spirit-forward/images/cover.png"
 secondary: "
         <h2 class='fs-4 text-primary py-3'>History of the Spirit Forward Cocktail</h2>
         <p>

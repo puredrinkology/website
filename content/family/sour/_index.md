@@ -5,7 +5,7 @@ description: A collection of sour recipes.
 layout: taxonomy
 url: "/recipes/family/sour/"
 weight: 15
-coverImage: "/family/sour/images/cover.jpeg"
+coverImage: "/family/sour/images/cover.png"
 secondary: "
         <h2 class='fs-4 text-primary py-3'>History of the Sour Cocktail</h2>
         <p>

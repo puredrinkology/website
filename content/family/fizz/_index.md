@@ -5,7 +5,7 @@ description: A collection of fizz recipes.
 layout: taxonomy
 url: "/recipes/family/fizz"
 weight: 30
-coverImage: "/family/fizz/images/cover.jpeg"
+coverImage: "/family/fizz/images/cover.png"
 secondary: "
         <h2 class='fs-4 text-primary py-3'>History of The Fizz Cocktail</h2>
         <p>

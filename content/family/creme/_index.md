@@ -5,7 +5,7 @@ description:  A collection of creamy cocktail recipes that make for great desser
 layout: taxonomy
 url: "/recipes/family/creme"
 weight: 99
-coverImage: "/family/creme/images/cover.jpeg"
+coverImage: "/family/creme/images/cover.png"
 
 secondary: "
         <h2 class='fs-4 text-primary py-3'>History</h2>

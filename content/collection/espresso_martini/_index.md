@@ -5,7 +5,7 @@ description: Explore our curated list of simple, delicious Espresso Martini reci
 layout: taxonomy
 url: "/recipes/collection/espresso_martini/"
 weight: 1
-coverImage: "/collection/espresso_martini/images/cover.jpeg"
+coverImage: "/collection/espresso_martini/images/cover.png"
 secondary: "
         <h2 class='fs-4 text-primary py-3'>What does an Espresso Martini Taste Like?</h2>
         <p>

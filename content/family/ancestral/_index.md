@@ -5,7 +5,7 @@ description: A collection of classic recipes from the prohibition era.
 layout: taxonomy
 url: "/recipes/family/ancestral"
 weight: 1
-coverImage: "/family/ancestral/images/cover.jpeg"
+coverImage: "/family/ancestral/images/cover.png"
 
 secondary: "
         <h2 class='fs-4 text-primary py-3'>History of The Old Fashioned Cocktail</h2>

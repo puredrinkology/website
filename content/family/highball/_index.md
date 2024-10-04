@@ -5,7 +5,7 @@ description: A collection of highball recipes.
 layout: taxonomy
 url: "/recipes/family/highball/"
 weight: 25
-coverImage: "/family/highball/images/cover.jpeg"
+coverImage: "/family/highball/images/highball.png"
 secondary: "
         <h2 class='fs-4 text-primary py-3'>History of The Highball Cocktail</h2>
         <p>
