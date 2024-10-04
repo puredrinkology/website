@@ -5,6 +5,8 @@ fullname: "The Deadpan Fix Cocktail"
 shortname: "Deadpan Fix"
 author: "Pure Drinkology"
 collection:
+  - aperol
+  - campari
 description: "The Deadpan Fix is a sophisticated twist on the classic Sour family. This contemporary concoction draws inspiration from the complex flavor profiles of the Old Fashioned, blending the citrusy tartness of a Sour with the bitterness of Campari and the warmth of Rye.  "
 flavor_description: "The Deadpan Fix is a complex and vibrant cocktail. The rye whiskey provides a spicy backbone, while the ginger syrup adds a warming heat.  The Rio Red grapefruit cordial brings a bright, tart sweetness, balanced by the citrusy tang of lemon juice. Orange liqueur adds a touch of floral sweetness, and Campari's bitter notes create a lingering finish. This cocktail is bold and bittersweet, with a refreshing citrus kick. "
 bartender_tips: "For a perfect Deadpan Fix, make sure your ginger syrup is fresh and flavorful. Use a good quality rye, and don't skimp on the Campari – it's the backbone of the drink. Shake vigorously with ice to chill and dilute properly.  Finish with a grapefruit twist for a beautiful garnish.  "

@@ -6,6 +6,8 @@ shortname: "Mayan Blood"
 author: "Pure Drinkology"
 collection:
   - halloween
+  - aperol
+  - campari
 description: "Mayan Blood is a vibrant twist on the classic Sour family, incorporating tropical elements. It's likely a contemporary invention drawing inspiration from the bold flavors of Mesoamerican cuisine and the colorful, layered complexity of South American cocktail traditions. "
 flavor_description: "Mayan Blood is a vibrant and complex cocktail. The tequila provides a robust base, while the blood orange juice adds a sweet and tart citrus flavor. The passionfruit syrup adds a tropical touch and a hint of sweetness. The lime juice brightens the palate, while the Campari contributes a bitter, herbaceous note. Finally, the orange liqueur rounds out the flavor profile with a hint of orange peel. The result is a well-balanced cocktail that is both refreshing and intriguing. "
 bartender_tips: "For a vibrant Mayan Blood, use fresh blood orange juice for the best flavor. Shake hard with ice to ensure a frosty chill.  Don't skimp on the passionfruit syrup, it balances the bitterness of Campari. Strain into a chilled coupe or martini glass, and garnish with a blood orange twist for that extra visual pop. "

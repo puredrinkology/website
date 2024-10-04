@@ -6,6 +6,8 @@ shortname: "Winter Rita"
 author: "Pure Drinkology"
 collection:
   - fall
+  - aperol
+  - campari
 description: "The Winter Rita draws inspiration from the classic Margarita, blending tequila's agave spirit with the citrusy zing of lime and orange. Its addition of Campari and rosemary syrup, however, gives it a sophisticated twist, reminiscent of the bitter-sweetness found in Negroni-style drinks. "
 flavor_description: "The Winter Rita is a complex, layered cocktail. The tequila provides a smooth base with a touch of agave sweetness, while the Campari brings a vibrant bitterness. The lime juice adds a tartness, balanced by the sweetness of orange juice. Rosemary syrup lends a warm, herbal note, and a touch of salt enhances the overall complexity. The result is a unique, refreshing, and slightly savory cocktail that embodies the spirit of winter. "
 bartender_tips: "For the Winter Rita,  use a good quality tequila and fresh juices for best flavor. When making the rosemary syrup, use a few sprigs of rosemary for a subtle, not overpowering flavor.  Shake vigorously with ice to ensure proper dilution and chill.  Rim the glass with salt for a touch of savory sweetness.  Garnish with a rosemary sprig for a festive touch. "

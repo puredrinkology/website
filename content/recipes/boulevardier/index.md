@@ -5,6 +5,8 @@ fullname: "The Boulevardier Cocktail"
 shortname: "Boulevardier"
 author: "Pure Drinkology"
 collection:
+  - aperol
+  - campari
 description: "The Boulevardier, a sophisticated twist on the Negroni, belongs to the Americano family of cocktails.  Created in the 1920s by American expat, Erskine Gwynne, the Boulevardier substitutes Rye whiskey for the Negroni's gin, offering a more robust and spicy profile. "
 flavor_description: "The Boulevardier is a bold and sophisticated cocktail with a complex flavor profile. The rye whiskey provides a spicy and robust backbone, while the Campari brings a bitter, herbal note. Sweet vermouth adds sweetness and depth, balancing the bitterness and creating a harmonious blend. The result is a dry, slightly bitter, and well-rounded cocktail with a long, warm finish. "
 bartender_tips: "Chill your glass and ingredients beforehand. Use high-quality rye and vermouth for the best flavor.  Don't skimp on the Campari - it's essential for that bitter-sweet balance.  Stir well with ice to chill and dilute.  Garnish with an orange peel for a classic touch, but a cherry works too. "
