@@ -74,6 +74,20 @@
 
     <div class="container-fluid p-0  description">
       <div class="row gx-0 p-5">
+
+        {{ $sectionDelimiter := "<!-- section break -->" }}
+        {{ $rawContentSections := split .RawContent $sectionDelimiter }}
+        {{ $contentLeft := "" }}
+        {{ $contentRight := "" }}
+
+        {{- if gt (len $rawContentSections) 1 -}}
+          {{ $contentLeft = index $rawContentSections 0 | .RenderString }}
+          {{ $contentRight = index $rawContentSections 1 | .RenderString }}
+        {{ else }}
+          {{ $contentLeft := .Content }}
+          {{ $contentRight := "" }}
+        {{ end }}
+        
         <div class="col-lg-6 col-12 p-lg-5 p-0">
           <h2 class="fs-1 text-primary pb-3">{{ .Params.Title }}</h2>
           <p>
@@ -99,6 +113,10 @@
           <p itemprop="description">
             {{ .Params.Description | markdownify }}
           </p>
+          <p>
+            {{ $contentLeft }}
+          </p>
+          
         </div>
 
         <div class="col-lg-6 col-12 p-0 p-lg-5">
@@ -115,6 +133,9 @@
             {{ .Params.bartender_tips | markdownify }}
           </p>
           {{ end }}
+          <p>
+            {{ $contentRight }}
+          </p>
 
 
         </div>
