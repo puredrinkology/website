@@ -167,7 +167,6 @@
         
                         <div class="card-body">
                           <div class="fs-5 card-title fw-semibold"><a href="{{ .Permalink }}" class="text-decoration-none">{{ .Params.shortname }}</a></div>
-                          <p class="card-text text-black-61">{{ .Summary }}</p>
                           <a href="/recipes/category/{{lower .Params.category}}/" class="badge text-bg-primary text-decoration-none" title="The {{ humanize .Params.category }} Collection">{{ lower .Params.category }}</a> 
 
                           {{ with .Params.base_spirit }}
