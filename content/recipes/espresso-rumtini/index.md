@@ -10,7 +10,7 @@ bartender_tips: 'Use a high-quality rum for the best flavor.  Ensure the espress
 base_spirit: rum
 category: cocktail
 collection:
-- espresso_martini
+- espresso-martini
 date: '2024-09-23'
 description: 'The Espresso Rumtini is a vibrant member of the coffee cocktail family,
   drawing inspiration from the classic Martini. This invigorating blend, likely born

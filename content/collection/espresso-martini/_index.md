@@ -1,11 +1,13 @@
 ---
 date: "2024-09-23"
+aliases:
+- "/recipes/collection/espresso_martini/"
 title: Easy Espresso Martini Recipes
 description: Explore our curated list of simple, delicious Espresso Martini recipes that bring the perfect balance of rich coffee flavor and smooth vodka right to your glass. 
 layout: taxonomy
-url: "/recipes/collection/espresso_martini/"
+url: "/recipes/collection/espresso-martini/"
 weight: 1
-coverImage: "/collection/espresso_martini/images/cover.png"
+coverImage: "/collection/espresso-martini/images/cover.png"
 secondary: "
         <h2 class='fs-4 text-primary py-3'>What does an Espresso Martini Taste Like?</h2>
         <p>

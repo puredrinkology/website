@@ -9,7 +9,7 @@ bartender_tips: 'Use high-quality cold brew for the best flavor. Shake vigorousl
 base_spirit: vodka
 category: cocktail
 collection:
-- espresso_martini
+- espresso-martini
 date: '2024-09-23'
 description: 'The Mr. Black Espresso Martini is a modern twist on the classic Espresso
   Martini.  Born from the coffee-cocktail craze, it blends the boldness of cold brew

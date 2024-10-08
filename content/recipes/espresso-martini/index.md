@@ -9,7 +9,7 @@ bartender_tips: 'For a perfect Espresso Martini, use freshly brewed espresso, no
 base_spirit: vodka
 category: cocktail
 collection:
-- espresso_martini
+- espresso-martini
 date: '2024-09-23'
 description: 'The Espresso Martini, a potent blend of vodka, coffee liqueur (Kahlua),
   and a touch of sweetness, is a member of the Coffee Cocktail family.  This iconic

@@ -27,11 +27,11 @@ Check out some of the highlights from our tequila collection:
 
 **[Paloma](/recipes/paloma/)**: Think of your favorite soda but with a twist. It's like soda went on a gap year, met grapefruit, and came back with stories to tell.
 
-**[Tequila Sunrise](/recipes/tequila_sunrise/)**: Ever wished you could capture a sunrise in a glass? Well, here it is, with a splash of grenadine for that morning glow effect.
+**[Tequila Sunrise](/recipes/tequila-sunrise/)**: Ever wished you could capture a sunrise in a glass? Well, here it is, with a splash of grenadine for that morning glow effect.
 
 **[Vampiro](/recipes/vampiro/)**: Imagine your veggie juice got a bit rebellious. It's like your healthy drink went on a road trip, picked up some spices, and hitched a ride with tequila. Check out our Vampiro cocktail for an exciting riff.
 
-**[Tequila Sour](/recipes/tequila_sour/)**: You know how some drinks are like a cozy hug? The Tequila Sour's like that, but it's telling tales of sunny beaches and good times.
+**[Tequila Sour](/recipes/tequila-sour/)**: You know how some drinks are like a cozy hug? The Tequila Sour's like that, but it's telling tales of sunny beaches and good times.
 
 <!-- section break -->
 
