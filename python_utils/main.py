@@ -491,12 +491,13 @@ def add_aliases():
 
         if os.path.isfile(drink_path):
             if "_" in drink_folder:
+                print("processing: ", drink_folder)
                 # Determine the new folder name with hyphen
                 new_drink_folder = drink_folder.replace('_', '-')
                 new_drink_path = os.path.join(base_path, new_drink_folder, 'index.md')
 
                 # Create new directory if it doesn't exist
-                os.makedirs(os.path.dirname(new_drink_path), exist_ok=True)
+                # os.makedirs(os.path.dirname(new_drink_path), exist_ok=True)
 
                 # Move the folder and its contents to the new name
                 shutil.move(os.path.join(base_path, drink_folder), os.path.join(base_path, new_drink_folder))
