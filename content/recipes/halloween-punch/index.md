@@ -1,6 +1,7 @@
 ---
 aliases:
 - /recipes/halloween_punch/
+- /recipes/holloween_punch/
 author: Pure Drinkology
 bartender_tips: 'To make your Halloween Punch a hit, use fresh ginger and orange peel
   for the best flavor.  Muddle the ginger and cloves gently to release their essence,

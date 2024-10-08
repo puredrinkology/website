@@ -1,6 +1,7 @@
 ---
 aliases:
 - /recipes/jack_rose/
+- /recipes/jacks_rose/
 author: Pure Drinkology
 bartender_tips: '**Jack''s Rose Tips:**- Use fresh lime juice for optimal flavor.-
   Shake with ice until the shaker is frosty cold.- Strain into a chilled coupe glass.-

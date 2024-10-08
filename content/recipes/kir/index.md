@@ -1,5 +1,7 @@
 ---
 date: "2024-09-23"
+aliases:
+  - "/recipes/kir_royale/"
 title: "The Kir Cocktail"
 fullname: "The Kir Cocktail"
 shortname: "Kir"
