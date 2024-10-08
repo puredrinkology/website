@@ -1,5 +1,6 @@
 import os
 import json
+import shutil
 import re
 import yaml
 from datetime import datetime
@@ -480,11 +481,67 @@ def list_recipes():
         print(drink_folder)
 
 
+def add_aliases():
+    base_path = '../content/recipes/'  # Path to the directory with drink recipes
+    
+    # Loop through each folder inside 'content/recipes/'
+    for drink_folder in os.listdir(base_path):
+        drink_path = os.path.join(base_path, drink_folder, 'index.md')
+        print(drink_path)
+
+        if os.path.isfile(drink_path):
+            if "_" in drink_folder:
+                # Determine the new folder name with hyphen
+                new_drink_folder = drink_folder.replace('_', '-')
+                new_drink_path = os.path.join(base_path, new_drink_folder, 'index.md')
+
+                # Create new directory if it doesn't exist
+                os.makedirs(os.path.dirname(new_drink_path), exist_ok=True)
+
+                # Move the folder and its contents to the new name
+                shutil.move(os.path.join(base_path, drink_folder), os.path.join(base_path, new_drink_folder))
+
+                # Open the file in the new location
+                with open(new_drink_path, 'r') as f:
+                    content = f.read()
+                    
+                    # Extract front matter (YAML between the "---" markers)
+                    if content.startswith('---'):
+                        parts = content.split('---')
+                        front_matter = parts[1].replace("\\'", "'")
+                        fmyaml = yaml.safe_load(front_matter)
+                        
+                        # Add alias if it doesn't already exist
+                        if 'aliases' not in fmyaml:
+                            fmyaml['aliases'] = []
+                        
+                        # Add old URL as an alias
+                        old_url_path = f"/recipes/{drink_folder}/"
+                        if old_url_path not in fmyaml['aliases']:
+                            fmyaml['aliases'].append(old_url_path)
+
+                        # Rebuild the content with updated front matter
+                        new_front_matter = yaml.dump(fmyaml)
+                        new_content = f"---\n{new_front_matter}---\n" + ''.join(parts[2:])
+
+                        # Write the updated content back to the file
+                        with open(new_drink_path, 'w') as f:
+                            f.write(new_content)
+
+                print(f"Processed and renamed: {drink_folder} -> {new_drink_folder}")
+
+
+
+
+
+
+
 if __name__ == "__main__":
     # process_json_files(Path('thecocktailsofmine/'), "personal_collection", False)
     # process_json_files(Path('thecocktaildb/'), "thecocktaildb", False)
     # store_descriptions_in_data_file()
 
-    list_recipes()
-    
+    # list_recipes()
+    add_aliases()
+
     print("All JSON files processed and Hugo content files created.")
