@@ -1,7 +1,7 @@
 ---
 date: "2024-10-04"
 title: The Charm of Campari - A Bitter-Sweet Journey
-description: 
+description: In the world of spirits, few are as distinctive as Campari. With its striking red hue and complex, bitter-sweet flavor profile, Campari isn't just a drink; it's an experience. 
 layout: taxonomy
 url: "/recipes/collection/campari/"
 weight: 1

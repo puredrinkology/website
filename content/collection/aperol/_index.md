@@ -1,7 +1,7 @@
 ---
 date: "2024-10-04"
 title: Beyond the Aperol Spritz - Your Ultimate Guide to Aperol Cocktail Recipes
-description: 
+description: While the Aperol Spritz has taken the globe by storm, becoming synonymous with sunny afternoons and aperitif hours, there's a universe of cocktail possibilities with Aperol that extends far beyond this beloved classic.
 layout: taxonomy
 url: "/recipes/collection/aperol/"
 weight: 1
