@@ -25,6 +25,8 @@
       {{ end }}
     {{ end }}
 
+    
+
     <!-- Recipe-Specific Metadata -->
     {{ with .Params.author }}
       <meta property="og:recipe:author" content="{{ . }}" />
@@ -76,4 +78,11 @@
       {{ end }}
     {{ end }}
   {{ end }}
+
+  {{ if .Params.coverImage }}
+    <meta property="og:image" content="{{ .Params.coverImage | absURL }}"/>
+    <meta property="og:image:width" content="1000" />
+    <meta property="og:image:height" content="1000" />
+  {{ end }}
+  
 {{ end }}

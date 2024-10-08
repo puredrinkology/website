@@ -10,7 +10,7 @@
   {{ end }}
 
   {{- if not .IsPage }}
-    {{ $defaultImage := "/images/cover.png" }}
+    {{ $defaultImage := .Params.coverImage }}
     <meta name="twitter:image" content="{{ $defaultImage | absURL }}">
   {{ end -}}
 <meta name="twitter:title" content="{{ .Title }}"/>
