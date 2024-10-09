@@ -9,7 +9,9 @@ bartender_tips: "For a vibrant Grand Blue, start with chilled ingredients. Layer
   \ in a chilled glass. "
 base_spirit: rum
 category: cocktail
-collection: null
+collection: 
+  - peach-schnapps
+
 date: '2024-09-23'
 description: 'The Grand Blue is a vibrant tropical cocktail, likely a modern creation,  belonging
   to the **Sour** family.  Its base of rum, the sweetness of Malibu, and tartness

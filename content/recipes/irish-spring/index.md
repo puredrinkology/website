@@ -8,7 +8,9 @@ bartender_tips: 'Start with a chilled glass.  Shake the whiskey, peach brandy, o
   sweetness to taste by adding more sweet & sour or a splash of simple syrup.  '
 base_spirit: whiskey
 category: cocktail
-collection: null
+collection: 
+  - peach-schnapps
+
 date: '2024-09-23'
 description: 'The Irish Spring is a vibrant, fruit-forward cocktail belonging to the
   Sour family, likely a modern creation inspired by classic whiskey sours. Its blend

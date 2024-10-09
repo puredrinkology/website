@@ -9,7 +9,9 @@ bartender_tips: 'This is a potent mix, so use Everclear sparingly!  Start with a
   or maraschino cherry. '
 base_spirit: vodka
 category: cocktail
-collection: null
+collection: 
+  - peach-schnapps
+
 date: '2024-09-23'
 description: 'The Pink Penocha belongs to the **fruit punch** family, a vibrant and
   playful category often associated with parties and gatherings. Its origins are likely

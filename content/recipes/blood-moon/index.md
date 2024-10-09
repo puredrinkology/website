@@ -9,7 +9,8 @@ bartender_tips: 'For a balanced Blood Moon,  start by chilling your glass. Use a
 base_spirit: bourbon
 category: cocktail
 collection:
-- halloween
+  - halloween
+  - peach-schnapps
 date: '2024-09-23'
 description: 'Blood Moon is a contemporary twist on the classic Whiskey Sour family.  While
   its origins are modern, it draws inspiration from the sour''s citrus-forward profile,

@@ -10,7 +10,9 @@ bartender_tips: For a Pure Passion that explodes with flavor, use fresh lime jui
   glass.  Garnish with a mint sprig and a lime wheel for a beautiful finish.
 base_spirit: rum
 category: cocktail
-collection: null
+collection: 
+  - peach-schnapps
+
 date: '2024-09-23'
 description: 'Pure Passion belongs to the **Sour** family, a classic cocktail style
   with roots in the 18th century. Its vibrant blend of rum, tropical fruit flavors,

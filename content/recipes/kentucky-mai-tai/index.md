@@ -10,7 +10,9 @@ bartender_tips: 'This is a unique twist on a classic! When building the Kentucky
   complexity! '
 base_spirit: bourbon
 category: cocktail
-collection: null
+collection: 
+  - peach-schnapps
+
 date: '2024-09-23'
 description: 'The Kentucky Mai Tai is a unique twist on the classic Polynesian cocktail
   family, blending traditional Mai Tai elements like orgeat and rum with American

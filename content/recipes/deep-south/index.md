@@ -8,7 +8,9 @@ bartender_tips: 'When making the Deep South, ensure your peach syrup is fresh an
   for a pristine presentation.  Garnish with a lemon twist or a fresh peach slice. '
 base_spirit: rye
 category: cocktail
-collection: null
+collection: 
+  - peach-schnapps
+
 date: '2024-09-23'
 description: 'The Deep South is a modern take on the classic Whiskey Sour family,
   drawing inspiration from the Southern US''s peach bounty. The mezcal adds a smoky
