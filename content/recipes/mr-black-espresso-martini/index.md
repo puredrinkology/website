@@ -11,8 +11,8 @@ category: cocktail
 collection:
 - espresso-martini
 date: '2024-09-23'
-description: 'The Mr. Black Espresso Martini is a modern twist on the classic Espresso
-  Martini.  Born from the coffee-cocktail craze, it blends the boldness of cold brew
+description: 'The Mr. Black Espresso Martini is a modern twist on the classic [Espresso
+  Martini](/recipes/collection/espresso-martini/).  Born from the coffee-cocktail craze, it blends the boldness of cold brew
   with the smooth elegance of vodka, a nod to the original''s creamy coffee-liqueur
   base. '
 family: martini
@@ -29,7 +29,7 @@ ingredients:
   measure: 1.5 oz
 - item: Vodka
   measure: 0.5 oz
-- item: Cold Brew
+- item: Cold Brew or Espresso
   measure: 1 oz
 instructions:
 - item: Shake all ingredients with ice and strain into a coupe glass.
@@ -45,4 +45,44 @@ visual: '## LLM Prompt for Mr Black Espresso Martini Visual Description:**Prompt
   promising a bold and complex taste experience. '
 ---
 
+
+
+Ever wanted a cocktail that's as energizing as it is delicious? Let's dive into the **Mr Black Espresso Martini**, a drink that combines the best of both worlds. 
+
+Here's why you'll want to make this your next go-to.
+
+## What Makes Mr Black Espresso Martini Special?
+
+The **Mr Black Espresso Martini** isn't just any cocktail. It's:
+
+- **Rich and Robust:** Mr Black Cold Brew Coffee Liqueur gives it that deep, coffee flavor.
+- **Smooth and Sweet:** Vodka adds the kick, balancing out the sweetness.
+- **A Little Luxe:** A splash of simple syrup or espresso can elevate this drink into something extraordinary.
+
+## When to Sip on Your Mr Black Espresso Martini
+
+- **Late Nights:** Need something to keep the party going? This drink has your back.
+
+- **Brunch Vibes:** It's like your morning coffee but with a twist. Perfect for a boozy brunch.
+
+- **Anytime You Need a Lift:** Feel a slump coming on? This could be your secret weapon.
+
+<!-- section break -->
+
+- **Chill Your Glass:** A cold glass enhances the experience.
+
+- **Fresh Espresso:** For that true espresso martini feel, use fresh, hot espresso, or freshly brewed cold brew concentrate. Let it cool slightly before mixing.
+
+- **Experiment:** Feel adventurous? Try it with flavored syrups or a dash of bitters.
+
+## Why You'll Love Mr Black Espresso Martini
+
+- **Taste:** It's like having your favorite coffee drink, but with a boozy edge.
+
+- **Energy:** The caffeine gives you that boost, making it perfect for late-night chats or early morning kicks.
+
+- **Elegance:** There's something sophisticated about sipping on a well-made espresso martini.
+---
+
+Ready to try the **Mr Black Espresso Martini**? It's your ticket to a delicious, caffeinated adventure. Whether it's for a special occasion or just because you need a pick-me-up, this drink delivers.
 
