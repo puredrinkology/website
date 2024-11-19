@@ -1,7 +1,7 @@
 ---
 date: "2024-09-23"
-title: "The Zorro Cafe"
-fullname: "The Zorro Cafe"
+title: "The Zorro Shot"
+fullname: "The Zorro Shot"
 shortname: "Zorro"
 author: "Pure Drinkology"
 collection:
@@ -18,10 +18,10 @@ ingredients:
 instructions:
   - item: "add all and pour black coffee and add whipped cream on top."
 glass: "Coffee Mug"
-category: "cafe"
+category: "cocktail"
 has_alcohol: true
 base_spirit:
-family: ""
+family: "creme"
 visual: "## LLM Prompt:Describe the visual appearance of the Zorro cocktail, a layered drink made with Sambuca, Baileys Irish Cream, and White Creme de Menthe. Consider the color, texture, and layering of each ingredient to create a vivid description. **Bonus:**  If possible, mention any unique visual features that might distinguish the Zorro from other layered cocktails. "
 source: "thecocktaildb"
 ---

@@ -8,20 +8,20 @@ bartender_tips: 'To make a Masala Chai cocktail,  use good quality black tea and
   milk gently with the tea and spices to avoid scorching.  Adjust the sweetness to
   taste.  Strain the chai well before serving,  no one likes a mouthful of cloves!  Enjoy! '
 base_spirit: null
-category: cafe
+category: "mocktail"
 collection: null
 date: '2024-09-23'
 description: 'Masala Chai, while not a traditional cocktail, is a spiced beverage
   from India. It falls into the Hot Beverage family, often enjoyed as a comforting
   drink, similar to hot toddies or spiced cider. Its origins trace back centuries
   to Ayurvedic medicine, where its warming spices were used for their health benefits. '
-family: ''
+family: 'tea'
 flavor_description: 'Masala Chai is a warming, complex cocktail. The tea base provides
   a gentle bitterness balanced by the sweetness of sugar and milk.  The spices - ginger,
   cardamom, cloves, cinnamon, and black pepper - create a layered, aromatic profile,
   with hints of spice, warmth, and citrus.  It''s a comforting and invigorating drink,
   with a lingering warmth on the palate. '
-fullname: The Masala Chai Cafe
+fullname: The Masala Chai
 glass: Coffee Mug
 has_alcohol: false
 ingredients:
@@ -50,10 +50,9 @@ instructions:
 - item: Warm milk in a pot.
 - item: Filter tea into cups.
 - item: Add milk and sugar.
-- item: That's IT.
 shortname: Masala Chai
 source: thecocktaildb
-title: The Masala Chai Cafe
+title: The Masala Chai
 visual: '## LLM Prompt:**Describe the appearance of a Masala Chai cocktail, considering
   the following ingredients: water, tea, ginger, cardamom, cloves, cinnamon, black
   pepper, sugar, and milk. Focus on the following aspects:*** **Color:** What is the

@@ -53,13 +53,11 @@ params:
 
   categoryOrder:
     - "cocktail"
-    - "cafe"
-    - "cocoa"
     - "liqueur"
-    - "nonalcoholic"
     - "punch"
     - "shake"
     - "beer"
+    - "homemade"
     - "shot"
 
   familyOrder:
@@ -73,17 +71,23 @@ params:
     - "fizz"
     - "punch"
     - "creme"
+    - "coffee"
+    - "chocolate"
+    - "refresher"
+    - "starbucks"
+    - "smoothie"
+    - "tea"
     - "other"
 
 
 
 menus:
   main:
-    - name: "Cocktail Collections"
-      url: "/recipes/"
+    - name: "Mocktails"
+      url: "/recipes/mocktails/"
       weight: 2
 
-    - name: "Cocktail Families"
+    - name: "Cocktails"
       url: "/recipes/family/"
       weight: 3
 

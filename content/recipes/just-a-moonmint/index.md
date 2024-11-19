@@ -8,13 +8,13 @@ bartender_tips: 'This drink is all about balance. Start with a good quality milk
   and a creamy texture. If you''re feeling adventurous, you can add a touch of vanilla
   extract to enhance the flavor.  '
 base_spirit: null
-category: shake
+category: "mocktail"
 collection: null
 date: '2024-09-23'
 description: 'Just a Moonmint belongs to the **Milk Punch family**, a historical cocktail
   style dating back to the 18th century. This creamy, refreshing concoction blends
   the comforting flavors of milk and chocolate with the invigorating coolness of mint. '
-family: ''
+family: 'chocolate'
 flavor_description: 'Just a Moonmint is a creamy, sweet delight with a refreshing
   twist. The milk provides a smooth, velvety base, while the chocolate syrup adds
   rich, decadent notes. The mint syrup then steps in with a cool, herbaceous touch,

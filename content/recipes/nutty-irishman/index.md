@@ -7,14 +7,14 @@ bartender_tips: 'Chill your glass and ingredients beforehand for a super smooth,
   with ice to ensure proper emulsification and a creamy texture.  Don''t over-shake,
   as you want the drink to be thick, not watery. Garnish with a chocolate shavings
   or a sprinkle of cinnamon for an extra touch of indulgence. '
-base_spirit: null
-category: shake
+base_spirit: rum
+category: cocktail
 collection: null
 date: '2024-09-23'
 description: 'The Nutty Irishman, a creamy blend of Baileys Irish Cream, Frangelico,
   and milk, falls into the **creamy cocktail family**. It''s likely a modern invention,
   combining popular Irish and Italian liqueurs for a rich, nutty, and decadent treat. '
-family: ''
+family: 'creme'
 flavor_description: 'The Nutty Irishman is a creamy, decadent treat with a balanced
   sweetness.  The Baileys provides a smooth, rich Irish cream base, while the Frangelico
   adds a distinct hazelnut and vanilla note.  A touch of milk mellows the sweetness

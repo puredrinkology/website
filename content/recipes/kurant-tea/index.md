@@ -7,25 +7,25 @@ bartender_tips: 'Use high-quality tea for best flavor.  Steep it strong, then le
   than usual is good here.  Shake well with ice to chill and dilute the cocktail.  The
   key is balance - the tartness of the Kurant, the floral tea, and the sweetness should
   all come through.  Garnish with a lemon twist for a fresh touch. '
-base_spirit: null
-category: cafe
+base_spirit: vodka
+category: "cocktail"
 collection: null
 date: '2024-09-23'
 description: 'Kurant Tea belongs to the **Highball** family, a refreshing combination
   of spirits, mixers, and ice served tall in a highball glass. While its exact origin
   is unknown, it''s a modern twist on classic tea-based cocktails, likely inspired
   by the increasing popularity of flavored vodkas like Absolut Kurant. '
-family: ''
+family: 'highball'
 flavor_description: 'Kurant Tea offers a delightful balance of sweet and tart. The
   Absolut Kurant''s blackcurrant liqueur provides a rich, fruity sweetness, while
   the tea adds a subtle floral and earthy complexity. A touch of sugar enhances the
   sweetness and rounds out the flavor profile, creating a harmonious and refreshing
   cocktail. '
-fullname: The Kurant Tea Cafe
+fullname: The Kurant Tea
 glass: Champagne flute
 has_alcohol: true
 ingredients:
-- item: Absolut Kurant
+- item: Absolut Kurant Vodka
   measure: 1.25 oz
 - item: Tea
   measure: Turkish Apple
@@ -37,7 +37,7 @@ instructions:
 - item: Enjoy!.
 shortname: Kurant Tea
 source: thecocktaildb
-title: The Kurant Tea Cafe
+title: The Kurant Tea
 visual: '## LLM Prompt for Kurant Tea Cocktail Description**Imagine a cocktail called
   Kurant Tea made with Absolut Kurant, tea, and sugar. Describe the cocktail''s appearance
   in detail. Consider the following aspects:*** **Color:**  Is the drink light and

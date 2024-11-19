@@ -8,37 +8,37 @@ bartender_tips: 'For a smooth chocolate drink, use high-quality chocolate. Melt 
   the mixture, as it can become grainy.  Use a milk frother to create a luxurious,
   creamy texture, or top with whipped cream for an indulgent finish.  Enjoy! '
 base_spirit: null
-category: cocoa
+category: "mocktail"
 collection: null
 date: '2024-09-23'
 description: "This is a simple, timeless Milk Drink \u2013 a beverage family known\
   \ for its creamy, comforting qualities. While its exact origin is unclear, its components\
   \ suggest a long history, possibly dating back to ancient civilizations who enjoyed\
   \ chocolate with milk and water. "
-family: ''
+family: 'chocolate'
 flavor_description: 'This Chocolate Drink offers a comforting, familiar taste profile.
   Expect rich, velvety chocolate notes, balanced by the creamy sweetness of milk.
   The water provides a touch of lightness and helps integrate the flavors. This drink
   is a classic for a reason, offering a simple yet indulgent experience. '
-fullname: The Chocolate Drink Cocoa
+fullname: Hot Chocolate Cocoa
 glass: Coffee mug
 has_alcohol: false
 ingredients:
 - item: Chocolate
-  measure: 125 Gr
+  measure: 4oz
 - item: Milk
-  measure: 0.75 L
+  measure: 3 cups
 - item: Water
   measure: ''
 instructions:
 - item: Melt the bar in a small amount of boiling water.
 - item: Add milk.
-- item: Cook over low heat, whipping gently (with a whisk, i would assume) until heated
+- item: Cook over low heat, whipping gently (with a whisk) until heated
     well.
 - item: Don't let it boil! Serve in coffee mug.
-shortname: Chocolate Drink
+shortname: Chocolate Cocoa
 source: thecocktaildb
-title: The Chocolate Drink Cocoa
+title: Hot Chocolate Cocoa
 visual: '## LLM Prompt:Imagine a **chocolate drink** made with **chocolate, milk,
   and water**.  Describe its appearance in detail, considering:* **Color:** What shade
   of brown does the drink take on? Is it a rich, dark brown, or a lighter, milk chocolate

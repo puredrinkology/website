@@ -8,19 +8,19 @@ bartender_tips: 'Use a strong, freshly brewed coffee for the best flavor.  Chill
   a chilled coupe glass for a sophisticated presentation.  A splash of orange bitters
   can add complexity. '
 base_spirit: null
-category: cafe
+category: cocktail
 collection: null
 date: '2024-09-23'
 description: 'The Talos Coffee belongs to the classic Coffee Cocktail family, drawing
   inspiration from the timeless tradition of pairing coffee with liqueurs. This drink''s
   origins remain shrouded in mystery, but it likely emerged in the 20th century, reflecting
   the rising popularity of coffee-based cocktails. '
-family: ''
+family: 'sour'
 flavor_description: 'The Talos Coffee offers a warm, inviting experience. The Grand
   Marnier''s citrus notes intertwine with the rich, roasted coffee aroma, creating
   a complex and slightly bittersweet profile. The finish lingers with a subtle orange
   zest and a lingering coffee warmth, leaving you wanting more. '
-fullname: The Talos Coffee Cafe
+fullname: The Talos Coffee
 glass: Brandy snifter
 has_alcohol: true
 ingredients:
@@ -29,10 +29,10 @@ ingredients:
 - item: Coffee
   measure: 1 Part
 instructions:
-- item: Add your GM and then add your coffee.
+- item: Add your Grand Marnier and then add your coffee.
 shortname: Talos Coffee
 source: thecocktaildb
-title: The Talos Coffee Cafe
+title: The Talos Coffee
 visual: '## LLM Prompt: Describe the Appearance of Talos CoffeeImagine a cocktail
   called Talos Coffee that features **Grand Marnier** and **coffee**. **Describe the
   appearance of this cocktail in detail, considering:*** **Color:**  What is the overall

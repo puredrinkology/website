@@ -1,7 +1,7 @@
 ---
 date: "2024-09-23"
-title: "The Frappé Cafe"
-fullname: "The Frappé Cafe"
+title: "The Frappé"
+fullname: "The Frappé"
 shortname: "Frappé"
 author: "Pure Drinkology"
 collection:
@@ -24,10 +24,10 @@ instructions:
   - item: "The froth gradually turns to liquid at the bottom of the glass, so you will find that you can sit and drink this for about 1/2 hour, with more iced coffee continually appearing at the bottom."
   - item: "Very refreshing."
 glass: "Highball Glass"
-category: "cafe"
+category: "mocktail"
 has_alcohol: false
 base_spirit:
-family: ""
+family: "coffee"
 visual: "## LLM Prompt: Describe the appearance of a Frappé, a coffee-based beverage made with coffee, milk, and sugar. Consider its color, texture, and any visual details that might be present. Focus on creating a vivid image for the reader, highlighting the drink's unique characteristics.  "
 source: "thecocktaildb"
 ---

@@ -3,6 +3,7 @@ date: "2024-09-23"
 title: The Spirit Forward Family
 description: A collection of spirit forward recipes.
 layout: taxonomy
+category: cocktail
 url: "/recipes/family/spirit-forward/"
 weight: 4
 coverImage: "/family/spirit-forward/images/cover.png"

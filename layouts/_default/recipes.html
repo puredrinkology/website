@@ -55,8 +55,35 @@
             </div>
             
             <!-- Loop through family pages -->
-            {{range ($.Site.GetPage "taxonomyTerm" "family").Pages }}
-                <div class="col-12 col-md-4 col-lg-2 mb-4 ">
+            {{ range where ($.Site.GetPage "taxonomyTerm" "family").Pages "Params.category" "cocktail" }}
+              <div class="col-12 col-md-4 col-lg-2 mb-4 ">
+                  <div class="card shadow border-0 p-4 text-decoration-none h-100" style="border-radius: 15px;">
+                    <a class="aspect-ratio-full" href="{{ .Permalink }}" title="{{ .Title }}">
+                      {{ with .Resources.GetMatch (printf "**/%s" "{cover.*}") }}
+                          {{ with .Resize "1000x" }}
+                              <img class="rounded-10" src="{{ .RelPermalink }}" alt="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}" />
+                          {{ end }} 
+                      {{ end }}
+                      {{ if .Params.coverImage }}
+                        <img class="rounded-10" src="{{ .Params.coverImage }}" alt="{{ .Title }}" title="{{ .Title }}" />
+                      {{ end }}
+                    </a>
+                    <div class="card-body">
+                      <h5 class="card-title"><a href="{{ .Permalink }}" class="text-decoration-none">{{ .Title }}</a></h5>
+                    </div>
+                  </div>
+                </div>
+            {{ end }}
+          </div>
+
+          <div class="row mt-4">
+            <div class="col-12">
+              <h2>Explore our Non Alcoholic Recipe Families</h2>
+            </div>
+            
+            <!-- Loop through family pages -->
+            {{ range where ($.Site.GetPage "taxonomyTerm" "family").Pages "Params.category" "mocktail" }}
+              <div class="col-12 col-md-4 col-lg-2 mb-4 ">
                   <div class="card shadow border-0 p-4 text-decoration-none h-100" style="border-radius: 15px;">
                     <a class="aspect-ratio-full" href="{{ .Permalink }}" title="{{ .Title }}">
                       {{ with .Resources.GetMatch (printf "**/%s" "{cover.*}") }}

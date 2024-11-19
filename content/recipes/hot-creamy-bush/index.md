@@ -7,20 +7,20 @@ bartender_tips: 'For a smooth, creamy Hot Creamy Bush, start by warming your Iri
   over-mixing and creating a foamy mess. Garnish with a sprinkle of cinnamon or nutmeg
   for a touch of warmth.  Enjoy! '
 base_spirit: whiskey
-category: cafe
+category: cocktail
 collection: null
 date: '2024-09-23'
 description: 'The Hot Creamy Bush is a comforting Irish coffee variation, belonging
   to the Hot Toddy family.  Its origins likely lie in the cozy pubs of Ireland, where
   whiskey, cream, and coffee were readily available for a warming winter drink. '
-family: ''
+family: 'creme'
 flavor_description: 'The Hot Creamy Bush is a comforting and indulgent cocktail. The
   Irish whiskey provides a smooth and warming base, while the Baileys Irish Cream
   adds a rich, creamy sweetness and hints of chocolate and vanilla. The coffee contributes
   a bold, bitter depth, balancing out the sweetness and creating a complex and satisfying
   flavor profile. This cocktail is best enjoyed on a chilly evening, when you''re
   craving a warm and comforting drink. '
-fullname: The Hot Creamy Bush Cafe
+fullname: The Hot Creamy Bush Coffee
 glass: Irish coffee cup
 has_alcohol: true
 ingredients:
@@ -34,7 +34,7 @@ instructions:
 - item: Combine all ingredients in glass.
 shortname: Hot Creamy Bush
 source: thecocktaildb
-title: The Hot Creamy Bush Cafe
+title: The Hot Creamy Bush Coffee
 visual: '## LLM Prompt:**Describe the appearance of a Hot Creamy Bush cocktail, made
   with Irish whiskey, Baileys Irish Cream, and coffee. Focus on the following aspects:***
   **Color:** What shades dominate the drink? Is it a uniform color or layered? Does

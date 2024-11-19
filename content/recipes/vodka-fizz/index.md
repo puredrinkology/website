@@ -8,14 +8,14 @@ bartender_tips: 'Start with a chilled glass to keep the drink cold.  Use good qu
   too much for a balanced flavor.  Serve immediately, as the drink will become watered
   down over time.  Enjoy! '
 base_spirit: vodka
-category: shake
+category: cocktail
 collection: null
 date: '2024-09-23'
 description: 'The Vodka Fizz is a refreshing twist on the classic Fizz family, which
   dates back to the 18th century. It''s a simple yet elegant blend of vodka, cream,
   citrus, and spice, drawing inspiration from the popularity of creamy cocktails in
   the 1950s and 60s. '
-family: ''
+family: 'fizz'
 flavor_description: 'The Vodka Fizz offers a refreshing blend of tart and creamy.
   The vodka provides a clean, crisp base, while the limeade delivers a bright, citrusy
   zing. The half-and-half adds a velvety richness, creating a smooth, luxurious mouthfeel.

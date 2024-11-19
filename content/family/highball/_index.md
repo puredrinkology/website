@@ -3,6 +3,7 @@ date: "2024-09-23"
 title: The Highball Family
 description: A collection of highball recipes.
 layout: taxonomy
+category: cocktail
 url: "/recipes/family/highball/"
 weight: 25
 coverImage: "/family/highball/images/highball.png"

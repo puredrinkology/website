@@ -8,14 +8,14 @@ bartender_tips: 'Start with frozen fruit for a thicker shake.  Use a good qualit
   adjust sweetness with a touch of honey or sugar.  Serve immediately in a chilled
   glass with a garnish of your choice. '
 base_spirit: null
-category: shake
+category: "mocktail"
 collection: null
 date: '2024-09-23'
 description: 'The Fruit Shake belongs to the **Milkshake family**, a refreshing beverage
   category with roots in the late 19th century. Originating in America, milkshakes
   were initially made with ice cream, milk, and flavorings, evolving to incorporate
   fruits and yogurt for a healthier twist. '
-family: ''
+family: 'smoothie'
 flavor_description: 'The Fruit Shake is a refreshing blend of sweet and tangy flavors.
   The creamy yogurt balances the sweetness of the banana and orange juice, while the
   fruit adds a burst of natural flavor. The ice chills the drink, making it perfect

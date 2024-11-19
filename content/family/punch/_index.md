@@ -3,6 +3,7 @@ date: "2024-09-23"
 title: The Punch Family
 description: A collection of punch recipes.
 layout: taxonomy
+category: cocktail
 url: "/recipes/family/punch/"
 weight: 80
 coverImage: "/family/punch/images/cover.png"

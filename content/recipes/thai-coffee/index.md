@@ -8,20 +8,20 @@ bartender_tips: 'To make the Thai Coffee a success, prioritize freshness. Use fr
   Whip the cream until stiff peaks form, then carefully layer it on top of the coffee.  Serve
   immediately to maintain the cream''s texture. '
 base_spirit: null
-category: cafe
+category: "mocktail"
 collection: null
 date: '2024-09-23'
 description: 'Thai Coffee, though not a traditional cocktail, draws inspiration from
   the **Coffee Cocktail** family.  It''s a modern twist on Southeast Asian coffee
   culture, blending strong coffee with spices like coriander and cardamom, often found
   in Thai cuisine.  The addition of whipped cream offers a touch of indulgence. '
-family: ''
+family: 'coffee'
 flavor_description: 'The Thai Coffee bursts with warm, aromatic notes. The coffee''s
   richness is amplified by the subtle spice of coriander and cardamom, creating a
   complex and inviting aroma. The sugar balances the bitterness, while the whipped
   cream adds a luxurious texture and a touch of sweetness. The refreshing chill of
   the ice rounds out the experience, leaving a lingering spice and coffee finish. '
-fullname: The Thai Coffee Cafe
+fullname: Thai Coffee
 glass: Highball glass
 has_alcohol: false
 ingredients:
@@ -50,7 +50,7 @@ instructions:
     into it right away.
 shortname: Thai Coffee
 source: thecocktaildb
-title: The Thai Coffee Cafe
+title: Thai Coffee
 visual: '## LLM Prompt: Describe the visual appearance of a Thai Coffee cocktail,
   made with coffee, coriander, cardamom, sugar, whipping cream, and ice.  **Consider
   the following aspects:*** **Color:** What is the overall color of the cocktail?

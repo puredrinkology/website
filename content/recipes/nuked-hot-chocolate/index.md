@@ -8,19 +8,19 @@ bartender_tips: 'For a perfect Nuked Hot Chocolate, focus on quality ingredients
   heat the milk gently on the stovetop instead of microwaving for a smoother, creamier
   texture. '
 base_spirit: null
-category: cocoa
+category: "mocktail"
 collection: null
 date: '2024-09-23'
 description: 'Nuked Hot Chocolate is a playful take on the classic Hot Chocolate,
   a comforting beverage enjoyed for centuries. While its origins are unclear, it likely
   emerged from the fusion of ancient Aztec cacao drinks and European dairy traditions.  '
-family: ''
+family: 'chocolate'
 flavor_description: 'Nuked Hot Chocolate offers a classic, comforting taste.  The
   cocoa powder provides rich, chocolatey notes, balanced by the sweetness of the sugar.  A
   subtle hint of vanilla extract adds a touch of warmth and complexity.  The milk
   provides creaminess and a smooth texture, making it a comforting and satisfying
   drink. '
-fullname: The Nuked Hot Chocolate Cocoa
+fullname: The Nuked Hot Chocolate
 glass: Coffee mug
 has_alcohol: false
 ingredients:
@@ -41,7 +41,7 @@ instructions:
     parts.
 shortname: Nuked Hot Chocolate
 source: thecocktaildb
-title: The Nuked Hot Chocolate Cocoa
+title: The Nuked Hot Chocolate
 visual: ''
 ---
 

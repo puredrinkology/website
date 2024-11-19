@@ -8,19 +8,19 @@ bartender_tips: 'Use freshly brewed coffee, preferably hot but not boiling.  Dis
   with freshly whipped cream and a sprinkle of cinnamon or nutmeg for a classic touch.  Don''t
   overfill the glass!  Enjoy! '
 base_spirit: whiskey
-category: cafe
+category: cocktail
 collection:
 - fall
 date: '2024-09-23'
 description: 'Irish Coffee, a member of the **Coffee Cocktail** family, was born in
   the 1940s at Foynes Flying Boat Base in Ireland. It''s a warm and comforting blend
   of Irish whiskey, hot coffee, sugar, and a fluffy crown of whipped cream. '
-family: ''
+family: 'creme'
 flavor_description: 'Irish Coffee is a comforting blend of warm, rich flavors. The
   smoky, smooth Irish whiskey mingles with the robust, bittersweet coffee, balanced
   by the sweetness of sugar.  A layer of pillowy whipped cream adds a touch of airy
   sweetness and a velvety texture, making each sip both satisfying and decadent. '
-fullname: The Irish Coffee Cafe
+fullname: The Irish Coffee
 glass: Irish coffee cup
 has_alcohol: true
 ingredients:
@@ -37,7 +37,7 @@ instructions:
 - item: Pour into glass and top with cream; serve hot.
 shortname: Irish Coffee
 source: thecocktaildb
-title: The Irish Coffee Cafe
+title: The Irish Coffee
 visual: '## LLM Prompt: Describe the appearance of an Irish CoffeeImagine a tall glass
   filled with a dark, rich liquid that resembles a freshly brewed cup of coffee. The
   surface of the liquid is crowned with a generous dollop of fluffy, snow-white whipped

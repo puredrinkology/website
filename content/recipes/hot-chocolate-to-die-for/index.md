@@ -8,20 +8,20 @@ bartender_tips: 'Use good quality chocolate for the richest flavor.  Melt it slo
   to avoid curdling.  A splash of vanilla extract adds depth, but don''t overdo it.  Top
   with toasted marshmallows for a delightful touch. '
 base_spirit: null
-category: cocoa
+category: "mocktail"
 collection: null
 date: '2024-09-23'
 description: 'This decadent concoction belongs to the **Hot Toddy** family, offering
   warmth and comfort like its namesake.  Though not a classic, Hot Chocolate to Die
   For likely emerged in the 20th century, fueled by the American love for all things
   chocolate and cozy. '
-family: ''
+family: 'chocolate'
 flavor_description: 'This drink is a decadent, creamy dream. Rich dark chocolate notes
   dance with buttery smoothness, while a whisper of vanilla adds a warm, comforting
   touch. The half-and-half provides a luxurious texture, and the marshmallows melt
   into a fluffy sweetness that lingers on the palate. It''s a hug in a mug, perfect
   for a chilly evening. '
-fullname: The Hot Chocolate To Die For Cocoa
+fullname: The Hot Chocolate To Die For
 glass: Coffee mug
 has_alcohol: false
 ingredients:
@@ -40,7 +40,7 @@ instructions:
 - item: When just smooth stir in the cream.
 shortname: Hot Chocolate To Die For
 source: thecocktaildb
-title: The Hot Chocolate To Die For Cocoa
+title: The Hot Chocolate To Die For
 visual: '## LLM Prompt:Describe the visual appeal of a cocktail called Hot Chocolate
   to Die For, made with the following ingredients:* **Chocolate:**  A rich, dark brown
   liquid with a smooth, velvety texture.* **Butter:**  Adds a slight sheen and contributes

@@ -8,20 +8,20 @@ bartender_tips: 'Use high-quality chocolate for a richer flavor.  Grate the oran
   espresso for a strong coffee flavor.  Don''t over-sweeten! The natural sweetness
   of the chocolate and milk should be enough.  Garnish with a fresh orange peel. '
 base_spirit: null
-category: cocoa
+category: "mocktail"
 collection: null
 date: '2024-09-23'
 description: 'This decadent drink, with its warm chocolate base and citrus zest, is
   a member of the Hot Chocolate family, a comforting classic with roots in ancient
   Mesoamerica. The addition of espresso and nutmeg evokes a European influence, suggesting
   a modern twist on a timeless favorite. '
-family: ''
+family: 'chocolate'
 flavor_description: 'This cocktail is a luxurious blend of comforting warmth and zesty
   brightness. The rich, velvety chocolate and smooth espresso form a decadent base,
   while the orange peel adds a subtle citrusy lift. A hint of nutmeg provides an earthy
   complexity, creating a harmonious symphony of flavors that is both comforting and
   invigorating. '
-fullname: The Orange Scented Hot Chocolate Cocoa
+fullname: The Orange Scented Hot Chocolate
 glass: Coffee mug
 has_alcohol: false
 ingredients:
@@ -44,14 +44,14 @@ instructions:
 - item: Remove from heat, whisk until frothy.
 - item: Repeat heating and whisking once again.
 - item: Discard orange peel.
-- item: (Can be prepared 2 hours ahead.
+- item: (Can be prepared 2 hours ahead)
 - item: Let stand at room temperature.
 - item: Before serving, bring just to boil, remove from heat and whisk until frothy.
-- item: ) Pour hot chocolate into coffee mugs.
+- item: Pour hot chocolate into coffee mugs.
 - item: Makes 2 servings.
 shortname: Orange Scented Hot Chocolate
 source: thecocktaildb
-title: The Orange Scented Hot Chocolate Cocoa
+title: The Orange Scented Hot Chocolate
 visual: ''
 ---
 

@@ -8,14 +8,14 @@ bartender_tips: 'The Lord and Lady is a classic, easy-to-make cocktail.  To ensu
   texture, not a frothy one.  Finally, garnish with a coffee bean or chocolate curl
   for an elegant touch. '
 base_spirit: rum
-category: cafe
+category: cocktail
 collection: null
 date: '2024-09-23'
 description: 'The Lord and Lady is a classic **coffee cocktail**, likely originating
   in the Caribbean where dark rum and Tia Maria, a coffee liqueur, are readily available.  This
   simple combination delivers a rich, complex flavor profile that''s both sweet and
   boozy. '
-family: ''
+family: 'creme'
 flavor_description: 'The Lord and Lady is a complex and decadent cocktail. The dark
   rum provides a rich, molasses-forward base, while the Tia Maria adds a luxurious
   coffee and chocolate sweetness. The combination is both smooth and robust, offering

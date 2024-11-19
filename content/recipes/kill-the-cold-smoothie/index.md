@@ -4,16 +4,16 @@ aliases:
 author: Pure Drinkology
 bartender_tips: ''
 base_spirit: null
-category: shake
+category: "mocktail"
 collection: null
 date: '2024-09-23'
 description: 'Kill the Cold Smoothie belongs to the **wellness cocktail** family,
   a modern twist on traditional medicinal remedies.  This drink draws inspiration
   from ancient folk remedies that used ginger and lemon to soothe sore throats and
   fight colds. '
-family: ''
+family: 'tea'
 flavor_description: ''
-fullname: The Kill Cold Smoothie Shake
+fullname: The Kill a Cold Tea
 glass: Highball glass
 has_alcohol: false
 ingredients:
@@ -26,9 +26,9 @@ ingredients:
 instructions:
 - item: Juice ginger and lemon and add it to hot water.
 - item: You may add cardomom.
-shortname: Kill Cold Smoothie
+shortname: Kill a Cold Tea
 source: thecocktaildb
-title: The Kill Cold Smoothie Shake
+title: The Kill a Cold Tea
 visual: '##  LLM Prompt for Describing Kill the Cold Smoothie**Imagine a vibrant,
   healthy smoothie made with fresh ginger, lemon, and water. Describe its appearance,
   focusing on the following:*** **Color:** What shades of yellow, orange, or even

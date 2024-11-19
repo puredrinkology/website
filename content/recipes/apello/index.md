@@ -18,13 +18,13 @@ ingredients:
   - item: "Maraschino Cherry"
     measure: "1"
 instructions:
-  - item: "Stirr."
-  - item: "Grnish with maraschino cherry."
+  - item: "Stir."
+  - item: "Garnish with maraschino cherry."
 glass: "Collins Glass"
-category: "shake"
-has_alcohol: false
+category: "mocktail"
+has_alcohol: true
 base_spirit:
-family: ""
+family: "smoothie"
 visual: "## LLM Prompt:Imagine a cocktail called Apello, a vibrant blend of orange juice, grapefruit juice, apple juice, and a single maraschino cherry. Describe its appearance in detail, focusing on:* **Color:** Is it a single, uniform color? Does it have layers? Are there any gradients? How does the color change depending on the light?* **Clarity:** Is it clear, cloudy, or somewhere in between? What about the texture of the liquid?* **Garnish:** How is the maraschino cherry presented? Is it floating, submerged, or resting on the rim of the glass?  What type of glass is it served in? * **Overall Impression:**  Does the drink look refreshing and fruity? Does it evoke a sense of celebration or relaxation? Please be descriptive and evocative, aiming to paint a vivid picture of the Apello in the reader's mind. "
 source: "thecocktaildb"
 ---

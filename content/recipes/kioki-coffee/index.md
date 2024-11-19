@@ -7,20 +7,20 @@ bartender_tips: 'For a Kioki Coffee, start by chilling your glass. Use a good qu
   brandy first, followed by the Kahlua, and then top with strong, freshly brewed coffee.
   Stir gently and garnish with a coffee bean or cinnamon stick. '
 base_spirit: brandy
-category: cafe
+category: cocktail
 collection: null
 date: '2024-09-23'
 description: 'The Kioki Coffee belongs to the Coffee Cocktail family, a group of drinks
   featuring coffee liqueur as a key ingredient.  While its exact origin is unknown,
   it likely emerged in the early 20th century, a time when coffee liqueurs like Kahlua
   were gaining popularity. '
-family: ''
+family: 'creme'
 flavor_description: 'The Kioki Coffee is a robust and decadent cocktail. The Kahlua
   brings a rich, chocolatey sweetness, while the brandy adds warmth and a touch of
   spice. The coffee provides a bold, earthy base that complements the sweetness and
   spice, creating a harmonious balance of flavors. It''s a luxurious and satisfying
   drink, perfect for a cozy night in or a sophisticated gathering. '
-fullname: The Kioki Coffee Cafe
+fullname: The Kioki Coffee
 glass: Coffee mug
 has_alcohol: true
 ingredients:
@@ -35,7 +35,7 @@ instructions:
 - item: Add whipped cream to the top.
 shortname: Kioki Coffee
 source: thecocktaildb
-title: The Kioki Coffee Cafe
+title: The Kioki Coffee
 visual: '## LLM Prompt for Kioki Coffee Description:**Prompt:**Imagine a cocktail
   called Kioki Coffee that combines Kahlua, Brandy, and Coffee.  Describe its appearance
   in detail, focusing on its color, texture, and any visual elements.  Consider the

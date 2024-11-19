@@ -7,14 +7,14 @@ bartender_tips: 'For a smooth and refreshing Lassi, use good quality, thick yogu
   at the end for a bright zing.  Don''t overblend, or you''ll end up with a thin,
   watery lassi. Adjust sweetness and salt to taste. '
 base_spirit: null
-category: shake
+category: "mocktail"
 collection: null
 date: '2024-09-23'
 description: 'The Lassi - Sweet isn''t technically a cocktail, but a traditional Indian
   beverage. It belongs to the **Milk Punch** family, characterized by its milky base
   and refreshing nature. Originating in the Indian subcontinent, the Lassi is a centuries-old
   drink enjoyed for its cooling and hydrating properties. '
-family: ''
+family: 'smoothie'
 flavor_description: 'This Lassi - Sweet is a creamy and refreshing drink with a balanced
   sweet-tart flavor. The yoghurt provides a smooth, tangy base that''s tempered by
   the sweetness of sugar and a hint of salt.  Lemon juice adds a bright acidity that

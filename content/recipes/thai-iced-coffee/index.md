@@ -8,20 +8,20 @@ bartender_tips: "For a killer Thai Iced Coffee, use strong, freshly brewed coffe
   \ cardamom pods before grinding \u2013 it releases the aroma and adds a warm complexity.\
   \  Serve over ice with a splash of cream on top for an extra touch. "
 base_spirit: null
-category: cafe
+category: "mocktail"
 collection: null
 date: '2024-09-23'
 description: 'Thai Iced Coffee, a refreshing blend of coffee, sugar, cream, and cardamom,
   is a delightful member of the *Coffee Cocktail* family. Originating in Thailand,
   this beloved beverage reflects the country''s rich culinary history and love for
   strong coffee, sweetened with condensed milk and often spiced with aromatic cardamom. '
-family: ''
+family: 'coffee'
 flavor_description: 'This Thai Iced Coffee is a symphony of sweet and spiced flavors.
   The strong, robust coffee is tempered by the creamy sweetness of condensed milk
   and sugar. A subtle warmth from the cardamom adds an exotic touch, rounding out
   the profile with an almost floral note. This drink is a delightful blend of classic
   coffee flavors and a touch of the exotic. '
-fullname: The Thai Iced Coffee Cafe
+fullname: Thai Iced Coffee
 glass: Highball glass
 has_alcohol: false
 ingredients:
@@ -42,7 +42,7 @@ instructions:
     carefully into the spoon so that it floats on the top of the coffee.
 shortname: Thai Iced Coffee
 source: thecocktaildb
-title: The Thai Iced Coffee Cafe
+title:  Thai Iced Coffee
 visual: '## LLM Prompt: Describe the visual appeal of a Thai Iced Coffee. Imagine
   a tall glass filled with the beverage. Consider the following elements:* **Color:**
   What shades of brown and cream are present? How does the color gradient look?* **Texture:**

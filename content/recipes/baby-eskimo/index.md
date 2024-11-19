@@ -23,10 +23,10 @@ instructions:
   - item: "Consume immediately and often."
   - item: "Nice and light, great for following a heavy drink."
 glass: "Collins Glass"
-category: "shake"
+category: "cocktail"
 has_alcohol: true
-base_spirit:
-family: ""
+base_spirit: rum
+family: "creme"
 visual: ""
 source: "thecocktaildb"
 ---

@@ -7,7 +7,7 @@ bartender_tips: 'For a smooth Orange Whip, use a high-quality rum and vodka.  En
   chill and blend the flavors.  Strain into a chilled coupe glass for a sophisticated
   presentation. A subtle orange zest garnish adds a fragrant touch. '
 base_spirit: vodka
-category: shake
+category: cocktail
 collection: null
 date: '2024-09-23'
 description: 'The Orange Whip is a delightful twist on the classic cream-based cocktail
@@ -15,7 +15,7 @@ description: 'The Orange Whip is a delightful twist on the classic cream-based c
   early 20th century. Its exact origin remains shrouded, but it likely emerged from
   the creative bartending scene, a testament to the enduring appeal of blending tropical
   fruit flavors with creamy textures. '
-family: ''
+family: 'creme'
 flavor_description: 'The Orange Whip is a delightful blend of sweet and tart, with
   a creamy smoothness. The orange juice provides a vibrant citrus punch, while the
   rum and vodka contribute a subtle, warm spice. The cream adds a luxurious richness,

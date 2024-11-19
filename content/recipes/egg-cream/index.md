@@ -8,14 +8,14 @@ bartender_tips: 'While not technically a cream, the Egg Cream relies on the righ
   fizz.  The trick is to layer the ingredients for maximum visual and flavor impact.
   Don''t over-shake or stir, as this will create foam and dilute the flavor. '
 base_spirit: null
-category: shake
+category: "mocktail"
 collection: null
 date: '2024-09-23'
 description: 'The Egg Cream, a delightful concoction of chocolate syrup, milk, and
   soda water, belongs to the **soda fountain** family.  Originating in the late 19th
   century in New York City, it was a popular treat in drugstores and soda fountains,
   offering a refreshing and creamy chocolatey experience. '
-family: ''
+family: 'chocolate'
 flavor_description: 'The Egg Cream is a delightful, creamy, and refreshing drink.
   The chocolate syrup provides a rich, bittersweet cocoa flavor, while the milk adds
   a velvety smoothness and balances the sweetness. The soda water delivers a bubbly

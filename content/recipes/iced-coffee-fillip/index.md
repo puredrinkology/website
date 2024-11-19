@@ -7,20 +7,20 @@ bartender_tips: 'Use freshly brewed, strong coffee for best flavor.  Chill it th
   helps balance the bitterness of coffee and Kahlua. Don''t be afraid to adjust the
   ratios to your taste!  And always serve it over ice for a cool, refreshing drink. '
 base_spirit: null
-category: cafe
+category: cocktail
 collection: null
 date: '2024-09-23'
 description: 'The Iced Coffee Fillip is a classic **coffee cocktail**, a variation
   on the coffee liqueur and coffee theme.  Its origins likely lie in the early 20th
   century, a time when coffee was becoming increasingly popular, and bartenders were
   experimenting with new ways to incorporate it into cocktails. '
-family: ''
+family: 'creme'
 flavor_description: 'The Iced Coffee Fillip is a rich and decadent treat, a perfect
   blend of coffee and chocolate. The Kahlua''s sweetness dances with the bitterness
   of the coffee, creating a harmonious balance. The ice chills the blend, highlighting
   the smooth texture and mellowing the intensity of the coffee. This drink is an indulgent
   escape for coffee lovers seeking a delightful twist. '
-fullname: The Iced Coffee Fillip Cafe
+fullname: The Iced Coffee Fillip Coffee
 glass: Coffee mug
 has_alcohol: true
 ingredients:
@@ -32,7 +32,7 @@ instructions:
 - item: Mix together in a coffee mug and chill before serving.
 shortname: Iced Coffee Fillip
 source: thecocktaildb
-title: The Iced Coffee Fillip Cafe
+title: The Iced Coffee Fillip Coffee
 visual: '## LLM Prompt:**Describe the appearance of an Iced Coffee Fillip cocktail.
   It is made with Kahlua, coffee, and ice. Be specific about the color, texture, and
   any embellishments. Consider the light conditions and how they impact the visual

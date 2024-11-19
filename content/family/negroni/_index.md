@@ -3,6 +3,7 @@ date: "2024-09-23"
 title: The Negroni Family
 description: A collection of negroni recipes.
 layout: taxonomy
+category: cocktail
 url: "/recipes/family/negroni/"
 weight: 5
 coverImage: "/family/negroni/images/cover.png"

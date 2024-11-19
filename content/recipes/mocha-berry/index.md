@@ -9,7 +9,7 @@ bartender_tips: "Chill your glass beforehand for a frosty presentation.  Use a g
   \ A light touch with the whipped cream is key \u2013 you want it to compliment,\
   \ not overwhelm the other flavors. "
 base_spirit: null
-category: cafe
+category: cocktail
 collection: null
 date: '2024-09-23'
 description: 'The Mocha-Berry belongs to the **Coffee Cocktail** family, a group known
@@ -17,13 +17,13 @@ description: 'The Mocha-Berry belongs to the **Coffee Cocktail** family, a group
   exact origin is unknown, the combination of coffee, chocolate, and raspberry liqueur
   points to a modern creation inspired by the popularity of coffee-based cocktails
   and the growing trend of fruit-infused spirits. '
-family: ''
+family: 'creme'
 flavor_description: 'The Mocha-Berry is a harmonious blend of rich coffee and sweet
   berry notes.  The Chambord''s raspberry and black raspberry flavors intertwine with
   the coffee''s roasted bitterness, creating a delightful complexity.  Cocoa powder
   adds a subtle chocolate depth, balanced by the smooth, airy whipped cream.  Expect
   a decadent, slightly tart, and ultimately satisfying experience. '
-fullname: The Mocha-Berry Cafe
+fullname: The Mocha-Berry Coffee
 glass: Irish coffee cup
 has_alcohol: true
 ingredients:
@@ -41,7 +41,7 @@ instructions:
 - item: add coca mix and chambord, mix well and top off with whipped cream.
 shortname: Mocha-Berry
 source: thecocktaildb
-title: The Mocha-Berry Cafe
+title: The Mocha-Berry Coffee
 visual: '## LLM Prompt:Describe the appearance of a Mocha-Berry cocktail. This drink
   is made with coffee, Chambord Raspberry Liqueur, cocoa powder, and topped with whipped
   cream. Be sure to mention the color, texture, and any specific details like garnishes

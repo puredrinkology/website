@@ -1,7 +1,7 @@
 ---
 date: "2024-09-23"
-title: "The Danbooka Cafe"
-fullname: "The Danbooka Cafe"
+title: "The Danbooka Coffee"
+fullname: "The Danbooka Coffee"
 shortname: "Danbooka"
 author: "Pure Drinkology"
 collection:
@@ -16,10 +16,10 @@ ingredients:
 instructions:
   - item: "pour it in and mix it."
 glass: "Coffee Mug"
-category: "cafe"
+category: "cocktail"
 has_alcohol: true
-base_spirit:
-family: ""
+base_spirit: vodka
+family: "creme"
 visual: "## LLM Prompt:**Describe the appearance of a cocktail called Danbooka, made with coffee and Everclear. Consider the following aspects:*** **Color:** Is it a deep, rich brown, or does the Everclear lighten it slightly? Does it have any visible layers or gradients?* **Clarity:** Is it clear, or does it have a slight haze or cloudiness? Is it oily?* **Texture:** Is it smooth and silky, or does it have a slightly viscous consistency?* **Garnish:**  What garnish, if any, might be added to enhance the visual appeal? Does it add any color or texture contrast?**Example:** The Danbooka appears as a **deep, mahogany brown** liquid, **slightly cloudy** due to the Everclear. The texture is **smooth and silky**, with a **subtle sheen**. A **single coffee bean** sits atop the drink, adding a **touch of contrast** to the **dark liquid**. "
 source: "thecocktaildb"
 ---

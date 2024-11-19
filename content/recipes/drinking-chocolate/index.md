@@ -8,20 +8,20 @@ bartender_tips: 'To elevate your Drinking Chocolate, use high-quality chocolate 
   over-whip the cream, a soft peak is ideal.  Garnish with a sprinkle of cinnamon
   or chocolate shavings for visual appeal. '
 base_spirit: null
-category: cocoa
+category: "mocktail"
 collection: null
 date: '2024-09-23'
 description: 'This isn''t a cocktail, but a decadent, warm beverage. It draws inspiration
   from centuries-old hot chocolate traditions, with the creamy richness and spices
   echoing European and Latin American recipes. Enjoy it as a comforting treat, not
   a boozy concoction! '
-family: ''
+family: 'chocolate'
 flavor_description: 'Drinking Chocolate is a decadent treat that balances rich, creamy
   sweetness with warm spice. The heavy cream and milk deliver a velvety texture, while
   the chocolate adds a deep, luxurious flavor. Cinnamon and vanilla contribute a comforting
   warmth and complexity, making this a comforting indulgence.  The whipped cream adds
   a light and airy element, enhancing the overall decadent experience. '
-fullname: The Drinking Chocolate Cocoa
+fullname:  Hot Drinking Chocolate 
 glass: Coffee mug
 has_alcohol: false
 ingredients:
@@ -50,7 +50,7 @@ instructions:
 - item: Serve in coffee mug.
 shortname: Drinking Chocolate
 source: thecocktaildb
-title: The Drinking Chocolate Cocoa
+title: Hot Drinking Chocolate
 visual: '## LLM Prompt:Describe the visual appeal of a Drinking Chocolate cocktail.
   Consider the following ingredients:* **Heavy Cream:** Rich, creamy, and slightly
   opaque.* **Milk:** White and opaque.* **Cinnamon:** A light dusting, potentially

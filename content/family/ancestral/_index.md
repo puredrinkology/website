@@ -2,6 +2,7 @@
 date: "2024-09-23"
 title: The Ancestral Family
 description: A collection of classic recipes from the prohibition era.
+category: cocktail
 layout: taxonomy
 url: "/recipes/family/ancestral"
 weight: 1

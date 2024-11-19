@@ -8,20 +8,20 @@ bartender_tips: 'For a crisp Darkwood Sling, use high-quality soda water and fre
   over-shaking as this can dilute the flavors.  A splash of grenadine can add a beautiful
   red hue and deepen the cherry notes. '
 base_spirit: null
-category: nonalcoholic
+category: cocktail
 collection: null
 date: '2024-09-23'
 description: 'The Darkwood Sling is a riff on the classic Sling family, a group of
   long, refreshing drinks popular in the 19th century. Its cherry liqueur base, soda
   water, and citrus fruit twist are reminiscent of the Sling''s versatility and adaptability,
   making it a modern take on a historic cocktail. '
-family: ''
+family: 'highball'
 flavor_description: 'The Darkwood Sling is a delightful, vibrant cocktail with a playful
   balance. The Cherry Heering delivers a rich cherry sweetness and a hint of almond,
   while the soda water adds refreshing effervescence. The orange juice brings a bright
   citrus tang, cutting through the sweetness and adding a touch of acidity. The ice
   chills the drink and creates a smooth, velvety texture.  '
-fullname: The Darkwood Sling Nonalcoholic
+fullname: The Darkwood Sling
 glass: Cocktail glass
 has_alcohol: true
 ingredients:
@@ -41,7 +41,7 @@ instructions:
 - item: Afterwards you fill the glass with Orange Juice and ice cubes.
 shortname: Darkwood Sling
 source: thecocktaildb
-title: The Darkwood Sling Nonalcoholic
+title: The Darkwood Sling
 visual: '## LLM Prompt:Imagine a tall, slender glass filled with a vibrant symphony
   of colors. At the bottom, a deep ruby red pool of **Cherry Heering** shimmers, reflecting
   the light like a polished gemstone. Above, a cascade of sparkling **soda water**

@@ -8,14 +8,14 @@ bartender_tips: 'For a smooth Jamaica Kiss, use high-quality coffee liqueur and 
   leaving the ice behind. Garnish with a coffee bean or cinnamon stick for a sophisticated
   touch. '
 base_spirit: rum
-category: shake
-collection: null
+category: cocktail
+collection: 
 date: '2024-09-23'
 description: 'The Jamaica Kiss is a creamy, coffee-infused cocktail belonging to the
   **Coffee Cocktail** family, likely inspired by the popularity of coffee liqueurs
   and rum in the Caribbean. It''s a modern twist on classic coffee cocktails, with
   the addition of milk adding a smooth and velvety texture. '
-family: ''
+family: 'creme'
 flavor_description: 'The Jamaica Kiss offers a smooth, balanced profile.  The coffee
   liqueur provides a rich, roasted aroma and subtle bitterness, while the light rum
   adds a touch of sweetness and tropical fruit notes.  The chilled milk balances the

@@ -8,14 +8,14 @@ bartender_tips: 'For the perfect Iced Coffee, brew strong coffee and let it cool
   ice for a frothy top. Garnish with a sprinkle of cinnamon or cocoa powder for an
   extra kick. '
 base_spirit: null
-category: cafe
+category: "mocktail"
 collection: null
 date: '2024-09-23'
 description: 'While not a traditional cocktail in the sense of spirits, Iced Coffee
   is firmly in the Coffee Cocktail family. Its origin is widely debated, but likely
   emerged from the simple desire to enjoy a chilled coffee drink, particularly in
   warmer climates. '
-family: ''
+family: 'coffee'
 flavor_description: 'Iced coffee offers a bold, bittersweet profile with a smooth,
   creamy finish. The coffee''s rich, roasted notes are balanced by the sweetness of
   the sugar, while the water provides a refreshing foundation. The milk adds a touch

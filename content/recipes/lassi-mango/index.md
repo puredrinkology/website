@@ -8,14 +8,14 @@ bartender_tips: "For the best mango lassi, use ripe, juicy mangoes. Blend them w
   \ best flavor. A splash of water can help thin the consistency if needed. Garnish\
   \ with a mango slice and a pinch of cardamom for an extra touch. "
 base_spirit: null
-category: shake
+category: "mocktail"
 collection: null
 date: '2024-09-23'
 description: 'The Mango Lassi is a refreshing drink rooted in Indian tradition. It
   belongs to the lassi family, a yogurt-based beverage often flavored with fruits
   and spices. Originating in the Punjab region, it''s a staple across India and enjoyed
   for its creamy texture and sweet, tangy taste. '
-family: ''
+family: 'smoothie'
 flavor_description: 'The Lassi - Mango is a creamy and refreshing cocktail with a
   bright, tropical flavor. The sweetness of the mango is balanced by the tangy yogurt,
   creating a harmonious blend. The addition of water provides a light, refreshing

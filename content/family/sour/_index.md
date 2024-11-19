@@ -3,6 +3,7 @@ date: "2024-09-23"
 title: The Sour Family
 description: A collection of sour recipes.
 layout: taxonomy
+category: cocktail
 url: "/recipes/family/sour/"
 weight: 15
 coverImage: "/family/sour/images/cover.png"

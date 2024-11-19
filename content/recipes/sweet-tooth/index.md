@@ -9,14 +9,14 @@ bartender_tips: 'For the Sweet Tooth, remember that Godiva liqueur is already ri
   coupe or martini glass, garnished with a chocolate shavings or a chocolate-dipped
   strawberry. '
 base_spirit: null
-category: shake
+category: cocktail
 collection: null
 date: '2024-09-23'
 description: 'Sweet Tooth belongs to the **Cream Cocktail** family, known for their
   velvety texture and rich flavors. This drink likely originated in the early 20th
   century, drawing inspiration from the popularity of chocolate liqueurs and milk-based
   cocktails like the White Russian. '
-family: ''
+family: 'creme'
 flavor_description: 'Sweet Tooth is a decadent, creamy dream. The Godiva Liqueur brings
   a rich, velvety chocolate flavor, enhanced by the sweetness of the milk. The combination
   is smooth and luxurious, reminiscent of a decadent chocolate milkshake. The finish

@@ -8,14 +8,14 @@ bartender_tips: 'Use thick, Greek-style yogurt for a creamy texture.  Pulse the 
   squeezed lime juice is key for a bright, balanced flavor.  Chill the ingredients
   beforehand for a refreshing drink.  '
 base_spirit: null
-category: shake
+category: "mocktail"
 collection: null
 date: '2024-09-23'
 description: 'Lassi Raita isn''t a cocktail, but a refreshing Indian beverage! It
   hails from the South Asian subcontinent, belonging to the family of yogurt-based
   drinks like lassi and buttermilk.  Think of it as a creamy, spiced, and chilled
   beverage perfect for any occasion. '
-family: ''
+family: 'smoothie'
 flavor_description: 'The Lassi Raita presents a refreshing, tangy profile. Creamy
   yoghurt forms the base, balanced by the sharp acidity of lime and a subtle sweetness
   from sugar. A touch of salt enhances the flavors and adds a savory depth. The ice

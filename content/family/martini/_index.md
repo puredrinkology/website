@@ -3,6 +3,7 @@ date: "2024-09-23"
 title: The Martini Family
 description: A collection of martini recipes.
 layout: taxonomy
+category: cocktail
 url: "/recipes/family/martini/"
 weight: 10
 coverImage: "/family/martini/images/cover.png"

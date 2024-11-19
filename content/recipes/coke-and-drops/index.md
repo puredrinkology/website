@@ -8,18 +8,18 @@ bartender_tips: This is a super simple drink, but there are a few things to keep
   go. You can always add more!  Lastly, a splash of Angostura bitters adds a nice
   complexity.
 base_spirit: null
-category: nonalcoholic
+category: "mocktail"
 collection: null
 date: '2024-09-23'
 description: 'Coke and Drops belongs to the **Highball family**, known for their simple,
   refreshing nature. Its origins likely lie in the early 20th century, a time when
   Coca-Cola was a popular soda and simple drinks with a touch of citrus were common. '
-family: ''
+family: 'refresher'
 flavor_description: 'Coke and Drops is a simple but refreshing drink. The Coca-Cola
   provides a familiar sweetness and fizz, while the lemon juice cuts through the sugar
   with a bright, tart acidity. The result is a balanced, effervescent drink that''s
   perfect for quenching your thirst on a hot day. '
-fullname: The Coke And Drops Nonalcoholic
+fullname: The Coke And Drops
 glass: Cocktail glass
 has_alcohol: false
 ingredients:
@@ -32,7 +32,7 @@ instructions:
 - item: Granish with a lemon slice on the rim of the glass.
 shortname: Coke And Drops
 source: thecocktaildb
-title: The Coke And Drops Nonalcoholic
+title: The Coke And Drops
 visual: '## LLM Prompt for Coke and Drops Cocktail Description:**Prompt:** Imagine
   a tall glass filled with **classic Coca-Cola**, its dark amber hue shimmering under
   the light.  The surface is punctuated by **tiny, sparkling bubbles** rising to the

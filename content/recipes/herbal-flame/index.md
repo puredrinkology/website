@@ -8,23 +8,23 @@ bartender_tips: 'When crafting the Herbal Flame, remember that the Hot Damn, Tea
   the cocktail thoroughly and create a frothy top. Garnish with a sprig of mint and
   a splash of sparkling water for an extra touch.  '
 base_spirit: null
-category: cafe
+category: cocktail
 collection: null
 date: '2024-09-23'
 description: 'Herbal Flame belongs to the **Hot Toddy** family, a warm, comforting
   drink typically enjoyed during cold weather. Originating in the 18th century, the
   Hot Toddy was traditionally used as a medicinal remedy, often incorporating whiskey,
   honey, and spices. '
-family: ''
+family: 'ancestral'
 flavor_description: 'Herbal Flame bursts with spicy warmth from the Hot Damn, Tea
   base. Ginger and cinnamon dance on your tongue, with a lingering heat that morphs
   into a cool, refreshing finish. The herbal notes of chamomile and mint add a soothing
   complexity, creating a truly unique and balanced cocktail. '
-fullname: The Herbal Flame Cafe
+fullname: The Herbal Flame Tea
 glass: Mason jar
 has_alcohol: true
 ingredients:
-- item: Hot Damn
+- item: Hot Damn Liquor
   measure: 7.5 oz
 - item: Tea
   measure: Very Sweet
@@ -34,7 +34,7 @@ instructions:
 - item: Stir with spoon, straw, or better yet a cinnamon stick and leave it in.
 shortname: Herbal Flame
 source: thecocktaildb
-title: The Herbal Flame Cafe
+title: The Herbal Flame Tea
 visual: '## LLM Prompt for Herbal Flame Cocktail Description:**Please describe the
   appearance of the Herbal Flame cocktail, considering the following:*** **Base:**
   The cocktail is made with Hot Damn, Tea, a tea blend likely containing strong, bold,

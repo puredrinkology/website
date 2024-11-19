@@ -7,13 +7,13 @@ bartender_tips: 'This drink is potent!  Use a chilled mixing glass to keep it co
   want a smooth texture, not a milkshake.  Garnish with a sprinkle of cocoa powder
   or a cherry, but keep it simple to let the flavors shine. '
 base_spirit: rum
-category: shake
+category: cocktail
 collection: null
 date: '2024-09-23'
 description: 'The Texas Sling belongs to the Coffee Cocktail family, a category of
   drinks featuring coffee liqueur. This particular concoction likely originated in
   the 1980s, born from the era''s love for sweet, layered cocktails.  '
-family: ''
+family: 'creme'
 flavor_description: 'The Texas Sling is a potent, decadent delight. The Kahlua and
   Amaretto bring rich, coffee and almond notes. Irish Cream adds creamy sweetness
   and a touch of vanilla, while the 151 Proof Rum contributes a fiery, boozy kick.  The

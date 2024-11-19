@@ -1,7 +1,7 @@
 ---
 date: "2024-09-23"
-title: "The Avalanche Shake"
-fullname: "The Avalanche Shake"
+title: "The Avalanche"
+fullname: "The Avalanche"
 shortname: "Avalanche"
 author: "Pure Drinkology"
 collection:
@@ -18,10 +18,10 @@ ingredients:
 instructions:
   - item: "Mix in highball glass over ice, shake well."
 glass: "Highball glass"
-category: "shake"
+category: "cocktail"
 has_alcohol: true
-base_spirit:
-family: ""
+base_spirit: rum
+family: "creme"
 visual: "##  LLM Prompt:**Imagine a cocktail named Avalanche, a delicious blend of Crown Royal whiskey, Kahlua coffee liqueur, and cream. Describe its appearance in detail, focusing on the color, texture, and any visual elements that would make it appealing to a customer.****Consider the following:*** **Color:** Is it a deep, rich brown or a lighter, creamier hue? Are there any layers or color gradients?* **Texture:** Is it smooth and creamy or does it have a slightly thicker consistency? Are there any visible swirls or patterns?* **Visual Elements:** Does it have a garnish, such as a chocolate shavings or a cherry? Are there any ice cubes or other elements that add to its visual appeal?**Please provide a descriptive and evocative answer that captures the essence of the Avalanche cocktail's visual appeal.** "
 source: "thecocktaildb"
 ---

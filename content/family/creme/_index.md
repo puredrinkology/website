@@ -2,6 +2,7 @@
 date: "2024-09-23"
 title: The Creme Collection
 description:  A collection of creamy cocktail recipes that make for great desserts
+category: cocktail
 layout: taxonomy
 url: "/recipes/family/creme"
 weight: 99
