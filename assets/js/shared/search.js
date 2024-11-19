@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     const cover = item.url + "images/cover.jpeg";
             
                     // only search cocktails for now!
-                    if (item.category.toLowerCase() === "cocktail") {
+                    if (item.category.toLowerCase() === "cocktail" || item.category.toLowerCase() === "mocktail") {
             
                         // Create the card container
                         var result = $('<div>', { class: 'col-12 col-md-4 col-lg-2 g-4' });
