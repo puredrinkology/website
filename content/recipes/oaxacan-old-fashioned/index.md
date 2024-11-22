@@ -10,7 +10,8 @@ bartender_tips: 'For a balanced Oaxacan Old Fashioned, use a good quality, smoky
   for a dramatic touch. '
 base_spirit: tequila
 category: cocktail
-collection: null
+collection: 
+  - new-years
 date: '2024-09-23'
 description: 'The Oaxacan Old Fashioned is a modern twist on the classic Old Fashioned,
   drawing inspiration from the rich history of mezcal in Oaxaca, Mexico.  It''s a

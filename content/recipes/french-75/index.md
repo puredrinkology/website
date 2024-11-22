@@ -9,7 +9,9 @@ bartender_tips: "For a perfect French 75, use a good quality gin and fresh lemon
   \ a maraschino cherry for a classic touch. "
 base_spirit: gin
 category: cocktail
-collection: null
+collection: 
+  - valentines-day
+  - new-years
 date: '2024-09-23'
 description: 'The French 75 is a classic Champagne cocktail, a family known for their
   celebratory elegance.  Created during World War I in Paris, this potent concoction

@@ -8,7 +8,8 @@ bartender_tips: 'Chill your glass and ingredients beforehand for a perfectly chi
   aroma. Stir gently, not shake, to avoid dilution. '
 base_spirit: gin
 category: cocktail
-collection: null
+collection: 
+  - valentines-day
 date: '2024-09-23'
 description: 'The French Negroni is a twist on the classic Negroni, belonging to the
   Negroni family. It swaps Campari for the French aperitif Lillet, adding a lighter,

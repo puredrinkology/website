@@ -9,7 +9,8 @@ bartender_tips: 'Use a good quality Cognac for the best flavor.  Chill both the 
   of elegance. '
 base_spirit: brandy
 category: cocktail
-collection: null
+collection: 
+  - valentines-day
 date: '2024-09-23'
 description: 'The French Connection is a member of the liqueur cocktail family, combining
   strong spirits with sweet, aromatic liqueurs. While its exact origin is debated,

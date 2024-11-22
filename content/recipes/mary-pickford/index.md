@@ -8,7 +8,8 @@ bartender_tips: 'Use fresh pineapple juice for the best flavor. Don''t overshake
   A dash of grenadine creates a beautiful color gradient. '
 base_spirit: rum
 category: cocktail
-collection: null
+collection: 
+  - valentines-day
 date: '2024-09-23'
 description: 'The Mary Pickford is a classic **rum punch** cocktail, named after the
   silent film actress. It originated in the early 20th century, likely at the Hotel

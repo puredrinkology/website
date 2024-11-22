@@ -8,6 +8,8 @@ shortname: "Apple Kickin"
 author: "Pure Drinkology"
 collection:
   - fall
+  - christmas
+  - thanksgiving
 description: "Apple Kickin' is a unique twist on the classic Old Fashioned, drawing inspiration from its base of spirit and sugar. Its combination of Japanese whisky, apple brandy, and Amaro, alongside the traditional Demerara Gum Syrup and bitters, creates a complex and invigorating cocktail with a modern American flair. "
 flavor_description: "The Apple Kickin' is a complex and layered cocktail. The Demerara Gum Syrup provides a rich sweetness, balanced by the smoky notes of Japanese Whisky. Apple Brandy brings a crisp, tart apple flavor, while the Amaro adds a touch of herbal bitterness. Aromatic Bitters contribute a subtle spice and complexity. The result is a smooth and satisfying cocktail that is both sweet and savory, with a lingering warmth from the whiskey and brandy. "
 bartender_tips: "To ensure a balanced Apple Kickin,  use a high-quality Japanese whisky with a smooth, slightly sweet profile.  Don't overpower the apple notes by going heavy on the Amaro - a small dash is all you need.  A few drops of aromatic bitters will enhance the complexity of the drink.  Shake well with ice to chill and dilute the syrup, then strain for a crisp, refreshing cocktail. "

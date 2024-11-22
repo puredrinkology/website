@@ -11,7 +11,8 @@ bartender_tips: 'When making La Pasion, a few tips will elevate your drink:1. **
   the flavors. '
 base_spirit: tequila
 category: cocktail
-collection: null
+collection: 
+  - valentines-day
 date: '2024-09-23'
 description: 'La Pasion belongs to the **Highball** family, a refreshing category
   often featuring spirits, mixers, and ice. This contemporary creation likely originated

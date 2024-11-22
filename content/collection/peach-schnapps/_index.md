@@ -4,7 +4,7 @@ title: 12 Delightful Peach Schnapp Cocktails for the Summer!
 description: Ready to dive into a sea of peach-flavored fun?  Let's talk drinks with peach schnapps, and more. If you're hunting for something sweet, juicy, and totally delicious, you've found your spot! 
 layout: taxonomy
 url: "/recipes/collection/peach-schnapps/"
-weight: 1
+weight: 4
 coverImage: "/collection/peach-schnapps/images/cover.png"
 
 ---

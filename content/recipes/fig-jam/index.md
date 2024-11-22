@@ -10,7 +10,9 @@ bartender_tips: 'To elevate your Fig Jam, use a high-quality fig syrup with a de
 base_spirit: rye
 category: cocktail
 collection:
-- fall
+  - fall
+  - christmas
+  - thanksgiving
 date: '2024-09-23'
 description: 'Fig Jam belongs to the Sour family, a classic cocktail style known for
   its tart and sweet balance. This unique twist on the Sour likely originated in the

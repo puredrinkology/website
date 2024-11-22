@@ -9,7 +9,8 @@ bartender_tips: 'For a perfect Passion Fruit Martini, use **fresh passion fruit 
   vodkas** to find your favorite flavor profile. '
 base_spirit: vodka
 category: cocktail
-collection: null
+collection: 
+  - valentines-day
 date: '2024-09-23'
 description: 'The Passion Fruit Martini, a modern concoction, belongs to the **Martini
   family**. Its exact origin is debated, but likely emerged in the 1990s as a sweet

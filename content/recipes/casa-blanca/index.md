@@ -9,7 +9,8 @@ bartender_tips: 'For a perfect Casa Blanca, chill your ingredients beforehand. U
   lime wheel for a touch of elegance. '
 base_spirit: rum
 category: cocktail
-collection: null
+collection: 
+  - valentines-day
 date: '2024-09-23'
 description: 'Casa Blanca belongs to the **Sour** family, a classic cocktail style
   known for its tart, tangy profile.  While its origin isn''t definitively documented,

@@ -9,7 +9,9 @@ bartender_tips: 'Muddle the figs and thyme thoroughly to extract their flavors. 
 base_spirit: vodka
 category: cocktail
 collection:
-- fall
+  - fall
+  - christmas
+  - thanksgiving
 date: '2024-09-23'
 description: 'Figgy Thyme belongs to the **Fizz** family, a classic cocktail style
   known for its effervescence.  Though its precise origin is unclear, the combination

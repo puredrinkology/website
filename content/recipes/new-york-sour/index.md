@@ -9,7 +9,8 @@ bartender_tips: Use a good quality blended whiskey for a more complex flavor. Fr
   too cloudy.
 base_spirit: whiskey
 category: cocktail
-collection: null
+collection: 
+  - new-years
 date: '2024-09-23'
 description: 'The New York Sour, a member of the Whiskey Sour family, is a twist on
   the classic.  Originating in the late 19th century, it''s believed to have been

@@ -4,7 +4,7 @@ title: Beyond the Aperol Spritz - Your Ultimate Guide to Aperol Cocktail Recipes
 description: While the Aperol Spritz has taken the globe by storm, becoming synonymous with sunny afternoons and aperitif hours, there's a universe of cocktail possibilities with Aperol that extends far beyond this beloved classic.
 layout: taxonomy
 url: "/recipes/collection/aperol/"
-weight: 1
+weight: 3
 coverImage: "/collection/aperol/images/cover.png"
 secondary: "
         <h4 class='fs-4 text-primary py-3'>The Taste of Aperol: A Symphony of Citrus and Bittersweet</h4>

@@ -10,7 +10,8 @@ bartender_tips: '**Chill your champagne thoroughly.** Absinthe is already chille
 base_spirit: wine
 category: cocktail
 collection:
-- halloween
+  - new-years
+  - halloween
 date: '2024-09-23'
 description: 'Death in the Afternoon is a classic *liqueur cocktail*, a category that
   combines spirits with other flavors, often sweet or herbal.  Created by Ernest Hemingway,

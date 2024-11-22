@@ -9,7 +9,8 @@ bartender_tips: 'Chill your shaker and ingredients beforehand. This ensures a pe
   for a touch of elegance. '
 base_spirit: vodka
 category: cocktail
-collection: null
+collection: 
+  - valentines-day
 date: '2024-09-23'
 description: 'The French Martini, a blend of vodka, raspberry liqueur, and pineapple
   juice, belongs to the Sour family, characterized by the use of citrus and a sweetener.

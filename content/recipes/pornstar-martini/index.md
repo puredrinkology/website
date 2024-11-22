@@ -8,7 +8,9 @@ bartender_tips: 'Chill your glasses and all ingredients beforehand.  Use good qu
   splash of Prosecco before serving adds a delightful fizz.  Enjoy responsibly! '
 base_spirit: vodka
 category: cocktail
-collection: null
+collection: 
+  - valentines-day
+  - new-years
 date: '2024-09-23'
 description: The Pornstar Martini belongs to the modern classic cocktail family, known
   for bold, fruity flavors. Created by bartender Douglas Ankrah in London during the

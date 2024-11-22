@@ -4,7 +4,7 @@ title: Spooky and Delicious Halloween Cocktails to Wow Your Guests
 description: Explore our curated list of easy halloween cocktail recipes.
 layout: taxonomy
 url: "/recipes/collection/halloween-cocktails/"
-weight: 1
+weight: 110
 coverImage: "/collection/halloween/images/cover.png"
 secondary: "
         <h4 class='fs-4 text-primary py-3'>How to Decorate Your Halloween Cocktails</h4>

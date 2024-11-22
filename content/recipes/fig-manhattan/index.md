@@ -9,7 +9,9 @@ bartender_tips: 'Use a good quality fig syrup, not overly sweet. A dash of Angos
 base_spirit: whiskey
 category: cocktail
 collection:
-- fall
+  - fall
+  - christmas
+  - thanksgiving
 date: '2024-09-23'
 description: 'The Fig Manhattan is a twist on the classic Manhattan, a member of the
   Whiskey Cocktail family. This modern variation, likely born in the 2010s,  uses

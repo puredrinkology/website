@@ -5,6 +5,7 @@ fullname: "The Martini Cocktail"
 shortname: "Martini"
 author: "Pure Drinkology"
 collection:
+  - new-years
 description: "The Martini, a quintessential cocktail, belongs to the Martini family, characterized by its gin or vodka base and dry vermouth. Its origin is debated, but likely emerged in the late 19th century in New York or San Francisco, gaining popularity in the early 20th century. "
 flavor_description: "The Martini, a classic cocktail, offers a complex taste profile. Gin's juniper and botanicals dominate, delivering a dry, herbal backbone. Dry vermouth adds a subtle sweetness and complexity, with hints of citrus and spice. The olive, often used as a garnish, contributes a briny, savory note. The overall effect is a crisp, refreshing, and sophisticated taste experience. "
 bartender_tips: "For a perfect Martini, use high-quality gin and dry vermouth. Chill both ingredients thoroughly, but don't freeze them. The ratio of gin to vermouth is personal preference, but classic is 2:1. Stir with ice, don't shake, to prevent dilution. Strain into a chilled martini glass and garnish with an olive or lemon twist. Remember, a good Martini is all about balance and subtlety. "

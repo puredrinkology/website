@@ -9,7 +9,9 @@ bartender_tips: "When making a Vieux Carr\xE9, chilling the glass beforehand is 
   \ elegant complexity. "
 base_spirit: rye
 category: cocktail
-collection: null
+collection: 
+  - christmas
+  - thanksgiving
 date: '2024-09-23'
 description: 'The Vieux Carre is a classic New Orleans cocktail, a member of the Old
   Fashioned family, characterized by its rich, complex flavors.  Created in the 1930s

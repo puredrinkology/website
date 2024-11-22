@@ -10,7 +10,8 @@ bartender_tips: 'This cocktail''s complexity lies in its balance.  Use a good qu
   go easy, a dash will suffice. '
 base_spirit: rye
 category: cocktail
-collection: null
+collection: 
+  - valentines-day
 date: '2024-09-23'
 description: 'Flowering Fields is a contemporary twist on the classic Sazerac, a New
   Orleans cocktail born in the 19th century.  It utilizes the signature rye whiskey

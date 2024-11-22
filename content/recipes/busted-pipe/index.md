@@ -4,7 +4,10 @@ aliases:
 author: Pure Drinkology
 base_spirit: bourbon
 category: cocktail
-collection: null
+collection: 
+  - christmas
+  - thanksgiving
+  - fall
 date: '2024-09-23'
 description: 'Quench your thirst and hit the refresh button with a cocktail that packs
   a punch: the Busted Pipe. This irresistible concoction strikes the perfect balance

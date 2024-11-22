@@ -9,7 +9,8 @@ bartender_tips: 'For a Million Dollar Gin, chilling your ingredients beforehand 
   with a pineapple wedge and a maraschino cherry for a classic touch. '
 base_spirit: gin
 category: cocktail
-collection: null
+collection: 
+  - new-years
 date: '2024-09-23'
 description: 'The Million Dollar Gin is a twist on the classic Gin Sour, a cocktail
   family known for its tart, refreshing balance of gin, citrus, and sweetener.  Its

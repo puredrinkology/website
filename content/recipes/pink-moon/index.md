@@ -8,7 +8,8 @@ bartender_tips: Muddle the blackberries gently to release their juices, but avoi
   dilution and a silky texture. Garnish with a blackberry and a lime wheel.
 base_spirit: gin
 category: cocktail
-collection: null
+collection: 
+  - valentines-day
 date: '2024-09-23'
 description: 'The Pink Moon is a contemporary twist on the classic Gin Sour family.  Drawing
   inspiration from the floral and fruity notes of the Gin Sour, it incorporates modern

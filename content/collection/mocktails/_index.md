@@ -4,7 +4,7 @@ title: Savor Our Must-Try Mocktails Collection for Every Season!
 description: The ultimate collection of refreshing non alcoholic drink recipes for any occasion. From hot chocolate and coffee drink recipes to refreshing mocktails and teas, we have you covered for your non-alcoholic guests"
 layout: mocktails
 url: "/recipes/mocktails/"
-weight: 1
+weight: 5
 coverImage: "/collection/mocktails/images/cover.png"
 
 ---

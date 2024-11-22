@@ -11,7 +11,8 @@ bartender_tips: 'For a perfect Clover Club, remember these tips:* **Shake hard:*
   for a hint of sweetness. '
 base_spirit: gin
 category: cocktail
-collection: null
+collection: 
+  - valentines-day
 date: '2024-09-23'
 description: 'The Clover Club is a classic sour cocktail, a family known for their
   tart, refreshing flavors. It originated in the late 19th century at the Clover Club

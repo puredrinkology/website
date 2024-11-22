@@ -8,7 +8,8 @@ bartender_tips: 'For a perfect Lady Love Fizz, the key is a smooth, frothy textu
   strain to remove any ice shards. Top with carbonated water for a delightful fizz. '
 base_spirit: gin
 category: cocktail
-collection: null
+collection: 
+  - valentines-day
 date: '2024-09-23'
 description: 'The Lady Love Fizz is a delightful member of the Fizz family, a classic
   cocktail style originating in the late 19th century. Its combination of gin, cream,

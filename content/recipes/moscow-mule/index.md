@@ -9,7 +9,8 @@ bartender_tips: 'Use fresh lime juice, not bottled, for the best flavor.  Chill 
   with a lime wheel and enjoy! '
 base_spirit: gin
 category: cocktail
-collection: null
+collection: 
+  - christmas
 date: '2024-09-23'
 description: 'The Moscow Mule is a classic highball, born in the 1940s from a partnership
   between Smirnoff Vodka and the G.F. Heublein Brothers. This refreshing concoction

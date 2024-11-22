@@ -8,7 +8,8 @@ bartender_tips: 'Use a large ice cube or sphere for slow dilution.  Muddle the s
   orange peel, expressing the oils over the drink for aroma. '
 base_spirit: bourbon
 category: cocktail
-collection: null
+collection:
+  - new-years
 date: '2024-09-23'
 description: 'The Old Fashioned belongs to the Whiskey Cocktail family, predating
   the modern cocktail era.  Its origins trace back to the 1800s, emerging from the

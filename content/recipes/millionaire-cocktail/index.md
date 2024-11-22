@@ -9,7 +9,8 @@ bartender_tips: '**For a velvety texture:**  Use a dry shake to emulsify the egg
   a coupe or martini glass for its elegant shape and showcase the frothy top. '
 base_spirit: bourbon
 category: cocktail
-collection: null
+collection:
+  - new-years
 date: '2024-09-23'
 description: 'The Millionaire Cocktail is a vibrant, layered concoction, blending
   the sweet and tart with a touch of absinthe.  Though its origins are uncertain,

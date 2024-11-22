@@ -10,7 +10,8 @@ bartender_tips: "When making a Kentucky Mule, fresh is best! Squeeze your limes 
   \ finish. "
 base_spirit: bourbon
 category: cocktail
-collection: null
+collection: 
+  - christmas
 date: '2024-09-23'
 description: 'The Kentucky Mule is a twist on the classic Moscow Mule, belonging to
   the **Mule family**.  This bourbon-based variation likely originated in the American

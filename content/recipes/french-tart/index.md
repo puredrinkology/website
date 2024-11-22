@@ -8,7 +8,8 @@ bartender_tips: 'To make a perfect French Tart, ensure your grapefruit juice is 
   the simple syrup to your desired sweetness level. '
 base_spirit: vodka
 category: cocktail
-collection: null
+collection: 
+  - valentines-day
 date: '2024-09-23'
 description: 'The French Tart belongs to the **Sour** family of cocktails, characterized
   by its tart and refreshing profile. While its exact origin is unknown, its combination

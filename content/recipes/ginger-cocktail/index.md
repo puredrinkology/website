@@ -10,7 +10,8 @@ bartender_tips: 'Freshly muddle the lime to release its oils for a vibrant aroma
 base_spirit: gin
 category: cocktail
 collection:
-- fall
+  - fall
+  - christmas
 date: '2024-09-23'
 description: 'The Ginger Cocktail is a refreshing, citrus-forward drink belonging
   to the **Gin Sour** family. Though its exact origin is unknown, its simple combination

@@ -10,7 +10,9 @@ bartender_tips: 'Use a good quality fig syrup, preferably homemade for a more co
 base_spirit: bourbon
 category: cocktail
 collection:
-- fall
+  - fall
+  - christmas
+  - thanksgiving
 date: '2024-09-23'
 description: 'The Fig Old Fashioned isn''t just a cocktail; it''s an experience. Imagine
   the robust, oaky bourbon you love, but with a gentle nudge towards sweetness and

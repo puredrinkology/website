@@ -8,7 +8,8 @@ bartender_tips: 'Muddle cucumber and lime juice in a copper mug to release their
   of acidity. Garnish with a cucumber ribbon for a beautiful presentation. '
 base_spirit: gin
 category: cocktail
-collection: null
+collection: 
+  - christmas
 date: '2024-09-23'
 description: 'The Munich Mule is a twist on the classic Moscow Mule, a copper mug
   cocktail family born in the 1940s. This refreshing variation uses gin, a nod to

@@ -9,7 +9,8 @@ bartender_tips: 'This cocktail calls for balance.  Start with a chilled glass. U
   with a lemon twist and a cherry for a classic finish. '
 base_spirit: gin
 category: cocktail
-collection: null
+collection: 
+  - valentines-day
 date: '2024-09-23'
 description: 'The English Rose Cocktail belongs to the classic Martini family, showcasing
   the sophisticated balance of gin and vermouth. While its exact origin is unknown,

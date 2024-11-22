@@ -8,7 +8,8 @@ bartender_tips: 'A Pink Lady is all about balance.  Use a good quality gin and a
   don''t skip it.  Strain into a chilled coupe glass and garnish with a cherry. '
 base_spirit: gin
 category: cocktail
-collection: null
+collection: 
+  - valentines-day
 date: '2024-09-23'
 description: 'The Pink Lady, a delightful blend of gin, apple brandy, lemon juice,
   and grenadine, is a member of the sour cocktail family. Its origins trace back to

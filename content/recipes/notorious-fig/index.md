@@ -10,7 +10,9 @@ bartender_tips: 'Use a good quality fig syrup, preferably homemade for a richer 
 base_spirit: whiskey
 category: cocktail
 collection:
-- fall
+  - fall
+  - christmas
+  - thanksgiving
 date: '2024-09-23'
 description: 'The Notorious Fig is a sophisticated twist on the classic Manhattan,
   belonging to the stirred cocktail family. Its origins lie in the contemporary cocktail

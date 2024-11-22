@@ -9,7 +9,8 @@ bartender_tips: 'This cocktail is a creamy delight, but requires a bit of finess
   with a chocolate curl for a touch of elegance. '
 base_spirit: null
 category: cocktail
-collection: null
+collection: 
+  - valentines-day
 date: '2024-09-23'
 description: 'The Foxy Lady is a creamy, sweet cocktail belonging to the **liqueur-based**
   family, reminiscent of classic dessert drinks. While its exact origin is unknown,

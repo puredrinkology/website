@@ -10,7 +10,9 @@ bartender_tips: 'This is a delicious twist on the classic!  First, use a high-qu
 base_spirit: rye
 category: cocktail
 collection:
-- fall
+  - fall
+  - christmas
+  - thanksgiving
 date: '2024-09-23'
 description: 'Fall in Manhattan belongs to the Manhattan family, a classic American
   cocktail lineage dating back to the late 19th century. This variation twists the

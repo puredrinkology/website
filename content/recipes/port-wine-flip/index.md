@@ -9,7 +9,8 @@ bartender_tips: 'This is a classic, so use fresh ingredients. Separate the egg w
   just stir gently to avoid over-diluting. '
 base_spirit: null
 category: cocktail
-collection: null
+collection: 
+  - christmas
 date: '2024-09-23'
 description: 'The Port Wine Flip belongs to the **Flip** family of cocktails, a historic
   style popular in the 18th and 19th centuries. Originating in England, these drinks

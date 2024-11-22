@@ -12,6 +12,7 @@ base_spirit: rum
 category: cocktail
 collection: 
   - peach-schnapps
+  - valentines-day
 
 date: '2024-09-23'
 description: 'Pure Passion belongs to the **Sour** family, a classic cocktail style

@@ -9,7 +9,8 @@ bartender_tips: 'Muddle the sugar and allspice with a splash of rum to extract t
   a balanced cocktail with a spicy kick. '
 base_spirit: rum
 category: cocktail
-collection: null
+collection:
+  - new-years
 date: '2024-09-23'
 description: 'The Spice 75, a delightful twist on the classic French 75, belongs to
   the **Champagne Cocktail** family. Its origins likely stem from the Caribbean, where

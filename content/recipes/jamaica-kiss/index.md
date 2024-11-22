@@ -9,7 +9,9 @@ bartender_tips: 'For a smooth Jamaica Kiss, use high-quality coffee liqueur and 
   touch. '
 base_spirit: rum
 category: cocktail
-collection: 
+collection:
+  - valentines-day
+
 date: '2024-09-23'
 description: 'The Jamaica Kiss is a creamy, coffee-infused cocktail belonging to the
   **Coffee Cocktail** family, likely inspired by the popularity of coffee liqueurs

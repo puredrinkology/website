@@ -9,7 +9,8 @@ bartender_tips: 'For a perfect Mulled Wine, simmer gently, don''t boil! This pre
 base_spirit: brandy
 category: cocktail
 collection:
-- fall
+  - fall
+  - christmas
 date: '2024-09-23'
 description: 'Mulled wine, a warming winter beverage, belongs to the Hot Cocktails
   family. Its origins trace back to ancient Rome, where wine was spiced with herbs
