@@ -9,7 +9,8 @@ bartender_tips: 'To make a truly Diablo Granada, focus on balance. Use a high-qu
   slightly spicy, and tart cocktail.  '
 base_spirit: gin
 category: cocktail
-collection: null
+collection:
+  - thanksgiving
 date: '2024-09-23'
 description: 'The Granada Diablo is a contemporary twist on the classic Sour family.  While
   its exact origin is unknown, its vibrant blend of sweet, spicy, and tart flavors

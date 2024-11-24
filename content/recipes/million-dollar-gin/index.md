@@ -11,6 +11,7 @@ base_spirit: gin
 category: cocktail
 collection: 
   - new-years
+  - thanksgiving
 date: '2024-09-23'
 description: 'The Million Dollar Gin is a twist on the classic Gin Sour, a cocktail
   family known for its tart, refreshing balance of gin, citrus, and sweetener.  Its

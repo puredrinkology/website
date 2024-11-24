@@ -9,7 +9,8 @@ bartender_tips: "When making a Pegu Club, prioritize fresh lime juice for that b
   \ into a chilled coupe for a classic presentation.  Enjoy! "
 base_spirit: gin
 category: cocktail
-collection: null
+collection:
+  - thanksgiving
 date: '2024-09-23'
 description: 'The Pegu Club, a classic gin sour, hails from the legendary Pegu Club
   in Burma (present-day Myanmar). It''s a member of the sour family, where citrus
